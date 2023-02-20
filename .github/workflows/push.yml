@@ -4,8 +4,6 @@ on:
     - cron: '* */6 * * *'
   push:
   workflow_dispatch:
-env: 
-  TZ: Asia/Shanghai
 
 jobs:
   Pushed:
