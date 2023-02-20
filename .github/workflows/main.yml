@@ -11,10 +11,10 @@ jobs:
   Pushed:
     runs-on: ubuntu-latest
     steps:
-      - name: Setup Node
-        uses: actions/setup-node@v1
+      - name: Setup Python
+        uses: actions/setup-python@v2
         with:
-              node-version: '10.x'
+          python-version: '3.x'
       - uses: actions/checkout@main           
       - name: Update Rules
         run: |
@@ -23,7 +23,7 @@ jobs:
         run: |
           git init
           git config --local user.name "samyansan"
-          git config --local user.email "574291641@qq.com"
+          git config --local user.email "41437406+samyansan@users.noreply.github.com"
           git branch -m main
           git add .
           git commit -m "Updated at $(date)"
