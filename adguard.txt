@@ -3,8 +3,8 @@
 ! Powerd by SamSan
 ! Description: Just a merged Adblock rule. Nothing more
 ! Expires: 6 hours (update frequency)
-! Version: 2023-02-20 18:08:06
-! Total count: 92914
+! Version: 2023-02-20 18:27:58
+! Total count: 92865
 
 *ad.durasite.net^
 -logging.nextmedia.com^
@@ -19,14 +19,11 @@
 .cpa1.ru^
 .doublepimp.com^
 .ecommtools.com^
-.freepicsel.ru^
 .gameleads.ru^
 .is.traff-numerical.info^
 .n.2.1.js^
 .n.2.1.l50.js^
 .n.2.1.l60.js^
-.new-rutor.com.pl^
-.pic2me.org^
 .piccash.net^
 .plerdy.com^
 .potopy.ru^
@@ -77,52 +74,7 @@
 /^(\S+\.)?xpj[0-9]\.net$/
 /^(\S+\.)?ylx-[0-9].com$/
 10.10.34.*
-://*.012345b.xyz^
-://*.10pix.xyz^
-://*.111ae.xyz^
-://*.1abpix.xyz^
-://*.1acpix.xyz^
-://*.1alivs.xyz^
-://*.1sexxx.com
-://*.2img-pic.ru^
 ://*.a-akamaihd.com^
-://*.anime-free.net^
-://*.bobfilm1.co^
-://*.dorgroup.com^
-://*.drampic.info^
-://*.fast2img.ru^
-://*.fasti2mages.ru^
-://*.free-torrents.eu.org^
-://*.freeimges.ru^
-://*.freepixs.ru^
-://*.freerutor.com^
-://*.gigantporno.com^
-://*.hd-720.biz^
-://*.images-pix.ru^
-://*.imagespics.ru^
-://*.imgbum.ru^
-://*.imgbun.ru^
-://*.imgpics.ru^
-://*.imgshance.ru^
-://*.imgspic.ru^
-://*.kinogo-720.co^
-://*.kuponykz.ru^
-://*.mnogabukaff.net^
-://*.photopix.info^
-://*.picmir.nu^
-://*.picstraff.ru^
-://*.pika-img.ru^
-://*.pintastic.by^
-://*.pix-images.ru^
-://*.porno-gid2.info^
-://*.pornogig.com^
-://*.protopix.info^
-://*.purum-pup-pum.ru^
-://*.rusdozor.ru^
-://*.screenpix.ru^
-://*.sexpornophoto.com^
-://*.simpsonsvideos.ru^
-://*.videopron.ru^
 ://dreemdmbabys.oss-cn-
 ://gj7.ru^
 ://jhf.ru^
@@ -24423,7 +24375,6 @@ vkcdnservice.appspot.com^
 ||crxnegluvjquvlp.xyz^
 ||cryartarm.online^
 ||cryo.socialblade.com^
-||crypta.js^
 ||cryptgive23.xyz^
 ||crypto-arkx2.com^
 ||crypto-coins.club^
