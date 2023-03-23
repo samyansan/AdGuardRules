@@ -3,8 +3,8 @@
 ! Powerd by SamSan
 ! Description: Just a merged Adblock rule. Nothing more
 ! Expires: 6 hours (update frequency)
-! Version: 2023-03-23 08:34:08
-! Total count: 96925
+! Version: 2023-03-23 14:08:24
+! Total count: 96945
 
 ###Page-1[stroke='none'][fill='none'][fill-rule='evenodd']
 ###ad-1,#ad-2,#ad-3,#ad-4,#ad-5,#ad-6,#ad-7
@@ -437,9 +437,10 @@
 /zsls.com?s=
 10.10.34.*
 18comic.org,18comic.vip,jmcomic1.city,jmcomic1.win,jmcomic1.group##.bot-per-context
-18comic.org,18comic.vip,jmcomic1.city,jmcomic1.win,jmcomic1.group##DIV.col-lg-3.col-md-3
+18comic.org,18comic.vip,jmcomic1.city,jmcomic1.win,jmcomic1.group##[data-group^='album_related'],[data-group^='all_bottom']
 18comic.org,18comic.vip,jmcomic1.city,jmcomic1.win,jmcomic1.group##[data-group^='photo_center_']
 18comic.org,18comic.vip,jmcomic1.city,jmcomic1.win,jmcomic1.group#DIV.bot-per-times
+18comic.vip##IMG[src^='//18comic.vip/media/albums/']
 52movieba.com,bimibimi.me,acglala.net,ainuody.com,awaker.cn,cangku.in,ccav1.com,cdsoso.me,cgown.com,cn163.net,cosersuki.org,epinv.com,eroacg.com,galacg.me,gmgard.com,haochi123.com,hcomic.in,hexieshe.cn,hexieshe.com,hexieshe.xyz,hggard.com,hmghmg.com,hmog.me,htcui.com,huan.moe,idanmu.at,jiecao123.com,jitapu.com,jiyingw.net,jobbole.com,kisssub.org,languang.co,liuli.pw,moe-acg.cc,moe-acg.us,mydrivers.com,nxing.cn,oyksoft.com,rijutv.com,souxue8.com,speedtest.cn,toutiao.com,tucao.one,vpansou.com,xxshe.info,xxshe.xyz,youku.com##a[href*=".taobao.com"]
 5dm.app##[src*="sinaimg.cn"]
 ://dreemdmbabys.oss-cn-
@@ -601,6 +602,7 @@ widgets.outbrain.com/outbrain.js
 wk.baidu.com##DIV.fc-ad-wrap
 wk.baidu.com##DIV.middle-box-root
 www.123pan.com##DIV.VipBanner,DIV[style='width:100%;position:fixed;bottom:80px'],DIV[style='width: 100%; position: fixed; bottom: 25px;']
+www.aiwuav.xyz##A.toptxt,IMG[src*='.gif'][alt],SPAN[class^="clobox"],IMG[width='100%'][src*='.gif']
 www.baidu.com###content_left > *:not([id]) *,[class="result c-container new-pmd"][id="1"][tpl="se_com_default"][data-click="{"]
 www.baidu.com#@#div[class*="ads"]
 www.baidu.com,m.baidu.com##DIV[class='qrcode call']
@@ -8617,6 +8619,8 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||ads.livetv636.me^
 ||ads.livetv637.me^
 ||ads.livetv638.me^
+||ads.livetv639.me^
+||ads.livetv640.me^
 ||ads.livetvcdn.net^
 ||ads.lmmob.com^
 ||ads.lordlucky.com^
@@ -11482,6 +11486,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||alflying.bi^
 ||alfonsino.top^
 ||alfpair.com^
+||alfurtembe.com^
 ||alga9frog.com^
 ||algat.intergoles.me^
 ||algeriabruges.life^
@@ -21268,7 +21273,6 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||cdn.moengage.com^
 ||cdn.moji002.com^
 ||cdn.movieads.ru^
-||cdn.mtinsqq.com^
 ||cdn.myadmessenger.com^
 ||cdn.n.dynstc.com^
 ||cdn.narutoon.com^
@@ -28108,6 +28112,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||del-del-ete.com^
 ||del1.phillyburbs.com^
 ||delamaisn.fr^
+||delamer.ltd^
 ||delayeddisembroildisembroil.com^
 ||delb.mspaceads.com^
 ||delbertbisalt.com^
@@ -28440,6 +28445,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||dewife.ru^
 ||dewinci.fr^
 ||dewincubiatoll.com^
+||dewlessjacobin.com^
 ||dewrain.life^
 ||dewrain.site^
 ||dewrain.world^
@@ -30257,6 +30263,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||dsp.youdao.com^
 ||dspack.com.cn^
 ||dsparking.com^
+||dspczg.pw^
 ||dspdy.cn^
 ||dspimg.dftoutiao.com^
 ||dspk.kindredplc.com^
@@ -32047,6 +32054,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||eelsoup.net^
 ||eeme7j.win^
 ||eemedlikeama.xyz^
+||eemmlhcuydso.com^
 ||eempacmy.com^
 ||eengbalu.fun^
 ||eengilee.xyz^
@@ -32798,6 +32806,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||enews.learninga-z.com^
 ||enews10.yxlady.net^
 ||enfarcearriero.uno^
+||enfeoffcaraipi.com^
 ||enfreine.com^
 ||engage-network.influencemobile.com^
 ||engage.3m*^
@@ -46979,6 +46988,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||kadkaxjfeh.com^
 ||kadwnhhistoli.xyz^
 ||kafar4.club^
+||kafdlwyw4z.xhamster.com^
 ||kaffnet.com^
 ||kafugo.xyz^
 ||kagdf.com^
@@ -51535,6 +51545,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||lwnne.cn^
 ||lwobol.cloud^
 ||lwogldl.top^
+||lwonclbench.com^
 ||lwozzk.legacy.com^
 ||lwppiglets.website^
 ||lwpxhr.xyz^
@@ -56960,6 +56971,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||mudroom.aquadisco.xyz^
 ||muer.cdn-baidu.fs-sywh.com^
 ||mufflercypress.com^
+||mufflerlamia.com^
 ||mufoa6k.cn^
 ||mufucfdmrrf.com^
 ||mugalop.beauty^
@@ -58840,6 +58852,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||nnocsin.cn^
 ||nnopp.website^
 ||nnoxzo.rfskbylbsf.xyz^
+||nnsi4p.xhamster.com^
 ||nnsrak.lazurit.com^
 ||nntgna.dmm.com^
 ||nnvkh.com^
@@ -60933,6 +60946,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||oppozga.com^
 ||oppu778.top^
 ||oppuz.com^
+||oppvcuovgda.com^
 ||opqsr.com^
 ||oprmewb.cn^
 ||oproi.com^
@@ -61397,6 +61411,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||outgateniceish.com^
 ||outgivefaculae.store^
 ||outgoingfan.pro^
+||outgrinuntold.com^
 ||outhamto.xyz^
 ||outhitcooler.com^
 ||outhulem.net^
@@ -86479,6 +86494,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||unforgivablegrowl.com^
 ||unfzclg.cn^
 ||ungolbator.com^
+||ungracebaited.com^
 ||ungroudonchan.com^
 ||unhabi.com^
 ||unhaftcharing.com^
@@ -87503,7 +87519,6 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||va.5.p2l.info^
 ||va.gxpan.cn^
 ||va.huya.com^
-||va.ungracebaited.com^
 ||va88p.cn^
 ||vabesaura.com^
 ||vabsirte.xyz^
@@ -89982,6 +89997,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||wednesdaynaked.com^
 ||wedolook.com^
 ||weduoke.com^
+||wedxuaksargvlf.com^
 ||weebly.shop^
 ||weedazou.net^
 ||weedfowlsgram.com^
@@ -90408,6 +90424,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||whzz.shop^
 ||wi.5.p2l.info^
 ||wi9mcad7.xyz^
+||wi9u5paiwo.xhamster.com^
 ||wiar9wff0ma9.ping.t3.gg^
 ||wibtntmvox.com^
 ||wickedhumankindbarrel.com^
@@ -94384,6 +94401,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||ychap.com^
 ||ychbgss.cn^
 ||ychml.com^
+||ychuanyi.ltd^
 ||ycjisa.cn^
 ||yckpdr.com^
 ||yclhtech.cn^
@@ -95598,6 +95616,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||z.opmnstr.com^
 ||z.tudouxy01.com^
 ||z0a.de^
+||z0s9n.xhamster.com^
 ||z0uolej1qnxzub1.info^
 ||z1.bohuaqiche.com^
 ||z1.caiziwuyou.com^
@@ -96688,6 +96707,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||zuixinyiqi.com^
 ||zujilife.online^
 ||zujoupso.net^
+||zukddms.cn^
 ||zukore.com^
 ||zukxd6fkxqn.com^
 ||zuliglsa.space^
