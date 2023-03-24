@@ -3,8 +3,8 @@
 ! Powerd by SamSan
 ! Description: Just a merged Adblock rule. Nothing more
 ! Expires: 6 hours (update frequency)
-! Version: 2023-03-24 14:08:16
-! Total count: 96987
+! Version: 2023-03-24 20:10:37
+! Total count: 97007
 
 ###Page-1[stroke='none'][fill='none'][fill-rule='evenodd']
 ###ad-1,#ad-2,#ad-3,#ad-4,#ad-5,#ad-6,#ad-7
@@ -128,6 +128,7 @@
 ##IMG[src$='.dl'][style='width:100% !important;height:90px'][onclick]
 ##IMG[src*='.xyz/tupian/'][src$='/h5.gif']
 ##IMG[src*='/gg/'][src$='180.gif'][src*='800']
+##IMG[src*='qmfcybwbf']
 ##IMG[src='/js/imgs/taote.jpg']
 ##IMG[style='width: 100%;'][src^='https://ad.']
 ##IMG[url][onclick='window.open(this.url)'][src$='.gif'][width='100%']
@@ -677,6 +678,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||*us*watcab*.blob.core.windows.net^
 ||0-000.store^
 ||0-owazo4.net.zooplus.de^
+||0.0.0.0cworldwide.com^
 ||0.code.cotsta.ru^
 ||0.data.net.zooplus.de^
 ||0.net.zooplus.nl^
@@ -10086,6 +10088,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||advertising-cdn.com^
 ||advertising-cdn.dpgmedia.cloud^
 ||advertising.aol.com^
+||advertising.bb^
 ||advertising.bbcworldwide.com^
 ||advertising.com^
 ||advertising.hiasys.com^
@@ -19689,6 +19692,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||burstnet.com^
 ||bursulasnags.com^
 ||burt.io^
+||burtonrefund.info^
 ||burydibase.com^
 ||bus-offer.com^
 ||business-api.tiktok.com^
@@ -26073,6 +26077,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||cwnfkbio.xyz^
 ||cwnobcbbywfsy.com^
 ||cwobgp.cn^
+||cworldwide.com^
 ||cwpbohx.cn^
 ||cwphgqu.cn^
 ||cwpush.com^
@@ -29641,6 +29646,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||dogolurkr.com^
 ||dogparadiseshop.com^
 ||dogparadisestore.com^
+||dogpile.112.2o7.netndsetnetwork.com^
 ||dogry.fr^
 ||dogshipuniate.live^
 ||dogsshoes.com^
@@ -36199,7 +36205,6 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||free.srcdn.xyz^
 ||free.thesocialsexnetwork.com^
 ||free.videodownloadconverter.com^
-||free.xjs.lol^
 ||free247downloads.com^
 ||free3dgame.xyz^
 ||free4faucet.com^
@@ -37331,6 +37336,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||gcirm.theolympian.com^
 ||gcirm.thespectrum.com^
 ||gcirm2.indystar.com^
+||gcirmma-kaeser.ch^
 ||gcjehafhajjhcdicaeb.ru^
 ||gclick.cn^
 ||gcm.ksmobile.com^
@@ -41082,6 +41088,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||hizlireklam.com^
 ||hj217.com^
 ||hjaorx.ginatricot.com^
+||hjbqnwb.com^
 ||hjc1990.com^
 ||hjcbehchdddcegcfaaei.ru^
 ||hjfmaukf.com^
@@ -49997,6 +50004,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||lisabuddy.com^
 ||lisafnil.space^
 ||lisaiservice.top^
+||lisatillhon.de^
 ||lishi.yxbao.com^
 ||lishi1.yxbao.com^
 ||lishibu.com^
@@ -60277,6 +60285,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||okoy.top^
 ||okpoiione.com^
 ||okqapmnpyox.com^
+||okqwidvnsk.net^
 ||okshuwu.top^
 ||okt.to^
 ||oktagv.immobilienscout24.at^
@@ -64147,6 +64156,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||pmcppla.cn^
 ||pmdatabase.xyz^
 ||pmddby.com^
+||pme.clarionledger.com^
 ||pmelon.com^
 ||pmensrl.cn^
 ||pmetorealiukze.xyz^
@@ -66552,6 +66562,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||qdvavs.trademax.se^
 ||qdvideo.xyz^
 ||qdwght.com^
+||qdwnlkdw.com^
 ||qdxrhg.com^
 ||qdxsodq.cn^
 ||qdyazc.com^
@@ -66854,6 +66865,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||qm92.com^
 ||qmbnkdh.cn^
 ||qmdllqv.cn^
+||qmfcybwbf12.com^
 ||qmfcybwbf19.com^
 ||qmihajdixr.com^
 ||qmin.xin^
@@ -76516,6 +76528,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||srodicham.com^
 ||sroork.mrmarvis.nl^
 ||srpx.net^
+||srs.targetpolon.com^
 ||srsihavelearn.xyz^
 ||srtb.msn.com^
 ||srtk.net^
@@ -81011,6 +81024,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||tesla-make.com^
 ||tesla-model4.com^
 ||tesla-network.net^
+||tesla-online.net^
 ||tesla-promo.com^
 ||tesla-qr.com^
 ||tesla-rich.net^
@@ -87203,6 +87217,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||usounoul.com^
 ||usp1.baidu.com^
 ||uspostalservice11.d74r.co^
+||uspsglobalexpress.com^
 ||usr.trava.io^
 ||usrlock.cn^
 ||ussdns01.heketwe.com^
@@ -89113,6 +89128,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||w3.w3docsdropapi.application-legacying.net.zooplus.de^
 ||w3.yinyuehu.cn^
 ||w3.zooplusmail-aws.payzooplusmail-aws.zooplusmail-aws.net.zoossl.net.zooplus.es^
+||w33.hi0seasonale.1.p2l.info^
 ||w38ju82bano4.cv.gerardbosch.xyz^
 ||w3administratormail.nettesting.zooplusmail-nettesting.net.zoossl.net.zooplus.es^
 ||w3c.5txs.com^
@@ -95885,14 +95901,17 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||zd2020.top^
 ||zd518.cn/statics/js/home.js
 ||zd518.cn/template/qpg6080/baidufx/baidufx.js
+||zdabnt.buzz^
 ||zdabnt.live^
 ||zdads.e-media.com^
 ||zdajdudqfq.com^
 ||zdama.xyz^
+||zdamybi.xyz^
 ||zdbb.net^
 ||zdd-9.com^
 ||zdenochary.com^
 ||zdfjas.top^
+||zdfl.xyz^
 ||zdhfff.xyz^
 ||zdktgps.cn^
 ||zdlogs.sphereup.com^
@@ -96395,6 +96414,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||zjlv.top^
 ||zjo0tjqpm1.com^
 ||zjqhyx.cn^
+||zjrua.site^
 ||zjsdsports.cn^
 ||zjsyawqj.cn^
 ||zjttaqx.cn^
