@@ -9,6 +9,8 @@ curl -o i-5.txt https://raw.githubusercontent.com/Cats-Team/AdRules/main/mod/rul
 curl -o i-6.txt https://raw.githubusercontent.com/Cats-Team/AdRules/main/mod/rules/adblock-rules.txt
 curl -o i-7.txt https://raw.githubusercontent.com/Cats-Team/AdRules/main/mod/rules/thrid-part-rules.txt
 curl -o i-8.txt https://raw.githubusercontent.com/damengzhu/banad/main/jiekouAD.txt
+curl -o i-9.txt https://raw.githubusercontent.com/hacamer/Adblist/master/dns.txt
+curl -o i-10.txt https://adguardteam.github.io/HostlistsRegistry/assets/filter_1.txt
 
 # 合并规则并去除重复项
 cat i*.txt > i-mergd.txt
