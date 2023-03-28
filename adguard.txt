@@ -3,8 +3,8 @@
 ! Powerd by SamSan
 ! Description: Just a merged Adblock rule. Nothing more
 ! Expires: 6 hours (update frequency)
-! Version: 2023-03-28 20:12:27
-! Total count: 98766
+! Version: 2023-03-29 02:08:05
+! Total count: 98780
 
 ###Page-1[stroke='none'][fill='none'][fill-rule='evenodd']
 ###ad-1,#ad-2,#ad-3,#ad-4,#ad-5,#ad-6,#ad-7
@@ -635,7 +635,7 @@ www.dmh8.me,dm88.me##DIV[style^='position: fixed; bottom: 0px; display: block; o
 www.dmh8.me,dm88.me##DIV[style^='width:300px;height:300px;position:fixed;bottom:0;left:0;']
 www.ghxi.com##DIV.wpcom_ad_wrap
 www.ghxi.com##DIV[style^='padding:10px;position: fixed;bottom: 0;left: 0;right:0;z-index: ']
-www.google.com,www.google.com.hk,www.google.co.jp##DIV[data-sokoban-container]:has([href*='%E2%9C%94%EF%B8%8F%E2%96%9B']),DIV[data-sokoban-container]:has([href*='%E3%80%90%E2%9C%94%EF%B8%8F']),DIV[data-sokoban-container]:has([href*='%E2%9E%BF%E3%80%91']),DIV[data-sokoban-container]:has([href*='%E2%8F%AA%29']),DIV[data-sokoban-container]:has([href*='%E2%9A%BD%E3%80%91']),DIV[data-sokoban-container]:has([href*='-%E3%80%90']),DIV[data-sokoban-container]:has([href*='%E2%9C%94%EF%B8%8F'][href*='%E2%98%80%EF%B8%8F']),DIV[data-sokoban-container]:has([href*='-('][href*='%E2%9C%94%EF%B8%8F']),DIV[data-sokoban-container]:has([href*='%E2%9C%94%EF%B8%8F%29']),DIV[data-sokoban-container]:has([href*='-%E2%9C%94%EF%B8%8F'])
+www.google.com,www.google.com.hk,www.google.co.jp##DIV[data-sokoban-container]:has([href*='%E2%9C%94%EF%B8%8F%E2%96%9B']),DIV[data-sokoban-container]:has([href*='%E3%80%90%E2%9C%94%EF%B8%8F']),DIV[data-sokoban-container]:has([href*='%E2%9E%BF%E3%80%91']),DIV[data-sokoban-container]:has([href*='%E2%8F%AA%29']),DIV[data-sokoban-container]:has([href*='%E2%9A%BD%E3%80%91']),DIV[data-sokoban-container]:has([href*='-%E3%80%90']),DIV[data-sokoban-container]:has([href*='%E2%9C%94%EF%B8%8F'][href*='%E2%98%80%EF%B8%8F']),DIV[data-sokoban-container]:has([href*='-('][href*='%E2%9C%94%EF%B8%8F']),DIV[data-sokoban-container]:has([href*='%E2%9C%94%EF%B8%8F%29']),DIV[data-sokoban-container]:has([href*='-%E2%9C%94%EF%B8%8F']),DIV[data-sokoban-container]:has([href*='%E2%9C%94%EF%B8%8F']),DIV[data-sokoban-container]:has([href*='%E2%9C%85%EF%B8%8F']),DIV[data-sokoban-container]:has([href*='%E2%9E%A1%EF%B8%8F']),DIV[data-sokoban-container]:has([href*='%E2%AD%90']),DIV[data-sokoban-container]:has([href*='%E3%8A%99%EF%B8%8F'])
 www.haijiao.com##DIV.addbox,DIV.bannerliststyle,DIV.van-swipe-item,DIV.crossbutton
 www.hbhtyl.com##P[style^='width: 100% !important; margin: 0p']
 www.huadongty.com##DIV[id$=' img-containers']
@@ -645,6 +645,7 @@ www.itdog.cn##IMG[src^='/upload/images/'][width='270'][height='80'],.gg_link,.to
 www.itdog.cn#%#window.alert=function(str){return}
 www.jjtyss.com##ins[class],#div.myui-player.clearfix p,div.container p
 www.jmhongyan.com##ins[class],div.container p
+www.lezhutv.com##DIV[style*='vw; display: block;']
 www.meijuii.cc##DIV[style*='vw; display: block;']
 www.olevod.com##DIV.B1Lss,.B1Rss
 www.pabopa.com##DIV[style='width: 100%;'],DIV[carousel-item],DIV#slide.layui-carousel,DIV.closeable
@@ -3248,6 +3249,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||69741211.clicknplay.to^
 ||69833333.com^
 ||69c28fb7f4.com^
+||69e7.fun^
 ||69ed4fcc9d.com^
 ||69i.club^
 ||69m.info^
@@ -3321,6 +3323,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||6shuge.com^
 ||6snjvxkawrtolv2x.pro^
 ||6t5n9h77m8.com^
+||6tofsu.com^
 ||6travel.com^
 ||6tsbe1zs.me^
 ||6u4j.icu^
@@ -24175,6 +24178,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||cluep.com^
 ||cluethydash.com^
 ||cluewauling.life^
+||clugqa.com^
 ||clumsyrock.com^
 ||cluodlfare.com^
 ||cluster.adultworld.com^
@@ -24273,6 +24277,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||cmp.pcwelt.de^
 ||cmp.pcworld.pl^
 ||cmp.playpilot.com^
+||cmp.setupcmp.com^
 ||cmp.soundis.gr^
 ||cmp.tech426.com^
 ||cmp.tek.no^
@@ -48700,6 +48705,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||kiss.blockplus.cc^
 ||kissdoujin.com^
 ||kisserine.com^
+||kissfang.cn^
 ||kisshentai.net^
 ||kissmetrics.com^
 ||kissmetrics.io^
@@ -49511,6 +49517,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||kzett.com^
 ||kzeww.com^
 ||kzezz.com^
+||kzgmpu.com^
 ||kzhjpnv.cn^
 ||kzhtgnv.cn^
 ||kzkmmbrrzn.com^
@@ -70865,6 +70872,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||rothermophony.com^
 ||rothoglyro.pro^
 ||rotondahogs.com^
+||rotorfon.go-prod.dogt.xyz^
 ||rottentomatoes.fr^
 ||rottenwhorememe.cf^
 ||rotumal.com^
@@ -77249,6 +77257,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||soosooka.com^
 ||sootheside.com^
 ||sootproclaim.com^
+||sopalk.com^
 ||soperson.com^
 ||sophang8.com^
 ||sophi.io^
@@ -79137,6 +79146,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||stats.davidickedelivery.com^
 ||stats.davidlms.com^
 ||stats.de^
+||stats.debatdirect.tweedekamer.nl
 ||stats.defense.gov^
 ||stats.dev.zaloapp.com^
 ||stats.deva.guru^
@@ -92568,6 +92578,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||wmonthsaft.biz^
 ||wmptctl.com^
 ||wmpyuyj.cn^
+||wmqfey.com^
 ||wmrmb.cn^
 ||wmrok.com^
 ||wmrok.net^
@@ -92950,6 +92961,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||wrotov.com^
 ||wrrzje.com^
 ||wru795e.cn^
+||wrufer.com^
 ||wrvdmh.cn^
 ||wrxgandsfcz.ru^
 ||wryaslomwx.com^
@@ -93714,6 +93726,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||www.jellycounter.com^
 ||www.jenxsw21lb.com^
 ||www.jetseeker.com^
+||www.jianpian.vip^
 ||www.jipinyouwu.com^
 ||www.jmine.cn^
 ||www.jody0sora.com^
@@ -98239,6 +98252,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||zlx.com.br^
 ||zly.dlhxgg.com^
 ||zlys.store^
+||zlzizsq.cn^
 ||zm232.com^
 ||zmadsvd.cn^
 ||zmakj.xyz^
