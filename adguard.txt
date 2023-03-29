@@ -3,8 +3,8 @@
 ! Powerd by SamSan
 ! Description: Just a merged Adblock rule. Nothing more
 ! Expires: 6 hours (update frequency)
-! Version: 2023-03-29 20:14:13
-! Total count: 98871
+! Version: 2023-03-30 02:16:08
+! Total count: 98876
 
 ###Page-1[stroke='none'][fill='none'][fill-rule='evenodd']
 ###ad-1,#ad-2,#ad-3,#ad-4,#ad-5,#ad-6,#ad-7
@@ -130,8 +130,10 @@
 ##IMG[src*='/gg/'][src$='180.gif'][src*='800']
 ##IMG[src*='qmfcybwbf']
 ##IMG[src='/js/imgs/taote.jpg']
+##IMG[src^='http://socos.gitee.io/ss/poster'][alt][style='width: 100%;']
 ##IMG[style='width: 100%;'][src^='https://ad.']
 ##IMG[url][onclick='window.open(this.url)'][src$='.gif'][width='100%']
+##INS.adsbygoogle
 ##P[style$='transparent !important; font-size: 0px !important; text-indent: -10000px !important; height: 125px !important;']
 ##P[style*='background: rgb(255, 255, 255) !important; color: transparent !important; font-size: 0px !important; text-indent: -10000px !important;']
 ##SPAN#qdSZ2
@@ -1148,6 +1150,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||10298198.arch.sofi.org^
 ||1030013.com^
 ||103092804.com^
+||103092804.kb.cn^
 ||1039951.com^
 ||103bees.com^
 ||105app.com^
@@ -27631,6 +27634,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||d2e48d0dce.com^
 ||d2ecd088ed70.idoc58.com^
 ||d2edfzx4ay42og.cloudfront.net^
+||d2ef20sk9hi1u3.cloudfront.net^
 ||d2ei3pn5qbemvt.cloudfront.net^
 ||d2enprlhqqv4jf.cloudfront.net^
 ||d2er1uyk6qcknh.cloudfront.net^
@@ -31083,6 +31087,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||dr.atwoodubre.com^
 ||dr.holaworld.cn^
 ||dr.soso.com^
+||dr3fr5q4g2ul9.cloudfront.net^
 ||dr3k6qonw2kee.cloudfront.net^
 ||dr5.biz^
 ||dr6.biz^
