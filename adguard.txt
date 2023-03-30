@@ -3,8 +3,8 @@
 ! Powerd by SamSan
 ! Description: Just a merged Adblock rule. Nothing more
 ! Expires: 6 hours (update frequency)
-! Version: 2023-03-30 14:08:51
-! Total count: 98943
+! Version: 2023-03-30 20:12:22
+! Total count: 98961
 
 ###Page-1[stroke='none'][fill='none'][fill-rule='evenodd']
 ###ad-1,#ad-2,#ad-3,#ad-4,#ad-5,#ad-6,#ad-7
@@ -545,6 +545,7 @@ hm.js/
 hmqg.net##DIV#bottommob.bottommob
 ifeng.com##div[class^="ad_"]
 ikan6.vip,www.1111modruba.cc##IMG[src$='.gif']
+inapps.appsflyersdk.com^
 inews.qq.com,xw.qq.com##DIV.VideoArticleBottomAdContainer,DIV.ssp.nospl[data-boss-once='true'],DIV[data-boss-expo*='ad&s_or'],DIV[id^='App_WAP_share_page_']
 ix6080.com##DIV[style$='vw; display: block;']
 javbus.com##div.container-fluid:nth-child(9) > div.row > div.ad-list:nth-child(3)
@@ -591,6 +592,7 @@ oss-cn-hangzhou.aliyuncs.com##A.hm_item[href^='https://tcs-devops.aliyuncs.com/t
 pornhub.com##DIV.adContainer
 pornhub.com##DIV.topAdContainter
 pstatp.com/growth/fe_sdk/bannersdk
+register.appsflyersdk.com^
 ruanyifeng.com#@#a[href*=".apeclass.com"]
 share.acgnx.se##IMG[src*='share.acgnx.se']
 skyroad.downallbook.com##IMG[height='60'][width='98%']
@@ -5234,6 +5236,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||a44831.actonservice.com^
 ||a44833.actonservice.com^
 ||a44853.actonservice.com^
+||a44u.icu^
 ||a45044.actonservice.com^
 ||a45165.actonservice.com^
 ||a45226.actonservice.com^
@@ -19175,6 +19178,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||bl.impresa.pt^
 ||bl.wavecdn.de^
 ||bl0uxepb4o.com^
+||bl230126pb.com^
 ||bla.gtimg.com^
 ||bla01.com^
 ||blaasopdive.com^
@@ -31374,6 +31378,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||dsygubntxgvxo.com^
 ||dszan.com^
 ||dszeda.cn^
+||dt.beyla.site^
 ||dt.nrjmobile.fr^
 ||dt.vnecdn.com^
 ||dt.zxzhengxin.com^
@@ -41063,6 +41068,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||hal.courrierinternational.com^
 ||halal.ad^
 ||halchludwig.com^
+||halerugeogeny.com^
 ||half1hell.com^
 ||halfhaled.com^
 ||halfpriceozarks.com^
@@ -41669,6 +41675,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||helic3oniusrcharithonia.com^
 ||heligh.com^
 ||helilong.xyz^
+||hellay.net^
 ||hello.staticstuff.net^
 ||hello.steadyapp.com^
 ||hello211.top^
@@ -61809,6 +61816,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||omhoa.com^
 ||omikhainpretts.xyz^
 ||omiki.com^
+||ominateamt.com^
 ||omine.org^
 ||omitbailey.com^
 ||omjigrivrccwcn.xyz^
@@ -62335,6 +62343,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||opgolan.com^
 ||oph7o.montecarlosbm-corporate.com^
 ||ophan.theguardian.com^
+||ophiticprevail.life^
 ||ophoacit.com^
 ||ophoadee.xyz^
 ||ophophiz.xyz^
@@ -64458,6 +64467,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||phartemt.xyz^
 ||phasmfranca.com^
 ||phastoag.com^
+||phatchoa.net^
 ||phaudree.com^
 ||phaurtuh.net^
 ||phbbfrgneth.com^
@@ -64949,6 +64959,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||pirchio.com^
 ||pirist.com^
 ||pirogad.tophosting101.com^
+||pirogidecnet.com^
 ||piroji.com^
 ||pirouque.com^
 ||pirsch.io^
@@ -66613,6 +66624,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||profile.csdnimg.cn^
 ||profile.uproxx.com^
 ||profileknee.com^
+||profiler-collector.wshareit.com^
 ||profilesnitch.com^
 ||profiliate.net^
 ||profiline-berlin.de^
@@ -66795,6 +66807,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||prosboshas.com^
 ||prosecutionsocktrap.com^
 ||prosecutorcessationdial.com^
+||prosecutorkettle.com^
 ||proserpina-zeb.com^
 ||prosmazke.ru^
 ||prospectconductorcheerfully.com^
@@ -69432,6 +69445,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||recastcompellease.com^
 ||recdirectgo.biz^
 ||recedewell.com^
+||receiver-metis.infeng.site^
 ||receiver.eigene.io^
 ||receiver.pravoved.org^
 ||recentinteriorcrab.com^
@@ -71517,6 +71531,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||rudderlabs.com^
 ||ruddycast.com^
 ||ruddywash.com^
+||rudemend.com^
 ||rudimentarynuisancesynchronize.com^
 ||rudzz.com^
 ||ruegenfleisch.de^
@@ -88557,6 +88572,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||untusthemailhwe.xyz^
 ||unugilpcyxoep.com^
 ||unumbonum.com^
+||unurbancompony.com^
 ||unusedquestion.com^
 ||unusedstone.com^
 ||unusual-major.pro^
@@ -91899,6 +91915,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||weekslw.com^
 ||weelgaiting.com^
 ||weemauge.com^
+||weepingpretext.com^
 ||weeplypriapic.website^
 ||weeragedeafer.com^
 ||weethery.com^
@@ -93116,6 +93133,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||wronpeci.com^
 ||wronti.com^
 ||wrontonshatbona.pro^
+||wrotop.com^
 ||wrotos.com^
 ||wrotov.com^
 ||wrrzje.com^
