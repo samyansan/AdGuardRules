@@ -3,8 +3,8 @@
 ! Powerd by SamSan
 ! Description: Just a merged Adblock rule. Nothing more
 ! Expires: 6 hours (update frequency)
-! Version: 2023-04-06 08:31:22
-! Total count: 98452
+! Version: 2023-04-06 14:08:04
+! Total count: 98534
 
 ###Page-1[stroke='none'][fill='none'][fill-rule='evenodd']
 ###ad-1,#ad-2,#ad-3,#ad-4,#ad-5,#ad-6,#ad-7
@@ -474,6 +474,7 @@
 404: Not Found
 52movieba.com,bimibimi.me,acglala.net,ainuody.com,awaker.cn,cangku.in,ccav1.com,cdsoso.me,cgown.com,cn163.net,cosersuki.org,epinv.com,eroacg.com,galacg.me,gmgard.com,haochi123.com,hcomic.in,hexieshe.cn,hexieshe.com,hexieshe.xyz,hggard.com,hmghmg.com,hmog.me,htcui.com,huan.moe,idanmu.at,jiecao123.com,jitapu.com,jiyingw.net,jobbole.com,kisssub.org,languang.co,liuli.pw,moe-acg.cc,moe-acg.us,mydrivers.com,nxing.cn,oyksoft.com,rijutv.com,souxue8.com,speedtest.cn,toutiao.com,tucao.one,vpansou.com,xxshe.info,xxshe.xyz,youku.com##a[href*=".taobao.com"]
 5dm.app##[src*="sinaimg.cn"]
+91porny.com/api/getPos?jspath=/
 ://*.a-akamaihd.com^
 ://dreemdmbabys.oss-cn-
 ://gj7.ru^
@@ -4203,6 +4204,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||COMpolice.com^
 ||COMpolice.net^
 ||CYPpolice.com^
+||Coordinator-Production-28516768.us-east-1.elb.amazonaws.com^
 ||EGYpolice.com^
 ||ETHpolice.com^
 ||GEOpolice.com^
@@ -6097,6 +6099,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||ad-score.com^
 ||ad-seek.jp^
 ||ad-serve.b-cdn.net^
+||ad-server-lb-294150285.ap-southeast-1.elb.amazonaws.com^
 ||ad-server.co.za^
 ||ad-server.eu^
 ||ad-server.gulasidorna.se^
@@ -7483,6 +7486,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||adkontekst.pl^
 ||adkova.com^
 ||adkraft.ru^
+||adktracking-1671721947.eu-west-3.elb.amazonaws.com^
 ||adku.co^
 ||adku.com^
 ||adkwai.com^
@@ -7592,6 +7596,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||admanager.cyberone.com.tw^
 ||admane.jp^
 ||admanmedia.com^
+||admantx-cluster-nlb-eu-2071973585.eu-west-1.elb.amazonaws.com^
 ||admantx.com^
 ||admapp.com^
 ||admarket.21cn.com^
@@ -7942,6 +7947,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||admusicpic.music.126.net^
 ||admx.baixing.com^
 ||admxr.com^
+||adn-tktracking-virginia-621472495.us-east-1.elb.amazonaws.com^
 ||adn.bursadabugun.com^
 ||adn.ebay.com^
 ||adn.porndig.com^
@@ -8317,14 +8323,18 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||ads*.dfiles.eu^
 ||ads*.dfiles.ru^
 ||ads-6686.top^
+||ads-816899299.ap-southeast-1.elb.amazonaws.com^
 ||ads-adaptv.vidible.tv^
 ||ads-admin.hubs.vn^
+||ads-api-new-2052271615.ap-northeast-1.elb.amazonaws.com^
 ||ads-api.playfun.vn^
 ||ads-api.tiktok.com^
 ||ads-api.twitter.com^
+||ads-b-480313385.us-west-1.elb.amazonaws.com^
 ||ads-backend.nhadatmoi.net^
 ||ads-bi.zenkube.com^
 ||ads-bidder-api.twitter.com^
+||ads-c-1854119718.us-west-1.elb.amazonaws.com^
 ||ads-cdn.fptplay.net^
 ||ads-chunks.prod.ihrhls.com^
 ||ads-click.com^
@@ -9375,8 +9385,22 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||adserve5.nikkeibp.co.jp^
 ||adserved.net^
 ||adserver*.euroweeklynews.com^
+||adserver-1277986481.ap-northeast-1.elb.amazonaws.com^
+||adserver-2084671375.us-east-1.elb.amazonaws.com^
+||adserver-clarium-1405844056.eu-central-1.elb.amazonaws.com^
+||adserver-clarium-1718981494.us-west-1.elb.amazonaws.com^
+||adserver-clarium-446793891.us-east-1.elb.amazonaws.com^
 ||adserver-e7.com^
 ||adserver-espnet.sportszone.net^
+||adserver-vpc-alb-0-2072243822.us-east-1.elb.amazonaws.com^
+||adserver-vpc-alb-0-2075095491.us-west-2.elb.amazonaws.com^
+||adserver-vpc-alb-0-649637586.ap-northeast-1.elb.amazonaws.com^
+||adserver-vpc-alb-1-2048135467.us-east-1.elb.amazonaws.com^
+||adserver-vpc-alb-1-725730730.us-west-2.elb.amazonaws.com^
+||adserver-vpc-alb-1-769379334.ap-northeast-1.elb.amazonaws.com^
+||adserver-vpc-alb-2-1898430250.us-east-1.elb.amazonaws.com^
+||adserver-vpc-alb-2-553366957.us-west-2.elb.amazonaws.com^
+||adserver-vpc-alb-3-578630024.us-west-2.elb.amazonaws.com^
 ||adserver.*.yahoodns.net^
 ||adserver.*^
 ||adserver.100free.com^
@@ -9554,6 +9578,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||adserving.unibet.com^
 ||adservingfactory.com^
 ||adservinginternational.com^
+||adservingvpc-1239633584.eu-west-1.elb.amazonaws.com^
 ||adservme.com^
 ||adservob.com^
 ||adservon.com^
@@ -9629,6 +9654,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||adsister.com^
 ||adsixmedia.fr^
 ||adsjumbo.com^
+||adsk-pnxproxy-prd-1753980530.us-east-1.elb.amazonaws.com^
 ||adsk2.co^
 ||adskape.ru^
 ||adskav.com^
@@ -9861,6 +9887,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||adt100.com^
 ||adt328.com^
 ||adt545.net^
+||adtag-or2-697022674.us-west-2.elb.amazonaws.com^
 ||adtag.asiaone.com^
 ||adtag.cc^
 ||adtag.msn.ca^
@@ -10148,6 +10175,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||adventurouscomprehendhold.com^
 ||adver.24h.com.vn^
 ||adver.com.tw^
+||adver.pengyou.com^
 ||adver.qq.com^
 ||adverbwaist.com^
 ||adverd.ru^
@@ -10479,6 +10507,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||adyun.com^
 ||adywind.com^
 ||adz.mobi^
+||adz2you.com^
 ||adz2you.net^
 ||adzbaba.com^
 ||adzbazar.com^
@@ -12350,6 +12379,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||analytics-chi-nfl.yinzcam.com^
 ||analytics-cms.whitebeard.me^
 ||analytics-coletor-site.ojc.com.br^
+||analytics-collector-28944298.us-east-1.elb.amazonaws.com^
 ||analytics-digit-in.cdn.ampproject.org^
 ||analytics-egain.com^
 ||analytics-engine.net^
@@ -12513,6 +12543,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||analytics.competitoor.com^
 ||analytics.concorsicartoonito.it^
 ||analytics.conmio.com^
+||analytics.console.aws.a2z.com^
 ||analytics.contentexchange.me^
 ||analytics.contents.by-fw.jp^
 ||analytics.convertlanguage.com^
@@ -15137,6 +15168,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||at-cddc.actu-juridique.fr^
 ||at-o.net^
 ||at.360.audion.fm^
+||at.adtech.redventures.io^
 ||at.badische-zeitung.de^
 ||at.cbsi.com^
 ||at.deutsche-bank.de^
@@ -15374,6 +15406,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||audicat.net^
 ||audid-api-sg.taobao.com^
 ||audid-api.taobao.com^
+||audience-164723144.us-east-1.elb.amazonaws.com^
 ||audience-mostread.r7.com^
 ||audience.acpm.fr^
 ||audience.newscgp.com^
@@ -17390,6 +17423,8 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||beacons*.gvt3.com^
 ||beacons.helium.com^
 ||beacons.mediamelon.com^
+||beaconserver-ce-vpc0-1537565064.eu-west-1.elb.amazonaws.com^
+||beaconserver-ce-vpc0-1909323404.us-west-2.elb.amazonaws.com^
 ||beaconstreetservices.com^
 ||beacontest.cardlytics.com^
 ||bead-ad.com^
@@ -17870,6 +17905,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||bestgames-2022.com^
 ||bestgong.top^
 ||bestgore.com^
+||bestgore.fun^
 ||bestheadphones4u.com^
 ||besthealthblog.pro^
 ||besthitsnow.com^
@@ -18313,6 +18349,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||bin-layer.ru^
 ||bin-tds.site^
 ||bin40.com^
+||bin5y4muil.execute-api.us-east-1.amazonaws.com^
 ||binalbamp.com^
 ||binapptrack.click^
 ||binary-optionss.info^
@@ -21707,6 +21744,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||cdn.taboola.com.cn^
 ||cdn.tanx.com^
 ||cdn.teleportapi.com^
+||cdn.tinypass.com^
 ||cdn.topmind.io^
 ||cdn.trafficexchangelist.com^
 ||cdn.tx8892.com^
@@ -23187,6 +23225,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||click.plarimocl.com^
 ||click.plarimoplus.com^
 ||click.plista.com^
+||click.precmd.com^
 ||click.pyrrhicmechntech.com^
 ||click.qianqian.com^
 ||click.quickenloansnow.com^
@@ -27915,6 +27954,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||dat.yl-zipper.com^
 ||dat8.cc^
 ||data-analyst.biz^
+||data-collect-337392791.ap-northeast-2.elb.amazonaws.com^
 ||data-collector.wefi.com^
 ||data-data-vac.com^
 ||data-dynamic.net^
@@ -28348,6 +28388,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||dcmn.com^
 ||dcmn.io^
 ||dcnjc4.com^
+||dco-jads-727222375.us-west-2.elb.amazonaws.com^
 ||dcovesaysh.xyz^
 ||dcpxroykfpnnpm.xyz^
 ||dcrzz.com^
@@ -34651,6 +34692,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||experianmarketingservices.digital^
 ||experianmatch.info^
 ||experience.contextly.com^
+||experience.tinypass.com^
 ||experienceeggs.com^
 ||experimentalconcerningsuck.com^
 ||experimentmelting.com^
@@ -35842,6 +35884,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||file-shares.com^
 ||file-subiz.com^
 ||file.bmob.cn^
+||file.ipinyou.com.cn^
 ||file3size.com^
 ||filebanner.com^
 ||filecontrol.ru^
@@ -36438,6 +36481,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||flyingpt.com^
 ||flyingsexul.space^
 ||flyingsquirellsmooch.com^
+||flyinsky2009.ltd^
 ||flyleaf.biz^
 ||flylikeaguy.com^
 ||flyly.cc^
@@ -42910,6 +42954,8 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||huppahshoras.com^
 ||hupu-nba.com^
 ||hupuzhibo.cn^
+||huq-query-loggers-california-3cec807da3e9dc0d.elb.us-west-1.amazonaws.com^
+||huq-query-loggers-europe-west1-32ef7f4bbf54ce27.elb.eu-west-1.amazonaws.com^
 ||huq.io^
 ||hurced.com^
 ||hurdlesmuchel.com^
@@ -45255,6 +45301,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||invoca.solutions^
 ||invocacdn.com^
 ||invoke.ml^
+||invol.co^
 ||involve.asia^
 ||involveclank.com^
 ||invraisemblable.com^
@@ -49574,6 +49621,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||latamdcs.com^
 ||latency.agoop.net^
 ||latentcreeper.com^
+||later-analytics-reports.s3-accelerate.amazonaws.com^
 ||lateralphonesecurity.xyz^
 ||latestgrace.com^
 ||latestpromotions.club^
@@ -51360,6 +51408,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||log-collector.shopee.
 ||log-collector.shopee.vn^
 ||log-collector.svctr.zynga.com^
+||log-collectors-73517960.us-east-1.elb.amazonaws.com^
 ||log-dbff2e04.us.v2.we-stats.com^
 ||log-dmp.suishenyun.cn^
 ||log-gateway.zoom.us^
@@ -52127,6 +52176,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||lps.qantas.com^
 ||lpsgc.cn^
 ||lpsxssm.com^
+||lptag.liveperson.net^
 ||lptssbs.cn^
 ||lpw80d.online^
 ||lpwndvwnehlsik.com^
@@ -52517,6 +52567,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||lynndollin.com^
 ||lynormationpas.com^
 ||lynr.com^
+||lynx-prod-beacon-alb-498367235.us-east-1.elb.amazonaws.com^
 ||lynx.bitefullbox.com^
 ||lynx.inovo.io^
 ||lynx.microl.ink^
@@ -53717,6 +53768,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||madcpms.com^
 ||maddenbusy.com^
 ||maddeningpowder.com^
+||made2you.com^
 ||madehimn.xyz^
 ||madeleinekrook.nl^
 ||mademoisellewang.com^
@@ -55636,6 +55688,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||metrics.aetn.com^
 ||metrics.aftonbladet.se^
 ||metrics.al.com^
+||metrics.allaboutyou.com^
 ||metrics.ally.com^
 ||metrics.amd.com^
 ||metrics.americanairlines.cl^
@@ -55696,6 +55749,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||metrics.citibank.com.ph^
 ||metrics.claspws.tv^
 ||metrics.cleveland.com^
+||metrics.client-eng.a2z.com^
 ||metrics.cnn.com^
 ||metrics.coachfactory.com^
 ||metrics.coccoc.com^
@@ -57028,6 +57082,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||mobileadvertisinghub.com^
 ||mobileadx.ru^
 ||mobileanalytics.*.amazonaws.com^
+||mobileanalytics.us-east-1.amazonaws.com^
 ||mobileanalytics.useinsider.com^
 ||mobileapi.usebutton.com^
 ||mobileapptracking.com^
@@ -60017,6 +60072,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||notify-monad.com^
 ||notify-service.com^
 ||notify.51dzt.com^
+||notify.bugsnag.appstore.a2z.com^
 ||notify.hindustantimes.com^
 ||notify.oupeng.com^
 ||notify.pray.com^
@@ -60052,6 +60108,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||nouvelles247.com^
 ||nouzhu.cn^
 ||nov.evmenov37.ru^
+||nova-collector-1192479543.us-east-1.elb.amazonaws.com^
 ||nova-files-trustics.ml^
 ||nova.dice.net^
 ||novadune.com^
@@ -62901,6 +62958,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||pagerank-server7.de^
 ||pagerank-suchmaschine.de^
 ||pagerank.fr^
+||pagerank4you.com^
 ||pagerankfree.com^
 ||pageranking-counter.de^
 ||pageranktop.com^
@@ -64575,6 +64633,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||pixazza.com^
 ||pixel*.adswizz.com
 ||pixel-*.rubiconproject.com^
+||pixel-967319188.us-east-1.elb.amazonaws.com^
 ||pixel-a.basis.net^
 ||pixel-profile-cloud.eniro.com^
 ||pixel-secure.solvemedia.com^
@@ -65416,6 +65475,8 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||pop3.fuxids.com^
 ||pop5sjhspear.com^
 ||pop800.com^
+||popadex-*.us-east-1.elb.amazonaws.com^
+||popadex-1919430815.us-east-1.elb.amazonaws.com^
 ||popadon.com^
 ||popads.com^
 ||popads.media^
@@ -66129,12 +66190,15 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||procroanalytics.com^
 ||procuredawestruckpoint.com^
 ||prod-analytics.royal.drmgms.com^
+||prod-ash-beacon-1960876484.us-east-1.elb.amazonaws.com^
 ||prod-clientlog.fastly.newssuite.sinfony.ne.jp^
 ||prod-collecticon.outlookmobile.com^
 ||prod-collector.bigbasket.com^
 ||prod-dcs-eventlog.decagames.com^
 ||prod-defaulting-subscriptiontool.gismart.xyz^
+||prod-dem-collector-elb-611025824.eu-west-1.elb.amazonaws.com^
 ||prod-events.nykaa.com^
+||prod-pdx-beacon-1406086907.us-west-2.elb.amazonaws.com^
 ||prod-plague-bacon.miniclippt.com^
 ||prod-sb-appanalytics-us1.servicebus.windows.net^
 ||prod.adjoe.zone^
@@ -68642,6 +68706,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||rankinteractive.com^
 ||rankirani.ir^
 ||ranklink.de^
+||rankyou.com^
 ||ranlisgz.fun^
 ||rannabio.com^
 ||ranqibio.com^
@@ -70668,6 +70733,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||rp5o.top^
 ||rpacnud.cn^
 ||rpahyhn.cn^
+||rpc-tapjoy-com-lb-1378811527.us-east-1.elb.amazonaws.com^
 ||rpdn.relateddigital.com^
 ||rpersonals.com^
 ||rpfkgf.rp-online.de^
@@ -71297,6 +71363,8 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||rvwtpwmtnfj.com^
 ||rvyjbwr.cn^
 ||rvz9.destinia.co.ro^
+||rw-yieldmo-com-1673518954.ap-southeast-1.elb.amazonaws.com^
+||rw-yieldmo-com-1857737650.us-west-2.elb.amazonaws.com^
 ||rw.davielyedith.com^
 ||rw.gundogleaker.com^
 ||rwadakesz.cyou^
@@ -71694,6 +71762,8 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||s2sterra.com^
 ||s2strk.info^
 ||s3-analytics-events.easybrain.com^
+||s3-ap-southeast-1-amazonaws.com^
+||s3-ap-southeast-2-amazonaws.com^
 ||s3-fe-scm.pglstatp-toutiao.com^
 ||s3.chengmingliang.com^
 ||s3.joexl.com^
@@ -75278,6 +75348,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||smac-ssp.com^
 ||smaclick.com^
 ||smadex.com^
+||smailes.pro^
 ||smallapp.club^
 ||smallbeginner.com^
 ||smallel.com^
@@ -78516,6 +78587,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||staticiv.com^
 ||staticjs.cn^
 ||statics-marketingsites-eus-ms-com.akamaized.net^
+||statics-marketingsites-neu-ms-com.akamaized.net^
 ||statics.3987.com^
 ||statics.woozooo.com^
 ||statics88.vip^
@@ -81441,6 +81513,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||tapioni.com^
 ||tapit.com^
 ||tapixesa.pro^
+||tapjoy-com-lb-vpc-332546193.us-east-1.elb.amazonaws.com^
 ||tapjoy.cn^
 ||tapjoy.com^
 ||tapjoy.go2cloud.org^
@@ -82010,6 +82083,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||telemetry.chrobinson.com^
 ||telemetry.firez.one^
 ||telemetry.goodlifefitness.com^
+||telemetry.insights.video.a2z.com^
 ||telemetry.jivosite.com^
 ||telemetry.malwarebytes.com^
 ||telemetry.microsoft.com^
@@ -82293,6 +82367,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||teslagives.io^
 ||teslagives2023.com^
 ||teslagivesweek.com^
+||teslagivex2foryou.com^
 ||teslago.io^
 ||teslagw22.com^
 ||teslahelp.io^
@@ -82726,6 +82801,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||thesauruspainfully.com^
 ||thesaurussurf.com^
 ||thesearchagency.net^
+||theseoffersforyou.com^
 ||theshafou.com^
 ||theship.club^
 ||thesimsresource.fr^
@@ -85282,6 +85358,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||trackicollect.ibase.fr^
 ||trackimpression.com^
 ||tracking*.euroads.fi^
+||tracking-1611167402.us-east-1.elb.amazonaws.com^
 ||tracking-3-9f58.trnox.com^
 ||tracking-amp.vnexpress.net^
 ||tracking-api-4lasu2nlcq-ew.a.run.app^
@@ -90065,6 +90142,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||voredi.com^
 ||vorinteon.ru^
 ||vorlsblf.cyou^
+||vorluic.cn^
 ||voronezh136.ru^
 ||vortex-sandbox.data.microsoft.com^
 ||vortex-win-sandbox.data.microsoft.com^
@@ -91928,6 +92006,8 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||wikigifth.com^
 ||wikiodeliv.com^
 ||wild0army.com^
+||wildcard-ads-448740142.us-west-2.elb.amazonaws.com^
+||wildcard-ads-new-1653986885.us-east-1.elb.amazonaws.com^
 ||wildcat.fspy.io^
 ||wildebeest.theheritagelodge.com^
 ||wildernesscamera.com^
@@ -93708,6 +93788,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||www.talkable.com^
 ||www.tanger.com.br^
 ||www.tao123.com^
+||www.tapresearch.com^
 ||www.tctakoh.com^
 ||www.teltech.hu^
 ||www.textbanners.net^
@@ -94370,6 +94451,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||xcxlneb.cn^
 ||xcy8.com^
 ||xcycm.com^
+||xd.meritedyaws.com^
 ||xd4a.top^
 ||xdadang.com^
 ||xdadevelopers.browsi.mobi^
