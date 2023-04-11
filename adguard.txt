@@ -3,8 +3,8 @@
 ! Powerd by SamSan
 ! Description: Just a merged Adblock rule. Nothing more
 ! Expires: 6 hours (update frequency)
-! Version: 2023-04-11 14:09:34
-! Total count: 99328
+! Version: 2023-04-11 20:11:21
+! Total count: 99332
 
 ###Page-1[stroke='none'][fill='none'][fill-rule='evenodd']
 ###ad-1,#ad-2,#ad-3,#ad-4,#ad-5,#ad-6,#ad-7
@@ -561,6 +561,7 @@ cupfox.app#@#.adsbygoogle
 dingbu.*.*.*/*.add$third-party
 dingbu.*.*.com/dingbu.$third-party
 dlsdk.appsflyer.com^
+dlsdk.appsflyersdk.com^
 dm530p.net##DIV[style$='; display: block;']
 dmh8.me,dm88.me##DIV[style='display: flex;']
 dmh8.me,dm88.me##DIV[style^='background: url("http']
@@ -24497,7 +24498,6 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||collector.air.tv^
 ||collector.apester.com^
 ||collector.api.video^
-||collector.appconsent.io^
 ||collector.automote.co.nz^
 ||collector.brandify.com^
 ||collector.bughd.com^
@@ -32580,6 +32580,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||ecai.info^
 ||ecantal.fr^
 ||ecard4all.com^
+||ecav5.com^
 ||eccbb.com^
 ||eccoskorea.com.se^
 ||ece8c2alhz.ru^
@@ -59527,6 +59528,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||networkinfo.org^
 ||networkingproperty.com^
 ||networkmanag.com^
+||networkname.xyz^
 ||networkplay.in^
 ||networksdk.ssacdn.com^
 ||networkxi.com^
@@ -62555,6 +62557,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||origin.chron.com^
 ||origin.optimost.io^
 ||original-empire.com^
+||originate.ltd^
 ||originedreting.site^
 ||origintube.com^
 ||origunix.com^
@@ -69796,6 +69799,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||referrer.website^
 ||referrill.com^
 ||refersion.com^
+||reffnik.cn^
 ||refilmsreeper.website^
 ||refinance.shengen.ru^
 ||refinedads.com^
