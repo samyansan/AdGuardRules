@@ -3,8 +3,8 @@
 ! Powerd by SamSan
 ! Description: Just a merged Adblock rule. Nothing more
 ! Expires: 6 hours (update frequency)
-! Version: 2023-04-14 08:31:26
-! Total count: 99787
+! Version: 2023-04-14 14:09:39
+! Total count: 99935
 
 ###Page-1[stroke='none'][fill='none'][fill-rule='evenodd']
 ###ad-1,#ad-2,#ad-3,#ad-4,#ad-5,#ad-6,#ad-7
@@ -737,8 +737,8 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||*us*watcab*.blob.core.windows.net^
 ||0-000.store^
 ||0-owazo4.net.zooplus.de^
-||0.0.0.0.shengen.ru^
-||0.0.0.00.0.0.0www.888.com^
+||0.0.0.0taweb.it^
+||0.0.0.0urfomani.fr^
 ||0.0.realodix^
 ||0.code.cotsta.ru^
 ||0.data.net.zooplus.de^
@@ -3995,6 +3995,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||92f77b89a1b2df1b539ff2772282e19b.com^
 ||92f83e092d.com^
 ||92mile.com^
+||92ph.cn^
 ||92qj1u.cn^
 ||92sales.com^
 ||92x.tumblr.com^
@@ -4247,12 +4248,14 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||COMpolice.net^
 ||CYPpolice.com^
 ||Coordinator-Production-28516768.us-east-1.elb.amazonaws.com^
+||Doubleclick.net^$third-party
 ||EGYpolice.com^
 ||ETHpolice.com^
 ||GEOpolice.com^
 ||INDpolice.com^
 ||LUXpolice.com^
 ||LUXpolice.net^
+||Media.net^$third-party
 ||OSQA.com^
 ||PAKpolice.com^
 ||Question2Answer.com^
@@ -6304,6 +6307,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||ad.domainfactory.de^
 ||ad.donanimhaber.com^
 ||ad.dopool.com^
+||ad.doubleclick.net^$third-party
 ||ad.dqwjzm.com^
 ||ad.duapps.com^
 ||ad.duga.jp^
@@ -6407,6 +6411,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||ad.kakaocorp.com^
 ||ad.kaskus.co.id^
 ||ad.kataweb.it^
+||ad.kaurfomani.fr^
 ||ad.kddi-fs.com^
 ||ad.khan.co.kr^
 ||ad.kimcartoon.si^
@@ -6968,6 +6973,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||adc.tripple.at^
 ||adc.xxxlshop.de^
 ||adc.xxxlutz.de^
+||adc3-launch.adcolony.com^$third-party
 ||adcaffe.com^
 ||adcains.com^
 ||adcalm.com^
@@ -7305,6 +7311,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||adformdsp.net^
 ||adfox.ru^
 ||adfox.yandex.ru^
+||adfox.yandex.ru^$third-party
 ||adfpoint.com^
 ||adframesrc.com^
 ||adfreetv.ch^
@@ -7312,6 +7319,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||adfront.auction.co.kr^
 ||adfrontiers.com^
 ||adfstat.yandex.ru^
+||adfstat.yandex.ru^$third-party
 ||adfueling.com^
 ||adfun.ru^
 ||adfunds.org^
@@ -7627,6 +7635,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||adm.beimg.com^
 ||adm.cloud.cnfol.com^
 ||adm.funshion.com^
+||adm.hotjar.com^$third-party
 ||adm.leju.com^
 ||adm.leju.sina.com.cn^
 ||adm.myzaker.com^
@@ -8395,7 +8404,9 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||ads-api-new-2052271615.ap-northeast-1.elb.amazonaws.com^
 ||ads-api.playfun.vn^
 ||ads-api.tiktok.com^
+||ads-api.tiktok.com^$third-party
 ||ads-api.twitter.com^
+||ads-api.twitter.com^$third-party
 ||ads-b-480313385.us-west-1.elb.amazonaws.com^
 ||ads-backend.nhadatmoi.net^
 ||ads-bi.zenkube.com^
@@ -8436,6 +8447,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||ads-sdk.upltv.com^
 ||ads-server.mxplay.com^
 ||ads-sg.tiktok.com^
+||ads-sg.tiktok.com^$third-party
 ||ads-stats.com^
 ||ads-thanhnien-vn.cdn.ampproject.org^
 ||ads-trk.vidible.tv^
@@ -8808,6 +8820,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||ads.leovegas.com^
 ||ads.lesbianpersonals.com^
 ||ads.linkedin.com^
+||ads.linkedin.com^$third-party
 ||ads.linksrequest.com^
 ||ads.linktracking.net^
 ||ads.linuxjournal.com^
@@ -8939,6 +8952,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||ads.phunuvagiadinh.vn^
 ||ads.pinger.com^
 ||ads.pinterest.com^
+||ads.pinterest.com^$third-party
 ||ads.pipaffiliates.com^
 ||ads.pitchforkmedia.com^
 ||ads.pivol.net^
@@ -9086,6 +9100,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||ads.thrillsaffiliates.com^
 ||ads.tiki.vn^
 ||ads.tiktok.com^
+||ads.tiktok.com^$third-party
 ||ads.timesjobsandcareers.com^
 ||ads.timesunion.com^
 ||ads.tiscali.it^
@@ -9187,12 +9202,14 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||ads.xtramsn.co.nz^
 ||ads.xxxad.net^
 ||ads.yahoo.com^
+||ads.yahoo.com^$third-party
 ||ads.yahoo.de^
 ||ads.yam.com^
 ||ads.yap.yahoo.com^
 ||ads.yenimedya.com.tr^
 ||ads.yimg.com^
 ||ads.youtube.com^
+||ads.youtube.com^$third-party
 ||ads.yxdown.com^
 ||ads.zalo.me^
 ||ads.zaloapp.com^
@@ -9290,6 +9307,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||ads3.haber3.com^
 ||ads3.realcities.com^
 ||ads3.virtual-nights.com^
+||ads30.adcolony.com^$third-party
 ||ads34.vertamedia.com^
 ||ads345.com^
 ||ads36.vertamedia.com^
@@ -9599,6 +9617,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||adserver.twitpic.com^
 ||adserver.ubiyoo.com^
 ||adserver.ugo.nl^
+||adserver.unityads.unity3d.com^$third-party
 ||adserver.van.net^
 ||adserver.virginmedia.com^
 ||adserver.webads.co.uk^
@@ -9621,6 +9640,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||adserverplus.com^
 ||adserverpub.com^
 ||adserversolutions.com^
+||adservetx.media.net^$third-party
 ||adservi.com^
 ||adservice*.*^
 ||adservice.google.*^
@@ -9634,6 +9654,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||adservice.google.com.tr^
 ||adservice.google.com.vn^
 ||adservice.google.com^
+||adservice.google.com^$third-party
 ||adservice.google.cz^
 ||adservice.google.de^
 ||adservice.google.nl^
@@ -9676,6 +9697,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||adsforindians.com^
 ||adsfs-sdkconfig.heytapimage.com^
 ||adsfs.oppomobile.com^
+||adsfs.oppomobile.com^$third-party
 ||adsfundi.com^
 ||adsfuse.com^
 ||adsgangsta.com^
@@ -9961,6 +9983,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||adtag.primetime.adobe.com^
 ||adtag.sphdigital.com^
 ||adtag.sympatico.ca^
+||adtago.s3.amazonaws.com^$third-party
 ||adtags.mobi^
 ||adtags.pro^
 ||adtaily.com^
@@ -9986,6 +10009,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||adtech.com^
 ||adtech.de^
 ||adtech.panthercustomer.com^
+||adtech.yahooinc.com^$third-party
 ||adtechium.com^
 ||adtechjp.com^
 ||adtechus.com^
@@ -10308,9 +10332,11 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||advertisespace.com^
 ||advertiseworld.com^
 ||advertiseyourgame.com^
+||advertising-api-eu.amazon.com^$third-party
 ||advertising-cdn.com^
 ||advertising-cdn.dpgmedia.cloud^
 ||advertising.aol.com^
+||advertising.apple.com^$third-party
 ||advertising.bbcworldwide.com^
 ||advertising.com^
 ||advertising.hiasys.com^
@@ -10321,6 +10347,8 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||advertising.phyef.com^
 ||advertising.wellpack.fr^
 ||advertising.yahoo.com^
+||advertising.yahoo.com^$third-party
+||advertising.yandex.ru^$third-party
 ||advertising365.com^
 ||advertisingbanners.com^
 ||advertisingbay.com^
@@ -10368,6 +10396,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||advhits.com^
 ||adviad.com^
 ||adviap.goforandroid.com^
+||advice-ads.s3.amazonaws.com^$third-party
 ||advideo.ru^
 ||advideum.com^
 ||adview.cn^
@@ -10488,6 +10517,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||adx-tk.rayjump.com^
 ||adx-west-imp.aarki.net^
 ||adx.aarki.net^
+||adx.ads.oppomobile.com^$third-party
 ||adx.adtaipo.com^
 ||adx.adxglobal.com^
 ||adx.apiok.net^
@@ -10958,6 +10988,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||afrigh.com^
 ||afrikad.com^
 ||afryxia.cn^
+||afs.googlesyndication.com^$third-party
 ||afsanalytics.com^
 ||afshanthough.pro^
 ||afssdmin.com^
@@ -12381,6 +12412,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||an.constantcontact.com^
 ||an.dongphim.net^
 ||an.facebook.com^
+||an.facebook.com^$third-party
 ||an.m.liebao.cn^
 ||an.milb.com^
 ||an.mlb.com^
@@ -12474,6 +12506,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||analytics-api.dvdfab.
 ||analytics-api.liveapp.com^
 ||analytics-api.samsunghealthcn.com^
+||analytics-api.samsunghealthcn.com^$third-party
 ||analytics-api.smzdm.com^
 ||analytics-api.statvoo.com^
 ||analytics-au.clickdimensions.com^
@@ -12511,6 +12544,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||analytics-secure.dollargeneral.com^
 ||analytics-server.gimbal.com^
 ||analytics-sg.tiktok.com^
+||analytics-sg.tiktok.com^$third-party
 ||analytics-sprint.qoqa.com^
 ||analytics-static.ugc.bazaarvoice.com^
 ||analytics-static.unister-gmbh.de^
@@ -12741,6 +12775,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||analytics.global.sky.com^
 ||analytics.go.com^
 ||analytics.gokwik.co^
+||analytics.google.com^$third-party
 ||analytics.gooogol.com^
 ||analytics.gorillanation.com^
 ||analytics.govinfo.gov^
@@ -12913,6 +12948,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||analytics.piksel.com^
 ||analytics.pinpoll.com^
 ||analytics.pinterest.com^
+||analytics.pinterest.com^$third-party
 ||analytics.pixels.ai^
 ||analytics.plaid.com^
 ||analytics.plaza.ir^
@@ -12920,6 +12956,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||analytics.pnc.com^
 ||analytics.pogo.tv^
 ||analytics.pointdrive.linkedin.com^
+||analytics.pointdrive.linkedin.com^$third-party
 ||analytics.pokki.com^
 ||analytics.poolshool.com^
 ||analytics.pop2watch.com^
@@ -12940,6 +12977,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||analytics.qualityquestions.co^
 ||analytics.qualityunit.com^
 ||analytics.query.yahoo.com^
+||analytics.query.yahoo.com^$third-party
 ||analytics.r17.com^
 ||analytics.radiatemedia.com^
 ||analytics.rafalkukla.com^
@@ -12964,6 +13002,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||analytics.rotapost.ru^
 ||analytics.rover.io^
 ||analytics.s.id^
+||analytics.s3.amazonaws.com^$third-party
 ||analytics.saas-vn.network^
 ||analytics.salesanalytics.io^
 ||analytics.salmonads.com^
@@ -13064,6 +13103,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||analytics.tiendaenoferta.com^
 ||analytics.tiki.vn^
 ||analytics.tiktok.com^
+||analytics.tiktok.com^$third-party
 ||analytics.tintuc.vn^
 ||analytics.tio.ch^
 ||analytics.tmonews.com^
@@ -13150,6 +13190,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||analytics.xoomenergy.com^
 ||analytics.xyscdn.com^
 ||analytics.yahoo.com^
+||analytics.yahoo.com^$third-party
 ||analytics.yext-static.com^
 ||analytics.ynap.biz^
 ||analytics.yola.net^
@@ -13179,6 +13220,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||analyticsapi.bsbportal.com^
 ||analyticschecker.com^
 ||analyticsehnwe.servicebus.windows.net^
+||analyticsengine.s3.amazonaws.com^$third-party
 ||analyticsip.net^
 ||analyticsncc.net^
 ||analyticsnew.overwolf.com^
@@ -13681,6 +13723,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||api-ad.kajicam.com^
 ||api-ads.tiantianqutao.com^
 ||api-adservices.apple.com^
+||api-adservices.apple.com^$third-party
 ||api-analytics-bootstrap.metaps.com^
 ||api-analytics-cn.huami.com^
 ||api-analytics.huami.com^
@@ -13743,6 +13786,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||api.ad-goi.com^
 ||api.ad-locus.com^
 ||api.ad.xiaomi.com^
+||api.ad.xiaomi.com^$third-party
 ||api.ad.yipinread.com^
 ||api.adcalls.nl^
 ||api.adfenix.com^
@@ -13794,6 +13838,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||api.brs.intl.miui.com^
 ||api.bugfender.com^
 ||api.bugsee.com^
+||api.bugsnag.com^$third-party
 ||api.bunzlaucastle.com^
 ||api.callget.cn^
 ||api.calq.io^
@@ -13888,6 +13933,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||api.logentries.com^
 ||api.logpartition.com^
 ||api.lookupmanager.com^
+||api.luckyorange.com^$third-party
 ||api.madkudu.com^
 ||api.magmamobile.com^
 ||api.masterprotocols.com^
@@ -13907,6 +13953,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||api.mobula.sdk.duapps.com^
 ||api.moengage.com^
 ||api.monedata.io^
+||api.mouseflow.com^$third-party
 ||api.mp.uc.cn^
 ||api.myadsget.com^
 ||api.myendpoint.io^
@@ -14116,6 +14163,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||app-g.39.net^
 ||app-icons.apptentive.com^
 ||app-measurement.com^
+||app-measurement.com^$third-party
 ||app-monitor.ele.me^
 ||app-promo.com^
 ||app-stats.supernotes.app^
@@ -14142,6 +14190,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||app.budweisergardens.com^
 ||app.bugfender.com^
 ||app.bugreplay.com^
+||app.bugsnag.com^$third-party
 ||app.business.westernunion.com^
 ||app.byutickets.com^
 ||app.calbears.com^
@@ -14167,6 +14216,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||app.gelirartisi.com^
 ||app.georgiadogs.com^
 ||app.getresponse.com^
+||app.getsentry.com^$third-party
 ||app.getwoohoo.com^
 ||app.go.bge.com^
 ||app.goairforcefalcons.com^
@@ -14372,6 +14422,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||appmetrica.yandex.com^
 ||appmetrica.yandex.net^
 ||appmetrica.yandex.ru^
+||appmetrica.yandex.ru^$third-party
 ||appmetrics.sprint.com^
 ||appmm.zapr.in^
 ||appn.center^
@@ -15522,6 +15573,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||auckledfathere.xyz^
 ||aucqdk.autodoc.es^
 ||auction-release.mlpapi.com^
+||auction.unityads.unity3d.com^$third-party
 ||auctionads.com^
 ||auctionads.net^
 ||auctionnudge.com^
@@ -17400,7 +17452,9 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||bda1.ayule.net^
 ||bdad.gaotie.net^
 ||bdaor.com^
+||bdapi-ads.realmemobile.com^$third-party
 ||bdapi-in-ads.realmemobile.com^
+||bdapi-in-ads.realmemobile.com^$third-party
 ||bdasd.chdbook.cn^
 ||bdasd.chinabig.com.cn^
 ||bdasd.wmxa.cn^
@@ -19405,6 +19459,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||bookopen.cn^
 ||bookpdf.services^
 ||books-analytics-events.apple.com^
+||books-analytics-events.apple.com^$third-party
 ||books-analytics-events.news.apple-dns.net^
 ||booleanfalces.website^
 ||boolevool.com^
@@ -19902,6 +19957,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||browser.events.data.msn.cn^
 ||browser.events.data.msn.com^
 ||browser.pipe.aria.microsoft.com^
+||browser.sentry-cdn.com^$third-party
 ||browser1.ru^
 ||browserdownloadz.com^
 ||browsergames2018.com^
@@ -20254,6 +20310,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||burydibase.com^
 ||bus-offer.com^
 ||business-api.tiktok.com^
+||business-api.tiktok.com^$third-party
 ||business-cards.americanexpress.com^
 ||business-cdn.shouji.sogou.com^
 ||business-path-55.com^
@@ -21229,6 +21286,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||cards-sea-nfl.yinzcam.com^
 ||cards.virtuagirlhd.com^
 ||care5alea.com^
+||careers.hotjar.com^$third-party
 ||careful-oven.pro^
 ||carefuldolls.com^
 ||careless-category.pro^
@@ -21735,6 +21793,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||cdn-sitegainer.com^
 ||cdn-social.janrain.com^
 ||cdn-static.formisimo.com^
+||cdn-test.mouseflow.com^$third-party
 ||cdn-xinghuatupian-cdn.com^
 ||cdn.0i-i0.com^
 ||cdn.234doo.com^
@@ -21869,6 +21928,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||cdn.komentary.aol.com^
 ||cdn.linkbr.xyz^
 ||cdn.lodeo.io^
+||cdn.luckyorange.com^$third-party
 ||cdn.maaw.io^
 ||cdn.madkudu.com^
 ||cdn.malokacha.club^
@@ -21942,6 +22002,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||cdn.tinypass.com^
 ||cdn.topmind.io^
 ||cdn.trafficexchangelist.com^
+||cdn.trafficsta.0ads.mcafee.com^
 ||cdn.tx8892.com^
 ||cdn.umh.ua^
 ||cdn.upthinking.cn^
@@ -22235,6 +22296,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||cehuiy.com^
 ||ceileangsts.com^
 ||ceilingbruiseslegend.com^
+||ceillons.site^
 ||ceiyo.com^
 ||celaenomash.com^
 ||celcxjb.cn^
@@ -23177,6 +23239,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||cjy200107152004.ltd^
 ||ck-cdn.com^
 ||ck.abdalpaces.com^
+||ck.ads.oppomobile.com^$third-party
 ||ck.connatix.com^
 ||ck.houyi.baofeng.net^
 ||ck.ncclick.co.kr^
@@ -23245,6 +23308,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||clarity.abacast.com^
 ||clarity.ms^
 ||clarityactressmourning.com^
+||claritybt.freshmarketer.com^$third-party
 ||clarityray.com^
 ||claritytag.com^
 ||clarium.global.ssl.fastly.net^
@@ -23428,6 +23492,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||click.geopaysys.com^
 ||click.glamsquad.com^
 ||click.globlemath.com^
+||click.googleanalytics.com^$third-party
 ||click.hd.sohu.com.cn^
 ||click.hd.sohu.com^
 ||click.hooligapps.com^
@@ -23448,6 +23513,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||click.mz.simba.taobao.com^
 ||click.nudevista.com^
 ||click.oneplus.cn^
+||click.oneplus.cn^$third-party
 ||click.oneplus.com^
 ||click.plarimocl.com^
 ||click.plarimoplus.com^
@@ -24926,6 +24992,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||config.quantumgraph.com^
 ||config.safedk.com^
 ||config.uca.cloud.unity3d.com^
+||config.unityads.unity3d.com^$third-party
 ||config.unityads.unitychina.cn^
 ||configuration.ttpsdk.info^
 ||configurationluxuriantinclination.com^
@@ -26405,6 +26472,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||cs.cowmankai.com^
 ||cs.dqwjzm.com^
 ||cs.hot.net.il^
+||cs.luckyorange.net^$third-party
 ||cs.nexttv.co.il^
 ||cs.qiqisou.cn^
 ||cs0010sbeda.theory-clinic.com^
@@ -28253,6 +28321,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||data.accountslatam.coca-cola.com^
 ||data.adlermode.com^
 ||data.adobedc.net^
+||data.ads.oppomobile.com^$third-party
 ||data.adwombat.com^
 ||data.adxcel-ec2.com^
 ||data.alexa.com^
@@ -28352,9 +28421,12 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||data.mimikama.at^
 ||data.minute.ly^
 ||data.mistat.india.xiaomi.com^
+||data.mistat.india.xiaomi.com^$third-party
 ||data.mistat.intl.xiaomi.com^
 ||data.mistat.rus.xiaomi.com^
+||data.mistat.rus.xiaomi.com^$third-party
 ||data.mistat.xiaomi.com^
+||data.mistat.xiaomi.com^$third-party
 ||data.mob.com^
 ||data.neosmi.ru^
 ||data.netscope.marktest.pt^
@@ -34753,6 +34825,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||events.framer.com^
 ||events.getsitectrl.com^
 ||events.gfe.nvidia.com^
+||events.hotjar.io^$third-party
 ||events.iap.unity3d.com^
 ||events.ifunny.co^
 ||events.il.fi^
@@ -34785,7 +34858,9 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||events.realgravity.com^
 ||events.reclamefolder.nl^
 ||events.reddit.com^
+||events.reddit.com^$third-party
 ||events.redditmedia.com^
+||events.redditmedia.com^$third-party
 ||events.release.narrativ.com^
 ||events.santander.co.uk^
 ||events.sd-nbb.de^
@@ -34807,6 +34882,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||events.webdock.io^
 ||events.whisk.com^
 ||events.yourcx.io^
+||events3alt.adcolony.com^$third-party
 ||eventsapi.grocerkey.com^
 ||eventsbands.com^
 ||eventstream.dodopizza.com^
@@ -35128,6 +35204,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||exting.net.zooplus.es^
 ||extlog.snssdk.com^
 ||extmaps-api.yandex.net^
+||extmaps-api.yandex.net^$third-party
 ||extmoney.i1608.com^
 ||extnetcool.com^
 ||extole.com^
@@ -37457,6 +37534,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||freshis.ru^
 ||freshmall.shop^
 ||freshmarketer.com^
+||freshmarketer.com^$third-party
 ||freshmate.com.cn^
 ||freshnews.su^
 ||freshplum.com^
@@ -37860,6 +37938,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||fwqekk.top^
 ||fwrpq.cyou^
 ||fwt0.com^
+||fwtracks.freshmarketer.com^$third-party
 ||fwtrck.com^
 ||fwwjbvz.cn^
 ||fwwpnhdssbqofu.xyz^
@@ -38432,6 +38511,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||gblwebcen.com^
 ||gbmfid.1mg.com^
 ||gbotvisit.com^
+||gbp.ebayadvertising.triadretailrs.com^
 ||gbpofla.cn^
 ||gbqofs.com^
 ||gbrrrxbodqdlq.com^
@@ -38631,6 +38711,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||gem.pl^
 ||gemfaxaha.com^
 ||gemini.yahoo.com^
+||gemini.yahoo.com^$third-party
 ||gemius.mgr.consensu.org^
 ||gemius.pl^
 ||gemlis.com^
@@ -38708,6 +38789,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||geo.vortex.data.microsoft.com.akadns.net^
 ||geo.xcel.io^
 ||geo.yahoo.com^
+||geo.yahoo.com^$third-party
 ||geo2.adobe.com^
 ||geoaddicted.net^
 ||geoads.com^
@@ -39446,6 +39528,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||globaladmedia.net^
 ||globaladsales.com^
 ||globaladv.net^
+||globalapi.ad.xiaomi.com^$third-party
 ||globalcommunications.sc.com^
 ||globalconfig.bluedot.io^
 ||globaldependableshippers.com^
@@ -39923,6 +40006,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||google-analytics.com$third-party
 ||google-analytics.com/analytics.js
 ||google-analytics.com^
+||google-analytics.com^$third-party
 ||google-pagerank.net^
 ||google-shopping-v2.sapoapps.vn^
 ||google-shopping.sapoapps.vn^
@@ -40437,6 +40521,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||growthrx.in^
 ||grozeesh.com^
 ||grs.hicloud.com^
+||grs.hicloud.com^$third-party
 ||grsea.cn^
 ||grsm.io^
 ||grt01.com^
@@ -43832,6 +43917,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||iads.staticscdn.net^
 ||iads.xinmin.cn^
 ||iadsdk.apple.com^
+||iadsdk.apple.com^$third-party
 ||iadv.biz^
 ||iadvert.net^
 ||iaenjrlnqltdtjt.xyz^
@@ -44041,6 +44127,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||idencesruptine.xyz^
 ||ideng.com^
 ||identified.cn^
+||identify.hotjar.com^$third-party
 ||identity.api.wmcdp.io^
 ||ideoclick.com^
 ||idesce.com^
@@ -45480,6 +45567,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||insights.frenchtogether.com^
 ||insights.gravity.com^
 ||insights.growwithless.com^
+||insights.hotjar.com^$third-party
 ||insights.mckimcg.ca^
 ||insights.partnerwithfacet.com^
 ||insights.plista.com^
@@ -45859,7 +45947,9 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||iosipa.b0.upaiyun.com^
 ||iosppk.com^
 ||iot-eu-logser.realme.com^
+||iot-eu-logser.realme.com^$third-party
 ||iot-logser.realme.com^
+||iot-logser.realme.com^$third-party
 ||iotechnologies.com^
 ||iotewq.xyz^
 ||iovation.co.uk^
@@ -51399,6 +51489,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||linono.ru^
 ||linostee.com^
 ||lintyone.top^
+||linuozhiyao.xyz^
 ||linus-axz.com^
 ||linux.cocoss2d.com^
 ||linux.css2.com^
@@ -52028,6 +52119,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||log.bitauto.com^
 ||log.bizlive.vn^
 ||log.btopenworld.com^
+||log.byteoversea.com^$third-party
 ||log.ca.gov.vn^
 ||log.china.cn^
 ||log.cinematoday.jp^
@@ -52057,6 +52149,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||log.estand.jp^
 ||log.etoday.co.kr^
 ||log.f-tra.com^
+||log.fc.yahoo.com^$third-party
 ||log.flight.qunar.com^
 ||log.g-enews.com^
 ||log.game.qcplay.com^
@@ -52145,6 +52238,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||log.particlenews.com^
 ||log.perfecttitspics.com^
 ||log.pinterest.com^
+||log.pinterest.com^$third-party
 ||log.plo.vn^
 ||log.pngindir.com^
 ||log.polarisoffice.com^
@@ -52267,6 +52361,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||logapi.tv.naver.com^
 ||logapi.zhipin.com^
 ||logbak.hicloud.com^
+||logbak.hicloud.com^$third-party
 ||logbor.com^
 ||logcol.kyobobook.co.kr^
 ||logcollect.totalcms.ncloud.or.kr^
@@ -52436,7 +52531,9 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||logsdk.qq.com^
 ||logservice-*.platform.dbankcloud.cn^
 ||logservice.hicloud.com^
+||logservice.hicloud.com^$third-party
 ||logservice1.hicloud.com^
+||logservice1.hicloud.com^$third-party
 ||logsink.zedge.net^
 ||logsoc.ru^
 ||logsss.com^
@@ -52877,6 +52974,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||luckyforbet.com^
 ||luckyforworlds.com^
 ||luckyorange.com^
+||luckyorange.com^$third-party
 ||luckyorange.net^
 ||luckypushh.com^
 ||luckysearch123.com^
@@ -53501,6 +53599,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||m.dkd21.cn^
 ||m.dnfeu.com^
 ||m.do.downcdn.top^
+||m.doubleclick.net^$third-party
 ||m.dsgy521.com^
 ||m.dsjre.com^
 ||m.du1du.org^
@@ -55745,6 +55844,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||media.mykodial.com^
 ||media.naked.com^
 ||media.net^
+||media.net^$third-party
 ||media.netrefer.com^
 ||media.nk-net.pl^
 ||media.ontarionorth.com^
@@ -55865,6 +55965,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||mediavenus.com^
 ||mediaver.com^
 ||mediavine.com^
+||mediavisor.doubleclick.net^$third-party
 ||mediavoice.com^
 ||mediawayss.com^
 ||mediaweaver.jp^
@@ -56285,6 +56386,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||metrics.anthem.com^
 ||metrics.apartments.com^
 ||metrics.api.yle.fi^
+||metrics.apple.com^$third-party
 ||metrics.armstrongceilings.com^
 ||metrics.army.mod.uk^
 ||metrics.asos.com^
@@ -56359,6 +56461,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||metrics.dailytelegraph.com.au^
 ||metrics.dairyreporter.com^
 ||metrics.dallasnews.com^
+||metrics.data.hicloud.com^$third-party
 ||metrics.delicious.com.au^
 ||metrics.dertour-reisebuero.de^
 ||metrics.dertour.de^
@@ -56439,6 +56542,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||metrics.hrblock.com^
 ||metrics.hyundaiusa.com^
 ||metrics.icloud.com^
+||metrics.icloud.com^$third-party
 ||metrics.iconfitness.com^
 ||metrics.infranken.de^
 ||metrics.ing.es^
@@ -56502,6 +56606,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||metrics.mysanantonio.com^
 ||metrics.mytributes.com.au^
 ||metrics.mzstatic.com^
+||metrics.mzstatic.com^$third-party
 ||metrics.n-tv.de^
 ||metrics.nab.com.au^
 ||metrics.natmags.co.uk^
@@ -56660,6 +56765,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||metrics1.citibank.com^
 ||metrics1.citibankonline.com^
 ||metrics1.thankyou.com^
+||metrics2.data.hicloud.com^$third-party
 ||metrics2.houselogic.com^
 ||metrics34.com^
 ||metricscollector.lp.xcal.tv^
@@ -56678,6 +56784,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||metrika.myseldon.com^
 ||metrika.traff.space^
 ||metrika.yandex.ru^
+||metrika.yandex.ru^$third-party
 ||metrikastat.site^
 ||metrilo.com^
 ||metriweb.be^
@@ -58160,6 +58267,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||mouse3k.com^
 ||mousecatzilla.com^
 ||mouseflow.com^
+||mouseflow.com^$third-party
 ||mousestats.com^
 ||mousetrace.com^
 ||mousheen.net^
@@ -60427,6 +60535,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||nmctm.cn^
 ||nmetrics.boostmobile.com^
 ||nmetrics.samsung.com^
+||nmetrics.samsung.com^$third-party
 ||nmfww.xyz^
 ||nmgch.top^
 ||nmghyqm.com^
@@ -60670,6 +60779,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||notepad2.com^
 ||notepade.top^
 ||notes-analytics-events.apple.com^
+||notes-analytics-events.apple.com^$third-party
 ||notesbook.in^
 ||nothingmethod.com^
 ||nothingnightingalejuly.com^
@@ -60701,6 +60811,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||notify-service.com^
 ||notify.51dzt.com^
 ||notify.bugsnag.appstore.a2z.com^
+||notify.bugsnag.com^$third-party
 ||notify.hindustantimes.com^
 ||notify.oupeng.com^
 ||notify.pray.com^
@@ -61682,6 +61793,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||offerstrategy.com^
 ||offerwall-adnative.com^
 ||offerwall.headlines.pw^
+||offerwall.yandex.net^$third-party
 ||offerx.co.uk^
 ||offfurreton.com^
 ||office.ad1.ru^
@@ -62503,6 +62615,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||open.kwaizt.com^
 ||open.oneplus.cn^
 ||open.oneplus.net^
+||open.oneplus.net^$third-party
 ||open.play.cn^
 ||open8.cn^
 ||openad.tf1.fr^
@@ -63615,7 +63728,9 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||pagead-tpc.l.google.com^
 ||pagead.google.com^
 ||pagead.l.google.com^
+||pagead2.googleadservices.com^$third-party
 ||pagead2.googlesyndication.com^
+||pagead2.googlesyndication.com^$third-party
 ||pageantbagauspice.com^
 ||pageantinsanitydistressed.com^
 ||pagechoice.com^
@@ -63969,6 +64084,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||partner.wapster.pl^
 ||partnerad*.*^
 ||partnerad.l.google.com^
+||partnerads.ysm.yahoo.com^$third-party
 ||partnercash.com^
 ||partnercash.de^
 ||partnerearn.net^
@@ -65419,6 +65535,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||pixel.europapress.net^
 ||pixel.ex.co^
 ||pixel.facebook.com^
+||pixel.facebook.com^$third-party
 ||pixel.fanbridge.com^
 ||pixel.gliacloud.com^
 ||pixel.holtzbrinckdigital.info^
@@ -69828,6 +69945,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||realteencash.com^
 ||realtime-bid.com^
 ||realtime.clinch.co^
+||realtime.luckyorange.com^$third-party
 ||realtimely.io^
 ||realtimewebstats.net^
 ||realtracker.com^
@@ -73012,9 +73130,11 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||sams.manager-magazin.de^
 ||sams.spiegel.de^
 ||samsienshrivel.com^
+||samsung-com.112.2o7.net^$third-party
 ||samsungacr.com^
 ||samsungadhub.com^
 ||samsungads.com^
+||samsungads.com^$third-party
 ||samsungelectronics.com^
 ||samsungtvads.com^
 ||samtrg.com^
@@ -73633,6 +73753,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||screenshots.goguardian.com^
 ||screensrc.com^
 ||scribbens.fr^
+||scribblestring.com^
 ||scribe.twitter.com^
 ||scribe.wongnai.com^
 ||scrippscontroller.com^
@@ -73645,6 +73766,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||script.anura.io^
 ||script.e-space.se^
 ||script.extellio.com^
+||script.hotjar.com^$third-party
 ||script.leadboxer.com^
 ||script.opentracker.net
 ||script.vccoo.com^
@@ -73846,8 +73968,10 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||sdkclick.mobile.sina.cn^
 ||sdkconf.msstatic.com^
 ||sdkconfig.ad.india.xiaomi.com^
+||sdkconfig.ad.intl.xiaomi.com^$third-party
 ||sdkconfig.ad.rus.xiaomi.com^
 ||sdkconfig.ad.xiaomi.com^
+||sdkconfig.ad.xiaomi.com^$third-party
 ||sdkconfig.play.aiseet.atianqi.com^
 ||sdkconfig.video.qq.com^
 ||sdkconfig.vrvm.com^
@@ -74783,6 +74907,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||sessionamateur.com^
 ||sessioncam.com^
 ||sessionm.com^
+||sessions.bugsnag.com^$third-party
 ||sessions.exchange^
 ||sessionstack.com^
 ||sestat.baidu.com^
@@ -74804,6 +74929,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||settings-sandbox.data.microsoft.com^
 ||settings-win-ppe.data.microsoft.com^
 ||settings.data.glbdns2.microsoft.com^
+||settings.luckyorange.net^$third-party
 ||settingsfd-geo.trafficmanager.net^
 ||settlecohort.com^
 ||settlenice.com^
@@ -77205,6 +77331,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||smetrics.ryka.com^
 ||smetrics.samedelman.com^
 ||smetrics.samsung.com^
+||smetrics.samsung.com^$third-party
 ||smetrics.sbs.com.au^
 ||smetrics.sce.com^
 ||smetrics.science.org^
@@ -78753,6 +78880,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||ssl.bbbr8.com^
 ||ssl.bsriedu.cn^
 ||ssl.di9qu.com.cn^
+||ssl.google-analytics.com^$third-party
 ||ssl.hp-china.biz^
 ||ssl.hyhzy.cn^
 ||ssl.linyiccic.com^
@@ -79325,6 +79453,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||static.adokutcontextual.com^
 ||static.adoptim.com^
 ||static.adqva.com^
+||static.ads-twitter.com^$third-party
 ||static.ads.crakmedia.com^
 ||static.adsfloow.net^
 ||static.adwooo.com^
@@ -79364,6 +79493,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||static.diditaxi.com.cn^
 ||static.directrankcl.com^
 ||static.displayio.cloud^
+||static.doubleclick.net^$third-party
 ||static.duoshuo.com^
 ||static.dynamicyield.com^
 ||static.ecorebates.com^
@@ -79410,6 +79540,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||static.mackeeper.com^
 ||static.masoffer.net^
 ||static.matchads.net^
+||static.media.net^$third-party
 ||static.meijiacun.com^
 ||static.melozen.com^
 ||static.missav.com/js/plyr.js
@@ -79802,6 +79933,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||stats.ft.com^
 ||stats.fullofwishes.co.uk^
 ||stats.fundimmo.com^
+||stats.g.doubleclick.net^$third-party
 ||stats.galleriacortona.com^
 ||stats.gamestop.com^
 ||stats.gateio.ch^
@@ -80215,6 +80347,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||stats.wordpress.com^
 ||stats.world.hey.com^
 ||stats.wp.com^
+||stats.wp.com^$third-party
 ||stats.wpmucdn.com^
 ||stats.wvs.org.uk^
 ||stats.wwd.com^
@@ -81175,6 +81308,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||survey2you.org^
 ||survey4you.co^
 ||surveypass.com^
+||surveys.hotjar.com^$third-party
 ||surveyscout.com^
 ||surveywall-api.survata.com^
 ||surveywriter.com^
@@ -82009,6 +82143,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||t.yzwr588.com^
 ||t.zhipin.com^
 ||t.zulily.com^
+||t0.0pixel.staticworld.net^
 ||t06.xyz^
 ||t0gju20fq34i.com^
 ||t0gkj99krb24.com^
@@ -84747,6 +84882,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||tools.3g.qq.com^
 ||tools.ascontentcloud.com^
 ||tools.islive.nl^
+||tools.mouseflow.com^$third-party
 ||tools.net-parade.it^
 ||tools.ranker.com^
 ||tools.spylog.ru^
@@ -85387,6 +85523,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||tr.haute-maurienne-vanoise.net^
 ||tr.hello.maisonfoody.com^
 ||tr.helloartisan.info^
+||tr.iadsdk.apple.com^$third-party
 ||tr.impoundiranism.com^
 ||tr.info-btob-leaders.com^
 ||tr.info-companeo.be^
@@ -86642,6 +86779,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||tracking.rightmessage.com^
 ||tracking.rtl.de^
 ||tracking.rus.miui.com^
+||tracking.rus.miui.com^$third-party
 ||tracking.s24.com^
 ||tracking.salaallehanda.com^
 ||tracking.scenepass.com^
@@ -87284,6 +87422,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||trk.nuernberger.digital^
 ||trk.olnl.net^
 ||trk.pinterest.com^
+||trk.pinterest.com^$third-party
 ||trk.pswec.com^
 ||trk.reclameaqui.com.br^
 ||trk.s.sephora.com^
@@ -88403,6 +88542,8 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||udbaa.com^
 ||udbdf-v2.nimo.tv^
 ||udc.msn.com^
+||udc.yahoo.com^$third-party
+||udcm.yahoo.com^$third-party
 ||udd1i5.zhihu.com^
 ||udeoenm.cn^
 ||udgrbq.malwarebytes.com^
@@ -89214,6 +89355,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||upliftsearch.com^
 ||upload.adtech.fr^
 ||upload.adtech.us^
+||upload.luckyorange.net^$third-party
 ||uploadlog.p2p.qq.com^
 ||uploads.docsdropapi-chef.eventss.net.zooplus.de^
 ||uploads.docsdropapi-chef.webappectoraccountalpha-disabledbackend.net.zooplus.de^
@@ -91565,6 +91707,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||w020.newmilfordspectrum.com^
 ||w07.xyz^
 ||w1.jinyueya.net^
+||w1.luckyorange.com^$third-party
 ||w1.wayqq.com^
 ||w10.centralmediaserver.com^
 ||w11.centralmediaserver.com^
@@ -92080,6 +92223,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||wct.link^
 ||wctcudh.cn^
 ||wcyapvikap.com^
+||wd.adcolony.com^$third-party
 ||wd.adcolony.xyz^
 ||wd.towmonterses.com^
 ||wd282endfws.de^
@@ -92135,6 +92279,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||weasel.accomplice.ai^
 ||weaselbubblehue.com^
 ||weather-analytics-events.apple.com^
+||weather-analytics-events.apple.com^$third-party
 ||weather.fixitpro.ro^
 ||weatherapi.co^
 ||weatherbarbecue.com^
@@ -92526,6 +92671,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||webupdater.net^
 ||webuysupplystore.mooo.com^
 ||webvideomarketing.ru^
+||webview.unityads.unity3d.com^$third-party
 ||webvisor.com^
 ||webvisor.org^
 ||webvisor.ru^
@@ -93090,6 +93236,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||widgets.lendingtree.com^
 ||widgets.oddschecker.com^
 ||widgets.openli.com^
+||widgets.pinterest.com^$third-party
 ||widgets.planeta.ru^
 ||widgets.progrids.com^
 ||widgets.recruitology.com^
@@ -93371,7 +93518,6 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||wkewgywth.xyz^
 ||wkfwdki.cn^
 ||wkhhwkp.cn^
-||wkiabo.fr^
 ||wkjava.top^
 ||wkjoehzlkl.com^
 ||wkjyeexlqbgbjv.com^
@@ -94106,6 +94252,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||wvvw.infomigrants.net^
 ||wvvw.mc-doualiya.com^
 ||wvvw.rfi.fr^
+||wvwl.cn^
 ||wvzhj.com^
 ||ww.cvideos.stream^
 ||ww.xiaopiaoyou.com^
@@ -99365,6 +99512,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||zouloafi.net^
 ||zouneeto.net^
 ||zouqiuyyds.com^
+||zoushao.xyz^
 ||zoute.cyou^
 ||zoutubephaid.com^
 ||zouwie.mlhif.com^
