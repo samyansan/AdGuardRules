@@ -3,8 +3,8 @@
 ! Powerd by SamSan
 ! Description: Just a merged Adblock rule. Nothing more
 ! Expires: 6 hours (update frequency)
-! Version: 2023-04-14 14:09:39
-! Total count: 99935
+! Version: 2023-04-14 20:11:10
+! Total count: 99946
 
 ###Page-1[stroke='none'][fill='none'][fill-rule='evenodd']
 ###ad-1,#ad-2,#ad-3,#ad-4,#ad-5,#ad-6,#ad-7
@@ -248,6 +248,7 @@
 ##body > DIV[style='display: block; width: 100%; height: 132px;']
 ##body > DIV[style='display: block; width: 100%; height: 133px;']
 ##body > [id][style*='width:100%'][style*='min-height:120px']
+##body > a[id*='hudie_']
 ##body > h1 > strong > title > a
 ##body#nr_body div.fixed ~ *
 ##body#nr_body font > [id]
@@ -291,10 +292,12 @@
 ##div.poi-row IMG[width='950'][height='300'][style='max-width:100%;height:auto']
 ##div.poi-row a > IMG[width='100%'][height='auto'][src]
 ##div.post_list_ajax > A[target='_blank']
+##div.recommend > a[id*='hudie_']
 ##div.row > DIV.md-r-panel
 ##div.row > div[id] > ul > li.cpn > a
 ##div.row.col5.clearfix:nth-of-type(2) > dl:nth-of-type(1)
 ##div.stui-pannel__bd > #t-img-box
+##div.synopsisArea > a[id*='hudie_']
 ##div.video-box > div.hf > a
 ##div:not([class]):not([id]) > a > [src*='.gif'][style*='width:100%']
 ##div[class*='bookid_ads']
@@ -737,8 +740,6 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||*us*watcab*.blob.core.windows.net^
 ||0-000.store^
 ||0-owazo4.net.zooplus.de^
-||0.0.0.0taweb.it^
-||0.0.0.0urfomani.fr^
 ||0.0.realodix^
 ||0.code.cotsta.ru^
 ||0.data.net.zooplus.de^
@@ -6411,7 +6412,6 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||ad.kakaocorp.com^
 ||ad.kaskus.co.id^
 ||ad.kataweb.it^
-||ad.kaurfomani.fr^
 ||ad.kddi-fs.com^
 ||ad.khan.co.kr^
 ||ad.kimcartoon.si^
@@ -9976,6 +9976,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||adt100.com^
 ||adt328.com^
 ||adt545.net^
+||adt598.com^
 ||adtag-or2-697022674.us-west-2.elb.amazonaws.com^
 ||adtag.asiaone.com^
 ||adtag.cc^
@@ -13002,6 +13003,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||analytics.rotapost.ru^
 ||analytics.rover.io^
 ||analytics.s.id^
+||analytics.s3.amazonaws.com^
 ||analytics.s3.amazonaws.com^$third-party
 ||analytics.saas-vn.network^
 ||analytics.salesanalytics.io^
@@ -13220,6 +13222,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||analyticsapi.bsbportal.com^
 ||analyticschecker.com^
 ||analyticsehnwe.servicebus.windows.net^
+||analyticsengine.s3.amazonaws.com^
 ||analyticsengine.s3.amazonaws.com^$third-party
 ||analyticsip.net^
 ||analyticsncc.net^
@@ -15565,6 +15568,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||au.res.keymedia.com^
 ||au.umeng.co^
 ||au2m8.com^
+||au6w0.xyz^
 ||au737.com^
 ||aubergearise.com^
 ||auberginecorny.com
@@ -22002,7 +22006,6 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||cdn.tinypass.com^
 ||cdn.topmind.io^
 ||cdn.trafficexchangelist.com^
-||cdn.trafficsta.0ads.mcafee.com^
 ||cdn.tx8892.com^
 ||cdn.umh.ua^
 ||cdn.upthinking.cn^
@@ -24652,6 +24655,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||collector.air.tv^
 ||collector.apester.com^
 ||collector.api.video^
+||collector.appconsent.io^
 ||collector.automote.co.nz^
 ||collector.brandify.com^
 ||collector.bughd.com^
@@ -33313,6 +33317,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||eiipskos.com^
 ||eijriol.cn^
 ||eikegolehem.com^
+||eileenjaney.com^
 ||eincre.com^
 ||eiorwithitofsti.com.ua^
 ||eiorwithitofstwe.xyz^
@@ -34703,7 +34708,6 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||evaluateend.com^
 ||evaluationgnatprotected.com^
 ||evanescentedge.com^
-||evangeliostore.com^
 ||evangelrhyton.digital^
 ||evania.de^
 ||evasiondemandedlearning.com^
@@ -35704,7 +35708,6 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||fargoodgarotes.digital^
 ||fark.com^
 ||farm-cn.plista.com^
-||farmer-love.us^
 ||farmer.wego.com^
 ||farmerfireman.com^
 ||farmergoldfish.com^
@@ -38511,7 +38514,6 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||gblwebcen.com^
 ||gbmfid.1mg.com^
 ||gbotvisit.com^
-||gbp.ebayadvertising.triadretailrs.com^
 ||gbpofla.cn^
 ||gbqofs.com^
 ||gbrrrxbodqdlq.com^
@@ -40083,7 +40085,6 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||goryachie-foto.net^
 ||gos-kanal.ru^
 ||goshare-fleet-ads.s3.ap-southeast-1.amazonaws.com^
-||goshop.vin^
 ||gosquared.com^
 ||gossipcase.com^
 ||gostats.*^
@@ -49022,6 +49023,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||kinsecutiony.club^
 ||kinsmenmislies.com^
 ||kiosked.com^
+||kipeir.com^
 ||kippbeak.cf^
 ||kipyn.com^
 ||kiqwal.autoscout24.es^
@@ -65638,6 +65640,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||pj38330.bet^
 ||pj39330.bet^
 ||pj39330.com^
+||pj3f7.xyz^
 ||pj50.com^
 ||pj5189.com^
 ||pj550077.com^
@@ -67247,6 +67250,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||promote.caixin.com^
 ||promote.pair.com^
 ||promotebred.com^
+||promotebuy.com^
 ||promoted.sndcdn.com^
 ||promoted.soundcloud.com^
 ||promotesla.com^
@@ -74797,6 +74801,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||serve.freegaypix.com^
 ||serve.mediayan.com^
 ||serve.prestigecasino.com^
+||serve.v3rmillion.net^
 ||serve.williamhill.com^
 ||servebbs.net^
 ||servebom.com^
@@ -76293,6 +76298,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||slog.trackingio.com^
 ||slogantrend.de^
 ||sloi1.com^
+||slonlyuse.shop^
 ||slontube.net^
 ||slopeac.com^
 ||slopeaota.com^
@@ -78078,6 +78084,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||soysapslad.com^
 ||soyue.cc^
 ||sozdzl.cn^
+||sozrrkx.xyz^
 ||sp-trk.com^
 ||sp-wukong-tracker.b-cdn.net^
 ||sp.app.com^
@@ -82143,7 +82150,6 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||t.yzwr588.com^
 ||t.zhipin.com^
 ||t.zulily.com^
-||t0.0pixel.staticworld.net^
 ||t06.xyz^
 ||t0gju20fq34i.com^
 ||t0gkj99krb24.com^
@@ -88469,6 +88475,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||ubntrooters.serveuser.com^
 ||uboungera.com^
 ||ubrihx.allbirds.jp^
+||ubsjyqfek.com^
 ||ubt-sin.tripcdn.com^
 ||ubt573.org^
 ||ubuntu-fr.fr^
@@ -89459,6 +89466,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||uqbeohoajdqvcfe.xyz^
 ||uqbmzwv.cn^
 ||uqd.io^
+||uqelxct.cn^
 ||uqfot.com^
 ||uqidian.com^
 ||uqjflmw.cn^
@@ -89874,6 +89882,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||uwdspsh.cn^
 ||uwdtibwk.com^
 ||uwdvcn.com^
+||uwhreur.cn^
 ||uwhuglup.net^
 ||uwjjtjzhqphc.com^
 ||uwnvcxb.cn^
@@ -91701,6 +91710,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||w.yamaidei.cn^
 ||w.yinyuehu.cn^
 ||w.zenback.jp^
+||w0.0.0.0www.888.com^
 ||w00f.net^
 ||w00t.us^
 ||w00tmedia.net^
@@ -95988,6 +95998,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||xiaoniaofei.com^
 ||xiaoniu166.wang^
 ||xiaopinwo.com^
+||xiaoqurong.com^
 ||xiaosaguniang.xyz^
 ||xiaoshuo.kp53.cn^
 ||xiaoshuo.zhandao.net^

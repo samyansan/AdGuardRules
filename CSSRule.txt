@@ -240,6 +240,7 @@
 ##body > DIV[style='display: block; width: 100%; height: 132px;']
 ##body > DIV[style='display: block; width: 100%; height: 133px;']
 ##body > [id][style*='width:100%'][style*='min-height:120px']
+##body > a[id*='hudie_']
 ##body > h1 > strong > title > a
 ##body#nr_body div.fixed ~ *
 ##body#nr_body font > [id]
@@ -283,10 +284,12 @@
 ##div.poi-row IMG[width='950'][height='300'][style='max-width:100%;height:auto']
 ##div.poi-row a > IMG[width='100%'][height='auto'][src]
 ##div.post_list_ajax > A[target='_blank']
+##div.recommend > a[id*='hudie_']
 ##div.row > DIV.md-r-panel
 ##div.row > div[id] > ul > li.cpn > a
 ##div.row.col5.clearfix:nth-of-type(2) > dl:nth-of-type(1)
 ##div.stui-pannel__bd > #t-img-box
+##div.synopsisArea > a[id*='hudie_']
 ##div.video-box > div.hf > a
 ##div:not([class]):not([id]) > a > [src*='.gif'][style*='width:100%']
 ##div[class*='bookid_ads']
