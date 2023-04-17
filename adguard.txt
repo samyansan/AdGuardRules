@@ -3,8 +3,8 @@
 ! Powerd by SamSan
 ! Description: Just a merged Adblock rule. Nothing more
 ! Expires: 6 hours (update frequency)
-! Version: 2023-04-17 14:08:44
-! Total count: 100190
+! Version: 2023-04-17 20:12:08
+! Total count: 100197
 
 ###Page-1[stroke='none'][fill='none'][fill-rule='evenodd']
 ###ad-1,#ad-2,#ad-3,#ad-4,#ad-5,#ad-6,#ad-7
@@ -44,9 +44,9 @@
 ##.zozoads
 ##A.toptxt[target='_blank']
 ##ASIDE[id^='custom_html-']
-##A[href*='.com:'][target='_blank'] > IMG[src][width='100%'][height='60px']
 ##A[href*='//v.wanfumei.net']
 ##A[href*='/adjump/?']
+##A[href*='com:'] > IMG[src],A[href*='cc:'] > IMG[src]
 ##A[href='/?'][target='_blank']
 ##A[href='/hth.html']
 ##A[href='/statics/js/ky-a.html']
@@ -6157,6 +6157,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||ad-img.diyidan.net^
 ||ad-indicator.com^
 ||ad-locus.com^
+||ad-log-upload-os.hoyoverse.com^
 ||ad-log.wemakeprice.com^
 ||ad-logging2.ap-northeast-2.elasticbeanstalk.com^
 ||ad-loupe.com^
@@ -12433,6 +12434,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||amysaghurtful.com^
 ||amywhereby.com^
 ||amzbr.com^
+||amznshirts.com^
 ||amzosmcuhci.com^
 ||amzpzylzo.com^
 ||an.acxapi.net^
@@ -18376,6 +18378,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||bgkrbh.com^
 ||bglbsb.cn^
 ||bglog.bitauto.com^
+||bgn.gg^
 ||bgnlaigv.fun^
 ||bgpng.me^
 ||bgre.kozow.com^
@@ -26211,6 +26214,8 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||crabsuperior.com^
 ||cracataum.com^
 ||crackac.com^
+||crackedpc.org^
+||cracksway.com^
 ||cradver.livejasmin.com^
 ||crafthenry.com^
 ||craftkeys.com^
@@ -30607,7 +30612,6 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||dmzls.safe-installation.com^
 ||dn*.ixinwei.com^
 ||dn-growing.qbox.me^
-||dn.msmstatic.com^
 ||dn0qt3r0xannq.cloudfront.net^
 ||dn34cbtcv9mef.cloudfront.net^
 ||dn3hksy6kf.com^
@@ -42046,6 +42050,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||hepburn.net.cn^
 ||hephedronwa.ru^
 ||heprisitho.ru^
+||hepsaign.com^
 ||heptaneleaner.com^
 ||heqinyyds.com^
 ||heqishengcai1006.xyz^
@@ -51081,6 +51086,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||lgame.qq.com^$important
 ||lganilgll.cyou^
 ||lgbxelnukhsil.xyz^
+||lgfiufyaycsh.com^
 ||lggbxf.com^
 ||lgglobal.ihago.net^
 ||lgh2.fun^
@@ -57159,6 +57165,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||microsoftsupport.xyz^
 ||microsser.cn^
 ||microstatic.pl^
+||microstrategy2023.net^
 ||microticker.com^
 ||mid.houyi.baofeng.net^
 ||midan.io^
@@ -58246,7 +58253,6 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||monkposseacre.casa^
 ||monkquestion.com^
 ||monksplatane.com^
-||monkstars.com^
 ||monkyank.com^
 ||mononoteapp.firebaseio.com^
 ||mononus.com^
@@ -62806,7 +62812,6 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||openads.org^
 ||openads.smithmag.net^
 ||openadserving.com^
-||openai-give.online^
 ||openai.reisen^
 ||openaiprize.live^
 ||openapi-news.meizu.com^
@@ -71970,6 +71975,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||rsnignsz.xyz^
 ||rsnoownmz.fun^
 ||rsntcgoowyxsu.com^
+||rsodmwkxkioj.xyz^
 ||rsrly.com^
 ||rss.dtiserv.com^
 ||rss9f.top^
@@ -74960,6 +74966,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||seriousfiles.com^
 ||seriouspartner.biz^
 ||seriouspartner.ru^
+||serioussuit.com^
 ||seriy2sviter11o9.com^
 ||serl.mooo.com^
 ||sermondirt.com^
@@ -76326,6 +76333,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||skoovyads.com^
 ||skrmzl.cn^
 ||skryptcookies.pl^
+||skt-asum.com^
 ||skuasnudish.com^
 ||skukfaokdm.com^
 ||skunk.sebastiandedeyne.com^
@@ -80881,7 +80889,6 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||storeacdn.com^
 ||storeadid.com^
 ||storeapi.net^
-||storeax.com^
 ||storebyon.com^
 ||storeconfig.mistat.intl.xiaomi.com^
 ||storedarkness.com^
