@@ -3,8 +3,8 @@
 ! Powerd by SamSan
 ! Description: Just a merged Adblock rule. Nothing more
 ! Expires: 6 hours (update frequency)
-! Version: 2023-04-25 14:08:16
-! Total count: 100454
+! Version: 2023-04-25 20:11:23
+! Total count: 100458
 
 ###Page-1[stroke='none'][fill='none'][fill-rule='evenodd']
 ###ad-1,#ad-2,#ad-3,#ad-4,#ad-5,#ad-6,#ad-7
@@ -226,6 +226,7 @@
 ##[style$="both;margin: auto;text-align: center;line-height: initial;margin-bottom: 10px;"]
 ##[style$='auto;text-align: center;line-height: initial;margin-bottom: 10px;margin-left: 20px;margin-right: 20px;']
 ##[style*='line-height: 115px; left: 0px; z-index: 0; width: 100vw; background: url']
+##[style*='width: 100% !important; margin: 0px !important; padding: 0px !important; display: flex !']
 ##[style*='width: 100% !important; margin: 0px !important; padding: 0px !important; display: flex !'] *
 ##[style='text-align: center; margin: 40px 0; color: blue; font-size: larger;']
 ##[style='top: 0vw; display: block;']
@@ -709,6 +710,8 @@ www.zhihu.com##DIV.KfeCollection-VipRecommendCard
 xc*.cos.ap-*.myqcloud.com/*.js
 ximalaya.com##.change-logo.S_q,DIV.packet-container._PC,div.less-tips._PC *
 xmh/200/200-*.gif
+xyz/kallss?
+xyz/stimulus?
 yemancomic.com##div > center > strong > button[onclick^="window.location.href"]
 yhdmp.net##[style^='bottom:'][style$='block;']
 yydstxt234.com##IMG[src^='/images/'][width='100%']
@@ -1770,7 +1773,6 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||2022fada1028.xyz^
 ||2022shoupidan1024.xyz^
 ||2022welcome.com^
-||2023-openai.com^
 ||2023-tesla.net^
 ||2023-tesla.org^
 ||2023-xrp.com^
@@ -13348,6 +13350,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||analytics2.tvreport.co.kr^
 ||analytics3.dopool.com^
 ||analytics3.starschina.com^
+||analytics4.dashboard.fingerprint.com^
 ||analyticsapi.bsbportal.com^
 ||analyticschecker.com^
 ||analyticsehnwe.servicebus.windows.net^
@@ -28927,7 +28930,6 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||daxiu01.oss-accelerate.aliyuncs.com^
 ||daxuetong.zone^
 ||daxwfrbocaaau.com^
-||day-starship.net^
 ||day13vh1xl0gh.cloudfront.net^
 ||day66.com^
 ||daygrumpyexchange.com^
@@ -29193,6 +29195,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||ddxs.xyz^
 ||ddyipu.com^
 ||de-ads.de^
+||de-expose.life^
 ||de-go.experian.com^
 ||de-mi-nis-ner.info^
 ||de-mi-nis-ner2.info^
@@ -33832,7 +33835,6 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||elonget2x.com^
 ||elongift.info^
 ||elongifts.org^
-||elongives.net^
 ||elongo2022.com^
 ||elongo22.com^
 ||elongo22.org^
@@ -35723,6 +35725,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||f1tbit.com^
 ||f1zd.com^
 ||f2.p0y.com^
+||f23jjd8.xyz^
 ||f250b19813.com^
 ||f270d8d863.com^
 ||f27tltnd.de^
@@ -37672,6 +37675,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||fpbbdx2.bmcx.com^
 ||fpbcode.onlinedown.net^
 ||fpbone.ihowguide.com^
+||fpc.fingerprint.com^
 ||fpcdn.io^
 ||fpctraffic2.com^
 ||fperefo.ru^
@@ -47938,7 +47942,6 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||jorbfstarn.com^
 ||joredi.com^
 ||jorttiuyng.com^
-||joseph-holland.com^
 ||josephinegrey.com^
 ||josh7cuba.com^
 ||josipr.com^
@@ -50931,9 +50934,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||ledgerlivewallets.com^
 ||ledgerrlivess.org^
 ||ledgers.network^
-||ledgerslive.org^
 ||ledgesprimely.com^
-||ledgqer.com^
 ||ledhatbet.com^
 ||ledhenone.com^
 ||ledian.pro^
@@ -58847,7 +58848,6 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||mrysogsix.uno^
 ||mrzhao.life^
 ||mrzikj.com^
-||ms-event.tech^
 ||ms-shoponline.top^
 ||ms-trackingapi.phenompeople.com^
 ||ms.5.p2l.info^
@@ -63018,7 +63018,6 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||openads.smithmag.net^
 ||openadserving.com^
 ||openai.reisen^
-||openai4btc.com^
 ||openaiteam.space^
 ||openapi-news.meizu.com^
 ||openapi.cymera.com^
@@ -69362,6 +69361,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||qqwwmm.com^
 ||qqwxi.xyz^
 ||qqxfybt.cn^
+||qqzbabc20.com^
 ||qqzmm.com^
 ||qqzu.com^
 ||qqzy1.cc^
@@ -70365,6 +70365,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||rebakedenosist.com^
 ||rebbredbe.com^
 ||rebdy.com^
+||rebeccatees.com^
 ||rebel.ai^
 ||rebelsubway.com^
 ||rebevengwas.com^
@@ -71733,6 +71734,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||rmtag.com^
 ||rmw.jdburl.com^
 ||rmwdn.com^
+||rmws8.com^
 ||rmxads.com^
 ||rmzbfum.cn^
 ||rn2vw3.xhamster.com^
@@ -78709,7 +78711,6 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||spacex-crew5.net^
 ||spacex-event.live^
 ||spacex-live.site^
-||spacex-starship.net^
 ||spacex-starts.com^
 ||spacex-web.net^
 ||spacex2022.space^
@@ -92573,6 +92574,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||watchsk.com^
 ||watchtaro.com^
 ||watchthistop.net^
+||watchtopapps.com^
 ||water-bed.8p.org.uk^
 ||waterboa.midu.dev^
 ||waterfairy.xyz^
@@ -93663,6 +93665,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||widget-pixels.outbrain.com^
 ||widget-view.dmm.co.jp^
 ||widget-view.dmm.com^
+||widget.admiral.hr^
 ||widget.boende.se^
 ||widget.cdn.citygate.se^
 ||widget.chat.zalo.me^
@@ -96472,6 +96475,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||xiaodongjun.com^
 ||xiaodongrui.com^
 ||xiaoertuina.top^
+||xiaofangtongzhi.xy^
 ||xiaofashi.top^
 ||xiaogouzhuanqian.cn^
 ||xiaoguojiang.xyz^
