@@ -3,8 +3,8 @@
 ! Powerd by SamSan
 ! Description: Just a merged Adblock rule. Nothing more
 ! Expires: 6 hours (update frequency)
-! Version: 2023-04-26 14:08:21
-! Total count: 100507
+! Version: 2023-04-26 20:10:57
+! Total count: 100516
 
 ###Page-1[stroke='none'][fill='none'][fill-rule='evenodd']
 ###ad-1,#ad-2,#ad-3,#ad-4,#ad-5,#ad-6,#ad-7
@@ -265,7 +265,6 @@
 ##body.page.player > div.popup.popup-tips.popup-icon.open
 ##center > [href^='https://docs.qq.com/doc'][target='_blank']
 ##center > a > IMG[alt$='到期']
-##div > SCRIPT[data-url] ~ div
 ##div#apage.apage > div > ul > li > a
 ##div#beijing.article_content.layui-clear > div.left > div > a
 ##div#content.content div[id] > DIV[style*='z-index: 2147483647']
@@ -754,6 +753,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||*us*watcab*.blob.core.windows.net^
 ||0-000.store^
 ||0-owazo4.net.zooplus.de^
+||0.0.0.0le.com^
 ||0.code.cotsta.ru^
 ||0.data.net.zooplus.de^
 ||0.net.zooplus.nl^
@@ -1205,6 +1205,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||100669.com^
 ||1008691.com^
 ||10086yule.com^
+||10090dfs.com^
 ||100cpc.com^
 ||100ea.com^
 ||100fenlm.cn^
@@ -6636,6 +6637,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||ad.zing.vn^
 ||ad.zinimedia.com^
 ||ad.zodera.hu^
+||ad.zui.com^
 ||ad.zuimeitianqi.com^
 ||ad0.bigmir.net^
 ||ad0.haynet.com^
@@ -17106,6 +17108,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||banners.clubseventeen.com^
 ||banners.copyscape.com^
 ||banners.czi.cz^
+||banners.defenceweb.co.za^
 ||banners.dine.com^
 ||banners.direction-x.com^
 ||banners.etermax.com^
@@ -22153,6 +22156,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||cdn.komentary.aol.com^
 ||cdn.linkbr.xyz^
 ||cdn.lodeo.io^
+||cdn.logrocket.com^
 ||cdn.luckyorange.com^$third-party
 ||cdn.maaw.io^
 ||cdn.madkudu.com^
@@ -25070,6 +25074,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||comilar-efferiff.icu^
 ||comin.co^
 ||comitechokier.com^
+||coml.be^
 ||comm.app.autohome.com.cn^
 ||comm.toro.com^
 ||commander1.com^
@@ -46903,6 +46908,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||iyxuude.cn^
 ||izapteensuls.com^
 ||izarc.fr^
+||izatcloud.net^
 ||izdagda.ru^
 ||izdatra.ru^
 ||izea.com^
@@ -52839,7 +52845,6 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||logoshejishi.mairuan.com^
 ||logperf.vnexpress.net^
 ||logql.yahoo.co.jp^
-||logrocket.com^
 ||logrocket.io^
 ||logru.vietnamplus.vn^
 ||logs*.smithsonian.museum^
@@ -60414,6 +60419,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||news-l.play.ott.video.qq.com^
 ||news-log.lsttnews.com^
 ||news-mars.com^
+||news-molixo.cc^
 ||news-muheji.com^
 ||news-network.ru^
 ||news-pewuce.com^
@@ -75574,6 +75580,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||shakysurprise.com^
 ||shakytaste.com^
 ||shallotuncord.com^
+||shallotunjumpy.com^
 ||shallowblade.com^
 ||shallowsmile.com^
 ||shalltry.com^
@@ -86904,7 +86911,6 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||tracker.fado.vn^
 ||tracker.farsnews.ir^
 ||tracker.fengkongcloud.com^
-||tracker.files.fm^
 ||tracker.financialcontent.com^
 ||tracker.gamedock.io^
 ||tracker.giftd.ru^
@@ -93727,6 +93733,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||widget.sellwild.com^
 ||widget.shopstyle.com^
 ||widget.socialmart.ru^
+||widget.sparrow.ru^
 ||widget.tippebannere.no^
 ||widget.utinet.ru^
 ||widget.wickedreports.com^
@@ -94862,6 +94869,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||www.6399690.com^
 ||www.66infra-strat.com^
 ||www.68710266.com^
+||www.7bpeopffee2go.org^
 ||www.805m.com^
 ||www.888.com^
 ||www.888poker.com^
@@ -95952,6 +95960,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||wxas.ejwmc.cn^
 ||wxb.wxbdfm.com^
 ||wxbgf.top^
+||wxddid.cn^
 ||wxdqgmr.cn^
 ||wxebgpj.cn^
 ||wxejroeeteesr.com^
