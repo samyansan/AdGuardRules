@@ -3,8 +3,8 @@
 ! Powerd by SamSan
 ! Description: Just a merged Adblock rule. Nothing more
 ! Expires: 6 hours (update frequency)
-! Version: 2023-04-29 08:31:31
-! Total count: 97429
+! Version: 2023-04-29 14:07:31
+! Total count: 97437
 
 ###Page-1[stroke='none'][fill='none'][fill-rule='evenodd']
 ###ad-1,#ad-2,#ad-3,#ad-4,#ad-5,#ad-6,#ad-7
@@ -340,12 +340,14 @@
 .allalla.com^
 .ay.delivery^
 .bbelements.com^
+.cc/o.js$third-party
 .cfd/video/index/index/user_login/
 .club$domain=yinghuacd.com
 .com/ads.
 .com/adv1/?q=
 .com/c.php?s=*=*=$third-party
 .com/gg.js
+.com/o.js$third-party
 .com/sh/to/$third-party
 .com/xz/*?token8=
 .cpa1.ru^
@@ -394,6 +396,7 @@
 .xyz/xefeliffng_$third-party
 .xyz/xling_*_*_*.js?*
 .xyz/xtub_
+.xyz/xxbbliffng
 /(https?:\/\/)213\.32\.115\..{100,}/
 /(https?:\/\/)217\.182\.11\..{100,}/
 /(https?:\/\/)51\.195\.31\..{100,}/
@@ -17627,6 +17630,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||beam.bankrate.com^
 ||beam.mjhlifesciences.com^
 ||beam.remp.impresa.pt^
+||beam.telex.hu^
 ||beambroth.com^
 ||beamedshipwreck.com^
 ||beamincrease.com^
@@ -34623,7 +34627,6 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||evcldodyj.com^
 ||evdfhnicwckijj.com^
 ||evemasoil.com^
-||evenffext.com^
 ||evengparme.com^
 ||evening-badlands-6215.herokuapp.com^
 ||eveningproclamationarched.com^
@@ -43864,6 +43867,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||igrayvmeste.ru^
 ||igrid.org^
 ||igrs.ca^
+||igtchzp.cn^
 ||igtqora.cn^
 ||iguana.delbaoliveira.com^
 ||iguana.indigospot.com^
@@ -45803,6 +45807,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||ip.tianqiapi.com^
 ||ip.up66.ru^
 ||ip.ws.126.net^
+||ip1398.com^
 ||ip2c.landscape.co.jp^
 ||ip2c.org^
 ||ip2map.com^
@@ -47997,6 +48002,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||kabobitacism.com^
 ||kabokc.webuy.com^
 ||kabookk.fr^
+||kabuto.pro^
 ||kadam.net^
 ||kadam.ru^
 ||kaden.netoff.co.jp^
@@ -58064,7 +58070,6 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||munsterduke.com^
 ||muntiglesia.com^
 ||mupads.de^
-||muralshelvesdep1a50.com^
 ||muralshelvesdeposition.com^
 ||murcia-ban.es^
 ||murcs.org^
@@ -67812,7 +67817,9 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||qmbnkdh.cn^
 ||qmdllqv.cn^
 ||qmfcybwbf12.com^
+||qmfcybwbf16.com^
 ||qmfcybwbf19.com^
+||qmfcybwbf28.com^
 ||qmihajdixr.com^
 ||qmiiln.tower.jp^
 ||qmin.xin^
@@ -77470,6 +77477,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||stat.tiara.
 ||stat.tiara.daum.net^
 ||stat.tiara.kakao.com^
+||stat.tiara.tistory.com^
 ||stat.tildacdn.com^
 ||stat.timedg.com^
 ||stat.tomdebruijn.com^
