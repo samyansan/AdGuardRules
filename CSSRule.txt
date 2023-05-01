@@ -47,8 +47,6 @@
 ##A[href='http://k023055.com']
 ##A[href='http://kkyty29.cc/']
 ##A[href='http://x5123.cc/']
-##A[href][target='_blank'] > IMG[src$='.gif'][width='100%'][height='120px']
-##A[href][target='_blank'] > IMG[src$='.gif'][width='100%'][height='60px']
 ##A[href^='http'][style^='display:block;left:0;right:0;position:fixed;border-left:']
 ##A[href^='http://cszb420.tinawd81.com/']
 ##A[href^='http://h5.shangjinssp.com/sjprom'][style='display:block;']
@@ -65,7 +63,6 @@
 ##A[target='_blank'] > IMG[width='100%'][src*='.gif']
 ##A[target='_blank'][href*='/auth/register?code=']
 ##BODY > DIV.ggcontainer
-##DIV#ad-index.col-12.position-relative
 ##DIV#advertisings.advertising
 ##DIV#bannerCtrl.source_container.swiper-wrapper
 ##DIV#bfad
@@ -83,7 +80,6 @@
 ##DIV.appdownload_ad
 ##DIV.bot-per-context[data-width='728'][data-height='90']
 ##DIV.box-width.ec-ad
-##DIV.box-width.ec-ad.ec-ad-double.flex
 ##DIV.code-block[style='margin: 8px 0; clear: both;']
 ##DIV.col-4.col-sm-2.col-xl-2.px-1.px-sm-2.pb-3.pt-3.pt-sm-0.d-block.d-sm-none
 ##DIV.col-lg-3.col-md-3.col-sm-4.col-12.item.p-0.px-1
@@ -275,7 +271,6 @@
 ##div.container > DIV.t-img-box
 ##div.container > IFRAME[align][width][src][border][height]
 ##div.container > div.row div.yalayi_box
-##div.container > div.t-img-box > A[href][target='_blank']
 ##div.flex-1.order-first > DIV.under_player
 ##div.homepage > div.main > div.content > DIV[style='width:100%;height:180px']
 ##div.inn-content-reseter > a > IMG[decoding='async'][loading='lazy']
@@ -332,7 +327,6 @@ baidu.com##.ec_wise_ad
 baidu.com##.rel-exp-feed-ad-item
 baidu.com##DIV.c-result.result[srcid='mkt_ad_space']
 baidu.com##[class^='ball-wrapper']
-baidu.com##[style^="bottom:"][class^="ball-wrapper__"]
 baidu.com##a.ball-wrapper__3BTBO.c-blocka
 baidu.com##div#J-super-layer-promote
 baidu.com##div.ec_ad_results
@@ -449,7 +443,7 @@ wk.baidu.com##DIV.fc-ad-wrap
 wk.baidu.com##DIV.middle-box-root
 www.123pan.com##IMG[src*='-banner']
 www.aiwuav.xyz##A.toptxt,IMG[src*='.gif'][alt],SPAN[class^="clobox"],IMG[width='100%'][src*='.gif']
-www.baidu.com###content_left > *:not([id]) *,[class="result c-container new-pmd"][id="1"][tpl="se_com_default"][data-click="{"]
+www.baidu.com###content_left > *:not([id]) *,[class="result c-container new-pmd"][id="1"][tpl="se_com_default"][data-click]
 www.baidu.com#@#div[class*="ads"]
 www.baidu.com,m.baidu.com##DIV[class='qrcode call']
 www.dbbqb.com##DIV.MuiPaper-root
@@ -481,7 +475,7 @@ ximalaya.com##.change-logo.S_q,DIV.packet-container._PC,div.less-tips._PC *
 yemancomic.com##div > center > strong > button[onclick^="window.location.href"]
 yhdmp.net##[style^='bottom:'][style$='block;']
 yydstxt234.com##IMG[src^='/images/'][width='100%']
+zhidao.baidu.com###knowledge-answer-list
 zhidao.baidu.com##.doodle-container,.feed-recommend,.wgt-recommend-business,[class*="-ads"],[class*="related-yxiao-item"],[class*="icon-bdad"],[class*="-youx"]
-zhidao.baidu.com##[id='knowledge-answer-list']
 zhihu.com##A.MHotFeedAd,.MRelateFeedAd,.WeiboAd-wrap,.AdvertImg.AdvertImg--isLoaded.MBannerAd-image,.Banner-adTag,[href='https://maimai.cn/']
 zol.com.cn##A.dingtong.xianshiyouhui
