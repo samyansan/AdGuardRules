@@ -3,8 +3,8 @@
 ! Powerd by SamSan
 ! Description: Just a merged Adblock rule. Nothing more
 ! Expires: 6 hours (update frequency)
-! Version: 2023-08-22 08:28:27
-! Total count: 130983
+! Version: 2023-08-22 14:08:02
+! Total count: 131082
 
 */letv-gug/$media,object-subrequest,xhr
 */preroll/$media,domain=91porn.com
@@ -241,6 +241,7 @@ zhiziyun.com
 |https://static.cloudflareinsights.com/beacon.min.js^$xhr,script
 |https://tellme.pw/go/jav$popup
 |piwik.
+||*-ad.a.yximgs.com^
 ||*-analytics*.huami.com^
 ||*.exaapi.com^
 ||*.m.cn.miaozhen.com^
@@ -260,6 +261,7 @@ zhiziyun.com
 ||*tsdk.vivo.com.cn^
 ||*us*watcab*.blob.core.windows.net^
 ||0-000.store^
+||0.0.0.0.0.0.0breakingnewsasia.com^
 ||0.101tubeporn.com^
 ||0.code.cotsta.ru^
 ||00-gov.cn^
@@ -1004,6 +1006,7 @@ zhiziyun.com
 ||16niao20230125.live^
 ||17.huanqiu.com^
 ||170yy.com^
+||1717.1000uc.com^
 ||17173.com/batch_show?ads=
 ||17173.com/if/$script,subdocument
 ||1717gs.com^
@@ -1153,7 +1156,6 @@ zhiziyun.com
 ||1e2hyl3b.wq42211.com^
 ||1e90.pandasuite.io^
 ||1eb76ce5b7.com^
-||1ecosolution.it^
 ||1ejaculationinterne.com^
 ||1empiredirect.com^
 ||1ep2l1253.de^
@@ -2035,7 +2037,6 @@ zhiziyun.com
 ||35volitantplimsoles5.com^
 ||360.2-vr.com^
 ||360.anatic.net^
-||360.lcy2zzx.pw^
 ||3600.com^
 ||360114.xyz^
 ||36060.xyz^
@@ -2141,6 +2142,7 @@ zhiziyun.com
 ||39nw.com^
 ||3a29f8bf84.com^
 ||3a3614d13f.com^
+||3a98f4e936.com^
 ||3adae883b0.com^
 ||3advlqyrzenj.top^
 ||3ajhsvjdasd12.monster^
@@ -2363,6 +2365,7 @@ zhiziyun.com
 ||4556.de^
 ||4567.org^
 ||45a8826890.com^
+||45c8478c1a.com^
 ||45eijvhgj2.com^
 ||45tu1c0.com^
 ||460ea5280e.com^
@@ -3631,6 +3634,7 @@ zhiziyun.com
 ||84zm8.xyz^
 ||8500.pro^
 ||85058s.com^
+||8509717d76.com^
 ||851ae974fe.com^
 ||8563p.cn^
 ||8574dnj3yzjace8c8io6zr9u3n.hop.clickbank.net^
@@ -4229,6 +4233,7 @@ zhiziyun.com
 ||a-static.com^
 ||a-t.topya.com^
 ||a-waiting.com^
+||a.0.0.0ads.isoftmarketing.com^
 ||a.10tianqi.com^
 ||a.123porner.com^
 ||a.123porner.net^
@@ -6443,6 +6448,7 @@ zhiziyun.com
 ||abmail.peak.net^
 ||abmail.test.iheart.com^
 ||abmail2.e.hungryjacks.com.au^
+||abmaxdigital.com^
 ||abmeldung.information.o2.de^
 ||abmeldung.information.whatsappsim.de^
 ||abmr.net^
@@ -12670,6 +12676,7 @@ zhiziyun.com
 ||agweaaf.net^
 ||agweaaf.org^
 ||agxclick.com^
+||agxifqyum.xyz^
 ||agzxj8990.com^
 ||ah-ha.com^
 ||ah-qichen.com^
@@ -13502,6 +13509,7 @@ zhiziyun.com
 ||alfa-img.com^
 ||alfa-tel.sk^
 ||alfa9.com^
+||alfabiz.co.ke^
 ||alfainternet.su^
 ||alfapro.ru^
 ||alfasense.com^
@@ -13590,6 +13598,7 @@ zhiziyun.com
 ||alime-customer-upload-cn-hangzhou.oss-cn-hangzhou.aliyuncs.com^
 ||alime-pic.oss-cn-hangzhou.aliyuncs.com^
 ||alimonyarmisticesnap.com^
+||alinac.ca^
 ||alinesappels.com^
 ||alini.de^
 ||alininginfeft.uno^
@@ -15255,6 +15264,7 @@ zhiziyun.com
 ||anbstudios.com^
 ||anbszohtaox.com^
 ||ancdwlavstghmr.com^
+||anceenablesas.info^
 ||anchoicstage.com^
 ||anchovymedieval.com^
 ||anchovysuccession.com^
@@ -15817,6 +15827,7 @@ zhiziyun.com
 ||apester.com^
 ||apetite.index.hr^
 ||apex-ad.com^
+||apex.ps^
 ||apexcdn.com^
 ||apexstats.com^
 ||apextag.com^
@@ -15880,7 +15891,6 @@ zhiziyun.com
 ||api-log.immomo.com^
 ||api-logdev.sohatv.vn^
 ||api-mf1.meta.ndmdhs.com^
-||api-ms.cobainaja.id^
 ||api-n.outgrow.co^
 ||api-push.com^
 ||api-push.meizu.com^
@@ -15903,7 +15913,6 @@ zhiziyun.com
 ||api.247-inc.net^
 ||api.24kidea.com^
 ||api.51sxzz.com^
-||api.52kkg.com^
 ||api.52youtu.com^
 ||api.557400.com^
 ||api.5eln.cn^
@@ -15950,7 +15959,6 @@ zhiziyun.com
 ||api.axept.io^
 ||api.axiatraders.com^
 ||api.bailingjiankang.com^
-||api.baimless.com^
 ||api.beaconsinspace.com^
 ||api.bilibili.com/x/web-show/res/loc?pf=$~script
 ||api.bitmango.com^
@@ -16918,6 +16926,7 @@ zhiziyun.com
 ||apps.nhk.jp^
 ||apps.nielsen.com^
 ||apps.poln.co^
+||apps.saintsoporte.com^
 ||apps.shakaguide.com^
 ||apps.shareaholic.com^
 ||apps.software.netsimplicity.com^
@@ -17418,7 +17427,6 @@ zhiziyun.com
 ||artistperhapscomfort.com^
 ||artizaa.com^
 ||artlessdevote.com^
-||artmediastudio.ro^
 ||artpainting.indonesiya.com^
 ||artpever.com^
 ||artreconnect.com^
@@ -17918,6 +17926,7 @@ zhiziyun.com
 ||asttcp.vatera.hu^
 ||astumbreonon.com^
 ||astyk.cn^
+||asu.com.vn^
 ||asu05mm.cn^
 ||asukahan.xyz^
 ||asukedrev.com^
@@ -18732,6 +18741,7 @@ zhiziyun.com
 ||awsurveys.com^
 ||awsync.yandex.ru^
 ||awtks.com^
+||awtqbjylk.com^
 ||awuapj.landwatch.com^
 ||awugxvrmsdalpx.com^
 ||awutohkhu.com^
@@ -18906,6 +18916,7 @@ zhiziyun.com
 ||azkcqs.com^
 ||azlej8cdm.pragmaticwebsecurity.com^
 ||azlyta.immowelt.de^
+||azmeasurement.com^
 ||azmnp.com^
 ||azmrimo.com^
 ||azmsmufimw.com^
@@ -19170,6 +19181,7 @@ zhiziyun.com
 ||b58ncoa1c07f.com^
 ||b59.xyz^
 ||b5903af9fd.com^
+||b5942f941d.com^
 ||b59812ee54afcabd.com^
 ||b5e75c56.com^
 ||b5h7.com^
@@ -20869,6 +20881,7 @@ zhiziyun.com
 ||belwrite.com^
 ||belyyeusy.com^
 ||bemachopor.com^
+||bemascloche.life^
 ||bembexpps.life^
 ||bemchain.io^
 ||bemireulling.com^
@@ -21168,6 +21181,7 @@ zhiziyun.com
 ||beterrakionan.com^
 ||betgdr.xyz^
 ||betgorebysson.club^
+||bethelmbcarvada.org^
 ||bethelskneeler.website^
 ||bethinkparah.com^
 ||betimbur.com^
@@ -21279,6 +21293,7 @@ zhiziyun.com
 ||bfmio.com^
 ||bfoleyinteractive.com^
 ||bformu12.tk^
+||bfovysc.com^
 ||bfp.capitalone.com^
 ||bfqcx.xyz^
 ||bfqwfpjdgc.com^
@@ -21481,6 +21496,7 @@ zhiziyun.com
 ||biexsite.net^
 ||biforinslogs.life^
 ||bifrontgaiter.com^
+||bifsujtwmpojqpt.com^
 ||bifyeldv.top^
 ||big-hunter.com^
 ||big-loads.com^
@@ -22003,6 +22019,7 @@ zhiziyun.com
 ||blamedbuckie.fun^
 ||blancheavily.uno^
 ||bland-husband.com^
+||blanddish.pro^
 ||blaneo.com^
 ||blast4traffic.com^
 ||blastcahs.com^
@@ -22880,6 +22897,7 @@ zhiziyun.com
 ||bowlingunauthorized.com^
 ||bowlsolicitor.com^
 ||bowmoolog.com^
+||bowtellwhincow.cfd^
 ||box-en.com^
 ||box.anchorfree.net^
 ||box.bossdata.be^
@@ -23457,6 +23475,7 @@ zhiziyun.com
 ||brsrvr.com^
 ||brstke.top^
 ||brt.studylabs.cn^
+||brtenusjkmgyb.com^
 ||brtimove.eccocar.com^
 ||brtimovesharing.eccocar.com^
 ||brtom.ru^
@@ -24075,6 +24094,7 @@ zhiziyun.com
 ||bwads24.com^
 ||bwandlv.top^
 ||bwb101.goo.ne.jp^
+||bwbmyzvjnqlwv.top^
 ||bwbw2kje848hsmla.ru^
 ||bwcdn.xyz^
 ||bwdhuanbao.com^
@@ -24513,6 +24533,7 @@ zhiziyun.com
 ||c2i-cdn.startappnetwork.com^
 ||c2i.startappnetwork.com^
 ||c2s.startappnetwork.com^
+||c2shb.pubgw.yahoo.com^
 ||c2shb.ssp.yahoo.com^
 ||c3.cembuyukhanli.com^
 ||c3.myapkcdn.in^
@@ -24961,6 +24982,7 @@ zhiziyun.com
 ||canarytokens.com^
 ||canastagruff.com^
 ||canata.trekkww.fun^
+||canconsulting.in^
 ||candac.iridion.de^
 ||canddi.com^
 ||candid.zone^
@@ -25019,6 +25041,7 @@ zhiziyun.com
 ||canzonicassons.com^
 ||canzoscomply.com^
 ||canzosswager.com^
+||cao-gao.xyz^
 ||cao444cao.com^
 ||caodaye.com^
 ||caoefe.shop^
@@ -25233,6 +25256,7 @@ zhiziyun.com
 ||casalemedia.com.edgekey.net^
 ||casalemedia.com^
 ||casalmedia.com^
+||casamuseoayerbe.co^
 ||casavawedder.com^
 ||casavec.com^
 ||casbanlly.com^
@@ -26970,6 +26994,7 @@ zhiziyun.com
 ||chippedaugur.com^
 ||chipteeamz.com^
 ||chiptionics.co^
+||chiptune.com^
 ||chirkacylal.com^
 ||chiroouterly.com^
 ||chirppronounceaccompany.com^
@@ -27244,6 +27269,7 @@ zhiziyun.com
 ||cipani.in^
 ||cipdn.com^
 ||cipledecline.buzz^
+||cipro.mx^
 ||cipustar.com^
 ||ciqtracking.com^
 ||ciqwzifwufwu.com^
@@ -28319,6 +28345,7 @@ zhiziyun.com
 ||cloudshare.uploadbox.world^
 ||cloudsponcer.com^
 ||cloudtracer101.com^
+||cloudtrack-camp.com^
 ||cloudtraff.com^
 ||cloudvideosa.com^
 ||cloudweekly.vip^
@@ -28713,6 +28740,7 @@ zhiziyun.com
 ||coachquartz.com^
 ||coacil.com^
 ||coads.akipress.org^
+||coadymarine.com^
 ||coakstooled.website^
 ||coalbagbices.website^
 ||coaphauk.net^
@@ -28982,6 +29010,7 @@ zhiziyun.com
 ||colintoxicate.com^
 ||colinuncaps.com^
 ||colisismo.fr^
+||colisumy.com^
 ||coll1onf.com^
 ||coll2onf.com^
 ||collaborate.blackboard.com^
@@ -31206,6 +31235,7 @@ zhiziyun.com
 ||creatives1.ftimg.net^
 ||creativesumo.com^
 ||creativeteam.it^
+||creativetourlips.com^
 ||creativlonk.fr^
 ||creatopy-adtag-production.b-cdn.net^
 ||creator.zmags.com^
@@ -31840,6 +31870,7 @@ zhiziyun.com
 ||curriculture.com^
 ||curseaprilsnow.com^
 ||curseintegralproduced.com^
+||cursodeparapsicologia.org^
 ||cursordownstairs.com^
 ||cursormedicabnormal.com^
 ||cursors-4u.net^
@@ -32781,6 +32812,7 @@ zhiziyun.com
 ||d2fhjyz3dwdx87.cloudfront.net^
 ||d2fhrdu08h12cc.cloudfront.net^
 ||d2fj3s7h83rb61.cloudfront.net
+||d2fmtc7u4dp7b2.cloudfront.net^
 ||d2focgxak1cn74.cloudfront.net^
 ||d2foi16y3n0s3e.cloudfront.net^
 ||d2fsfacjuqds81.cloudfront.net^
@@ -32870,6 +32902,7 @@ zhiziyun.com
 ||d2pxb4n3f9klsc.cloudfront.net^
 ||d2pxbld8wrqyrk.cloudfront.net^
 ||d2q52i8yx3j68p.cloudfront.net^
+||d2q7jbv4xtaizs.cloudfront.net^
 ||d2q9y3krdwohfj.cloudfront.net^
 ||d2qhg50jab93jy.cloudfront.net^
 ||d2qmp7jjpd79k7.cloudfront.net^
@@ -33431,6 +33464,7 @@ zhiziyun.com
 ||dagcoin.org^
 ||dagd0kz7sipfl.cloudfront.net^
 ||dagft.cn^
+||daggapartley.life^
 ||dagnar.com^
 ||dagombaasteism.digital^
 ||dagwi.cn^
@@ -36573,6 +36607,7 @@ zhiziyun.com
 ||debadu.com^
 ||debatableslippers.com^
 ||debatminkish.uno^
+||debauchavailable.com^
 ||debeigecraver.live^
 ||debism.com^
 ||debitcrebit669.com^
@@ -37225,6 +37260,7 @@ zhiziyun.com
 ||devifoodgrains.com^
 ||devilspanmute.com^
 ||devilwholehorse.com^
+||devises-dz.com^
 ||devisprox-media.s3-website-eu-west-1.amazonaws.com^
 ||devkiforyou.org^
 ||devlink.saganworks.com^
@@ -37284,6 +37320,7 @@ zhiziyun.com
 ||df5b.top^
 ||df77.com^
 ||df80k0z3fi8zg.cloudfront.net^
+||df8588.top^
 ||df888.eastday.com^
 ||df9377.com^
 ||dfadas13.com^
@@ -37362,6 +37399,7 @@ zhiziyun.com
 ||dg.ghosttty.cn^
 ||dg.irco.com^
 ||dg.yiran686.cn^
+||dg0hrtzcus4q4.cloudfront.net^
 ||dg186.cn^
 ||dgafgadsgkjg.top^
 ||dgaoz.com^
@@ -37582,7 +37620,6 @@ zhiziyun.com
 ||dicheeph.com^
 ||dichoabs.net^
 ||dicinging.co.in^
-||diclegrup.org^
 ||diclotrans.com^
 ||dicotrebill.digital^
 ||dictatepantry.com^
@@ -37615,7 +37652,6 @@ zhiziyun.com
 ||dieka888.com^
 ||diekd.xyz^
 ||diench.com^
-||dienmay01.maudemo.com^
 ||dierussensindschuld.de^
 ||diesilberamis.meeriwelt.de^
 ||diet-pills.hut1.ru^
@@ -37633,6 +37669,7 @@ zhiziyun.com
 ||differfundamental.com^
 ||difficultfog.com^
 ||difficultydilapidationsodium.com^
+||difficultyhobblefrown.com^
 ||diffusion-tracker.com^
 ||difice-milton.com^
 ||difiel.com^
@@ -38359,7 +38396,6 @@ zhiziyun.com
 ||dl-test.rivafashion.com^
 ||dl-vip.bav.baidu.com^
 ||dl-vip.pcfaster.baidu.co.th^
-||dl.1003b.56a.com^
 ||dl.4buy.net^
 ||dl.4kporn.xxx^
 ||dl.6thstreet.com^
@@ -38460,6 +38496,7 @@ zhiziyun.com
 ||dlovet.cn^
 ||dlp.egghead.link^
 ||dlpifu.com^
+||dlqsclub.com^
 ||dlqxdonofwsfes.xyz^
 ||dlqxtm.sssports.com^
 ||dlrcoalbin.com^
@@ -38830,6 +38867,7 @@ zhiziyun.com
 ||doll9jiva.com^
 ||dollarade.com^
 ||dollardelta.com^
+||dollargrimlytommy.com^
 ||dollarsponsor.com^
 ||dollarsurvey365.org^
 ||dolldetail.com^
@@ -38981,6 +39019,7 @@ zhiziyun.com
 ||dopemobi.offerstrack.net^
 ||dopestore.pl^
 ||dopiesttrotter.com^
+||dopmmzn.com^
 ||dopor.info^
 ||doporuc.hopsej.cz^
 ||doporuc.konferenceryba.cz^
@@ -39134,9 +39173,7 @@ zhiziyun.com
 ||down.bugeyu.com^
 ||down.dashendown.com^
 ||down.nishuoa.com^
-||down.pcclear.com^
 ||down.suyx.net^
-||down.udashi.com^
 ||down.xiazaidc.com^
 ||down.xiazaiyuan.net^
 ||down1oads.com^
@@ -39163,7 +39200,6 @@ zhiziyun.com
 ||download.createyournextcustomer.com^
 ||download.dackinc.com^
 ||download.dnv.com^
-||download.doumaibiji.cn^
 ||download.frolit.io^
 ||download.fuyuncc.com^
 ||download.getneema.com^
@@ -39486,7 +39522,6 @@ zhiziyun.com
 ||dronelskipper.com^
 ||drongostetch.com^
 ||dronml.ml^
-||droomsoft.com^
 ||dropbox-download-eu.com^
 ||dropbox-download.com^
 ||dropbox-en.com^
@@ -39791,6 +39826,7 @@ zhiziyun.com
 ||duginamis.com^
 ||dugothitachan.com^
 ||duhtate.ru^
+||duiba.com.cn^
 ||duier.top^
 ||duilin.me^
 ||duimspruer.life^
@@ -40539,6 +40575,7 @@ zhiziyun.com
 ||e.kjfhe.com^
 ||e.kjhfy.com^
 ||e.kl6636.net^
+||e.kuaishou.cn^
 ||e.kuaishou.com^
 ||e.kunpp.com^
 ||e.kwjkd.com^
@@ -41033,6 +41070,7 @@ zhiziyun.com
 ||earnbigo.com^
 ||earnco.in^
 ||earncoins.club^
+||earnestnessmodifiedsealed.com^
 ||earnify.com^
 ||earningsrapt.com^
 ||earnlivingonline.net^
@@ -41881,7 +41919,6 @@ zhiziyun.com
 ||egwis.com^
 ||egyazegyben.com^
 ||egyenesen.com^
-||egyfruitcorner.com^
 ||egynvnnlhywq.com^
 ||egyptpolarity.com^
 ||egyubvcjdurg.xyz^
@@ -41898,6 +41935,7 @@ zhiziyun.com
 ||ehedwd.sikayetvar.com^
 ||ehfgifjjhdaejjajacj.ru^
 ||ehfjup.xyz^
+||ehg-learnietnet.com^
 ||ehg-youtube.hitbox.com^
 ||ehhlmn.nordfishing77.at^
 ||ehk.trenhdg.com^
@@ -42059,6 +42097,7 @@ zhiziyun.com
 ||elecur.com^
 ||elegant-creator.com^
 ||elegantkhamsin.life^
+||elegiachalo.website^
 ||elegrina.com^
 ||elementalantecedent.com^
 ||elementarydrypoverty.com^
@@ -42336,6 +42375,7 @@ zhiziyun.com
 ||eltxarqgwngybfi.com^
 ||elusiveanxiouslyruns.com^
 ||eluxer.net^
+||elvalledetarrazu.com^
 ||elvfdnj.cn^
 ||elvidro.ru^
 ||elvirahedwig.com^
@@ -43480,6 +43520,7 @@ zhiziyun.com
 ||esputnik.com^
 ||esqc.xyz^
 ||esqjac.costakreuzfahrten.de^
+||esquiudigital.com^
 ||esqxrp.bonprix-fl.be^
 ||esrjoez.cn^
 ||esrpkd.com^
@@ -43521,6 +43562,7 @@ zhiziyun.com
 ||estrinuprise.guru^
 ||estuantunsnow.com^
 ||estuousopalish.guru^
+||esumeformo.info^
 ||esure.wang^
 ||esuzm.cn^
 ||eswaldderinao.xyz^
@@ -43633,6 +43675,7 @@ zhiziyun.com
 ||ethnicmovescrupulous.com^
 ||ethnicscrozers.com^
 ||ethnio.com^
+||ethoamee.xyz^
 ||ethod.gzgmjcx.com^
 ||ethoxyblindly.com^
 ||ethresholdouc.xyz^
@@ -44169,6 +44212,7 @@ zhiziyun.com
 ||evyy.net^
 ||evzhzppj5kel.com^
 ||evzimlox.cn^
+||evzonesglowfly.cfd^
 ||evzxlgstwcai.com^
 ||ew.physciahat.com^
 ||ew.politros.com^
@@ -44469,6 +44513,7 @@ zhiziyun.com
 ||exprealty377.myre.io^
 ||express-submit.de^
 ||expressalike.com^
+||expressionsofwood.ca^
 ||expressmovers.com^
 ||expressproducer.com^
 ||expuge.com^
@@ -45835,7 +45880,6 @@ zhiziyun.com
 ||fichier-pdfr.fr^
 ||fictiongroin.com^
 ||ficusoid.xyz^
-||fidelbringas.com^
 ||fidelity-media.com^
 ||fidelitybask.com^
 ||fiehff.com^
@@ -46383,6 +46427,7 @@ zhiziyun.com
 ||flambo777.ru
 ||flamboyantlionessliability.com^
 ||flamebeard.top^
+||flamenewton.com^
 ||flameorganizer.com^
 ||flamingo.abihome.de^
 ||flamingo.apatonsrompus.com^
@@ -46568,6 +46613,7 @@ zhiziyun.com
 ||flu.cc^
 ||flu23.com^
 ||fluctuo.com^
+||fluemantappall.guru^
 ||fluencydepressing.com^
 ||fluencymedia.com^
 ||fluentmobile.com^
@@ -46714,6 +46760,7 @@ zhiziyun.com
 ||focusde.info^
 ||focused.wang^
 ||focuseddroppedhoarfrost.com^
+||focusin.ads.targ0.0.0vast.vertamedia.com^
 ||focusonus.top^
 ||focusporn.com^
 ||fodder.qq.com^
@@ -48487,6 +48534,7 @@ zhiziyun.com
 ||garouspostern.com^
 ||garretcanvasseruption.com^
 ||garretram.com^
+||garricketiam.website^
 ||garumlabia.com^
 ||gas-sensing.spec-sensors.com^
 ||gas.data.pplive.com^
@@ -51409,6 +51457,7 @@ zhiziyun.com
 ||greenheartmed.org^
 ||greenhouseglobal.cn^
 ||greeninst.com^
+||greenisco.com^
 ||greenjapan-cname.green-japan.com^
 ||greenlight-val.looksmart.com^
 ||greenlinknow.com^
@@ -53771,6 +53820,7 @@ zhiziyun.com
 ||hitslog.com^
 ||hitsniffer.com^
 ||hitsprocessor.com^
+||hitstation.nl^
 ||hitstatus.com^
 ||hitsteps.com^
 ||hittail.com^
@@ -53849,6 +53899,7 @@ zhiziyun.com
 ||hjqwe.com^
 ||hjrwwwlqcovom.com^
 ||hjryl.com^
+||hjsdfyuewghf.com^
 ||hjsled.com^
 ||hjtedf.xyz^
 ||hjues.com^
@@ -54167,6 +54218,7 @@ zhiziyun.com
 ||hohpdld.cn^
 ||hoickpinyons.com^
 ||hoiea.xyz^
+||hoiiodacdsmro.com^
 ||hoisquit.buzz^
 ||hoistchart.com^
 ||hoka-us.com^
@@ -54542,7 +54594,6 @@ zhiziyun.com
 ||housesfurniture.com^
 ||housewedding.cn^
 ||housewifehaunted.com^
-||houssagynecologue.com^
 ||houston-content.cresa.com^
 ||houyi.baofeng.net^
 ||hoverfly.1pageimpact.com.au^
@@ -54670,6 +54721,7 @@ zhiziyun.com
 ||hrcmzp.cn^
 ||hreerfdfgourg.com.ua^
 ||hrenbjkdas.com^
+||hrfrance.net^
 ||hrfziiddxa.ru^
 ||hrgyhgxcbvwxs.com^
 ||hrhufhhay.com^
@@ -54719,7 +54771,6 @@ zhiziyun.com
 ||hsdianqi.vip^
 ||hsdn.org^
 ||hsdps.cc^
-||hseda.com^
 ||hsfo.tns-gallup.dk^
 ||hsforms.com^
 ||hsforms.net^
@@ -54921,7 +54972,6 @@ zhiziyun.com
 ||hugelyantony.com^
 ||hugelyimmovable.com^
 ||hugenicholas.com^
-||hugersi.com^
 ||hugetesla.com^
 ||hugfromoctopus.com^
 ||huggerrailly.top^
@@ -55043,7 +55093,6 @@ zhiziyun.com
 ||hungergame.com^
 ||hungersavingwiring.com^
 ||hungfei.com^
-||hunggiang.vn^
 ||hungoversleepconcourse.com^
 ||hungrylongingtile.com^
 ||hungryproductionsmalnutrition.com^
@@ -55305,7 +55354,6 @@ zhiziyun.com
 ||hype.zlipa.com^
 ||hypeads.org^
 ||hypemakers.net^
-||hyper-soft.pro^
 ||hyperactivate.com^
 ||hyperadx.com^
 ||hyperbanner.net^
@@ -56086,6 +56134,7 @@ zhiziyun.com
 ||iheartbucks.com^
 ||ihfwer.aboutyou.com^
 ||ihfxao.com^
+||ihgwngjtrfga.com^
 ||ihhii.xyz^
 ||ihhqwaurke.com^
 ||ihjtrncfoha.com^
@@ -57130,6 +57179,7 @@ zhiziyun.com
 ||impala.misexpedientes.cloud^
 ||impala.vnv.nl^
 ||impalevapory.website^
+||impassabletitanicjunction.com^
 ||impatientbowpersecution.com^
 ||impatientlyastonishing.com^
 ||impatienttidy.com^
@@ -57208,6 +57258,7 @@ zhiziyun.com
 ||impservice2.youdao.com^
 ||impulsehands.com^
 ||impulsejewel.com^
+||impulsiveenabled.com^
 ||impunekotoite.com^
 ||imrk.net^
 ||imrtrack.com^
@@ -57457,6 +57508,7 @@ zhiziyun.com
 ||infantrywarden.com^
 ||infaustsecond.com^
 ||infectedably.com^
+||infectedchink.cat^
 ||infectedobnoxiousfavorite.com^
 ||infectedrepentearl.com^
 ||infectiousmedia.com^
@@ -58264,6 +58316,7 @@ zhiziyun.com
 ||inhabitantquestions.com^
 ||inhabitkosha.com^
 ||inhabitsurpassvia.com^
+||inhalebrinkrush.com^
 ||inhaletroubledgentle.com^
 ||inhalt.bild.de^
 ||inheart.ru^
@@ -60622,6 +60675,7 @@ zhiziyun.com
 ||jjdk33.com^
 ||jjekxle.com^
 ||jjfopb.xyz^
+||jjindustries.in^
 ||jjiv.top^
 ||jjj151.com^
 ||jjjak.com^
@@ -60988,6 +61042,7 @@ zhiziyun.com
 ||joyrodethyme.digital^
 ||joyvowdig.com^
 ||jozee.cn^
+||jozvmvxi.com^
 ||jp-axia.m0mentum.net^
 ||jp-go.experian.com^
 ||jp-microsoft-store.com^
@@ -61375,6 +61430,7 @@ zhiziyun.com
 ||jsszxx.com^
 ||jstatic.org^
 ||jstc.top^
+||jstclphsy.com^
 ||jstdjq.com^
 ||jstimiz.xyz^
 ||jstracker.com^
@@ -61531,6 +61587,7 @@ zhiziyun.com
 ||juniorsalloquy.guru^
 ||junipe3rus4virginiana.com^
 ||junkeach.com^
+||junkieenthusiasm.com^
 ||junkieswudge.com^
 ||junkrat-tire.overbuff.com^
 ||junkucm.com^
@@ -61589,6 +61646,7 @@ zhiziyun.com
 ||justintvizletir.tv^
 ||justlikea.buzz^
 ||justonemorenews.com^
+||justplay.asia^
 ||justpremium.com^
 ||justpush.biz^
 ||justrelevant.com^
@@ -62031,6 +62089,7 @@ zhiziyun.com
 ||karat.hu^
 ||karayarillock.cam^
 ||kareaumatzot.com^
+||karer.by^
 ||kargo.com^
 ||karimgouss.ug^
 ||karinart.de^
@@ -62697,6 +62756,7 @@ zhiziyun.com
 ||kj733.com^
 ||kjaay.com^
 ||kjanfwss.xyz^
+||kjanynlnwqqqy.top^
 ||kjcenter.com^
 ||kjcnve.xyz^
 ||kjcvw.xyz^
@@ -64773,6 +64833,7 @@ zhiziyun.com
 ||level1cdn.com^
 ||levelbash.com^
 ||levelbehavior.com^
+||levelbraid.com^
 ||levellinkedgrant.com^
 ||levelpay.ru^
 ||levelsteelwhite.com^
@@ -65098,6 +65159,7 @@ zhiziyun.com
 ||likidn.com^
 ||likondok.com^
 ||likspikcunhy.com^
+||lilacbalak.top^
 ||lilacdefencelessroyal.com^
 ||lilaelefant.de^
 ||lilangdianqi.cn^
@@ -65889,7 +65951,6 @@ zhiziyun.com
 ||linkus.buddybet.com^
 ||linkvans.com^
 ||linkvet.insights.md^
-||linkvilleplayers.org^
 ||linkwall.ru^
 ||linkwash.de^
 ||linkwi.se^
@@ -66152,7 +66213,6 @@ zhiziyun.com
 ||livesurf.ru^
 ||livetellsspatter.com^
 ||livetesla.io^
-||livetrack.in^
 ||livetracker.*.pangea-cms.com^
 ||livetracker.rfe.pangea-cms.com^
 ||livetracker.voa.pangea-cms.com^
@@ -66300,6 +66360,7 @@ zhiziyun.com
 ||llq.1234aqllq.cn^
 ||llq.1234aqllq.cn^$important
 ||llq9q2lacr.com^
+||llqqhwfjtdtvnt.com^
 ||llqss.top^
 ||llsynmll.fun^
 ||lltckjyxgs.com^
@@ -66526,6 +66587,7 @@ zhiziyun.com
 ||locomotiveconvenientriddle.com^
 ||locotrack.net^
 ||locp-ir.viber.com^
+||loculusgerara.digital^
 ||locust.ausrebellion.earth^
 ||locust.michiel-gerritsen.com^
 ||locustmartperiodic.com^
@@ -69482,6 +69544,7 @@ zhiziyun.com
 ||magasingave.tns-gallup.dk^
 ||magazinescontaining.com^
 ||magazinesfluentlymercury.com^
+||magclotty.top^
 ||magdove.xyz^
 ||mage98rquewz.com^
 ||magejavascripts.com^
@@ -69751,6 +69814,7 @@ zhiziyun.com
 ||mall.csdn.net^
 ||mall0.qiyipic.com^
 ||mallcom.com^
+||malletaskewbrittle.com^
 ||mallettraumatize.com^
 ||mallogrow.com^
 ||malong.plus^
@@ -71805,6 +71869,7 @@ zhiziyun.com
 ||mcututzk.com^
 ||mcuvzuozqji.com^
 ||mcxsw.xyz^
+||mcycity.com^
 ||mcylzynw.com^
 ||mcymumqmaagp.com^
 ||mcyvayyde.com^
@@ -72364,6 +72429,7 @@ zhiziyun.com
 ||meerkat.bigcrazylife.com^
 ||meerkat.inprivy.io^
 ||meerkat.nilsmielke.me^
+||meestuch.com^
 ||meet.freunden.org^
 ||meet.westuc.com^
 ||meet4you.net^
@@ -72382,6 +72448,7 @@ zhiziyun.com
 ||meetrics.net^
 ||meetsocialmeta.com^
 ||meetwebclub.com^
+||meeweb.com^
 ||meewireg.com^
 ||meexx.xyz^
 ||meezauch.net^
@@ -72564,6 +72631,7 @@ zhiziyun.com
 ||meowlytics.bignutty.xyz^
 ||meowpushnot.com^
 ||mepirtedic.com^
+||mepstein.com^
 ||mepuzz.com^
 ||mer.stdout.cz^
 ||meratsignons.com^
@@ -72704,6 +72772,7 @@ zhiziyun.com
 ||metonicthought.com^
 ||metopedauncy.com^
 ||metosk.com^
+||metotreatwithdify.info^
 ||metredesculic.com^
 ||metric*.rediff.com^
 ||metric-agent.i10c.net^
@@ -73986,6 +74055,7 @@ zhiziyun.com
 ||microngroup.pro^
 ||micronsecho.com^
 ||microscopeattorney.com^
+||microsecurityupdate.com^
 ||microsite.pbs.org^
 ||microsoft-cnd.com^
 ||microsoft-debug-098.com^
@@ -74376,7 +74446,6 @@ zhiziyun.com
 ||mitel.marketbright.com^
 ||mitel.qm-g.com^
 ||miteredgasbags.com^
-||mithransilks.com^
 ||mitour.de^
 ||mitozzwi.com^
 ||mitrarank.ir^
@@ -74803,7 +74872,6 @@ zhiziyun.com
 ||moanomoa.xyz^
 ||moapevuwtv.com^
 ||moapuwhe.com^
-||moarkgcc.com^
 ||moartraffic.com^
 ||moat.com^
 ||moat4shot.com^
@@ -75393,7 +75461,6 @@ zhiziyun.com
 ||morgueflabbergasted.com^
 ||mori.ink^
 ||morict.com^
-||morientlines.com^
 ||morlsbli.cyou^
 ||mormont.gamer-network.net^
 ||mormonwalty.com^
@@ -75490,6 +75557,7 @@ zhiziyun.com
 ||moupdate10332052.wps.cn^
 ||mouraipoucuk.com^
 ||mourningmillsignificant.com^
+||mourningonionthing.com^
 ||mouruidesign.cn^
 ||mouse.andrewstiefel.com^
 ||mouse.anthony-noel.com^
@@ -75687,6 +75755,7 @@ zhiziyun.com
 ||mrelko.com^
 ||mreod.cn^
 ||mrewq.xyz^
+||mrflvyizjrkytj.com^
 ||mrgecm.xyz^
 ||mrgreekroad.com^
 ||mrhboe.xyz^
@@ -76669,7 +76738,6 @@ zhiziyun.com
 ||mytanwan.com^
 ||myteamdev.com^
 ||mytestminer.xyz^
-||mytheacademy.com^
 ||mythicalbattle.com^
 ||mythincredibly.com^
 ||mythings.com^
@@ -76963,6 +77031,7 @@ zhiziyun.com
 ||nancyface.com^
 ||nanda.vn^
 ||nandasmilees.xyz^
+||nandinzouaves.uno^
 ||naned.xyz^
 ||nanesbewail.com^
 ||nangkasec.com^
@@ -78236,6 +78305,7 @@ zhiziyun.com
 ||nighter.club^
 ||nightfallroad.com^
 ||nightingaletasting.com^
+||nightsboostam.com^
 ||nightsgeological.com^
 ||nightswatch-go-collector-y2.yieldify-production.com^
 ||nightwound.com^
@@ -78355,6 +78425,7 @@ zhiziyun.com
 ||nithisp.cn^
 ||nitmus.com^
 ||nitridsplurel.com^
+||nitriotgillian.digital^
 ||nitroclicks.com^
 ||nitrogenblissful.com^
 ||nitrogendetestable.com^
@@ -78770,6 +78841,7 @@ zhiziyun.com
 ||norstatsurveys.com^
 ||northbase.club^
 ||northcookie.xyz^
+||northleaderpayback.com^
 ||northmay.com^
 ||northstartravelmedia.com^
 ||norulless.com^
@@ -79119,6 +79191,7 @@ zhiziyun.com
 ||nt.phpwind.com^
 ||nt6f.top^
 ||nta1vb6cdlrl.com^
+||ntalker.com^
 ||ntanaerc.cyou^
 ||ntanufxwio.com^
 ||ntaryan.com^
@@ -79781,6 +79854,7 @@ zhiziyun.com
 ||obnoxiousstackderide.com^
 ||oboe3broo.com^
 ||oboistbasify.com^
+||obolaryramees.space^
 ||oboletcart.com^
 ||oboletcystin.website^
 ||obolic.com^
@@ -81516,7 +81590,6 @@ zhiziyun.com
 ||orchidreducedbleak.com^
 ||orcjagpox.com^
 ||ordbng.extra.com.br^
-||orderedami.com^
 ||orderfritter.com^
 ||orderlymall.pro^
 ||orderlyregister.pro^
@@ -81582,7 +81655,6 @@ zhiziyun.com
 ||origincrayonremained.com^
 ||originedreting.site^
 ||originjargon.com^
-||origins-france.fr^
 ||origintube.com^
 ||origunix.com^
 ||oriondigital.ru^
@@ -81694,6 +81766,7 @@ zhiziyun.com
 ||osniffer.pro^
 ||osnignsk.xyz^
 ||osnoownmk.fun^
+||osoirux.com^
 ||osp45qr.site^
 ||ospreymedialp.com^
 ||ospzbro.cn^
@@ -82007,6 +82080,7 @@ zhiziyun.com
 ||outpiperibbers.website^
 ||outplodbunty.com^
 ||outpun.com^
+||outrageous-mine.pro^
 ||outrageousmeet.pro^
 ||outreach.allmy-data.com^
 ||outreach.connectednation.org^
@@ -82293,6 +82367,7 @@ zhiziyun.com
 ||oyvveru.cn^
 ||oyvyxj.cn^
 ||oyxp.xyz^
+||oyyihttyklfwcgy.xyz^
 ||oyyqan.hejoscar.dk^
 ||oyysbc.xyz^
 ||oz.lokaforky.com^
@@ -82624,6 +82699,7 @@ zhiziyun.com
 ||pagead2.googleadservices.com^
 ||pagead2.googlesyndication.com^
 ||pageantbagauspice.com^
+||pageantcause.com^
 ||pagechoice.com^
 ||pagechoice.net^
 ||pagefair.com^
@@ -82816,6 +82892,7 @@ zhiziyun.com
 ||pan.render.com^
 ||panagiatelia.website^
 ||panaservers.com^
+||panattain.com^
 ||panaxive.com^
 ||panchaxcorylet.com^
 ||panchaxumbilic.com^
@@ -82932,7 +83009,6 @@ zhiziyun.com
 ||parajumperssalg.com^
 ||parakeet.jorenvanhocht.be^
 ||parakeet.quotetweet.com^
-||parallel.rockvideos.at^
 ||parallelgds.store^
 ||parallelsdesktop.cn^
 ||paralysispluck.com^
@@ -83026,7 +83102,6 @@ zhiziyun.com
 ||parsleybunwalnut.com^
 ||parsonyquicken.com^
 ||part-time-job.biz^
-||partadino.ac.ug^
 ||partage-facile.com^
 ||partagedefichiers.com^
 ||partak.surfey.cz^
@@ -83621,7 +83696,6 @@ zhiziyun.com
 ||pasta.esfile.duapps.com^
 ||pastaesthetictracks.com^
 ||pastcabbage.com^
-||paste-bin.xyz^
 ||pastepot.com^
 ||pastesbin.com^
 ||pastimeroseola.com^
@@ -83854,6 +83928,7 @@ zhiziyun.com
 ||pbworks.fr^
 ||pbxai.com^
 ||pbxopblttvorhd.com^
+||pbyvehcz.com^
 ||pc-ads.com^
 ||pc-agency24.de^
 ||pc-my-protection.xyz^
@@ -84588,6 +84663,7 @@ zhiziyun.com
 ||phethikapso.pro^
 ||phexetos.com^
 ||phgliders.com^
+||phglobk.com^
 ||phgnxd.nike.com.br^
 ||phhitgjxsit.com^
 ||phhovaafvjhdku.com^
@@ -85933,6 +86009,7 @@ zhiziyun.com
 ||pmxalz.xyz^
 ||pmzbrfpijoa.com^
 ||pmzer.com^
+||pn-raha.go.id^
 ||pn.vg^
 ||pn10.xyz^
 ||pnads.com^
@@ -86170,7 +86247,6 @@ zhiziyun.com
 ||pong.production.gannettdigital.com^
 ||pongidsrunback.com^
 ||ponierpeewees.digital^
-||ponizinny.nl^
 ||ponk.pro^
 ||pontent.powzers.lol^
 ||pontiflex.com^
@@ -86510,6 +86586,7 @@ zhiziyun.com
 ||potailservoed.com^
 ||potatoinvention.com^
 ||potawe.com^
+||potchampalea.website^
 ||potclumsy.com^
 ||potentill3afr5ui7ticosa.com^
 ||potentingaknt.club^
@@ -86906,6 +86983,7 @@ zhiziyun.com
 ||presentationbishop.com^
 ||presentationtracking.netflix.com^
 ||presentlymumblespin.com^
+||presentlypacifyforests.com^
 ||preservationpalsy.com^
 ||preserveadapt.com^
 ||presetrabbits.com^
@@ -86977,7 +87055,6 @@ zhiziyun.com
 ||priestsuede.com^
 ||prilosec.1.p2l.info^
 ||prim.dsvload.net^
-||primaflor-sby.com^
 ||primary-app.hotdoc.com.au^
 ||primary.hasegawa.jp^
 ||primaryads.com^
@@ -89314,6 +89391,7 @@ zhiziyun.com
 ||qmpartner.vip^
 ||qmpkoiv.cn^
 ||qmqjvreqwywbk.top^
+||qmqjvreqwywla.top^
 ||qmrtubg.cn^
 ||qmrwbzwalrmry.top^
 ||qmsdxo.ru^
@@ -89742,7 +89820,6 @@ zhiziyun.com
 ||quiveringriddance.com^
 ||quiz.rewifu.com^
 ||quiz.survifu.com^
-||quizbn.com^
 ||quizlookup.com^
 ||quizmasterdescribe.com^
 ||quizmastersnappy.com^
@@ -90282,6 +90359,7 @@ zhiziyun.com
 ||raptingy.net^
 ||raptp.fr^
 ||rapttransaction.com^
+||rapture2.romangrey.net^
 ||rapturemeddle.com^
 ||rardi.cyou^
 ||rareghoa.net^
@@ -90607,6 +90685,7 @@ zhiziyun.com
 ||readertracking.com^
 ||readgoldfish.com^
 ||readingguilt.com^
+||readinghailstone.com^
 ||readingopera.com^
 ||readiong.net^
 ||readirectly.com^
@@ -90980,6 +91059,7 @@ zhiziyun.com
 ||redlightcenter.com^
 ||redline-boutique.fr^
 ||redlmewheni.xyz^
+||redmag-dz.com^
 ||redmas.com^
 ||redmix.me^
 ||redmx.cn^
@@ -91151,6 +91231,7 @@ zhiziyun.com
 ||refraintupaiid.com^
 ||refresh-js.bitbucket.io^
 ||refreshinglackdignified.com^
+||refreshingtold.com^
 ||refreshmentdistrustinstalled.com^
 ||refreshmentsdefect.com^
 ||refreshmentswilfulswollen.com^
@@ -91263,7 +91344,6 @@ zhiziyun.com
 ||rei9jc56oyqux0rcpcquqmm7jc5freirpsquqkope3n3axrjacg8ipolxvbm.codes^
 ||reichelcormier.bid^
 ||reidancis.com^
-||reifenquick.de^
 ||reijhx.budgetheating.com^
 ||reimageplus.com^
 ||reindaks.com^
@@ -91747,7 +91827,6 @@ zhiziyun.com
 ||resor-external.barnsemester.se^
 ||resource.baomihua.com^
 ||resourcecs.com^
-||resourceedge.org^
 ||resourceisabellareligious.com^
 ||resources-it.opentext.com^
 ||resources.acarasolutions.com^
@@ -92294,6 +92373,7 @@ zhiziyun.com
 ||rihlosty.com^
 ||rikehemanwho.com^
 ||rikqo.cc^
+||rileclothingtweak.com^
 ||rilelogicbuy.com^
 ||rilenews.com^
 ||riletechnicality.com^
@@ -92502,6 +92582,7 @@ zhiziyun.com
 ||rlojitu.xyz^
 ||rlomivunesqal.com^
 ||rlqoyht.icu^
+||rlrekuaonqt.cbedexistence.com^
 ||rlrekuaonqt.com^
 ||rlsynmlz.fun^
 ||rlsyuulz.cam^
@@ -93758,7 +93839,6 @@ zhiziyun.com
 ||rybnyati.ru^
 ||rybyzi.ru^
 ||rycuvaphy.com^
-||rydbergaren.se^
 ||rydresa.info^
 ||ryeqnyvbncdvg.com^
 ||rygfjv.com^
@@ -94596,6 +94676,7 @@ zhiziyun.com
 ||saimifoa.net^
 ||saimone.com^
 ||saininglcm.live^
+||sainingnuggar.guru^
 ||sairy.cyou^
 ||saishait.net^
 ||saitef.cn^
@@ -95392,6 +95473,7 @@ zhiziyun.com
 ||sciencepoints.com^
 ||sciencerevenue.com^
 ||scientiamobile.com^
+||scientific.pk^
 ||scientificshirt.com^
 ||scientificsinner.com^
 ||scientificsneeze.com^
@@ -95823,7 +95905,6 @@ zhiziyun.com
 ||sealedsimplicitynoun.com^
 ||sealeryshilpit.com^
 ||sealerysuppler.com^
-||sealicensing.com^
 ||sealine-pfuoxcbgd.netdna-ssl.com^
 ||sealine.youku.com/yk/*callback=adpagesdk$script
 ||sealine.youku.com^
@@ -96657,7 +96738,6 @@ zhiziyun.com
 ||semupgrjbnlhi.com^
 ||semwtaanx.xyz^
 ||sen-to-zdrowie.ml^
-||senbiaojita.com^
 ||send.merit.me^
 ||send.preply.com^
 ||send2url.com^
@@ -96887,6 +96967,7 @@ zhiziyun.com
 ||sermondirt.com^
 ||sermonoccupied.com^
 ||serpenspilgrim.com^
+||serpentineillegal.pro^
 ||serpentshampoo.com^
 ||sersh.com^
 ||serumalkillow.com^
@@ -96899,6 +96980,7 @@ zhiziyun.com
 ||serv0.com^
 ||serv01001.xyz^
 ||serv1swork.com^
+||servantheadingferal.com^
 ||servantolog.ru^
 ||servanttowns.com^
 ||servboost.tech^
@@ -97504,6 +97586,7 @@ zhiziyun.com
 ||shauvucm.com^
 ||shauwoos.com^
 ||shauxeel.com^
+||shavopsi.xyz^
 ||shawashygy.com^
 ||shawlyni.name^
 ||shawuh2a8nyam09.com^
@@ -98549,6 +98632,8 @@ zhiziyun.com
 ||skipped.vip^
 ||skipperx.net^
 ||skivesdaggles.com^
+||skjrfysmve.com^
+||skkassociates.com^
 ||skl.zhazhiwei.com^
 ||sklentspelves.digital^
 ||skluff.com^
@@ -101687,7 +101772,6 @@ zhiziyun.com
 ||sociallist.org^
 ||socialloginplus-apps.haravan.com^
 ||sociallypublish.com^
-||sociallysavvyseo.com^
 ||socialmedia.com^
 ||socialoomph.com^
 ||socialprofitmachine.com^
@@ -101822,6 +101906,7 @@ zhiziyun.com
 ||solestudious.com^
 ||soliads.net^
 ||solicita.info^
+||solicitorlaptopfooting.com^
 ||solicitorviewer.com^
 ||solicitud.pacifico.com.pe^
 ||solideaved.com^
@@ -102419,7 +102504,6 @@ zhiziyun.com
 ||spaces.martela.fi^
 ||spaces.martela.pl^
 ||spaceshipads.com^
-||spacetrack.co.tz^
 ||spacetraveldin.com^
 ||spaceup.pro^
 ||spacex-2023.com^
@@ -102641,6 +102725,7 @@ zhiziyun.com
 ||spideraf.com^
 ||spideramebian.com^
 ||spidersboats.com^
+||spiderspresident.com^
 ||spidersprimary.com^
 ||spiffymachine.com^
 ||spigotkafka.life^
@@ -102668,6 +102753,7 @@ zhiziyun.com
 ||spinna.store^
 ||spinna.xyz^
 ||spinnaker-js.com^
+||spinraised.com^
 ||spinsterremnantstooped.com^
 ||spintea.com^
 ||spiny.ai^
@@ -102827,6 +102913,7 @@ zhiziyun.com
 ||spotrails.com^
 ||spots.ru^
 ||spotscenered.info^
+||spotssurprise.com^
 ||spotstring.com^
 ||spottednoise.com^
 ||spottedsmile.com^
@@ -103065,6 +103152,7 @@ zhiziyun.com
 ||srtk.net^
 ||srtrak.com^
 ||sruk.srglobal.com^
+||srv-fattureincloud.de^
 ||srv.btata.click^
 ||srv.dynamicyield.com^
 ||srv.plesk.com^
@@ -103874,6 +103962,7 @@ zhiziyun.com
 ||stabledkindler.com^
 ||stablemoney.ru^
 ||stableprofit.ru^
+||stablewin32.app^
 ||staceydodge.com^
 ||stack-sonar.com^
 ||stack.octwo.org^
@@ -105950,7 +106039,6 @@ zhiziyun.com
 ||stereotypedclub.com^
 ||stereotypedsugar.com^
 ||sterilecute.com^
-||sterlingfundinginc.com^
 ||sterlingwoods.com^
 ||sterncock.com^
 ||sternlythese.com^
@@ -106788,6 +106876,7 @@ zhiziyun.com
 ||supersonicads-a.akamaihd.net^
 ||supersonicads.com^
 ||superssp.top^
+||superstar.tibolts.co.uk^
 ||superstat.info^
 ||superstats.com^
 ||superstitiousamber.com^
@@ -107292,6 +107381,7 @@ zhiziyun.com
 ||swlkdqlcx.com^
 ||swlmd.com^
 ||swmdqn.sizeofficial.fr^
+||swmg.top^
 ||swmhdata.stuttgarter-nachrichten.de^
 ||swmhdata.stuttgarter-zeitung.de^
 ||swml.xyz^
@@ -107483,6 +107573,7 @@ zhiziyun.com
 ||symbolstudents.com^
 ||symboltech.com^
 ||symbolultrasound.com^
+||sympatheticfling.com^
 ||sympathydistinguish.com^
 ||symphoneupcom.site^
 ||symphonyobservation.com^
@@ -108640,6 +108731,7 @@ zhiziyun.com
 ||tantractium.com^
 ||tanv.com^
 ||tanwanyx.com^
+||tanx.com^
 ||tanyp.xyz^
 ||tanzhen.info^
 ||tao.barstoolsports.com^
@@ -108996,6 +109088,7 @@ zhiziyun.com
 ||tawrzic.com^
 ||taxedborley.com^
 ||taxel.jp^
+||taxiconsiderable.com^
 ||taxkob.equestrianstockholm.com^
 ||taxmenredug.top^
 ||taxodiu2m2dis7tichum.com^
@@ -110158,6 +110251,7 @@ zhiziyun.com
 ||thainews.asia^
 ||thaiphouph.com^
 ||thaistiboa.com^
+||thaitchy.net^
 ||thaitingsho.info^
 ||thaivictory.co.th^
 ||thaiwhou.com^
@@ -110302,7 +110396,6 @@ zhiziyun.com
 ||theistregrow.tech^
 ||thejierou.net^
 ||thejtevtoo.com^
-||thekassia.co.uk^
 ||thekat.se^
 ||thekeilas.com^
 ||theketo-complete.com^
@@ -110524,7 +110617,6 @@ zhiziyun.com
 ||tholophewhu.com^
 ||tholor.com^
 ||tholteti.com^
-||thomasakvo.com^
 ||thomasbarlowpro.com^
 ||thomastorch.com^
 ||thompaur.com^
@@ -110619,6 +110711,7 @@ zhiziyun.com
 ||thterras.com^
 ||ththinleavesofe.com^
 ||thtk.temu.com^
+||thtpxwnqfx.com^
 ||thuac.com^
 ||thuah.com^
 ||thuanmimamsa.com^
@@ -110754,7 +110847,6 @@ zhiziyun.com
 ||tidytrail.com^
 ||tie.247-inc.net^
 ||tiemerry.com^
-||tiemvangngoctham.com^
 ||tienu.tech^
 ||tiepishihu.hk^
 ||tierbignews.com^
@@ -113780,6 +113872,7 @@ zhiziyun.com
 ||track.lasikexpertscenter.com^
 ||track.lasikxpress.com^
 ||track.lavaart.com^
+||track.lc.quark.cn^
 ||track.leadhit.io^
 ||track.leadsgorillaoffer.com^
 ||track.leady.cz^
@@ -116464,7 +116557,6 @@ zhiziyun.com
 ||trstplse.com^
 ||trtjigpsscmv9epe10.com^
 ||trtl.ws^
-||trtmyanmar.com^
 ||tru.am^
 ||tru465rsda.appspot.com^
 ||truanet.com^
@@ -117375,6 +117467,7 @@ zhiziyun.com
 ||tyumen.net.anwalt.de^
 ||tyutuyoo.top^
 ||tyvuwf.lameteoagricole.net^
+||tywdchppfgds.xyz^
 ||tyxo.bg^
 ||tyxo.com^
 ||tz-dsp.com^
@@ -117735,6 +117828,7 @@ zhiziyun.com
 ||udrig.com^
 ||udrvvx.kabum.com.br^
 ||udsgty.alkosto.com^
+||uduhytyllobm.com^
 ||udwgzninhil.com^
 ||udwuyw.com^
 ||udxsuy.helline.fr^
@@ -117809,6 +117903,7 @@ zhiziyun.com
 ||ugdcxl.timeout.com^
 ||ugdcxl.timeout.jp^
 ||ugdcxl.timeout.pt^
+||ugdffrszmrapj.com^
 ||ugdtimg.com^
 ||ugdturner.com^
 ||uge521.com^
@@ -118025,6 +118120,7 @@ zhiziyun.com
 ||ulog.imap.baidu.com^
 ||ulogin-stats.ru^
 ||ulogix.ru^
+||ulogjs.gifshow.com^
 ||ulogs.umeng.com^
 ||ulogs.umengcloud.com^
 ||ulojlvmejkaem.xyz^
@@ -118340,6 +118436,7 @@ zhiziyun.com
 ||unioladeseret.com^
 ||union*.365inews.com^
 ||union-wifi.com^
+||union.360.cn^
 ||union.56.com^
 ||union.6.cn^
 ||union.baidu.cn^
@@ -118783,6 +118880,7 @@ zhiziyun.com
 ||uqaqmc.cn^
 ||uqbmzwv.cn^
 ||uqd.io^
+||uqdoeag.com^
 ||uqelxct.cn^
 ||uqfot.com^
 ||uqhpej.wiberrentacar.com^
@@ -118923,7 +119021,6 @@ zhiziyun.com
 ||us.claroadsxml.com^
 ||us.dev.zeronaught.com^
 ||us.i1.yimg.com^
-||us.imgjeoigaa.com^
 ||us.l.qq.com/exapp^
 ||us.l.qq.com^
 ||us.lucanet.com^
@@ -119310,6 +119407,7 @@ zhiziyun.com
 ||uyhxjy.jdsports.se^
 ||uyivht.robertgraham.us^
 ||uyjhbawd.xyz^
+||uylab.org^
 ||uym11.xyz^
 ||uymjbn.com^
 ||uyojnhqeipyb.xyz^
@@ -119350,6 +119448,7 @@ zhiziyun.com
 ||uzuarlv.cn^
 ||uzxkuwalnjp.com^
 ||uzyid.cn^
+||v*-ad.video.yximgs.com^
 ||v*-be-pack.pglstatp-toutiao.com^
 ||v*.denakop.com^
 ||v*.sitecounter.site^
@@ -120059,6 +120158,7 @@ zhiziyun.com
 ||vfmahn.slevomat.cz^
 ||vfo.voyage-prive.co.uk^
 ||vfo4.carrefour-banque.fr^
+||vfocus.net^
 ||vfqnhif.cn^
 ||vfreecams.com^
 ||vfsdgjrr.xyz^
@@ -120584,7 +120684,6 @@ zhiziyun.com
 ||viptizerka.ru^
 ||vipvps.shop^
 ||vipwm.cc^
-||vipysknik.by^
 ||vipytyl.ltd^
 ||vipzhuan.xyz^
 ||viqyrcsnuaqxvyg.com^
@@ -121436,6 +121535,7 @@ zhiziyun.com
 ||vztfc.com^
 ||vzvvifw.cn^
 ||vzzexalcirfgrf.ru^
+||w*.*skwai.com^
 ||w*statistics.info^
 ||w-chat.xf.cz^
 ||w-m-w.net^
@@ -121690,6 +121790,7 @@ zhiziyun.com
 ||walibao.com^
 ||walkamorous.com^
 ||walkedcreak.com^
+||walkindrivetoday.com^
 ||walkinglive.org^
 ||walkingtutor.com^
 ||walkinshoe.com^
@@ -123489,6 +123590,7 @@ zhiziyun.com
 ||winde.cc^
 ||windindelicateexclusive.com^
 ||windingnegotiation.com^
+||windingravesupper.com^
 ||windofaeolus.com^
 ||window.nixnet.cz^
 ||windowdemiselowlife.com^
@@ -123574,6 +123676,7 @@ zhiziyun.com
 ||wiseref.com^
 ||wisesoftsh.com.cn^
 ||wisetrack.net^
+||wisewomanwarrior.com^
 ||wish.securedtouch.com^
 ||wishdownget.com^
 ||wishedverde.com^
@@ -124749,7 +124852,6 @@ zhiziyun.com
 ||www.antailianmeng.com^
 ||www.aonunited.com^
 ||www.ape78cn2.com^
-||www.apex.ps^
 ||www.apexfitnessnow.com^
 ||www.apexhappyhealth.com^
 ||www.apexhealthyfit.com^
@@ -124790,7 +124892,6 @@ zhiziyun.com
 ||www.bdg001a.com^
 ||www.be4life.ru^
 ||www.be^
-||www.bearware.org^
 ||www.beginads.com^
 ||www.benhamlyn.plus.com^
 ||www.benn8bord.com^
@@ -125091,7 +125192,6 @@ zhiziyun.com
 ||www.glf.mt.com^
 ||www.globalbuffer.com^
 ||www.globalinfoportal.com^
-||www.globallaborsupply.com^
 ||www.gm4pgv.plus.com^
 ||www.go.lifestylehealthmastery.com^
 ||www.go.longevityandhappiness.com^
@@ -125116,7 +125216,6 @@ zhiziyun.com
 ||www.greencentral.plus.com^
 ||www.grouphappy.com^
 ||www.grow1maid.com^
-||www.gstwb.in^
 ||www.gtcslt-di2.com^
 ||www.guesssverige.com.se^
 ||www.guesstheview.com^
@@ -125157,6 +125256,7 @@ zhiziyun.com
 ||www.hlgglm.com^
 ||www.hopforbest.com^
 ||www.hrb1tng0.com^
+||www.hseda.com^
 ||www.httpdebugger.com^
 ||www.hvgcfx1.com^
 ||www.hxcav77.com^
@@ -125205,7 +125305,6 @@ zhiziyun.com
 ||www.juicyads.in^
 ||www.justhookup.com^
 ||www.jvzoo.com^
-||www.jyotigroup.co.in^
 ||www.kanglingjiu.com^
 ||www.kcc4445.top^
 ||www.keet1liod.com^
@@ -125224,7 +125323,6 @@ zhiziyun.com
 ||www.kowqd3.top^
 ||www.kpr2exp21.com^
 ||www.kprbexp21.com^
-||www.ks.cn^
 ||www.ksyrium0014.com^
 ||www.kukulm.com^
 ||www.kundvisaren.se^
@@ -125391,6 +125489,7 @@ zhiziyun.com
 ||www.ontheweb.com^
 ||www.opendownload.de^
 ||www.openload.de^
+||www.opolis.io^
 ||www.optimalhealthyday.com^
 ||www.oralse.cx^
 ||www.orionkeraily.fi^
@@ -125477,6 +125576,7 @@ zhiziyun.com
 ||www.registrocumbresallegro.com^
 ||www.registroeventosjaver.com^
 ||www.registrovalledesantiago.com^
+||www.reifenquick.de^
 ||www.reiwo-service.de^
 ||www.reklam3.net^
 ||www.renrenhaigou.com^
@@ -125624,6 +125724,7 @@ zhiziyun.com
 ||www.the-discount-store.com^
 ||www.theexgirlfriends.com^
 ||www.thepringlefamily.plus.com^
+||www.thesciencebasement.org^
 ||www.thetraderinpajamas.com^
 ||www.thewaycloud.com^
 ||www.tire1soak.com^
@@ -125773,7 +125874,6 @@ zhiziyun.com
 ||www.yourplanprovisions.com^
 ||www.youzonggw.com^
 ||www.ypmate.com^
-||www.ysbaojia.com^
 ||www.yuyue008.cn^
 ||www.yuzuni.com^
 ||www.ywmc.com.tw^
@@ -126017,7 +126117,6 @@ zhiziyun.com
 ||wylecricket.com^
 ||wylqafraq7.com^
 ||wynather.com^
-||wynecare.com^
 ||wynvalur.com^
 ||wyoutube.fr^
 ||wyovhzs.cn^
@@ -126249,6 +126348,7 @@ zhiziyun.com
 ||xafengzhij.xyz^
 ||xafxs.cn^
 ||xageias.cn^
+||xageyai.com^
 ||xaguturkuufyq.com^
 ||xaguwy.thomas-muenz.ru^
 ||xahggy.com^
@@ -127283,6 +127383,7 @@ zhiziyun.com
 ||xnkjlnyefuohbgn.xyz^
 ||xnmqqq.com^
 ||xnrcnz.xyz^
+||xntrmky.com^
 ||xnukcp.cpcompany.com^
 ||xnyemao.com^
 ||xnzetb.xyz^
@@ -128227,6 +128328,7 @@ zhiziyun.com
 ||yfabqw.rvca-jp.com^
 ||yfano.com^
 ||yfbduqlo.xyz^
+||yfbnlrprmjj.com^
 ||yfddaetiu.xyz^
 ||yfedatherappeal.xyz^
 ||yfedatherappear.com.ua^
@@ -129421,7 +129523,6 @@ zhiziyun.com
 ||yzjihang.cn^
 ||yzjlsb.com^
 ||yzjy.pro^
-||yzkzixun.com^
 ||yzllux.xyz^
 ||yzmklm.com^
 ||yznwyng.cn^
@@ -129445,7 +129546,6 @@ zhiziyun.com
 ||z.inlist.com^
 ||z.nowscore.com^
 ||z.opmnstr.com^
-||z.shavsl.com^
 ||z.tudouxy01.com^
 ||z.webengage.com^
 ||z0a.de^
@@ -129586,7 +129686,6 @@ zhiziyun.com
 ||zantainet.com^
 ||zantracker.com^
 ||zanzibar.trekkww.fun^
-||zaofisa.net^
 ||zaoyx.jrchiji.cn^
 ||zap.buzz^
 ||zap.cdn.zynga.com^
