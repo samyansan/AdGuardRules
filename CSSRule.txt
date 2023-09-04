@@ -235,6 +235,7 @@
 ##[src='/images/c_l.png']
 ##[src='http://m.guangzhoubingqing.com/88888.jpg']
 ##[src='https://pnm.hpvitycz.cn/00.jpg']
+##[src^="https://img.sobot.com/chatres/"][title="sb"]
 ##[src^='/MDassets/images/']
 ##[src^='/Uploads/ad/'][src$='.gif'][alt='广告']
 ##[src^='/banners/pr_advertising_ads_banner']
