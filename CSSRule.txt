@@ -9405,6 +9405,13 @@ baidu.com,bdimg.com##.shield-agent-tb-feed
 baidu.com,bdimg.com##div.thread_item_box[style="position: relative;"]
 baidu.com,bdimg.com#?#.l_post:-abp-has(div[class*=" fc-"])
 baidu.com,bdimg.com#?#.thread_item_box:-abp-has(div[class*=" fc-"])
+baidu.com,bdimg.com,tieba.com###aside-ad
+baidu.com,bdimg.com,tieba.com##.fengchao-wrap
+baidu.com,bdimg.com,tieba.com##.fengchao-wrap-feed
+baidu.com,bdimg.com,tieba.com##.shield-agent-tb-feed
+baidu.com,bdimg.com,tieba.com##div.thread_item_box[style="position: relative;"]
+baidu.com,bdimg.com,tieba.com#?#.l_post:-abp-has(div[class*=" fc-"])
+baidu.com,bdimg.com,tieba.com#?#.thread_item_box:-abp-has(div[class*=" fc-"])
 baidu.com,cntour2.com##.topBanner
 baidu.com,comefromchina.com#@#.ad-block
 baidu.com,youdao.com,yun.cn#@#.share-content
@@ -10643,6 +10650,7 @@ ccm.net##.ccm_pugoo__sponso
 ccoo.cn##.ad-wrap1
 ccoo.cn##.n_adbox
 ccoo.cn,gw54.com,hackhome.com,xgw5.com##.adn
+ccoo.cn,hackhome.com##.adn
 cctime.com###ad_three
 cctime.com##.nav_banner
 cctime.com,doyo.cn###top_banner
@@ -10930,6 +10938,7 @@ chinaz.com##.txtAdBox
 chinaz.com,58b.tv,8fun.tv,99kubo.tv##div[style^="width:300px;height:250px;"]
 chinaz.com,cnbeta.com,mydrivers.com,oschina.net##a[href^="http://click.aliyun.com/"]
 chinaz.com,gw54.com,ofweek.com,xgw5.com,yawin.cn##.adtext
+chinaz.com,ofweek.com,yawin.cn##.adtext
 chine-informations.com###entete + div[id][class="nomobile"]
 chinese.engadget.com###module-engadget-deeplink-top-ad
 chinese.engadget.com##.spotim-recirculation div[data-spotim-row] > div[data-spotim-slot-size="300x250"]
@@ -18168,6 +18177,7 @@ joemonster.org##.sky-wrapper
 joemonster.org##.stored-adverts-container
 joemonster.org##div[id*="Rect"]
 joins.com,jtbc.co.kr#@#.ad_bottom
+jojf.cn##.index-ad
 jokeji.cn##.ad360_280
 jokerlu.com##.closebox
 jokerlu.com,jokerlu1.com##a[onclick^="_czc."]
@@ -29109,6 +29119,8 @@ xgroovy.com##.fluid_next_video_left
 xgroovy.com##.fluid_next_video_right
 xgroovy.com,rushporn.xxx,rushporn.com###main_video_fluid_html_on_pause
 xgroovy.com,xxxshake.com,jizzberry.com##.in.is_desktop
+xgw5.com###app-card-list
+xgw5.com##div[style="z-index:10;margin-bottom: 10px;margin-top:10px"]
 xgw5.com,gw54.com#?#li:-abp-has(>.ads)
 xhamster.com##+js(set-constant, history.replaceState, noopFunc)
 xhamster.com##.bottom-widget-section
@@ -29921,6 +29933,7 @@ zhihu.com##.HitQrcode
 zhihu.com##.HotQuestions
 zhihu.com##.HotQuestions-bottomButton
 zhihu.com##.KanshanDiversion
+zhihu.com##.LinkCard-ecommerceLoadingCard
 zhihu.com##.MBannerAd
 zhihu.com##.MHotFeedAd
 zhihu.com##.MRelateFeedAd
