@@ -3,10 +3,9 @@
 # 下载规则
 curl -o i-1.txt https://raw.githubusercontent.com/Cats-Team/AdRules/main/dns.txt
 curl -o i-2.txt https://www.kbsml.com/wp-content/uploads/adblock/adguard/adg-kall-dns.txt
-curl -o i-3.txt https://raw.githubusercontent.com/Cats-Team/AdRules/main/adblock.txt
+curl -o i-3.txt https://adguardteam.github.io/HostlistsRegistry/assets/filter_1.txt
 curl -o i-4.txt https://adguardteam.github.io/HostlistsRegistry/assets/filter_5.txt
 curl -o i-5.txt https://adguardteam.github.io/HostlistsRegistry/assets/filter_21.txt
-curl -o i-6.txt https://raw.githubusercontent.com/o0HalfLife0o/list/master/ad.txt
 
 # 合并规则并去除重复项
 cat i*.txt > i-mergd.txt
