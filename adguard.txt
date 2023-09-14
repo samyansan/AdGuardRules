@@ -3,8 +3,8 @@
 ! Powerd by SamSan
 ! Description: Just a merged Adblock rule. Nothing more
 ! Expires: 6 hours (update frequency)
-! Version: 2023-09-14 14:08:23
-! Total count: 120783
+! Version: 2023-09-14 14:42:17
+! Total count: 120866
 
  
 *ad.durasite.net^
@@ -116,19 +116,25 @@
 ://sportframe*.org^
 ://tru.am^
 analytics-*.aasaam.com
+bilibili.com#@#.bili-dialog-m
+bilibili.com#@#.btn-ctnr
 cdn-settings.appsflyersdk.com^
 charlestownwyllie.oaklawnnonantum.com^
+cjcx.neea.edu.cn#@#[style="visibility: visible; display: block;"]
 conversions.appsflyersdk.com^
 dlsdk.appsflyer.com^
 dlsdk.appsflyersdk.com^
 gcdsdk.appsflyersdk.com^
 inapps.appsflyersdk.com^
+mydrivers.com#@#.baidu, a[href^=http][target=_blank]
 register.appsflyersdk.com^
+ruanyifeng.com#@#a[href*=".apeclass.com"]
 vkcdnservice.appspot.com^
 |piwik.
 ||*-analytics*.huami.com^
 ||*.mmstat.com^
 ||*.wap.xsbiquge.com^
+||*/vhot2.qqvideo.tc.qq.com^
 ||*customstat*.51togic.com^
 ||*log.droid4x.cn^
 ||*mistat*.xiaomi.com^
@@ -7230,6 +7236,7 @@ vkcdnservice.appspot.com^
 ||ad.sigortagundem.biz^
 ||ad.simgames.net^
 ||ad.simpledesign.ltd^
+||ad.sina.com.cn^
 ||ad.site-landing.com^
 ||ad.sitemaji.com^
 ||ad.smaad.jp^
@@ -7256,6 +7263,7 @@ vkcdnservice.appspot.com^
 ||ad.twitchguru.com^
 ||ad.u-car.com.tw^
 ||ad.udition.jp^
+||ad.unimhk.com^
 ||ad.us.sinaimg.cn^
 ||ad.usatoday.com^
 ||ad.utop.ir^
@@ -8216,6 +8224,7 @@ vkcdnservice.appspot.com^
 ||adm*.autoimg.cn^
 ||adm-cnzz.net^
 ||adm-vids.info^
+||adm.10jqka.com.cn^
 ||adm.265g.com^
 ||adm.52swine.com^
 ||adm.6park.com^
@@ -8231,6 +8240,7 @@ vkcdnservice.appspot.com^
 ||adm.phunuvagiadinh.vn^
 ||adm.ps.easou.com^
 ||adm.shinobi.jp^
+||adm.sina.com.cn^
 ||adm.xmfish.com^
 ||adm.zookingsoft.com^
 ||adm668.com^
@@ -8744,6 +8754,7 @@ vkcdnservice.appspot.com^
 ||adrun.ru^
 ||adrunnr.com^
 ||ads*-adnow.com^
+||ads*-normal*.zijieapi.com^
 ||ads*-normal-hl.zijieapi.com^
 ||ads*.bojijulebu.com^
 ||ads-6686.top^
@@ -8975,6 +8986,7 @@ vkcdnservice.appspot.com^
 ||ads.gazetaesportiva.net^
 ||ads.geekswithblogs.net^
 ||ads.gencgazete.net^
+||ads.genieessp.com^
 ||ads.gercekgundem.com^
 ||ads.gmodules.com^
 ||ads.google.com^
@@ -9510,6 +9522,7 @@ vkcdnservice.appspot.com^
 ||adserver.tutkusunucu.com^
 ||adserver.twitpic.com^
 ||adserver.ubiyoo.com^
+||adserver.unityads.unity3d.com^
 ||adserver.virginmedia.com^
 ||adserver.yahoo.com^
 ||adserver01.de^
@@ -13418,6 +13431,7 @@ vkcdnservice.appspot.com^
 ||analytics.turnertv.com^
 ||analytics.tv189.cn^
 ||analytics.tver.jp^
+||analytics.twitter.com^
 ||analytics.ubports.com^
 ||analytics.ubs.com^
 ||analytics.uca.cloud.unity3d.com^
@@ -14298,6 +14312,8 @@ vkcdnservice.appspot.com^
 ||api.poll.aiseet.atianqi.com^
 ||api.primecaster.net^
 ||api.privacyguides.net^
+||api.psy-1.com/cosleep/newborn/ad^
+||api.psy-1.com/cosleep/newborn/vips/picks^
 ||api.pubfinity.com^
 ||api.push.le.com^
 ||api.pushspring.com^
@@ -14351,6 +14367,11 @@ vkcdnservice.appspot.com^
 ||api2.boclinkads.com^
 ||api2.branch.io^
 ||api2.clickaine.com^
+||api2.coolapk.com/v6/feed/detail$replace=/"_ids":\[.*?]\,"":\[.*?]\,/ /
+||api2.coolapk.com/v6/feed/detail$replace=/\,"":{.*}/}}/
+||api2.coolapk.com/v6/main/indexV8$replace=/{"entityType":"card"\,"entityTemplate":"listCard".*?}"}\,/ / 
+||api2.coolapk.com/v6/main/init$replace=/{"id":1170.*?}\,/ /
+||api2.coolapk.com/v6/page/dataList$replace=/{"entityType":"card"\,"entityTemplate":"apkImageCard".*?\\u0022}"}\,/ /
 ||api2.play.cn^
 ||api2.poperblocker.com^
 ||api64.com^
@@ -14385,6 +14406,7 @@ vkcdnservice.appspot.com^
 ||apk.gelinboer.cn^
 ||apk.idate520.com^
 ||apk.qqvv88.com^
+||apk.shouji.koowo.com^
 ||apkdo.com^
 ||apkinfo.voole.com^
 ||apklog.cp11.ott.cibntv.net^
@@ -21663,9 +21685,11 @@ vkcdnservice.appspot.com^
 ||c.365yigou.cn^
 ||c.45io.com^
 ||c.51xmgys.com^
+||c.51y5.net^
 ||c.5r6t.com^
 ||c.adbxb.cn^
 ||c.adroll.com^
+||c.algovid.com^
 ||c.alimama.com^
 ||c.amazinglybrilliant.com.au^
 ||c.anmeilai.net^
@@ -23370,6 +23394,7 @@ vkcdnservice.appspot.com^
 ||cds868.lon.llnw.net^
 ||cds869.lon.llnw.net^
 ||cdsbnrs.com^
+||cdsget.51y5.net^
 ||cdshusen.cn^
 ||cdtbox.rocks^
 ||cdtm.cdiscount.com^
@@ -24718,6 +24743,7 @@ vkcdnservice.appspot.com^
 ||click.hd.sohu.com^
 ||click.healthxperts.org^
 ||click.helpforourseniors.org^
+||click.hm.baidu.com^
 ||click.hmtracking.com^
 ||click.hooligapps.com^
 ||click.hunantv.com^
@@ -27113,6 +27139,16 @@ vkcdnservice.appspot.com^
 ||cool.tubous.com^
 ||cool18.ga^
 ||cooladata.com^
+||coolapk.com/v6/feed/detail?$replace=/detailSponsorCard//
+||coolapk.com/v6/feed/detail?$replace=/extra_entities//
+||coolapk.com/v6/feed/detail?$replace=/extra_title//
+||coolapk.com/v6/feed/detail?$replace=/include_goods//
+||coolapk.com/v6/main/indexV8?$replace=/\,\{.*?"entityType": "card"\,"entityTemplate":"apkImageCard".*?\}\,\{"id"/,{"id"/
+||coolapk.com/v6/main/indexV8?$replace=/\{"entityType":"card"\,"entityTemplate":"listCard".*?\}\,\{"id/{"id/
+||coolapk.com/v6/main/indexV?$replace=/extra_entities//
+||coolapk.com/v6/main/init?$replace=/\{"data":\[\{"entityType":"card"\,"entityTemplate":"textCard"\,"title":"\\u70ed\\u95e8\\u641c\\u7d22".*?\}\,\{"entityType":"card"\,"entityTemplate":"configCard"/\{"data":[\{"entityType":"card"\,"entityTemplate":"configCard"/
+||coolapk.com/v6/page/dataList?$replace=/extra_entities//
+||coolapk.com/v6/search?type=hotSearch$replace=/\{"data":\[.*\]/{"data":[]/
 ||coolappland.com^
 ||coolappland1.com^
 ||coolappland2.com^
@@ -36246,6 +36282,7 @@ vkcdnservice.appspot.com^
 ||dugothitachan.com^
 ||dugu123.com^
 ||duhtate.ru^
+||duiba.com.cn^
 ||duier.top^
 ||duili-mtp.com^
 ||duimspruer.life^
@@ -36948,6 +36985,7 @@ vkcdnservice.appspot.com^
 ||e.nchet.com^
 ||e.nduop.com^
 ||e.nejup.com^
+||e.nexac.com^
 ||e.nfkos.com^
 ||e.njiet.com^
 ||e.nmsxi.cn^
@@ -38213,6 +38251,7 @@ vkcdnservice.appspot.com^
 ||ehedwd.sikayetvar.com^
 ||ehfgifjjhdaejjajacj.ru^
 ||ehfjup.xyz^
+||ehg-youtube.hitbox.com^
 ||ehibml.revolveclothing.fr^
 ||ehk.trenhdg.com^
 ||ehmqlr.com^
@@ -39474,6 +39513,7 @@ vkcdnservice.appspot.com^
 ||epwa.europarl.europa.eu^
 ||eq-beacon.stream.co.jp^
 ||eq-player-log.cdnext.stream.ne.jp^
+||eq.10jqka.com.cn^
 ||eq.af31f.site^
 ||eq.userneeds.com^
 ||eqacypykxa.com^
@@ -41388,6 +41428,7 @@ vkcdnservice.appspot.com^
 ||fbycnk.chiaki.vn^
 ||fbzm.pqnlorg.cn^
 ||fbzmrgf.xyz^
+||fc-.cdn.bcebos.com^
 ||fc-feed.cdn.bcebos.com^
 ||fc.gaizong.cn^
 ||fc.tiepan.cn^
@@ -43819,6 +43860,7 @@ vkcdnservice.appspot.com^
 ||fvalid.appsflyer.com^
 ||fvbaffiliate.com^
 ||fvcwqkkqmuv.com^
+||fvedio.kuwo.cn^$app=cn.kuwo.player
 ||fvffd678.xyz^
 ||fvgxfupisy.com^
 ||fvpsgi.niceonesa.com^
@@ -43990,6 +44032,7 @@ vkcdnservice.appspot.com^
 ||g.ign.com^
 ||g.jssdk.net^
 ||g.koowo.com^
+||g.koowo.com^$app=cn.kuwo.player
 ||g.kuwo.cn^
 ||g.lznews.cn^
 ||g.mashable.com^
@@ -45173,6 +45216,7 @@ vkcdnservice.appspot.com^
 ||gg.miued.com^
 ||gg.ptfish.com^
 ||gg.sonhoo.com^
+||gg.stargame.com^
 ||gg.taoseyy.cn^
 ||gg.uuu9.com^
 ||gg.vidown.cn^
@@ -45811,6 +45855,7 @@ vkcdnservice.appspot.com^
 ||go-elqau.oracle.com^
 ||go-gal.com^
 ||go-mpulse.net^
+||go-mpulse^
 ||go-rank.de^
 ||go-rillatrack.com^
 ||go-stage.oracle.com^
@@ -49660,6 +49705,7 @@ vkcdnservice.appspot.com^
 ||home-arabia.com^
 ||home.edm.globalsources.com^
 ||home.energiadaprosperidade.com^
+||home.mi.com/cgi-op/api/v1/recommendation/banner^
 ||home.usg.com^
 ||home.wangmeng.com^
 ||home2up.com^
@@ -51385,6 +51431,7 @@ vkcdnservice.appspot.com^
 ||iiid.bluescream.cn^
 ||iiroz.xyz^
 ||iirpzp.novasol.com^
+||iis3g.deliver.ifeng.com^
 ||iisl7wpf.me^
 ||iistillstayherea.com^
 ||iiutq.xyz^
@@ -51572,6 +51619,7 @@ vkcdnservice.appspot.com^
 ||image.ard.de^
 ||image.deginvest.de^
 ||image.fsyule.net^
+||image.gentags.com^
 ||image.haiyunx.com^
 ||image.hpplay.cn^
 ||image.kfw-entwicklungsbank.de^
@@ -58274,6 +58322,7 @@ vkcdnservice.appspot.com^
 ||kwaznkureluct.digital^
 ||kwcmrfb.cn^
 ||kweaake.cyou^
+||kwflvcdn.000dn.com^
 ||kwgefe.com^
 ||kwhenspokento.info^
 ||kwiago.com^
@@ -61392,6 +61441,7 @@ vkcdnservice.appspot.com^
 ||loggw.alipay.com^
 ||loggw.alipaydns.com^
 ||loggychops.paulsmith.site^
+||logic.cpm.cm.kankan.com^
 ||logicalmodelvisible.com^
 ||logicanalytics.io^
 ||logicdate.com^
@@ -62536,6 +62586,7 @@ vkcdnservice.appspot.com^
 ||m.0wnz6g.cn^
 ||m.107279.com^
 ||m.118ex.cn^
+||m.12306media.com^
 ||m.12365chia.com^
 ||m.131pu.cn^
 ||m.13279773.cn^
@@ -65764,6 +65815,7 @@ vkcdnservice.appspot.com^
 ||mataharirama.xyz^
 ||match.c8.net.ua^
 ||match.p4p.1688.com^
+||match.rtbidder.net^
 ||match.rundsp.com^
 ||matchaix.net^
 ||matchcraft.com^
@@ -66385,6 +66437,7 @@ vkcdnservice.appspot.com^
 ||media.adstatic.com^
 ||media.alphaload.com^
 ||media.aso.altapress.ru^
+||media.cdn.kuwo.cn*tuijian*.json$app=cn.kuwo.player
 ||media.cheshi-img.com^
 ||media.cheshi.com^
 ||media.dabong247.com^
@@ -68092,6 +68145,7 @@ vkcdnservice.appspot.com^
 ||mfk-cpm.com^
 ||mfkn.71mxc6.cn^
 ||mfoevvy.com^
+||mfp.deliver.ifeng.com^
 ||mfroute.com^
 ||mftracking.com^
 ||mfwlis.xyz^
@@ -71643,6 +71697,7 @@ vkcdnservice.appspot.com^
 ||news-code.com^
 ||news-headlines.co^
 ||news-host.net^
+||news-imgpb.51y5.net^
 ||news-info.gcgfinancial.com^
 ||news-l.play.cp81.ott.cibntv.net^
 ||news-l.play.ott.video.qq.com^
@@ -75812,6 +75867,7 @@ vkcdnservice.appspot.com^
 ||oznul.com^
 ||ozobsaib.com^
 ||ozoj.com^
+||ozone.10jqka.com.cn^
 ||ozonemedia.com^
 ||ozongees.com^
 ||ozooltik.com^
@@ -75874,6 +75930,8 @@ vkcdnservice.appspot.com^
 ||p.kjwx8.com^
 ||p.kugou.com^
 ||p.l.qq.com^
+||p.l.ykimg.com^
+||p.l.youku.com^
 ||p.lasexta.com^
 ||p.logbox.io^
 ||p.m5bn.com^
@@ -79874,6 +79932,7 @@ vkcdnservice.appspot.com^
 ||ppyflc.uniformnext.com^
 ||ppyibei.com^
 ||pq.murkfrazil.com^
+||pq.stat.ku6.com^
 ||pq8ithtdw.com^
 ||pqbj.jianjiaovip.vip^
 ||pqciix.busuu.com^
@@ -82948,6 +83007,7 @@ vkcdnservice.appspot.com^
 ||r.ihealthishop.com^
 ||r.inbox.lv^
 ||r.kleertjes.com^
+||r.l.youku.com^
 ||r.m.duyidu.net^
 ||r.mail.163.com^
 ||r.mail.ru^
@@ -84544,11 +84604,13 @@ vkcdnservice.appspot.com^
 ||res.gwifi.com.cn^
 ||res.hunantv.com^
 ||res.ipingke.com^
+||res.limei.com^
 ||res.marianne.net^
 ||res.mi.baidu.com^
 ||res.paruvendu.fr^
 ||res.pinpai8.cn^
 ||res.programme-television.org^
+||res.psy-1.com/music/recommend^$app=com.psyone.brainmusic
 ||res.public.fr^
 ||res.qhupdate.com^
 ||res.rbl.ms^
@@ -85121,6 +85183,7 @@ vkcdnservice.appspot.com^
 ||rifice.com^
 ||riftindexesyourself.com^
 ||rifyeldz.top^
+||rigel.baidustatic.com^
 ||rigelbetelgeuse.top^
 ||rigelink.com^
 ||rigfoxcup.site^
@@ -87857,6 +87920,7 @@ vkcdnservice.appspot.com^
 ||sax*.sina.
 ||sax.mobile.sina.cn^
 ||sax.sina.cn^
+||sax.sina.com.cn^
 ||saxd.sina.com.cn^
 ||saxophonecharley.com^
 ||saxs.sina.cn^
@@ -88558,6 +88622,7 @@ vkcdnservice.appspot.com^
 ||searchpeack.com^
 ||searchplow.com^
 ||searchramp.com^
+||searchrecterm.kuwo.cn^$app=cn.kuwo.player
 ||searchsecurer.com^
 ||searchswapper.com^
 ||searchtds.ru^
@@ -95999,6 +96064,7 @@ vkcdnservice.appspot.com^
 ||ssl-youseeiosstream.tns-gallup.dk^
 ||ssl-youseestream.tns-gallup.dk^
 ||ssl-youseeteststream.tns-gallup.dk^
+||ssl-youtube.2cnt.net^
 ||ssl.51lhcx.com^
 ||ssl.aafp.org^
 ||ssl.aafpfoundation.org^
@@ -96369,6 +96435,7 @@ vkcdnservice.appspot.com^
 ||st.hbrd.io^
 ||st.holalauncher.com^
 ||st.holaworld.cn^
+||st.huliyinzi.com/ads_app_pic/^
 ||st.iceportal.de^
 ||st.img-bahn.de^
 ||st.ipornia.com^
@@ -96625,6 +96692,7 @@ vkcdnservice.appspot.com^
 ||stat-track.com^
 ||stat-y.xywy.com^
 ||stat-z.xywy.com^
+||stat.10jqka.com.cn^
 ||stat.24liveplus.com^
 ||stat.360safe.com^
 ||stat.4travel.jp^
@@ -96976,6 +97044,7 @@ vkcdnservice.appspot.com^
 ||static.jiaquyi.com^
 ||static.karte.io^
 ||static.krlouis.com^
+||static.ku6.com^
 ||static.landingtrk.com^
 ||static.leaddyno.com^
 ||static.live.nagezan.net^
@@ -100138,6 +100207,7 @@ vkcdnservice.appspot.com^
 ||t.cotsta.ru^
 ||t.counter.dev^
 ||t.cozone.com^
+||t.cr-nielsen.com^
 ||t.csurams.com^
 ||t.cubuffs.com^
 ||t.cyuew.com^
@@ -100873,6 +100943,7 @@ vkcdnservice.appspot.com^
 ||tantractium.com^
 ||tanv.com^
 ||tanwanyx.com^
+||tanx.com^
 ||tanzhen.info^
 ||tao.barstoolsports.com^
 ||taobaly.cn^
@@ -103245,6 +103316,7 @@ vkcdnservice.appspot.com^
 ||tn05.ru^
 ||tnarzc.com^
 ||tnative.ru^
+||tnc*.zijieapi.com^$app
 ||tnc16-*.byteoversea.com^
 ||tnc16-alisg.isnssdk.com^
 ||tnc16-useast1a.isnssdk.com^
@@ -110279,6 +110351,7 @@ vkcdnservice.appspot.com^
 ||us.cf^
 ||us.claroadsxml.com^
 ||us.i1.yimg.com^
+||us.l.qq.com/exapp^
 ||us.l.qq.com^
 ||us.lucanet.com^
 ||us.mattamyhomes.com^
@@ -110460,6 +110533,7 @@ vkcdnservice.appspot.com^
 ||ut.iggroup.com^
 ||ut.upmc.com^
 ||ut0ej.cn^
+||ut2.shuqistat.com^
 ||utaitlastwebe.com^
 ||utantialcottish.xyz^
 ||utarget.co.uk^
@@ -110688,6 +110762,7 @@ vkcdnservice.appspot.com^
 ||v.jingwoxin.com^$important
 ||v.jntxst.cn^
 ||v.jsbgh.cn^
+||v.l.youku.com^
 ||v.lbsbbw.cn^
 ||v.lelangegg.cn^
 ||v.luxfp.space^
@@ -110980,6 +111055,7 @@ vkcdnservice.appspot.com^
 ||varys.asongofzandc.xyz^
 ||vas-hl-x.snssdk.com^
 ||vasb.cn^
+||vaserviece.10jqka.com.cn^
 ||vasgenerete.com^
 ||vasgenerete.site^
 ||vashebiwa.pro^
@@ -114385,6 +114461,7 @@ vkcdnservice.appspot.com^
 ||wifescamara.click^
 ||wifi.com^
 ||wifi33.com^
+||wifiapidd.51y5.net^
 ||wifidown.com^
 ||wifijia.net^
 ||wifly.net^
@@ -114674,6 +114751,7 @@ vkcdnservice.appspot.com^
 ||wjyljl.cn^
 ||wka4jursurf6.com^
 ||wka8.com^
+||wkanc.51y5.net^
 ||wkanx.com^
 ||wkclick.baidu.com^
 ||wkctj.baidu.com^
@@ -116993,6 +117071,7 @@ vkcdnservice.appspot.com^
 ||xixrdn.xyz^
 ||xiyouence.com^
 ||xizopiwhu.com^
+||xj-landing.gdtimg.com^
 ||xj-n-tax.gov.cn^
 ||xj.eh456yje4.pw^
 ||xj.zjhim.com^
@@ -117966,6 +118045,7 @@ vkcdnservice.appspot.com^
 ||y.btdc8.cn^
 ||y.cgtte.com^
 ||y.da.mgtv.com^
+||y.gtimg.cn/music/common//upload/kg_ad^
 ||y.gwylm.com^
 ||y.hk9600.com^
 ||y.hzht666.com^
@@ -117974,6 +118054,7 @@ vkcdnservice.appspot.com^
 ||y.ksl.com^
 ||y.photoint.net^
 ||y.pzclw.cn^
+||y.qq.com/music/common/upload/t_kg_activity_show^
 ||y.shuoshuocm.com^
 ||y.unilz588.com^
 ||y.zp22.cn^
@@ -118942,6 +119023,8 @@ vkcdnservice.appspot.com^
 ||youthfy.shop^
 ||youthlaw.name^
 ||youthycouthe.uno^
+||youtube.112.2o7.net^
+||youtube.2cnt.net^
 ||youtube.local^
 ||youtube2top.com^
 ||youtubebplan.com^
