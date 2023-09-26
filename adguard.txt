@@ -3,8 +3,8 @@
 ! Powerd by SamSan
 ! Description: Just a merged Adblock rule. Nothing more
 ! Expires: 6 hours (update frequency)
-! Version: 2023-09-26 20:11:51
-! Total count: 112698
+! Version: 2023-09-27 02:08:04
+! Total count: 112781
 
  
 /^(\S+\.)?(webstats?|swebstats?|mywebstats?)\./
@@ -71,6 +71,8 @@ bilibili.com#@#.btn-ctnr
 cjcx.neea.edu.cn#@#[style="visibility: visible; display: block;"]
 mydrivers.com#@#.baidu, a[href^=http][target=_blank]
 ruanyifeng.com#@#a[href*=".apeclass.com"]
+||*-ad-sign.byteimg.com^
+||*-ad.a.yximgs.com^
 ||*-analytics*.huami.com^
 ||*.mmstat.com^
 ||*/vhot2.qqvideo.tc.qq.com^
@@ -1705,6 +1707,7 @@ ruanyifeng.com#@#a[href*=".apeclass.com"]
 ||3798.com^
 ||37bvsblobprodcus311.blob.core.windows.net^
 ||37cs.com^
+||37dv.com^
 ||37e5693aa7.com^
 ||37kx1.com^
 ||37mnm.com^
@@ -5954,6 +5957,7 @@ ruanyifeng.com#@#a[href*=".apeclass.com"]
 ||acrowl.com^
 ||acs.56.com^
 ||acs.agent.56.com^
+||acs.m.taobao.com^
 ||acs.wapa.taobao.com^
 ||acs4baichuan.m.taobao.com^
 ||acs86.com^
@@ -6181,6 +6185,7 @@ ruanyifeng.com#@#a[href*=".apeclass.com"]
 ||ad-cache.dopool.com^
 ||ad-cdn.hrgame.com.cn^
 ||ad-cdn.qingting.fm^
+||ad-cdn.qtfm.cn^
 ||ad-center.com^
 ||ad-channel.diwodiwo.xyz^
 ||ad-channel.wikawika.xyz^
@@ -6218,6 +6223,7 @@ ruanyifeng.com#@#a[href*=".apeclass.com"]
 ||ad-scope.com.cn^
 ||ad-scope.com^
 ||ad-score.com^
+||ad-sdk.huxiu.com^
 ||ad-serve.b-cdn.net^
 ||ad-server.co.za^
 ||ad-server.eu^
@@ -6301,6 +6307,7 @@ ruanyifeng.com#@#a[href*=".apeclass.com"]
 ||ad.cn.doubleclick.net^
 ||ad.cooks.com^
 ||ad.csdn.net^
+||ad.cyapi.cn^
 ||ad.cyberone.com.tw^
 ||ad.daum.net^
 ||ad.dedecms.com^
@@ -7106,6 +7113,7 @@ ruanyifeng.com#@#a[href*=".apeclass.com"]
 ||adg99.com^
 ||adgage.es^
 ||adgainersolutions.com^
+||adgame.waimai.meituan.com^
 ||adgardener.com^
 ||adgatemedia.com^
 ||adgear.com^
@@ -7319,6 +7327,7 @@ ruanyifeng.com#@#a[href*=".apeclass.com"]
 ||adlog.cbsi.com^
 ||adlog.com.com^
 ||adlog.foxitcloud.com^
+||adlog.qingting.fm^
 ||adlog.shopping.naver.com^
 ||adlog.tagtic.cn^
 ||adlog.vivo.com.cn^
@@ -7796,10 +7805,12 @@ ruanyifeng.com#@#a[href*=".apeclass.com"]
 ||ads*-adnow.com^
 ||ads*-normal*.zijieapi.com^
 ||ads*-normal-hl.zijieapi.com^
+||ads*.zijieapi.com^
 ||ads-6686.top^
 ||ads-adaptv.vidible.tv^
 ||ads-admin.hubs.vn^
 ||ads-adv.top^
+||ads-api-o.api.leiniao.com^
 ||ads-api.ft.com^
 ||ads-api.playfun.vn^
 ||ads-api.tiktok.com^
@@ -7837,6 +7848,7 @@ ruanyifeng.com#@#a[href*=".apeclass.com"]
 ||ads-video-qc.xhscdn.com^
 ||ads-west-colo.adsymptotic.com^
 ||ads-yallo-production.imgix.net^
+||ads.*.kugou.com^
 ||ads.123net.jp^
 ||ads.1thegioi.vn^
 ||ads.2conv.com^
@@ -8426,6 +8438,7 @@ ruanyifeng.com#@#a[href*=".apeclass.com"]
 ||adservice.google.cn^
 ||adservice.google.co.jp^
 ||adservice.google.com^
+||adservice.kugou.com^
 ||adservice.sigmob.cn^
 ||adservicemedia.dk^
 ||adserviceretry.kugou.com^
@@ -8453,6 +8466,7 @@ ruanyifeng.com#@#a[href*=".apeclass.com"]
 ||adsfcdn.com^
 ||adsfile.bssdlbig.kugou.com^
 ||adsfile.qq.com^
+||adsfilebssdlbig.*.kugou.com^
 ||adsforallmedia.com^
 ||adsforcomputercity.com^
 ||adsforfaucets.com^
@@ -8764,6 +8778,8 @@ ruanyifeng.com#@#a[href*=".apeclass.com"]
 ||adtrack.appcpi.net^
 ||adtrack.king.com^
 ||adtrack.loracle.jp^
+||adtrack.quark.cn^
+||adtrack.uc.cn^
 ||adtrack.ucweb.com^
 ||adtrack.xiaojukeji.com^
 ||adtrack1.midasplayer.com^
@@ -12458,6 +12474,7 @@ ruanyifeng.com#@#a[href*=".apeclass.com"]
 ||api-2-0.spot.im^
 ||api-access.pangolin-sdk-toutiao.com^
 ||api-ad-data.kajicam.com^
+||api-ad-product.huxiu.com^
 ||api-ad.kajicam.com^
 ||api-ads.tiantianqutao.com^
 ||api-adservices.apple.com^
@@ -12491,6 +12508,7 @@ ruanyifeng.com#@#a[href*=".apeclass.com"]
 ||api-u-ssl.xunlei.com^
 ||api-web-game-ssl.xunlei.com^
 ||api-z.weidian.com^
+||api-zhibo.qtfm.cn^
 ||api.0530hz.cn^
 ||api.06fgej.com^
 ||api.1101yh.com^
@@ -13246,6 +13264,7 @@ ruanyifeng.com#@#a[href*=".apeclass.com"]
 ||applog.camera360.com^
 ||applog.musical.ly^
 ||applog.reader.qq.com^
+||applog.snssdk.com^
 ||applog.uc.cn^
 ||applog.ucdns.uc.cn^
 ||applog.yiche.com^
@@ -13811,6 +13830,7 @@ ruanyifeng.com#@#a[href*=".apeclass.com"]
 ||aservices.party^
 ||asev.xyz^
 ||asewlfjqwlflkew.com^
+||asfklgnbvx.com^
 ||asforsalesr.one^
 ||asg.allweb.click^
 ||asg.animehdl.net^
@@ -15986,6 +16006,7 @@ ruanyifeng.com#@#a[href*=".apeclass.com"]
 ||bbwfvxw.cn^
 ||bbworld.blackboard.com^
 ||bbwqcs.vidaxl.ee^
+||bbwzzwremrvkl.top^
 ||bbyavrykjopnnx.xyz^
 ||bc.coupons.com^
 ||bc.geocities.yahoo.co.jp^
@@ -16505,6 +16526,7 @@ ruanyifeng.com#@#a[href*=".apeclass.com"]
 ||beiyu.xin^
 ||beiyz.com^
 ||beizhoujt.cn^
+||beizi.biz^
 ||beizkw.cn^
 ||beiztw.cn^
 ||bejesustrolly.guru^
@@ -20247,6 +20269,7 @@ ruanyifeng.com#@#a[href*=".apeclass.com"]
 ||castcloudywhereby.com^
 ||castcream.com^
 ||casterpretic.com^
+||castim.info^
 ||castpallium.com^
 ||castplatform.com^
 ||casualproof.com^
@@ -21627,6 +21650,7 @@ ruanyifeng.com#@#a[href*=".apeclass.com"]
 ||christmalicious.com^
 ||chrjkn.cn^
 ||chrochr.com^
+||chrolae.com^
 ||chrolal.com^
 ||chromatography.mac-mod.com^
 ||chromc.com^
@@ -21737,7 +21761,6 @@ ruanyifeng.com#@#a[href*=".apeclass.com"]
 ||cimoghuk.net^
 ||cinarra.com^
 ||cincinnati-content.cresa.com^
-||cinela.us^
 ||cinemabonus.com^
 ||cinemafacil.com^
 ||cinemahelicopterwall.com^
@@ -23254,6 +23277,7 @@ ruanyifeng.com#@#a[href*=".apeclass.com"]
 ||collect.hollisterco.com^
 ||collect.igodigital.com^
 ||collect.iteam-dress.com^
+||collect.kugou.com^
 ||collect.media.jio.com^
 ||collect.meilleurtaux.com^
 ||collect.mxapis.com^
@@ -29258,6 +29282,8 @@ ruanyifeng.com#@#a[href*=".apeclass.com"]
 ||data-pic.cdn.cootekservice.com^
 ||data-px.services^
 ||data-saver-cindi.herokuapp.com^
+||data-sdk-uuid-log.d.meituan.net^
+||data-sdk-uuid-report.dreport.meituan.net^
 ||data-ssl.stepstone.at^
 ||data-ssl.stepstone.be^
 ||data-ssl.stepstone.de^
@@ -29954,6 +29980,7 @@ ruanyifeng.com#@#a[href*=".apeclass.com"]
 ||ddow.xyz^
 ||ddpaowanji.com^
 ||ddpxhq.cn^
+||ddqfgamwnhp.com^
 ||ddqkqq.com^
 ||ddrrccck.m.qxs.la^
 ||ddrvjrfwnij7n.cloudfront.net^
@@ -30091,6 +30118,7 @@ ruanyifeng.com#@#a[href*=".apeclass.com"]
 ||declinewretchretain.com^
 ||declk.com^
 ||decoctionembedded.com^
+||decodesnaevoid.life^
 ||decomposedismantle.com^
 ||decompraschile.com^
 ||decorationguinea.com^
@@ -32537,7 +32565,6 @@ ruanyifeng.com#@#a[href*=".apeclass.com"]
 ||dreamsoppressive.com^
 ||dreamstee.com^
 ||dreamstees.com^
-||dreamteeg.com^
 ||dreamvids.pro^
 ||dreamware.com.cn^
 ||dreanrh.cn^
@@ -32769,6 +32796,7 @@ ruanyifeng.com#@#a[href*=".apeclass.com"]
 ||dtmm9h2satghl.cloudfront.net^
 ||dtmpub.com^
 ||dtmssl.bobcat.com^
+||dtnacqswcieufy.com^
 ||dtnhjzl.xyz^
 ||dtoottuleringv.com.ua^
 ||dtoottuleringwe.xyz^
@@ -33496,6 +33524,7 @@ ruanyifeng.com#@#a[href*=".apeclass.com"]
 ||e.kjfhe.com^
 ||e.kjhfy.com^
 ||e.kl6636.net^
+||e.kuaishou.cn^
 ||e.kuaishou.com^
 ||e.kunpp.com^
 ||e.kuwoyy.com^
@@ -35369,6 +35398,7 @@ ruanyifeng.com#@#a[href*=".apeclass.com"]
 ||emeralddead.com^
 ||emeraldhecticteapot.com^
 ||emergencymarquis.com^
+||emerickveilers.space^
 ||emerse.com^
 ||emetrics.bose.ca^
 ||emetrics.bose.com^
@@ -37049,6 +37079,7 @@ ruanyifeng.com#@#a[href*=".apeclass.com"]
 ||eyauknalyticafra.info^
 ||eybstar.com^
 ||eyc-marketing.eyc.com^
+||eychroi.com^
 ||eyd77s.com^
 ||eye.rd.services^
 ||eyeballcorruption.com^
@@ -37274,6 +37305,7 @@ ruanyifeng.com#@#a[href*=".apeclass.com"]
 ||facebookinbox-omni-onapp.haravan.com^
 ||facemap.foldlife.net^
 ||faceporn.com^
+||facersmangles.com^
 ||facesnotebook.com^
 ||facetz.net^
 ||facil-iti.com^
@@ -37500,7 +37532,6 @@ ruanyifeng.com#@#a[href*=".apeclass.com"]
 ||fark.com^
 ||farm-cn.plista.com^
 ||farmagegaudful.com^
-||farmer-love.us^
 ||farmergoldfish.com^
 ||farmhumor.host^
 ||farmmandatehaggard.com^
@@ -38957,6 +38988,7 @@ ruanyifeng.com#@#a[href*=".apeclass.com"]
 ||foldertopichoot.com^
 ||foldhesitation.com^
 ||foldhewiser.com^
+||foldingclassified.com^
 ||foldingsuppressedhastily.com^
 ||folgam.com^
 ||folgsl.xyz^
@@ -39692,6 +39724,7 @@ ruanyifeng.com#@#a[href*=".apeclass.com"]
 ||fstsrv2.com^
 ||fstsrv3.com^
 ||fstsrv4.com^
+||fstsrv5.com^
 ||fsugco.rcn.nl^
 ||fswvlswhgvjh.xyz^
 ||fsxzbs.cn^
@@ -40438,6 +40471,7 @@ ruanyifeng.com#@#a[href*=".apeclass.com"]
 ||gasxf.com^
 ||gasylicyg1e8n6po.com^
 ||gatecitizenswindy.com^
+||gatecollect.kugou.com^
 ||gatekeeperconsent.com^
 ||gatemputertrk.com^
 ||gatetent.com^
@@ -40620,9 +40654,9 @@ ruanyifeng.com#@#a[href*=".apeclass.com"]
 ||gear.echovisuals.com^
 ||gearanime.com^
 ||gearathena.com^
+||gearclover.com^
 ||gearedftnerr.com^
 ||gearhomies.com^
-||gearhuman.com^
 ||gearleaveessence.com^
 ||gearstastic.com^
 ||gearstastics.com^
@@ -42459,7 +42493,6 @@ ruanyifeng.com#@#a[href*=".apeclass.com"]
 ||gold.szonline.net^
 ||gold2762.com^
 ||goldalternateattributed.com^
-||goldbach.com^
 ||golden-gateway.com^
 ||golden1.sogou.com^
 ||golden1.sohu.com^
@@ -43923,6 +43956,7 @@ ruanyifeng.com#@#a[href*=".apeclass.com"]
 ||harahero.top^
 ||haraloyalty.com^
 ||harassinglateral.com^
+||harayun.com^
 ||harborcaption.com^
 ||harborcub.com^
 ||hardboileddearlyaccomplish.com^
@@ -45175,6 +45209,7 @@ ruanyifeng.com#@#a[href*=".apeclass.com"]
 ||hkosgxn.cn^
 ||hkoxlirf.com^
 ||hkoytvx.cn^
+||hkrpg-log-upload-os.hoyoverse.com^
 ||hkscldggm.xyz^
 ||hksmstpzsnlj.com^
 ||hktedu.site^
@@ -52271,6 +52306,7 @@ ruanyifeng.com#@#a[href*=".apeclass.com"]
 ||kampanjer.yxvisa.no^
 ||kampyle.com^
 ||kamwaflmoacd.com^
+||kanagi.xyz^
 ||kanatventose.com^
 ||kanawhadonnot.website^
 ||kanclick.com^
@@ -52642,6 +52678,8 @@ ruanyifeng.com#@#a[href*=".apeclass.com"]
 ||kgeshe.site^
 ||kgfjrb711.com^
 ||kgho.info^
+||kgipadstat.kugou.com^
+||kgipadstatbak.kugou.com^
 ||kgmobilestat.kugou.com^
 ||kgnlaigd.fun^
 ||kgnohpvawhef.com^
@@ -55771,6 +55809,7 @@ ruanyifeng.com#@#a[href*=".apeclass.com"]
 ||liveburst.com^
 ||livec.l.qq.com^
 ||livecam.com^
+||livecato.com^
 ||livecount.fr^
 ||livecounter.dk^
 ||livecounter.theyosh.nl^
@@ -55822,6 +55861,7 @@ ruanyifeng.com#@#a[href*=".apeclass.com"]
 ||liveupdate.mac.sandai.net^
 ||liveviewer.ez.no^
 ||livew.l.qq.com^
+||liveweb*.msstatic.com^
 ||livewebstats.dk^
 ||livewidget.net^
 ||livexxx.me^
@@ -56183,8 +56223,12 @@ ruanyifeng.com#@#a[href*=".apeclass.com"]
 ||loftusinghorizon.com^
 ||loftychord.com^
 ||lofvkxaqsw.com^
+||log*-misc-lq.amemv.com^
+||log*-normal-lq.toutiaoapi.com^
 ||log*.molitv.cn^
 ||log-ads.r7.com^
+||log-api-mn.huxiu.com^
+||log-api.huxiu.com^
 ||log-api.pangolin-sdk-toutiao-b.com^
 ||log-collector.shopee.vn^
 ||log-dmp.suishenyun.cn^
@@ -56300,6 +56344,7 @@ ruanyifeng.com#@#a[href*=".apeclass.com"]
 ||log.ireader.com^
 ||log.isnssdk.com^
 ||log.iyunmai.com^
+||log.jd.com^
 ||log.kaayun.com^
 ||log.kajicam.com^
 ||log.kaka.me^
@@ -56475,6 +56520,7 @@ ruanyifeng.com#@#a[href*=".apeclass.com"]
 ||logevt.pubfinity.com^
 ||logfr.vietnamplus.vn^
 ||logg4u.cnnd.vn^
+||loggate.moxigame.cn^
 ||logger.applovefrom.com^
 ||logger.baofeng.com^
 ||logger.bzu.kr^
@@ -56627,10 +56673,12 @@ ruanyifeng.com#@#a[href*=".apeclass.com"]
 ||logstat.t.sfht.com^
 ||logtail.com^
 ||logtake.weidian.com^
+||logtj.kugou.com^
 ||logua.com^
 ||logupdate.avlyun.sec.miui.com^
 ||logv2.mp3.zing.vn^
 ||logv3.metric.vn^
+||logwebs.kugou.com^
 ||logx.optimizely.com^
 ||logxp.ru^
 ||logystowtencon.info^
@@ -61656,6 +61704,7 @@ ruanyifeng.com#@#a[href*=".apeclass.com"]
 ||meoneinthew.com^
 ||meooe.com^
 ||meowlytics.bignutty.xyz^
+||meowpinky.com^
 ||meowpushnot.com^
 ||mepirtedic.com^
 ||mepuzz.com^
@@ -63183,6 +63232,7 @@ ruanyifeng.com#@#a[href*=".apeclass.com"]
 ||midinfo.baofeng.com^
 ||midistortrix.com^
 ||midlandfeisty.com^
+||midmornsarinda.website^
 ||midnightconsessionconsession.com^
 ||midootib.net^
 ||midouwhi.com^
@@ -65666,6 +65716,7 @@ ruanyifeng.com#@#a[href*=".apeclass.com"]
 ||navi1.com^
 ||navi10.com^
 ||navi10.ru^
+||navi100.com^
 ||navi12.com^
 ||navi13.com^
 ||navi18.com^
@@ -65680,7 +65731,6 @@ ruanyifeng.com#@#a[href*=".apeclass.com"]
 ||navi25.ru^
 ||navi26.com^
 ||navi3.com^
-||navi3.ru^
 ||navi30.ru^
 ||navi32.com^
 ||navi35.com^
@@ -65698,6 +65748,7 @@ ruanyifeng.com#@#a[href*=".apeclass.com"]
 ||navi47.ru^
 ||navi5.com^
 ||navi50.com^
+||navi51.com^
 ||navi53.com^
 ||navi54.com^
 ||navi55.com^
@@ -65712,7 +65763,6 @@ ruanyifeng.com#@#a[href*=".apeclass.com"]
 ||navi67.com^
 ||navi67.ru^
 ||navi7.com^
-||navi70.ru^
 ||navi71.com^
 ||navi72.com^
 ||navi72.ru^
@@ -65770,6 +65820,8 @@ ruanyifeng.com#@#a[href*=".apeclass.com"]
 ||nbbull.com^
 ||nbc-jite.nbcuni.com^
 ||nbcnews.black.news^
+||nbcollect.kugou.com^
+||nbcollectretry.kugou.com^
 ||nbdiscount.com^
 ||nbg.seagate.com^
 ||nbgorv.cn^
@@ -66530,9 +66582,11 @@ ruanyifeng.com#@#a[href*=".apeclass.com"]
 ||nickeyssizzle.guru^
 ||nicknameuntie.com^
 ||nicksstevmark.com^
+||nicmaui.com^
 ||nicohgokppuj.com^
 ||nicorette.co.kr^
 ||nicshe.trekkww.fun^
+||nicthei.com^
 ||nidays.switzerland.ni.com^
 ||nidecelebe.life^
 ||nideganta.life^
@@ -69587,6 +69641,7 @@ ruanyifeng.com#@#a[href*=".apeclass.com"]
 ||otelloexactor.com^
 ||otf.msn.com^
 ||otgazfpuso.com^
+||oth.eve.qq.com^
 ||othandhadb.xyz^
 ||othbhe2.com^
 ||othbor.com^
@@ -70226,6 +70281,7 @@ ruanyifeng.com#@#a[href*=".apeclass.com"]
 ||p2.ykauto.cn^
 ||p23jac.top^
 ||p24.hu^
+||p2cdn.com^
 ||p2e9r4n9.stackpathcdn.com^
 ||p2kfynrr.icu^
 ||p2oh1.xyz^
@@ -70545,6 +70601,7 @@ ruanyifeng.com#@#a[href*=".apeclass.com"]
 ||pangle-b.io^
 ||pangle.io^
 ||pangoha.xyz^
+||pangolin-sdk-toutiao*.com^
 ||pangolin-sdk-toutiao*.com^ 
 ||pangolin-sdk-toutiao-b.com^
 ||pangolin-sdk-toutiao.com^
@@ -70616,6 +70673,7 @@ ruanyifeng.com#@#a[href*=".apeclass.com"]
 ||paradisemall.net^
 ||paradocs.ru^
 ||paradoxfactor.com^
+||parajumperssalg.com^
 ||parakeet.jorenvanhocht.be^
 ||parakeet.quotetweet.com^
 ||parallelgds.store^
@@ -71263,6 +71321,7 @@ ruanyifeng.com#@#a[href*=".apeclass.com"]
 ||patariatoolman.com^
 ||patarinmangers.top^
 ||patchedcyamoid.com^
+||pateim.com^
 ||patenssabzi.com^
 ||patgsrv.com^
 ||path-follower.com^
@@ -71529,6 +71588,8 @@ ruanyifeng.com#@#a[href*=".apeclass.com"]
 ||pcshuju.com^
 ||pcsoftwords.dftoutiao.com^
 ||pcspeedup.com^
+||pcstat.kugou.com^
+||pcstatbak.kugou.com^
 ||pcteast.com^
 ||pctlwm.com^
 ||pctsrv.com^
@@ -72036,6 +72097,7 @@ ruanyifeng.com#@#a[href*=".apeclass.com"]
 ||phaiksul.net^
 ||phaisoaz.com^
 ||phaithoo.xyz^
+||phaivais.net^
 ||phalingy.net^
 ||phanquang.vn^
 ||phantomattestationzillion.com^
@@ -72827,6 +72889,7 @@ ruanyifeng.com#@#a[href*=".apeclass.com"]
 ||placeplay.com^
 ||placidperson.com^
 ||placingtraditionalhobble.com^
+||placodegnawers.guru^
 ||placoidtobyman.com^
 ||pladform.ru^
 ||plaguealacritytwitter.com^
@@ -76170,6 +76233,7 @@ ruanyifeng.com#@#a[href*=".apeclass.com"]
 ||qpb0.sohu.com^
 ||qpb1.sohu.com^
 ||qpc4.visilab.ch^
+||qpcvlbp.cn^
 ||qpdyb.cn^
 ||qpeadbmaql.com^
 ||qpeoctxiqaxw.com^
@@ -78014,6 +78078,7 @@ ruanyifeng.com#@#a[href*=".apeclass.com"]
 ||report.qcloud.com^
 ||report.qq.com^
 ||report.seznamzpravy.cz^
+||report.tencentmusic.com^
 ||report.uc.heytapmobi.com^
 ||report.vip.qq.com^
 ||report.vnay.vn^
@@ -79662,10 +79727,12 @@ ruanyifeng.com#@#a[href*=".apeclass.com"]
 ||rtty.in^
 ||rtumdhdk.xyz^
 ||rtumwzp.icu^
+||rtwebcollects.kugou.com^
 ||rtxlni.doclasse.com^
 ||rtxpx-a.akamaihd.net^
 ||rtxrtb.com^
 ||rtyznd.com^
+||rtzblzfgzqw.com^
 ||rtzhao.site^
 ||ru-go.experian.com^
 ||ru-ru.siemensplmevents.com^
@@ -89797,6 +89864,7 @@ ruanyifeng.com#@#a[href*=".apeclass.com"]
 ||stat.kkpp.cz^
 ||stat.kleos.cz^
 ||stat.ku6.com^
+||stat.kugou.com^
 ||stat.kununu.cz^
 ||stat.kwikmotion.com^
 ||stat.laley.es^
@@ -90016,7 +90084,6 @@ ruanyifeng.com#@#a[href*=".apeclass.com"]
 ||static.flv.uuzuonline.com^
 ||static.foremedia.net^
 ||static.front.xywy.com^
-||static.fstsrv5.com^
 ||static.g.iqiyi.com^
 ||static.g.ppstream.com^
 ||static.g.pptv.com^
@@ -90898,6 +90965,7 @@ ruanyifeng.com#@#a[href*=".apeclass.com"]
 ||stats.pusher.com^
 ||stats.qawl.app^
 ||stats.qdq.com^
+||stats.qiumibao.com^
 ||stats.qmerce.com^
 ||stats.qovery.com^
 ||stats.quicksilvercre.com^
@@ -91411,6 +91479,7 @@ ruanyifeng.com#@#a[href*=".apeclass.com"]
 ||stiflerivers.com^
 ||stiften.tns-gallup.dk^
 ||stiftood.xyz^
+||stigala.com^
 ||stigat.com^
 ||stigmuuua.xyz^
 ||stihruojvag.com^
@@ -92535,6 +92604,7 @@ ruanyifeng.com#@#a[href*=".apeclass.com"]
 ||swiftmining.win^
 ||swiftpedigreebike.com^
 ||swigdomable.com^
+||swiggrazer.life^
 ||swimg2.tsderen.cn^
 ||swimslope.com^
 ||swimsunleisure.com^
@@ -92682,6 +92752,7 @@ ruanyifeng.com#@#a[href*=".apeclass.com"]
 ||sxtyhl.top^
 ||sxuheg.xyz^
 ||sxundrh.cn^
+||sxwflxsontjwdb.com^
 ||sxwxswg8z1xe.www.arnowebtv.com^
 ||sxxfmc.com^
 ||sxxjdz.com^
@@ -94693,6 +94764,7 @@ ruanyifeng.com#@#a[href*=".apeclass.com"]
 ||terrifictooth.com^
 ||terrifyingdeveloperreschedule.com^
 ||terttalkinhitin.pro^
+||tesla-openai.com^
 ||teslaamg.obs.cn-east-3.myhuaweicloud.com^
 ||teslabrc.com^
 ||teslacar.io^
@@ -98211,6 +98283,7 @@ ruanyifeng.com#@#a[href*=".apeclass.com"]
 ||track.laserskincarespace.com^
 ||track.lasikexpertscenter.com^
 ||track.lasikxpress.com^
+||track.lc.quark.cn^
 ||track.leadin.com^
 ||track.leadsgorillaoffer.com^
 ||track.leadunicorns.com^
@@ -98812,6 +98885,7 @@ ruanyifeng.com#@#a[href*=".apeclass.com"]
 ||tracker.joost.com^
 ||tracker.kantan-access.com^
 ||tracker.keywordintent.com^
+||tracker.kugou.com^
 ||tracker.live.tudou.com^
 ||tracker.marinsoftware.com^
 ||tracker.mattel.com^
@@ -98882,6 +98956,7 @@ ruanyifeng.com#@#a[href*=".apeclass.com"]
 ||tracker2.space^
 ||trackerapi.service.echobox.com^
 ||trackerapi.truste.com^
+||trackercdnbj.kugou.com^
 ||trackernew.ulivetv.net^
 ||trackersdk.bdash-cloud.com^
 ||trackersimulator.org^
@@ -101613,6 +101688,7 @@ ruanyifeng.com#@#a[href*=".apeclass.com"]
 ||uekish.com^
 ||uel-uel-fie.com^
 ||uelllwrite.com^
+||uem.migu.cn^
 ||ueoaosnydppwjwl.com^
 ||uep.gaijin.net^
 ||uersfa.com^
@@ -101840,8 +101916,10 @@ ruanyifeng.com#@#a[href*=".apeclass.com"]
 ||ulnawoyyzbljc.ru^
 ||uloadeeksurvey.space^
 ||uloaludu.xyz^
+||ulog*.*^
 ||ulog-sdk.gifshow.com^
 ||ulog.imap.baidu.com^
+||ulogjs.gifshow.com^
 ||ulogs.umeng.com^
 ||ulogs.umengcloud.com^
 ||ulojlvmejkaem.xyz^
@@ -102123,6 +102201,7 @@ ruanyifeng.com#@#a[href*=".apeclass.com"]
 ||uninvitednobody.com^
 ||unioladeseret.com^
 ||union-wifi.com^
+||union.360.cn^
 ||union.56.com^
 ||union.6.cn^
 ||union.baidu.cn^
@@ -102400,6 +102479,7 @@ ruanyifeng.com#@#a[href*=".apeclass.com"]
 ||uplift-platform.com^
 ||upliftsearch.com^
 ||uplinecliency.com^
+||upload-up.qtfm.cn^
 ||upload.cc^
 ||upload.euleriancdn.net^
 ||uploadlog.p2p.qq.com^
@@ -102678,7 +102758,6 @@ ruanyifeng.com#@#a[href*=".apeclass.com"]
 ||usfw2eu.icu^
 ||usgzei.vidaxl.ch^
 ||ushaqi.com^
-||ushiro.org^
 ||ushistoari.com^
 ||ushoofop.com^
 ||usinesmycete.xyz^
@@ -102927,6 +103006,7 @@ ruanyifeng.com#@#a[href*=".apeclass.com"]
 ||uzuarlv.cn^
 ||uzxkuwalnjp.com^
 ||uzyid.cn^
+||v*-ad.video.yximgs.com^
 ||v-collector.dp.aws.charter.com^
 ||v-pack.net^
 ||v-t.topya.com^
@@ -103108,7 +103188,6 @@ ruanyifeng.com#@#a[href*=".apeclass.com"]
 ||valemedia.net^
 ||valencevinyls.life^
 ||valerainingexplain.com^
-||valeronevijao.com^
 ||valetedmasaris.website^
 ||valeuceplangka.com^
 ||valf.atm.youku.com^
@@ -103299,6 +103378,7 @@ ruanyifeng.com#@#a[href*=".apeclass.com"]
 ||vchiy.com^
 ||vciayrf.cn^
 ||vciddepi.cyou^
+||vcl-brain.snssdk.com^
 ||vcmedia.com^
 ||vcommission.com^
 ||vconf.f.360.cn^
@@ -104384,6 +104464,7 @@ ruanyifeng.com#@#a[href*=".apeclass.com"]
 ||vqcjmtorgexlxpg.xyz^
 ||vqdgbdv.xyz^
 ||vqdjcy.com^
+||vqflyvrshgjvqr.com^
 ||vqglaz.com^
 ||vqhifd.xyz^
 ||vqhlhfjmvcvxw.com^
@@ -104645,6 +104726,7 @@ ruanyifeng.com#@#a[href*=".apeclass.com"]
 ||vzufzah.com^
 ||vzvvifw.cn^
 ||vzzexalcirfgrf.ru^
+||w*.*skwai.com^
 ||w-api.baomoi.com^
 ||w-profiling.cibc.com^
 ||w-profiling.simplii.com^
@@ -105549,6 +105631,7 @@ ruanyifeng.com#@#a[href*=".apeclass.com"]
 ||webclickengine.com^
 ||webclickmanager.com^
 ||webclicktracker.com^
+||webcollects.kugou.com^
 ||webcompteur.com^
 ||webcontentassessor.com^
 ||webcounter.co.za^
@@ -105677,6 +105760,7 @@ ruanyifeng.com#@#a[href*=".apeclass.com"]
 ||webstat.freaks4u.com^
 ||webstat.kuwo.cn^
 ||webstat.net^
+||webstat.qiumibao.com^
 ||webstat.vodafone.com^
 ||webstat.ws.126.net^
 ||webstatistik.odav.de^
@@ -105980,6 +106064,7 @@ ruanyifeng.com#@#a[href*=".apeclass.com"]
 ||wezvveogk.com^
 ||wf321.com^
 ||wf66l5ylwq.com^
+||wfdlrirntafl.com^
 ||wfeiso.top^
 ||wffengtai.com.cn^
 ||wfgo5vjs6cp0cdjx7bms3cn9lof2p01xho0pxgm1fd2fah3j5d8qd7x1d6eu.me^
@@ -107197,6 +107282,7 @@ ruanyifeng.com#@#a[href*=".apeclass.com"]
 ||wsjpcev.com^
 ||wskei.cn^
 ||wslbahe.top^
+||wslog.chinanetcenter.com^
 ||wslqgslkuv.com^
 ||wsmcdn.audioeye.com^
 ||wsmky.com^
@@ -109009,6 +109095,7 @@ ruanyifeng.com#@#a[href*=".apeclass.com"]
 ||xladapi.izuiyou.com^
 ||xlardaxq.com^
 ||xlbvvo.luisaviaroma.com^
+||xlcceiswfsntpp.xyz^
 ||xlcun.com^
 ||xld.caicool.co^
 ||xleqs.xyz^
@@ -109084,7 +109171,6 @@ ruanyifeng.com#@#a[href*=".apeclass.com"]
 ||xml-eu-v4.craftviking-2.co^
 ||xml-eu-v4.craftviking.co^
 ||xml-eu-v4.frdjs-1.co^
-||xml-eu-v4.fstsrv5.com^
 ||xml-eu-v4.gipostart-2.co^
 ||xml-eu-v4.hawkads.in^
 ||xml-eu-v4.netload1.com^
@@ -109138,7 +109224,6 @@ ruanyifeng.com#@#a[href*=".apeclass.com"]
 ||xml-v4.domains-traffic.com^
 ||xml-v4.fmlabsonline.com^
 ||xml-v4.frdjs-1.co^
-||xml-v4.fstsrv5.com^
 ||xml-v4.gipostart-2.co^
 ||xml-v4.goclickz.net^
 ||xml-v4.hetcash.com^
@@ -109231,7 +109316,6 @@ ruanyifeng.com#@#a[href*=".apeclass.com"]
 ||xml.flyerblaze.com^
 ||xml.foremedia.net^
 ||xml.frdjs-1.co^
-||xml.fstsrv5.com^
 ||xml.gipostart-2.co^
 ||xml.groovyadz.com^
 ||xml.hetcash.com^
@@ -110252,7 +110336,6 @@ ruanyifeng.com#@#a[href*=".apeclass.com"]
 ||ygtfgu.casamundo.nl^
 ||ygtnn.cn^
 ||ygtt.mobi^
-||ygtube.xyz^
 ||ygtx.mobi^
 ||yguap.com^
 ||yguo.xyz^
