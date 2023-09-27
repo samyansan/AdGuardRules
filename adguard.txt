@@ -3,8 +3,8 @@
 ! Powerd by SamSan
 ! Description: Just a merged Adblock rule. Nothing more
 ! Expires: 6 hours (update frequency)
-! Version: 2023-09-27 20:11:38
-! Total count: 112807
+! Version: 2023-09-28 02:08:07
+! Total count: 112811
 
  
 /^(\S+\.)?(webstats?|swebstats?|mywebstats?)\./
@@ -1698,6 +1698,7 @@ ruanyifeng.com#@#a[href*=".apeclass.com"]
 ||36mghtd.xyz^
 ||36nl.com^
 ||36pn.com^
+||36uh.com^
 ||36yoo.net^
 ||37.44x.io^
 ||370cabd5.space^
@@ -73799,6 +73800,9 @@ ruanyifeng.com#@#a[href*=".apeclass.com"]
 ||potomactatted.life^
 ||potoospincher.com^
 ||potorootests.com^
+||potplayer.app^
+||potplayer.io^
+||potplayer.tv^
 ||potsaglu.net^
 ||potshumiliationremnant.com^
 ||potskolu.net^
