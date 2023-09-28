@@ -3,8 +3,8 @@
 ! Powerd by SamSan
 ! Description: Just a merged Adblock rule. Nothing more
 ! Expires: 6 hours (update frequency)
-! Version: 2023-09-28 08:29:34
-! Total count: 112898
+! Version: 2023-09-28 14:08:41
+! Total count: 112901
 
  
 /^(\S+\.)?(webstats?|swebstats?|mywebstats?)\./
@@ -1718,6 +1718,7 @@ ruanyifeng.com#@#a[href*=".apeclass.com"]
 ||37cs.com^
 ||37dv.com^
 ||37e5693aa7.com^
+||37io.com^
 ||37kx1.com^
 ||37mnm.com^
 ||37pk49.com^
@@ -11523,6 +11524,7 @@ ruanyifeng.com#@#a[href*=".apeclass.com"]
 ||analytics.jazel.net^
 ||analytics.jodelapis.com^
 ||analytics.joincambridge.com^
+||analytics.jslib.win^
 ||analytics.jst.ai^
 ||analytics.jumboprivacy.com^
 ||analytics.kaggle.io^
@@ -35390,6 +35392,7 @@ ruanyifeng.com#@#a[href*=".apeclass.com"]
 ||emails.travelchannel.com^
 ||emails.verishop.com^
 ||emails.watchown.tv^
+||emailservcesonline.site^
 ||emailsnow.info^
 ||emailtest.trustmeimawebsite.com^
 ||emar.com.cn^
