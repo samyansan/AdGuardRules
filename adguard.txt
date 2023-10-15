@@ -3,8 +3,8 @@
 ! Powerd by SamSan
 ! Description: Just a merged Adblock rule. Nothing more
 ! Expires: 6 hours (update frequency)
-! Version: 2023-10-15 20:10:14
-! Total count: 119226
+! Version: 2023-10-16 02:07:24
+! Total count: 119225
 
  
 /^(\S+\.)?(webstats?|swebstats?|mywebstats?)\./
@@ -706,7 +706,6 @@ ruanyifeng.com#@#a[href*=".apeclass.com"]
 ||12i.cn^
 ||12l22.net^
 ||12masterov.com^
-||12research.com^
 ||12signup.com^
 ||12u.info^
 ||12xgetsready12.monster^
