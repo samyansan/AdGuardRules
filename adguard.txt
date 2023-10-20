@@ -3,8 +3,8 @@
 ! Powerd by SamSan
 ! Description: Just a merged Adblock rule. Nothing more
 ! Expires: 6 hours (update frequency)
-! Version: 2023-10-20 14:08:41
-! Total count: 119860
+! Version: 2023-10-20 20:11:39
+! Total count: 119856
 
  
 /^(\S+\.)?(webstats?|swebstats?|mywebstats?)\./
@@ -78741,7 +78741,6 @@ ruanyifeng.com#@#a[href*=".apeclass.com"]
 ||popup.msn.com^
 ||popup.popupsmart.com^
 ||popup.sapoapps.vn^
-||popup.tintucviral.com^
 ||popupblockergold.com^
 ||popupchat-live.com^
 ||popupclick.ru^
@@ -102423,7 +102422,6 @@ ruanyifeng.com#@#a[href*=".apeclass.com"]
 ||tmy8.madeindesign.ch^
 ||tmyzer.com^
 ||tn.abreactbuddy.com^
-||tn.flashb.id^
 ||tn34lkn.com^
 ||tnarzc.com^
 ||tnative.ru^
@@ -114554,7 +114552,6 @@ ruanyifeng.com#@#a[href*=".apeclass.com"]
 ||www.55-trk-srv.com^
 ||www.6399690.com^
 ||www.66infra-strat.com^
-||www.7-7-7-partner.com^
 ||www.88infra-strat.com^
 ||www.99tianxin.com^
 ||www.TwinPlan.com^
@@ -114711,7 +114708,6 @@ ruanyifeng.com#@#a[href*=".apeclass.com"]
 ||www.dtc-330d.com^
 ||www.dtc-v6t.com^
 ||www.dthvdr9.com^
-||www.dwerzv.xyz^
 ||www.easydownloadnow.com^
 ||www.edm-track.com^
 ||www.efvrgb12.com^
@@ -119855,13 +119851,13 @@ ruanyifeng.com#@#a[href*=".apeclass.com"]
 ||zzxhx.com^
 ||zzxlhwyp.com^
 ||zzxmcp.com^
-||zzxmcp.com^!--Regex--
 ||zzxxli.club^
 ||zzy1.quyaoya.com^
 ||zzyanhushi.com^
 ||zzycj.com^
 ||zzyonghao.com^
 ||zzyy19.top^
+||zzyy19.top^!--Regex--
 ||zzyytt.top^
 ||zzzhuoxiaqu.online^
 ||zzzhuoxiaqu.online^!
