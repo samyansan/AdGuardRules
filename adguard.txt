@@ -3,8 +3,8 @@
 ! Powerd by SamSan
 ! Description: Just a merged Adblock rule. Nothing more
 ! Expires: 6 hours (update frequency)
-! Version: 2023-10-22 14:07:59
-! Total count: 119939
+! Version: 2023-10-22 20:09:56
+! Total count: 119940
 
  
 /^(\S+\.)?(webstats?|swebstats?|mywebstats?)\./
@@ -27174,6 +27174,7 @@ ruanyifeng.com#@#a[href*=".apeclass.com"]
 ||crazyclickstats.com^
 ||crazyegg.com^
 ||crazyhell.com^
+||crazyit8.com^
 ||crazylead.com^
 ||crazymonkey.top^
 ||crazypopups.com^
@@ -32216,7 +32217,6 @@ ruanyifeng.com#@#a[href*=".apeclass.com"]
 ||dauntslip.com^
 ||dausoofo.net^
 ||davaifoa.com^
-||davarello.com^
 ||davbaqlajfza.com^
 ||davielyedith.com^
 ||davjdaauvlp.com^
@@ -35700,6 +35700,7 @@ ruanyifeng.com#@#a[href*=".apeclass.com"]
 ||duote.com^
 ||duoying.vip^
 ||dup.baidustatic.com^
+||dupcczkfziyd3.cloudfront.net^
 ||dupelipperan.com^
 ||dupinpu.com^
 ||duplefirer.uno^
@@ -119931,7 +119932,6 @@ ruanyifeng.com#@#a[href*=".apeclass.com"]
 ||zzxhx.com^
 ||zzxlhwyp.com^
 ||zzxmcp.com^
-||zzxmcp.com^!--Regex--
 ||zzxxli.club^
 ||zzy1.quyaoya.com^
 ||zzyanhushi.com^
@@ -119939,6 +119939,7 @@ ruanyifeng.com#@#a[href*=".apeclass.com"]
 ||zzyonghao.com^
 ||zzyy17.top^
 ||zzyy18.top^
+||zzyy18.top^!--Regex--
 ||zzyy19.top^
 ||zzyy20.top^
 ||zzyytt.top^
