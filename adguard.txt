@@ -3,7 +3,7 @@
 ! Powerd by SamSan
 ! Description: Just a merged Adblock rule. Nothing more
 ! Expires: 6 hours (update frequency)
-! Version: 2023-12-26 18:20:27
+! Version: 2023-12-26 20:11:07
 ! Total count: 141542
 
  
@@ -92,6 +92,7 @@ orgaorg.com
 pptv.com##.advView-two,#p-mark
 pub.funshion.com
 qq.com##+js(json-prune, ads ad material.video)
+qq.com##+js(no-fetch-if, beacon.)
 quandangdang.net
 reachmax.cn
 ruanyifeng.com#@#a[href*=".apeclass.com"]
@@ -123,7 +124,6 @@ yoyi.com.cn
 yy.com,le.com##+js(nowebrtc)
 z4a.net
 zhiziyun.com
-|https://$script,subdocument,popup,3p,domain=btsow.motorcycles|rarbgprx.org
 |https://dd-static.jd.com/ddimg/jfs/t1/173245/15/28822/346324/62fcb4b0Eb437d047/136a1e04890320b8.jpg$image,domain=subaibaiys.com
 |https://imgcache.qq.com/qzone/biz/comm/js/qbs.js
 |https://tellme.pw/go/jav$popup
