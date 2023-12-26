@@ -3,10 +3,13 @@
 ! Powerd by SamSan
 ! Description: Just a merged Adblock rule. Nothing more
 ! Expires: 6 hours (update frequency)
-! Version: 2023-12-26 18:17:23
-! Total count: 141323
+! Version: 2023-12-26 18:20:27
+! Total count: 141542
 
  
+*/letv-gug/$media,object-subrequest,xhr
+*/preroll/$media,domain=91porn.com
+*_ad_$media,domain=youtube.com,3p
 /^.+stat\.kugou\.com/
 /^admarvel\./
 /^admaster\./
@@ -34,11 +37,102 @@
 /^supersonicads\./
 /^wlmonitor\./
 /^zjtoolbar\./
+17173.com###vjs-ad-on-pause
+2qpqwkx.cn
+91p20.space
+acfun.cn##.pause-display-container,#ad-comment,#ad-player-view
+ad-survey.com
+adpushup.com
+adxvip.com
+age.tv,agedm.org##+js(noeval-if, devtoolsDetector)
+apisgame.iqiyi.com
+aqours.today
+atm.youku.com
+behe.com
+biddingx.com
+bilibili.com##.ad-report, .ad-floor
+bilibili.com##.gg-floor-module,#slide_ad,a[href^="//cm.bilibili.com"]
+bilibili.com#@#.bili-dialog-m
+bilibili.com#@#.btn-ctnr
+bixinlive.com
+bjcathay.com
+cad.youku.com
+cctv.com###bgAd_div
+cctv.com,www.douyu.com##+js(aeld,/visibilitychange|pagehide/)
+cjcx.neea.edu.cn#@#[style="visibility: visible; display: block;"]
+cm.bilibili.com
+cm.l.qq.com
+cr-nielsen.com
+dandanzan.com,dandanzan10.top,nunuyy5.org##+js(set,webkitRTCPeerConnection,null)
+dandanzan.com,dandanzan10.top,nunuyy5.org##.gm-fp-body video:style(max-height:100%!important)
+de.as.pptv.com
+douyu.com##+js(set, RTCPeerConnection.prototype.addTrack, noopFunc)
+douyu.com##.Title-ad, .DropMenuList-ad, .DropPane-ad
+douyu.com,huya.com##a[href^="https://g.wan."]
+fancyapi.com
+g.huya.com
+gdt.qq.com
+huya.com###hy-ad,#hy-ab,#huya-ab
+ipinyou.com
+iqiyi.com##+js(set, Object.prototype.blackscreenDuration, 1)
+iqiyi.com##+js(set, Object.prototype.parseXML, noopFunc)
+iqiyi.com##+js(set, QiyiPlayerProphetData.a.data, {})
+iqiyi.com##.black-screen[data-cupid=adblock-blackscreen]
+iqiyi.com##.cupid-panel + div, div[data-adzone],#block-V
+jads.co
+kejet.net
+le.com##+js(set, isAdLoaded, true)
+le.com##.hv_wm_logo
+le.com##.min_pause_img
+litix.io
+miaozhen.com
+mydrivers.com#@#.baidu, a[href^=http][target=_blank]
+new.qq.com##+js(set, SSPAd.prototype.loadAd, noopFunc)
+orgaorg.com
+pptv.com##.advView-two,#p-mark
+pub.funshion.com
+qq.com##+js(json-prune, ads ad material.video)
+quandangdang.net
+reachmax.cn
+ruanyifeng.com#@#a[href*=".apeclass.com"]
+scorecardresearch.com
+show.ssports.com
+static.g.iqiyi.com
+stgowan.com!--Regex--
+synacast.com
+tencentmind.com
+tv.sohu.com##.x-dl-shake.x-download-panel, #playerBar > div.area ~a
+ulmdb.cn
+v.qq.com##.quick_games.quick_item
+v.youku.com##.control-phonewatch,#right-title-ad-banner, .kui-watermark-0
+wan.douyu.com
+waust.at
+weizhenwx.com
+www.ted.com##.gm-fp-body .justify-center.tracking-tightest
+xelements.cn
+xtgreat.com
+yatu.tv##.dplayer-web-fullscreen-fix #tburl,#loadtop,[id^=myas],#myds1,#daohang
+yatu.tv,yhdm15.com##+js(set,document.oncontextmenu,trueFunc)
+youle55.com
+youtube.com##.masthead-ad-control, .ad-div, .pyv-afc-ads-container, #promotion-shelf
+youtube.com##ytd-video-masthead-ad-advertiser-info-renderer, ytm-promoted-sparkles-web-renderer, ytd-promoted-sparkles-web-renderer
+youtube.com,youtube-nocookie.com##+js(json-prune, [].playerResponse.adPlacements [].playerResponse.playerAds playerResponse.adPlacements playerResponse.playerAds adPlacements playerAds)
+youtube.com,youtube-nocookie.com##+js(set, playerResponse.adPlacements, undefined)
+youtube.com,youtube-nocookie.com##+js(set, ytInitialPlayerResponse.adPlacements, undefined)
+yoyi.com.cn
+yy.com,le.com##+js(nowebrtc)
+z4a.net
+zhiziyun.com
+|https://$script,subdocument,popup,3p,domain=btsow.motorcycles|rarbgprx.org
+|https://dd-static.jd.com/ddimg/jfs/t1/173245/15/28822/346324/62fcb4b0Eb437d047/136a1e04890320b8.jpg$image,domain=subaibaiys.com
+|https://imgcache.qq.com/qzone/biz/comm/js/qbs.js
+|https://tellme.pw/go/jav$popup
 ||*-ad-sign.byteimg.com^
 ||*-ad.a.yximgs.com^
 ||*-analytics*.huami.com^
 ||*-applog.fqnovel.com^
 ||*.mmstat.com^
+||*/vhot2.qqvideo.tc.qq.com^
 ||*customstat*.51togic.com^
 ||*log.droid4x.cn^
 ||*mistat*.xiaomi.com^
@@ -1040,6 +1134,8 @@
 ||17.huanqiu.com^
 ||170yy.com^
 ||17123.net^
+||17173.com/batch_show?ads=
+||17173.com/if/$script,subdocument
 ||1717gs.com^
 ||172.121.4.251^
 ||172.121.4.252^
@@ -3540,6 +3636,7 @@
 ||71d7511a4861068.com^
 ||71dd1ff9fd.com^
 ||71ec0646e6.com^
+||71edge.com/videos/other/202$xmlhttprequest
 ||71efe2183b8663ad5bf9d7a9320aeb48.leboncoin.fr^
 ||71sem.com^
 ||71zrh.cn^
@@ -12052,6 +12149,7 @@
 ||adserver.theonering.net^
 ||adserver.trangphim.net^
 ||adserver.twitpic.com^
+||adserver.unityads.unity3d.com^
 ||adserver.virginmedia.com^
 ||adserver.yahoo.com^
 ||adserver1.mindshare.de^
@@ -14333,6 +14431,7 @@
 ||aiwenyisheng.mobi^
 ||aixam21.partner.tt.omtrdc.net^
 ||aixcdn.com^
+||aixifan.com/static/*/appGuide/
 ||aixintou.com.cn^
 ||aixuntupian.oss-cn-hongkong.aliyuncs.com^
 ||aixuyoupin.cn^
@@ -14679,6 +14778,8 @@
 ||alibisprocessessyntax.com^
 ||alibistated.com^
 ||alicdn.bayimob.com^
+||alicdn.com/*yksdk/*sdk.js$script,domain=youku.com
+||alicdn.com/awsc/et/
 ||alicdnv2.sitemonitor.cn.miaozhen.com^
 ||alicert-admin-corp.ns1.viviotech.net.daraz.com^
 ||alicert-admin-partner.net.daraz.com^
@@ -17791,6 +17892,7 @@
 ||api.behavioralengine.com^
 ||api.betlv.com^
 ||api.bigmobileads.com^
+||api.bilibili.com/x/web-show/res/loc?pf=$~script
 ||api.birdmedia.com^
 ||api.bitmango.com^
 ||api.bitp.it^
@@ -18104,6 +18206,7 @@
 ||api.mu9.club^
 ||api.mu9.com^
 ||api.mxvietnam.com^
+||api.my.tv.sohu.com/wm/getads.do?
 ||api.myadsget.com^
 ||api.myeforsa.pl^
 ||api.myendpoint.io^
@@ -18176,6 +18279,8 @@
 ||api.prooffactor.com^
 ||api.proofpositivemedia.com^
 ||api.protonaosp.kdrag0n.dev^
+||api.psy-1.com/cosleep/newborn/ad^
+||api.psy-1.com/cosleep/newborn/vips/picks^
 ||api.pubfinity.com^
 ||api.publishers.adlive.io^
 ||api.pubmatic.com^
@@ -18409,6 +18514,11 @@
 ||api16-access-sg.pangle.io^
 ||api2.boclinkads.com^
 ||api2.clickaine.com^
+||api2.coolapk.com/v6/feed/detail$replace=/"_ids":\[.*?]\,"":\[.*?]\,/ /
+||api2.coolapk.com/v6/feed/detail$replace=/\,"":{.*}/}}/
+||api2.coolapk.com/v6/main/indexV8$replace=/{"entityType":"card"\,"entityTemplate":"listCard".*?}"}\,/ / 
+||api2.coolapk.com/v6/main/init$replace=/{"id":1170.*?}\,/ /
+||api2.coolapk.com/v6/page/dataList$replace=/{"entityType":"card"\,"entityTemplate":"apkImageCard".*?\\u0022}"}\,/ /
 ||api2.e.kuaishou.com^
 ||api2.play.cn^
 ||api2.poperblocker.com^
@@ -18481,6 +18591,7 @@
 ||apk.gelinboer.cn^
 ||apk.idate520.com^
 ||apk.qqvv88.com^
+||apk.shouji.koowo.com^
 ||apkdo.com^
 ||apkinfo.voole.com^
 ||apklog.cp11.ott.cibntv.net^
@@ -20367,6 +20478,7 @@
 ||atwola.com^
 ||aty.cp45.ott.cibntv.net^
 ||aty.hd.sohu.com^
+||aty.sohu.com/
 ||aty.sohu.com^
 ||atzekromchan.com^
 ||atzzrq.tbs.co.jp^
@@ -21845,6 +21957,7 @@
 ||banana-api.com^
 ||banana.arabtoons.net^
 ||banana.emailon.top^
+||banana.le.com/
 ||banana.le.com^
 ||banbf.com^
 ||banbuyserve.com^
@@ -25808,6 +25921,7 @@
 ||btrll.com^
 ||btser.cn^
 ||btserve.com^
+||btsow.motorcycles/app/javu$image
 ||btstatic.com^
 ||btstats.benakt.com^
 ||btstats.devtribu.fr^
@@ -26375,6 +26489,7 @@
 ||c.365yigou.cn^
 ||c.45io.com^
 ||c.51xmgys.com^
+||c.51y5.net^
 ||c.52jimi.top^
 ||c.7times.top^
 ||c.actiondesk.com^
@@ -26383,6 +26498,7 @@
 ||c.admaster.com.cn^
 ||c.adx.2345.com^
 ||c.agrantsem.com^
+||c.algovid.com^
 ||c.alimama.com^
 ||c.amazinglybrilliant.com.au^
 ||c.anmeilai.net^
@@ -28258,6 +28374,7 @@
 ||cds869.lon.llnw.net^
 ||cdsa2.icu^
 ||cdsbnrs.com^
+||cdsget.51y5.net^
 ||cdshusen.cn^
 ||cdsptd.cn^
 ||cdtbox.rocks^
@@ -29254,6 +29371,7 @@
 ||ciarde.fun^
 ||ciazdymfepv.com^
 ||cibleclick.com^
+||cibntv.net/youku/$media
 ||cicada.escapethecorporatecult.com^
 ||cicada.wordvested.org^
 ||cicelysewans.com^
@@ -30697,6 +30815,7 @@
 ||cmtrkg.com^
 ||cmttvv.bonprix.se^
 ||cmuagflkeodx.com^
+||cmvideo.cn/v1/iflyad/delivery$media,domain=miguvideo.com
 ||cmx.autohome.com.cn^
 ||cmytuok.top^
 ||cmyx.xyz^
@@ -32323,6 +32442,16 @@
 ||cool.tubous.com^
 ||cool18.ga^
 ||cooladata.com^
+||coolapk.com/v6/feed/detail?$replace=/detailSponsorCard//
+||coolapk.com/v6/feed/detail?$replace=/extra_entities//
+||coolapk.com/v6/feed/detail?$replace=/extra_title//
+||coolapk.com/v6/feed/detail?$replace=/include_goods//
+||coolapk.com/v6/main/indexV8?$replace=/\,\{.*?"entityType": "card"\,"entityTemplate":"apkImageCard".*?\}\,\{"id"/,{"id"/
+||coolapk.com/v6/main/indexV8?$replace=/\{"entityType":"card"\,"entityTemplate":"listCard".*?\}\,\{"id/{"id/
+||coolapk.com/v6/main/indexV?$replace=/extra_entities//
+||coolapk.com/v6/main/init?$replace=/\{"data":\[\{"entityType":"card"\,"entityTemplate":"textCard"\,"title":"\\u70ed\\u95e8\\u641c\\u7d22".*?\}\,\{"entityType":"card"\,"entityTemplate":"configCard"/\{"data":[\{"entityType":"card"\,"entityTemplate":"configCard"/
+||coolapk.com/v6/page/dataList?$replace=/extra_entities//
+||coolapk.com/v6/search?type=hotSearch$replace=/\{"data":\[.*\]/{"data":[]/
 ||coolappland.com^
 ||coolappland1.com^
 ||coolappland3.com^
@@ -33568,6 +33697,7 @@
 ||css.asitend.com^
 ||css.huvmi.com^
 ||css.juqingba.cn^
+||css.tv.itc.cn/m/img/player/dlBanner.$image
 ||css.zmjm.com^
 ||css888.bceapp.com^
 ||csscloudstorage.com^
@@ -35239,6 +35369,7 @@
 ||da.hunantv.com^
 ||da.maif.fr^
 ||da.marcukesh.top^
+||da.mgtv.com/mediafiles/wiad_creative/$image
 ||da.mgtv.com^
 ||da.mmarket.com^
 ||da.netease.com^
@@ -38121,6 +38252,7 @@
 ||data.minute.ly^
 ||data.mistat.india.xiaomi.com^
 ||data.mistat.rus.xiaomi.com^
+||data.mistat.xiaomi.com^
 ||data.mktg.nfl.com^
 ||data.mmail.northeast.aaa.com^
 ||data.mob.com^
@@ -38208,6 +38340,7 @@
 ||data.umfrage.whatsappsim.de^
 ||data.vdi-wissensforum.de^
 ||data.vinsolutions.com^
+||data.vod.itc.cn/*&prod=ad&$media
 ||data.volksfreund.de^
 ||data.waptime.cn^
 ||data.web.doitbest.com^
@@ -41242,6 +41375,7 @@
 ||domo1lxstroy.pizzastore.top^
 ||domob*.*^
 ||domob.cn^
+||domob.com.cn^
 ||domob.org^
 ||domodomain.com^
 ||domolixshop.rinoshop.top^
@@ -41452,6 +41586,7 @@
 ||doupuer.com^
 ||douthosh.net^
 ||douyaobuy.com^
+||douyucdn.cn/adxdsp/$image
 ||dove.hoku.nz^
 ||dovemajorem.com^
 ||dovenedouthorn.com^
@@ -42242,6 +42377,7 @@
 ||dugesheying.com^
 ||duginamis.com^
 ||dugothitachan.com^
+||duiba.com.cn^
 ||duier.top^
 ||duili-mtp.com^
 ||duilin.me^
@@ -42971,6 +43107,7 @@
 ||e.nchet.com^
 ||e.nduop.com^
 ||e.nejup.com^
+||e.nexac.com^
 ||e.nfkos.com^
 ||e.nicklauschildrens.org^
 ||e.njiet.com^
@@ -44335,6 +44472,7 @@
 ||ehedwd.sikayetvar.com^
 ||eheuye.xyz^
 ||ehfjup.xyz^
+||ehg-youtube.hitbox.com^
 ||ehk.trenhdg.com^
 ||ehoqtjfazgxzee.com^
 ||ehpvvxyp.com^
@@ -45783,6 +45921,7 @@
 ||epzpzmg.cn^
 ||eq-beacon.stream.co.jp^
 ||eq-player-log.cdnext.stream.ne.jp^
+||eq.10jqka.com.cn^
 ||eq.af31f.site^
 ||eq.userneeds.com^
 ||eq984.cn^
@@ -47836,6 +47975,7 @@
 ||fbycnk.chiaki.vn^
 ||fbzm.pqnlorg.cn^
 ||fbzmrgf.xyz^
+||fc-.cdn.bcebos.com^
 ||fc-feed.cdn.bcebos.com^
 ||fc.eutrty.top^
 ||fc.gaizong.cn^
@@ -50544,6 +50684,7 @@
 ||fv99.com^
 ||fvc.alcatel-lucent.com^
 ||fvcwqkkqmuv.com^
+||fvedio.kuwo.cn^$app=cn.kuwo.player
 ||fvffd678.xyz^
 ||fvgxfupisy.com^
 ||fvhbful.cn^
@@ -50730,6 +50871,8 @@
 ||g.ieeod0.com^
 ||g.ign.com^
 ||g.jssdk.net^
+||g.koowo.com^
+||g.koowo.com^$app=cn.kuwo.player
 ||g.kuwo.cn^
 ||g.lznews.cn^
 ||g.mashable.com^
@@ -50739,6 +50882,7 @@
 ||g.ousns.net^
 ||g.pathsha.re^
 ||g.pcmag.com^
+||g.pptv.com/game/$subdocument
 ||g.rain8.com^
 ||g.s.360.cn^
 ||g.s8dj.com^
@@ -51962,6 +52106,7 @@
 ||gg.progrr.top^
 ||gg.ptfish.com^
 ||gg.sonhoo.com^
+||gg.stargame.com^
 ||gg.taoseyy.cn^
 ||gg.uuu9.com^
 ||gg.vidown.cn^
@@ -52722,6 +52867,7 @@
 ||go-indian.pro^
 ||go-marketing.comed.com^
 ||go-mpulse.net^
+||go-mpulse^
 ||go-rank.de^
 ||go-response.thermofisher.com^
 ||go-rillatrack.com^
@@ -53214,6 +53360,7 @@
 ||go.socar.kr^
 ||go.socar.my^
 ||go.socialvenu.com^
+||go.sohu.com/
 ||go.sohu.com^
 ||go.solaruniverse.com^
 ||go.sonoshine.com^
@@ -53611,6 +53758,7 @@
 ||google-pl.com^
 ||google-shopping-v2.sapoapps.vn^
 ||google-shopping.sapoapps.vn^
+||google.*/pagead/
 ||google.bv-hilden-west.de^
 ||google.com-firewall.online^
 ||google.combucky.33733.org-anissa-areariservata-serveror.cmnlistmail.ruletheearthjwxt1-csestores.tt.omtrdc.net^
@@ -54349,6 +54497,7 @@
 ||gst.pulse.toyota.com^
 ||gstat.bitauto.com^
 ||gstat.myzaker.com^
+||gstatic.com/shopping?
 ||gsupplyair.carte-gr.total.fr^
 ||gswwichggroup.top^
 ||gsycdb.com^
@@ -54375,6 +54524,7 @@
 ||gthfwcjhbxbq.xyz^
 ||gtidii1oc5oanwhc.partner.net.daraz.com^
 ||gtifund.cn^
+||gtimg.com/qqlive/
 ||gtitcah.com^
 ||gtlp.net.cn^
 ||gtlpaj.com^
@@ -55593,6 +55743,7 @@
 ||hdsex.pro^
 ||hdsexvideos.pro^
 ||hdsjk.cc^
+||hdslb.com/bfs/sycp/creative_img/$image
 ||hdsqvypdt.com^
 ||hdsrc-a.akamaihd.net^
 ||hdswgc.com^
@@ -56898,6 +57049,7 @@
 ||home-mxwork.top^
 ||home.cashhs-news.top^
 ||home.edm.globalsources.com^
+||home.mi.com/cgi-op/api/v1/recommendation/banner^
 ||home.usg.com^
 ||home2up.com^
 ||homecareresources.rosemarksystem.com^
@@ -58793,6 +58945,7 @@
 ||iipbuas.cn^
 ||iiqtru.aunworks.jp^
 ||iirpzp.novasol.com^
+||iis3g.deliver.ifeng.com^
 ||iisl7wpf.me^
 ||iistillstayherea.com^
 ||iivt.com^
@@ -58997,6 +59150,7 @@
 ||image.click.livedoor.com^
 ||image.deginvest.de^
 ||image.fsyule.net^
+||image.gentags.com^
 ||image.go.aricent.com^
 ||image.haiyunx.com^
 ||image.hh010.com^
@@ -62418,10 +62572,12 @@
 ||iqfp1.com^
 ||iqgoukn.cn^
 ||iqimwsctvgbvqx.xyz^
+||iqiyi.com/videos/other/202$xmlhttprequest
 ||iqiyi.irs01.com^
 ||iqiyi.kim^
 ||iqiyi.m.cn.miaozhen.com^
 ||iqiyi.space^
+||iqiyipic.com/image/20*_100000$image
 ||iqjv13t3gbwu1vyn.partner.net.daraz.com^
 ||iqkbi.top^
 ||iqkjrwf.com^
@@ -63334,6 +63490,7 @@
 ||jczunp.xyz^
 ||jczzjx.com^
 ||jd.c-ptsp.com.cn^
+||jd.com/$domain=le.com
 ||jd01qstbprek.top^
 ||jd2ujc.cn^
 ||jd3j7g5z1fqs.com^
@@ -64510,6 +64667,7 @@
 ||js.jianbihuadq.com^
 ||js.kalvinbg.cn^
 ||js.kt250.com^
+||js.letvcdn.com/*_banner_$script
 ||js.lmggdka.cn^
 ||js.loveshop8.com^
 ||js.lovexia.top^
@@ -66878,6 +67036,7 @@
 ||kwaznkureluct.digital^
 ||kwbmkwej.com^
 ||kwcmrfb.cn^
+||kwflvcdn.000dn.com^
 ||kwgs.letudiant.fr^
 ||kwhenspokento.info^
 ||kwivb.cn^
@@ -68032,6 +68191,8 @@
 ||lettucelimit.com^
 ||letv.axp.admaster.com.cn^
 ||letv.m.cn.miaozhen.com^
+||letvimg.com/$object,xhr
+||letvimg.com/*_gugwl/$image
 ||letypl.morret.top^
 ||leucan3thegm6um.com^
 ||leucoushurri.uno^
@@ -70037,6 +70198,7 @@
 ||log.olark.com^
 ||log.orchidscape.net^
 ||log.oto.com.vn^
+||log.outbrain.com^
 ||log.outbrainimg.com^
 ||log.particlenews.com^
 ||log.perfecttitspics.com^
@@ -70127,6 +70289,7 @@
 ||log.zongheng.com^
 ||log000.goo.ne.jp^
 ||log002.commutil.kr^
+||log1.17173.com/
 ||log1.17173.com^
 ||log1.apkomega.com^
 ||log1.cmpassport.com^
@@ -70207,6 +70370,7 @@
 ||loggw.alipay.com^
 ||loggw.alipaydns.com^
 ||loggychops.paulsmith.site^
+||logic.cpm.cm.kankan.com^
 ||logicanalytics.io^
 ||logicdate.com^
 ||logicorganized.com^
@@ -71424,6 +71588,7 @@
 ||m.0wnz6g.cn^
 ||m.107279.com^
 ||m.118ex.cn^
+||m.12306media.com^
 ||m.12365chia.com^
 ||m.1314sss.top^
 ||m.131pu.cn^
@@ -74943,6 +75108,7 @@
 ||match.ads.betweendigital.com^
 ||match.c8.net.ua^
 ||match.p4p.1688.com^
+||match.rtbidder.net^
 ||match.rundsp.com^
 ||matchaix.net^
 ||matchcraft.com^
@@ -75644,6 +75810,7 @@
 ||media.adget.cn^
 ||media.adrcdn.com^
 ||media.ads.gfsrv.net^
+||media.cdn.kuwo.cn*tuijian*.json$app=cn.kuwo.player
 ||media.cheshi-img.com^
 ||media.cheshi.com^
 ||media.claritylabsolutions.com^
@@ -77587,6 +77754,7 @@
 ||mfkn.71mxc6.cn^
 ||mfnfylx.xyz^
 ||mfoevvy.com^
+||mfp.deliver.ifeng.com^
 ||mfroute.com^
 ||mfs.tesxprofit.top^
 ||mftracking.com^
@@ -79668,6 +79836,7 @@
 ||msg-em.hismarttv.com^
 ||msg-intl.qy.net^
 ||msg-na.hismarttv.com^
+||msg.71.am^
 ||msg.c002.ottcn.com^
 ||msg.cn.miaozhen.com^
 ||msg.eclicks.cn^
@@ -79745,6 +79914,7 @@
 ||mssheng.com^
 ||mssk.maskproj.click^
 ||mssp.baidu.com^
+||msstatic.com/huya/*/p2plib.js$script
 ||mst1.activeprog3.top^
 ||mst10.freepl.top^
 ||mst7.freepl.top^
@@ -81635,6 +81805,7 @@
 ||news-flash.net^
 ||news-headlines.co^
 ||news-host.net^
+||news-imgpb.51y5.net^
 ||news-info.gcgfinancial.com^
 ||news-l.play.aiseet.atianqi.com^
 ||news-l.play.cp81.ott.cibntv.net^
@@ -81715,6 +81886,7 @@
 ||news.scbiznews.com^
 ||news.sitl.eu^
 ||news.sp2.org^
+||news.ssp.qq.com/app
 ||news.strategiccfo360.com^
 ||news.strategiccio360.com^
 ||news.supplychain-event.com^
@@ -82525,6 +82697,7 @@
 ||noobnoob.ro^
 ||noodle.backmarket.io^
 ||noodokod.xyz^
+||nooen.com^$popup
 ||noofigat.net^
 ||noojoomo.com^
 ||nooncommentary.com^
@@ -84938,6 +85111,7 @@
 ||onetouch6.com^
 ||onetouch8.info^
 ||onetrackesolution.com^
+||onetrust.
 ||onetrust.com^
 ||onetwiadomosci.click^
 ||onevenadvnow.com^
@@ -85744,6 +85918,7 @@
 ||osspwamuhn.com^
 ||ossrhydonr.com^
 ||ossshucklean.com^
+||osswc.pplive.cn/cccms/$image
 ||ostatniadroga.click^
 ||ostatniarzecz.click^
 ||ostatnisygnal.click^
@@ -86332,6 +86507,7 @@
 ||ozobsaib.com^
 ||ozoj.com^
 ||ozolei.xyz^
+||ozone.10jqka.com.cn^
 ||ozonemedia.com^
 ||ozongees.com^
 ||ozooltik.com^
@@ -86398,6 +86574,8 @@
 ||p.kjwx8.com^
 ||p.kugou.com^
 ||p.l.qq.com^
+||p.l.ykimg.com^
+||p.l.youku.com^
 ||p.logbox.io^
 ||p.m5bn.com^
 ||p.marqueplace.com^
@@ -86557,6 +86735,7 @@
 ||p2e9r4n9.stackpathcdn.com^
 ||p2kfynrr.icu^
 ||p2oh1.xyz^
+||p2p.$xhr,websocket,ping,domain=~huya.com|~binance.com
 ||p2p.huya.com^
 ||p2pmid.baofeng.com^
 ||p2poolmining.com^
@@ -91439,6 +91618,7 @@
 ||ppwxgpr.cn^
 ||ppyibei.com^
 ||pq.murkfrazil.com^
+||pq.stat.ku6.com^
 ||pq8ithtdw.com^
 ||pqaz.xyz^
 ||pqbj.jianjiaovip.vip^
@@ -93015,6 +93195,7 @@
 ||pudencygletty.com^
 ||pudrardu.net^
 ||puds.test.uae.uc.cn^
+||puds.ucweb.com^
 ||pueber.com^
 ||pueral.com^
 ||puerq.com^
@@ -94259,6 +94440,7 @@
 ||qpzsh.cn^
 ||qpztub.xyz^
 ||qq.8368661.com^
+||qq.com/livemsg?
 ||qq.guansenff.cn^
 ||qq.hixili.top^
 ||qq.vvx.highter.top^
@@ -94759,6 +94941,7 @@
 ||qzl8.destinia.fi^
 ||qzlog.com^
 ||qznjujv.xyz^
+||qzonestyle.gtimg.cn/qzone/biz/ac/comm/$script
 ||qzpb.qq.com^
 ||qzpbwq.com^
 ||qzpkxf.edenboutique.ro^
@@ -94812,6 +94995,7 @@
 ||r.guggy.com^
 ||r.ihealthishop.com^
 ||r.kleertjes.com^
+||r.l.youku.com^
 ||r.m.duyidu.net^
 ||r.mail.163.com^
 ||r.mail.ru^
@@ -96161,6 +96345,7 @@
 ||reliefindividual.com^
 ||relievedgeoff.com^
 ||relishcoincidencehandbag.com^
+||relive.vodfile.m1905.com/video/qiantie202$media
 ||relivesternar.com^
 ||relkconka.com^
 ||relmaxtop.com^
@@ -96453,12 +96638,14 @@
 ||res.hunantv.com^
 ||res.imtt.qq.com^
 ||res.ipingke.com^
+||res.limei.com^
 ||res.marianne.net^
 ||res.mi.baidu.com^
 ||res.mmstat.com^
 ||res.paruvendu.fr^
 ||res.pinpai8.cn^
 ||res.programme-television.org^
+||res.psy-1.com/music/recommend^$app=com.psyone.brainmusic
 ||res.public.fr^
 ||res.qhupdate.com^
 ||res.rbl.ms^
@@ -97055,6 +97242,7 @@
 ||rifice.com^
 ||riftindexesyourself.com^
 ||rifyeldz.top^
+||rigel.baidustatic.com^
 ||rigelbetelgeuse.top^
 ||rigelink.com^
 ||rigfoxcup.site^
@@ -100933,6 +101121,7 @@
 ||sealedsimplicitynoun.com^
 ||sealeryshilpit.com^
 ||sealerysuppler.com^
+||sealine.youku.com/yk/*callback=adpagesdk$script
 ||sealine.youku.com^
 ||sealinstalment.com^
 ||seallife.club^
@@ -100979,6 +101168,7 @@
 ||searchpeack.com^
 ||searchplow.com^
 ||searchramp.com^
+||searchrecterm.kuwo.cn^$app=cn.kuwo.player
 ||searchsecurer.com^
 ||searchstats.usa.gov^
 ||searchswapper.com^
@@ -109231,6 +109421,7 @@
 ||ssl-youseeiosstream.tns-gallup.dk^
 ||ssl-youseestream.tns-gallup.dk^
 ||ssl-youseeteststream.tns-gallup.dk^
+||ssl-youtube.2cnt.net^
 ||ssl.51lhcx.com^
 ||ssl.aafp.org^
 ||ssl.aafpfoundation.org^
@@ -109353,6 +109544,8 @@
 ||ssp16.adview.cn^
 ||sspapi-prd.samsungrs.com^
 ||sspmservice.ad-survey.com^
+||ssports.iqiyi.com/app/$media,object-subrequest
+||ssports.iqiyi.com/json/shop/shopInfo
 ||sspservice.ad-survey.com^
 ||ssqwkl.belabef.com^
 ||ssqyuvavse.com^
@@ -109650,6 +109843,7 @@
 ||st.hbrd.io^
 ||st.holalauncher.com^
 ||st.holaworld.cn^
+||st.huliyinzi.com/ads_app_pic/^
 ||st.iceportal.de^
 ||st.img-bahn.de^
 ||st.ipornia.com^
@@ -109921,6 +110115,7 @@
 ||stat-track.com^
 ||stat-y.xywy.com^
 ||stat-z.xywy.com^
+||stat.10jqka.com.cn^
 ||stat.1688.com^
 ||stat.24liveplus.com^
 ||stat.360safe.com^
@@ -110234,6 +110429,7 @@
 ||static.jiaquyi.com^
 ||static.ju.mediav.com^
 ||static.jupin.mediav.com^
+||static.ku6.com^
 ||static.leaddyno.com^
 ||static.live.nagezan.net^
 ||static.masoffer.net^
@@ -112003,6 +112199,7 @@
 ||stringthumbprowl.com^
 ||strip.alicdn.com^
 ||strip.taobaocdn.com^
+||stripe.com^$script,domain=~nextdns.io|~obsidian.md
 ||stripe.rs-1028-a.com^
 ||stripedbat.com^
 ||stripedburst.com^
@@ -114398,6 +114595,7 @@
 ||tantoporno.com^
 ||tanv.com^
 ||tanwanyx.com^
+||tanx.com^
 ||tanzhen.info^
 ||tao.barstoolsports.com^
 ||taobao.niucha.ren^
@@ -116921,6 +117119,7 @@
 ||tnaflix.unblockit.pro^
 ||tnarzc.com^
 ||tnative.ru^
+||tnc*.zijieapi.com^$app
 ||tnc3-aliec2.snssdk.com^
 ||tnc3-aliec2.zijieapi.com^
 ||tnc3-aliec2.zijieapi^
@@ -117567,6 +117766,7 @@
 ||toutiao.jxnews.com.cn^
 ||toutiao.social^
 ||toutiao.xn--fiqs8s^
+||toutiaoimg.com/origin/$image,domain=agedm.org|acgndmku.com|subaibaiys.com
 ||toutiaopage.com^
 ||toutingmatelow.com^
 ||touwengyyds.com^
@@ -120123,6 +120323,7 @@
 ||tracker-tds.site^
 ||tracker-tds2.site^
 ||tracker-zlivestream.zapps.vn^
+||tracker.$xhr,websocket,script,ping
 ||tracker.520call.me^
 ||tracker.adbinead.com^
 ||tracker.affiliate.iqbroker.com^
@@ -122793,6 +122994,7 @@
 ||tuzufsi.cn^
 ||tv-static.scdn.co^
 ||tv-test.esvdigital.com^
+||tv.sohu.com/upload/csad/admaster/$image
 ||tv.totaljobs.com^
 ||tv.weixin.pandora.xiaomi.com^
 ||tv1s4d6klh4n.com^
@@ -123334,6 +123536,7 @@
 ||ubiquitousyard.com^
 ||ubish.com^
 ||ubm.fangtoo.com^
+||ubmcmm.baidustatic.com^
 ||ubmcvideo.baidustatic.com^
 ||ubmups.houseofindya.com^
 ||uboungera.com^
@@ -124649,6 +124852,7 @@
 ||us.cf^
 ||us.claroadsxml.com^
 ||us.event.cmp.advertising.com^
+||us.l.qq.com/exapp^
 ||us.l.qq.com^
 ||us.lucanet.com^
 ||us.mattamyhomes.com^
@@ -125107,6 +125311,7 @@
 ||ut.gamersyde.com^
 ||ut.iggroup.com^
 ||ut.upmc.com^
+||ut2.shuqistat.com^
 ||utaitlastwebe.com^
 ||utantialcottish.xyz^
 ||utarget.co.uk^
@@ -125355,6 +125560,7 @@
 ||v.jntxst.cn^
 ||v.jsbgh.cn^
 ||v.kkbb.top^
+||v.l.youku.com^
 ||v.lbsbbw.cn^
 ||v.lelangegg.cn^
 ||v.miguvideo.com^
@@ -125616,6 +125822,7 @@
 ||validate.onecount.net^
 ||validclick.com^
 ||validus.pro^
+||valipl.cp31.ott.cibntv.net/$media
 ||valipl.cp31.ott.cibntv.net^
 ||valiumabaris.live^
 ||valiumbessel.com^
@@ -125731,6 +125938,7 @@
 ||vas-hl-x.snssdk.com^
 ||vasb.cn^
 ||vasdpok-invest.pro^
+||vaserviece.10jqka.com.cn^
 ||vasgenerete.com^
 ||vasgenerete.site^
 ||vashebiwa.pro^
@@ -126308,6 +126516,7 @@
 ||video-streaming.ezoic.com^
 ||video-view-api.varzesh3.com^
 ||video.adaptv.advertising.com^
+||video.da.mgtv.com/$media
 ||video.da.mgtv.com^
 ||video.dispatch.tc.qq.com^
 ||video.fooobabe.com^
@@ -130323,6 +130532,7 @@
 ||wifesharing.pro^
 ||wifi.com^
 ||wifi33.com^
+||wifiapidd.51y5.net^
 ||wifidown.com^
 ||wifijia.net^
 ||wigcpgdlqbqof.com^
@@ -130638,6 +130848,7 @@
 ||wk0a60tx.xyz^
 ||wka4jursurf6.com^
 ||wka8.com^
+||wkanc.51y5.net^
 ||wkanx.com^
 ||wkclick.baidu.com^
 ||wkcs.cc^
@@ -135677,6 +135888,8 @@
 ||www.y-ads.net^
 ||www.yaeby.pro^
 ||www.yami8alea.com^
+||www.yatu.tv:2082/image/*.gif^$image
+||www.yatu.tv:2082/m/images/$image
 ||www.ybahs.inventnamb.click^
 ||www.yc-ads.s3.amazonaws.com^
 ||www.ydgaopinlu.com^
@@ -137945,6 +138158,7 @@
 ||y.da.mgtv.com^
 ||y.extreme-dm.com^
 ||y.getmorelocalhelp.com^
+||y.gtimg.cn/music/common//upload/kg_ad^
 ||y.gwylm.com^
 ||y.hk9600.com^
 ||y.hzht666.com^
@@ -137955,6 +138169,7 @@
 ||y.one.impact-ad.jp^
 ||y.photoint.net^
 ||y.pzclw.cn^
+||y.qq.com/music/common/upload/t_kg_activity_show^
 ||y.shuoshuocm.com^
 ||y.unilz588.com^
 ||y.zp22.cn^
@@ -139239,6 +139454,10 @@
 ||youthfulnoise.com^
 ||youthycouthe.uno^
 ||youtome.xyz^
+||youtube.112.2o7.net^
+||youtube.2cnt.net^
+||youtube.com/pagead/
+||youtube.com/ptracking?
 ||youtubebplan.com^
 ||youtubecenter.net^
 ||youtubee.com^
