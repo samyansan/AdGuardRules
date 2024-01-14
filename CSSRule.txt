@@ -3,11 +3,8 @@ acfun.cn##.pause-display-container,#ad-comment,#ad-player-view
 age.tv,agedm.org##+js(noeval-if, devtoolsDetector)
 bilibili.com##.ad-report, .ad-floor
 bilibili.com##.gg-floor-module,#slide_ad,a[href^="//cm.bilibili.com"]
-bilibili.com#@#.bili-dialog-m
-bilibili.com#@#.btn-ctnr
 cctv.com###bgAd_div
 cctv.com,www.douyu.com##+js(aeld,/visibilitychange|pagehide/)
-cjcx.neea.edu.cn#@#[style="visibility: visible; display: block;"]
 dandanzan.com,dandanzan10.top,nunuyy5.org##+js(set,webkitRTCPeerConnection,null)
 dandanzan.com,dandanzan10.top,nunuyy5.org##.gm-fp-body video:style(max-height:100%!important)
 douyu.com##+js(set, RTCPeerConnection.prototype.addTrack, noopFunc)
@@ -22,12 +19,10 @@ iqiyi.com##.cupid-panel + div, div[data-adzone],#block-V
 le.com##+js(set, isAdLoaded, true)
 le.com##.hv_wm_logo
 le.com##.min_pause_img
-mydrivers.com#@#.baidu, a[href^=http][target=_blank]
 new.qq.com##+js(set, SSPAd.prototype.loadAd, noopFunc)
 pptv.com##.advView-two,#p-mark
 qq.com##+js(json-prune, ads ad material.video)
 qq.com##+js(no-fetch-if, beacon.)
-ruanyifeng.com#@#a[href*=".apeclass.com"]
 tv.sohu.com##.x-dl-shake.x-download-panel, #playerBar > div.area ~a
 v.qq.com##.quick_games.quick_item
 v.youku.com##.control-phonewatch,#right-title-ad-banner, .kui-watermark-0
