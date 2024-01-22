@@ -3,8 +3,8 @@
 ! Powerd by SamSan
 ! Description: Just a merged Adblock rule. Nothing more
 ! Expires: 6 hours (update frequency)
-! Version: 2024-01-22 20:12:25
-! Total count: 170969
+! Version: 2024-01-23 02:08:40
+! Total count: 170970
 
 */letv-gug/$media,object-subrequest,xhr
 */preroll/$media,domain=91porn.com
@@ -17912,6 +17912,7 @@ zhiziyun.com
 ||analysis.fc2.com^
 ||analysis.fi^
 ||analysis.focalprice.com^
+||analysis.gboxlab.com^
 ||analysis.leetcode.cn^
 ||analysis.polarisoffice.com^
 ||analysis.wangtwothree.com^
