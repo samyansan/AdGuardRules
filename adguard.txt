@@ -3,8 +3,8 @@
 ! Powerd by SamSan
 ! Description: Just a merged Adblock rule. Nothing more
 ! Expires: 6 hours (update frequency)
-! Version: 2024-01-25 08:33:13
-! Total count: 181694
+! Version: 2024-01-25 14:09:14
+! Total count: 181708
 
 */letv-gug/$media,object-subrequest,xhr
 */preroll/$media,domain=91porn.com
@@ -3988,7 +3988,6 @@ zhiziyun.com
 ||71d7511a4861068.com^
 ||71dd1ff9fd.com^
 ||71ec0646e6.com^
-||71edge.com/videos/other/202$xmlhttprequest
 ||71efe2183b8663ad5bf9d7a9320aeb48.leboncoin.fr^
 ||71sem.com^
 ||71zrh.cn^
@@ -9003,6 +9002,7 @@ zhiziyun.com
 ||abelinentrk.com^
 ||abema.io^
 ||abendbl-relay.iocnt.net^
+||abendblatt.cleverpush.com^
 ||abenshishabi.com^
 ||abercrombie.demdex.net^
 ||aberr.cn^
@@ -17801,6 +17801,7 @@ zhiziyun.com
 ||alb-metrics-agent-shard2-1030968321.us-east-1.elb.amazonaws.com^
 ||alb-snowplow-collector-1162019701.us-east-1.elb.amazonaws.com^
 ||alb-snowplow-pipeline-collector-402272836.us-east-1.elb.amazonaws.com^
+||alb-test-in-prod-adserver-783341763.eu-central-1.elb.amazonaws.com^
 ||alb.reddit.com^
 ||albacross.com^
 ||albamargroup.com^
@@ -20284,6 +20285,7 @@ zhiziyun.com
 ||analytics.eu.degreed.com^
 ||analytics.eu.kaltura.com^
 ||analytics.eu.meisterplan.com^
+||analytics.eu.moviestarplanet.app^
 ||analytics.eu.safetyculture.com^
 ||analytics.eu1.verimatrixcloud.net^
 ||analytics.eventbrite.com^
@@ -20615,6 +20617,7 @@ zhiziyun.com
 ||analytics.hrc.org^
 ||analytics.hrsymphony.com^
 ||analytics.hse.gov.uk^
+||analytics.hslc.org^
 ||analytics.htmedia.in^
 ||analytics.hub-js.com^
 ||analytics.hubspot.com^
@@ -20982,6 +20985,7 @@ zhiziyun.com
 ||analytics.marcopromos.com^
 ||analytics.marcus.com^
 ||analytics.marera.net^
+||analytics.marga.de^
 ||analytics.marketingniche.io^
 ||analytics.marquiz.ru^
 ||analytics.marsh.com^
@@ -22008,6 +22012,7 @@ zhiziyun.com
 ||analytics.tarmika.com^
 ||analytics.tastyworks.com^
 ||analytics.taxdome.com^
+||analytics.taxhawk.com^
 ||analytics.taxmon.ru^
 ||analytics.tbs.com^
 ||analytics.tcbs.com.vn^
@@ -26795,6 +26800,7 @@ zhiziyun.com
 ||atomicwalletweb.com^
 ||atomieswidener.com^
 ||atomikad.com^
+||atomm.com.br^
 ||atomo.sq.com.ua^
 ||atonato.de^
 ||atonce-abowling.com^
@@ -30128,6 +30134,7 @@ zhiziyun.com
 ||bearpawclouty.com^
 ||bears.daigostudio.com^
 ||bearsg.cn^
+||bearware.org^
 ||beassilentasaf.xyz^
 ||beastbeef.com^
 ||beastbuying.com^
@@ -74380,6 +74387,7 @@ zhiziyun.com
 ||habjoshtech.co.ke^
 ||habkjav.cn^
 ||habovethecityon.info^
+||habrafa.com^
 ||habrasysteleii.xyz^
 ||habrox.xyz^
 ||habtcng.cn^
@@ -77718,7 +77726,6 @@ zhiziyun.com
 ||hot59.de^
 ||hotapi-va.isnssdk.com^
 ||hotbanner.site^
-||hotbar.com^
 ||hotbignews.com^
 ||hotblowup.com^
 ||hotbuckers.com^
@@ -83905,7 +83912,6 @@ zhiziyun.com
 ||iqfp1.com^
 ||iqgoukn.cn^
 ||iqimwsctvgbvqx.xyz^
-||iqiyi.com/videos/other/202$xmlhttprequest
 ||iqiyi.kim^
 ||iqiyi.space^
 ||iqiyipic.com/image/20*_100000$image
@@ -92442,7 +92448,6 @@ zhiziyun.com
 ||lindenprofessionalservices.com^
 ||lindependnant.fr^
 ||lindiankj.com^
-||lindnerelektroanlagen.de^
 ||lindsays.net.au^
 ||lindt.demdex.net^
 ||line1-log.biligame.net^
@@ -100653,6 +100658,7 @@ zhiziyun.com
 ||matomo.tweddle.com^
 ||matomo.u.ar24.io^
 ||matomo.ubbcluj.ro^
+||matomo.ubiquity.com^
 ||matomo.ubreakit.com^
 ||matomo.ulb.be^
 ||matomo.unicaf.org^
@@ -103607,6 +103613,7 @@ zhiziyun.com
 ||metrics.huntwise.com^
 ||metrics.hydraulicspneumatics.com^
 ||metrics.hydrow.com^
+||metrics.hyperliquid.xyz^
 ||metrics.hyperoptic.com^
 ||metrics.hyundaiusa.com^
 ||metrics.i-run.be^
@@ -110722,6 +110729,7 @@ zhiziyun.com
 ||networks.balluff.com^
 ||networksdk.ssacdn.com^
 ||networksfishing.com^
+||networkwheels.co.za^
 ||networkxi.com^
 ||networld.hk^
 ||networldmedia.net^
@@ -115647,6 +115655,7 @@ zhiziyun.com
 ||operms.com^
 ||operqr.top^
 ||opertyvaluationiam.xyz^
+||opesjk.ug^
 ||opex-service-sg.allawnos.com^
 ||opeyemitelecoms.com.ng^
 ||opgirl-tmp.adbxb.cn^
@@ -122828,6 +122837,7 @@ zhiziyun.com
 ||posthog.getyourmap.com^
 ||posthog.golive.apwide.net^
 ||posthog.gravitational.io^
+||posthog.hivelearning.com^
 ||posthog.horseracesnow.com^
 ||posthog.hs-plus.com^
 ||posthog.hss.element.io^
@@ -137066,6 +137076,7 @@ zhiziyun.com
 ||shahadotonline.net^
 ||shahebso.com^
 ||shahnazbeautyclinic.com^
+||shahu66.com^
 ||shaiban.wang^
 ||shaickox.com^
 ||shaidolt.com^
@@ -144461,6 +144472,7 @@ zhiziyun.com
 ||spacedust.netmediaeurope.com^
 ||spaceeditors.com^
 ||spacefiled.com^
+||spaceframe.mobi.space-frame.co.za^
 ||spacegacordong.com^
 ||spacegunwin.com^
 ||spacehits.net^
@@ -168742,6 +168754,7 @@ zhiziyun.com
 ||vkcdnservice.com^
 ||vkctxy.yves-rocher.fi^
 ||vkekyx.com^
+||vkengcivil.com.br^
 ||vkeys.online^
 ||vkezpstgtjxym.com^
 ||vkfvrsgj.com^
@@ -171037,7 +171050,6 @@ zhiziyun.com
 ||web.novunapersonalfinance.co.uk^
 ||web.online.monnalisa.com^
 ||web.orionpharma.com^
-||web.osc.state.ny.us^
 ||web.pages.lloydspharmacy.com^
 ||web.redazione.milanofinanza.it^
 ||web.sensilab.com^
@@ -174602,6 +174614,7 @@ zhiziyun.com
 ||www.herb7calk.com^
 ||www.hero6bell.com^
 ||www.heusmarketing.nl^
+||www.hey-randomgirl.com.br^
 ||www.hey.lt^
 ||www.hhlian.com^
 ||www.hims1nice.com^
@@ -174995,6 +175008,7 @@ zhiziyun.com
 ||www.robm674.plus.com^
 ||www.rock5rice.com^
 ||www.romanticmaui.net^
+||www.roofing.galacticleads.com^
 ||www.rote8mino.com^
 ||www.roulettebotplus.com^
 ||www.rpepin.plus.com^
