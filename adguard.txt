@@ -3,9 +3,522 @@
 ! Powerd by SamSan
 ! Description: Just a merged Adblock rule. Nothing more
 ! Expires: 6 hours (update frequency)
-! Version: 2024-01-29 08:30:49
-! Total count: 150267
+! Version: 2024-01-29 11:00:43
+! Total count: 151748
 
+###Page-1[stroke='none'][fill='none'][fill-rule='evenodd']
+###ad-1,#ad-2,#ad-3,#ad-4,#ad-5,#ad-6,#ad-7
+###ad-header-mobile-contener
+###ad-index.position-relative
+###adDisabledBtn
+###bl_mobile_float[style='height: 152px;']
+###bottomNavad
+###bottom_ads.hl_bottom_ads
+###coupletBox
+###downapp1
+###header_global_ad
+###hongbao20201217
+###imgad
+###mobile-ad.hidden-md
+###mobile-index > div#vodbm
+###mobile-index > div[id^="ins"]
+###sOIcquIT
+###t4>a
+###topNavad
+###whYuTlxF
+##.C1U,.C1M,.C2L,.C2R
+##.__isboostOverContent
+##.ad_img
+##.advertise
+##.ayx[style="position: fixed;bottom: -10px;right:0;z-index:999;width:250px"]
+##.bottom-pic,.col-pd.mb10
+##.clearfix > a > IMG[referrerpolicy='no-referrer'][src]:not([style='display: block;'])
+##.fc_foot
+##.fed-part-advs.fed-text-center.fed-font-xvi
+##.ff-ads
+##.gr_slide_car_inner
+##.mi_btcon.ad
+##.player_pic_link > [src*='/player.gif']
+##.scaled-juicyads
+##.ssr1
+##.theme-dark > .ayx > a
+##.width.imgs_1
+##.zozoads
+##A > IMG[alt][src*='resources/images/']
+##A#floating-banner
+##A.toptxt[target='_blank']
+##ASIDE[id^='custom_html-']
+##A[href*='-fghgdf.com']
+##A[href*='-fghhjj.com']
+##A[href*='//v.wanfumei.net']
+##A[href*='/adjump/?']
+##A[href*='com:'] > IMG[src],A[href*='cc:'] > IMG[src]
+##A[href*='exuvu.com']
+##A[href*='jdbfknsbkldns.com']
+##A[href*='jialu6699h.vip']
+##A[href*='xzzkx.com']
+##A[href*='youqu.buzz']
+##A[href*='zbkrv.com']
+##A[href='/?'][target='_blank']
+##A[href='/hth.html']
+##A[href='/iwagbwfiwehaeyh/']
+##A[href='/statics/js/ky-a.html']
+##A[href='http://8hgpro.vip/']
+##A[href='http://95710.vip']
+##A[href='http://k023055.com']
+##A[href='http://kkyty29.cc/']
+##A[href='http://x5123.cc/']
+##A[href^='http'][style^='display:block;left:0;right:0;position:fixed;border-left:']
+##A[href^='http://cszb420.tinawd81.com/']
+##A[href^='http://h5.shangjinssp.com/sjprom'][style='display:block;']
+##A[href^='http://www.kyty1119.com']
+##A[href^='https://chmjmff.com/']
+##A[href^='https://d1-dm.online/go/']
+##A[href^='https://icrwt696.com']
+##A[href^='https://js.iconiclee.com']
+##A[href^='https://js.pico4pro.com']
+##A[href^='https://k.izret.com']
+##A[href^='https://tv2356.cc']
+##A[href^='https://v.frthv.com']
+##A[href^='https://www.ids20.co']
+##A[href^='https://www.nonstopclub.xyz']
+##A[href^='https://www.pcjx365.com']
+##A[href^='https://yongle008.com']
+##A[onclick$='()'][target='_top'][style*='.gif) no-repeat;background-size:100% 100%;']
+##A[rel='nofollow noopener'][href*='/game/xr/?attributionId=']
+##A[style='width: 100%;height: 150px;z-index:1000;position: absolute;display:block;top: 0px;'][onclick$=';this.style.display="none";']
+##A[target='_blank'] > IMG[width='100%'][src*='.gif']
+##A[target='_blank'][href*='/auth/register?code=']
+##BODY > DIV.ggcontainer
+##DIV#advertisings.advertising
+##DIV#bannerCtrl.source_container.swiper-wrapper
+##DIV#bfad
+##DIV#bl_mobile_float
+##DIV#bottom-ads
+##DIV#div1.div-relative[style='display:block;']
+##DIV#googleads-popup.popup.visible
+##DIV#links.links.my-1.row[style='font-size:20px']
+##DIV#mhbottom_ad_box
+##DIV#pos_nei_content
+##DIV#recommend-float.player-recommend-float > a
+##DIV#tads
+##DIV#top-ads
+##DIV#video-player-ads-wrap
+##DIV#xfb_lbox.zoomout_transition.zoomout
+##DIV.JS_mid_ad
+##DIV._42701c0173
+##DIV._4e544f1dde
+##DIV.ad-area.ad-area-fix-bottom
+##DIV.ad-content
+##DIV.ad_js
+##DIV.adj
+##DIV.ads.ads_w
+##DIV.advertisingConfiguration
+##DIV.appdownload_ad
+##DIV.bot-per-context[data-width='728'][data-height='90']
+##DIV.bot-per.visible-xs.visible-sm *
+##DIV.bottom-ad.hidden-lg
+##DIV.box-width.ec-ad
+##DIV.code-block[style='margin: 8px 0; clear: both;']
+##DIV.col-4.col-sm-2.col-xl-2.px-1.px-sm-2.pb-3.pt-3.pt-sm-0.d-block.d-sm-none
+##DIV.col-lg-3.col-md-3.col-sm-4.col-12.item.p-0.px-1
+##DIV.div_adhost
+##DIV.div_sticky2.hidden-lg
+##DIV.duilian[style*='z-index: 9999; top: 0px; ']
+##DIV.ec-ad.tim-box
+##DIV.fixed-bottom.d-block.d-sm-none.movies_ad
+##DIV.footer-appload.js-footer-appload
+##DIV.hidden-lg[style='position: absolute;bottom: 0px;z-index: 10;']
+##DIV.index_adpic
+##DIV.loc_banner.only-app
+##DIV.module-adslist
+##DIV.myui-content__acc[style='position: relative;padding: 0 10px']
+##DIV.playVideo-centerAd
+##DIV.row.no-gutters.m-0
+##DIV.stui-player__item.clearfix > img[url]
+##DIV.swiper2.swiper-initialized.swiper-horizontal
+##DIV[allowtransparency='true'][scrolling='no']
+##DIV[class$='_ad_wrap']
+##DIV[class*='home'][class*='Ads']
+##DIV[class*='id_ads__']
+##DIV[class^='ads_border_']
+##DIV[data-text-ad]
+##DIV[onclick='if (!window.__cfRLUnblockHandlers) return false; window.location.href=\'https://a.biquge-app.com/apps/\''],[onclick='if (!window.__cfRLUnblockHandlers) return false; window.location.href=\'https://a.biquge-app.com/apps/\''] + div
+##DIV[style$='display:block;width:9.6vw;height:7.96875vw;background: #000;opacity:0.01;']
+##DIV[style*='!important; color: transparent !important; font-size: 0px !important; text-indent: -10000px !important; line-height: 0px !important; height: 150px !important;']
+##DIV[style*='.xyz/gif/']
+##DIV[style*='animation: 1s ease 0.2s infinite normal none running shakegwegs; z-index:'][style*='background: url']
+##DIV[style*='display: block; width: 100%; left: 0px; position: fixed; z-index:'][style*='height: 25px; top: 133px;']
+##DIV[style*='height: 33.25px; top:'][style*='background-size: 400px 133px !important;']
+##DIV[style*='px; bottom: 0px; left: 0px; animation: 1.5s ease 0.2s infinite normal none running shakegwegs; z-index:']
+##DIV[style*='px; top: 0px; left: 0px; z-index: '][style*='http']
+##DIV[style='background-color: rgb(249, 249, 249); display: flex; align-items: center; justify-content: center;']
+##DIV[style='clear: both; position: relative; width: 396px; height: 130px;']
+##DIV[style='position: fixed; bottom: 0px; left: 0px; width: 100%; height: 5.85rem; z-index: 99999;']
+##DIV[style='position: fixed; color: transparent; line-height: 100vh; width: 100vw; z-index: 288; top: 0px; left: 0px;']
+##DIV[style='position: fixed; left: 0px; bottom: 0px; width: 100%; height: 120px; z-index: 2147483647 !important;']
+##DIV[style='position: fixed; line-height: 100vh; width: 100vw; top: 0px; left: 0px;']
+##DIV[style='width: 100%;background-color: black;color: white;padding: 15px 0;']
+##DIV[style^='box-sizing: border-box; position: relative; left: 0px; z-index: 214748']
+##DIV[style^='display: block; aspect-ratio: 728 / 90; background-image: url("/static/resources/lp.php']
+##DIV[style^='position: fixed; bottom: 50%; z-index: 19999 !important; ']
+##DIV[style^='width:100%;height:100%;line-height: 100%;overflow:hidden; margin:auto;border:1px #']
+##I.fa.fa-close
+##IFRAME[src^='https://mydisplay.ctfile.com/popview.php']
+##IMG#diads
+##IMG.cupfox[src$='gif']
+##IMG.lazyload[src='/statics/img/load.gif']
+##IMG.playVideo-checkin-img
+##IMG[alt='155.fun']
+##IMG[alt='五一特惠']
+##IMG[alt^='kaiybet']
+##IMG[onclick='golh()'][src$='.gif']
+##IMG[referrerpolicy='no-referrer'][src$='.gif'][width='100%']
+##IMG[referrerpolicy='no-referrer'][style='box-sizing: border-box;height:calc(10vh); width:100%;padding: 0px 15px 10px 15px;']
+##IMG[src$='.dl'][style='width:100% !important;height:90px'][onclick]
+##IMG[src$='tywheying/vv2-960x80.gif']
+##IMG[src*='.xyz/tupian/'][src$='/h5.gif']
+##IMG[src*='//img4.qv1.ru/data/game/']
+##IMG[src*='/ds3/ssmh/']
+##IMG[src*='/gg/'][src$='180.gif'][src*='800']
+##IMG[src*='qimanwu_wap/static/adimages/']
+##IMG[src*='qmfcybwbf']
+##IMG[src*='tupian.guanggao']
+##IMG[src='/adBanner']
+##IMG[src='/js/imgs/taote.jpg']
+##IMG[src='https://tanju.vip/wapxiezi.png']
+##IMG[src^='http://socos.gitee.io/ss/poster'][alt][style='width: 100%;']
+##IMG[src^='https://dzfzfv.xyz/']
+##IMG[style='height:120px;width:100%;'][src*='/sucai/']
+##IMG[style='width: 100%;'][src^='https://ad.']
+##IMG[url][onclick='window.open(this.url)'][src$='.gif'][width='100%']
+##INS.adsbygoogle
+##INS[status='done'] A.external
+##P[style$='transparent !important; font-size: 0px !important; text-indent: -10000px !important; height: 125px !important;']
+##P[style*='!important; color: transparent !important; font-size: 0px !important; text-indent: -10000px !important;']
+##SPAN#VuMk2.IgpuN2
+##SPAN#qdSZ2
+##SPAN.closebox1,SPAN.closebox2,SPAN.closebox3,SPAN.closebox4
+##SPAN[style$='font-size: 6vw; color:#fff; text-align: center; transform: rotate(-90deg);']
+##SPAN[style^="position: fixed; bottom: 30vh; z-index: 2147483647; right: 0px; margin-right: 6vw; padding: 0px; text-decoration: none; background-color: red; width: 7vw; height: 7vw; border-radius: 7vw; font-size: 6vw; color:"]
+##UL.myui-extra.clearfix
+##UL[style='margin: 0px; padding: 0px; font-size: 0px; display: flex;']
+##VIDEO[loop='true'][muted='true'][autoplay='true'][playsinline='true'][preload='auto']
+##[ad_dot_url]
+##[alt="要恰饭的嘛"]
+##[alt='52bl']
+##[alt='ACG里番']
+##[alt='ad']
+##[alt='西瓜社']
+##[at*='尼斯人注册送']
+##[class$="_main_outstream"][style="right: 0px;"]
+##[class^="chapter_"] > .baiduCenter
+##[data^='/banners/pr_advertising_ads_banner']
+##[href$='/ads.aspx']
+##[href*="/?channelCode="] > [referrerpolicy='no-referrer']
+##[href*="/entry/register/?i_code="]
+##[href*='.lookxmh3']
+##[href*='.top/?token=']
+##[href*='.xacg.info/']
+##[href*='anrvl.com']
+##[href*='slkdnlkfnskl.com']
+##[href*='snnrb.com']
+##[href*='sohu.com/hy-op']
+##[href*='zthbe.com']
+##[href="/ad/007.html"]
+##[href='/ad.html']
+##[href='/ad/bfy.html']
+##[href='/aga2/1661087']
+##[href='/jump.html']
+##[href='/my/dp.html']
+##[href='/my/gd.html']
+##[href='http://ky53362.com/']
+##[href='https://click.aliyun.com/m/1000332699/']
+##[href='https://dpurl.cn/HifSTUtz']
+##[href='https://www.aiwajbh.com/mh.php']
+##[href^="https://9996867.com"]
+##[href^="https://lantianyong"]
+##[href^="openapp.jdmobile://virtual?params="]
+##[href^='http://j6597v.hjlego.com']
+##[href^='http://jg.awaliwa.com/']
+##[href^='http://mm.alameinv.com/']
+##[href^='https://65564535.com']
+##[href^='https://97749516.com/']
+##[href^='https://analytics.woozooo.com/jump.php?url=']
+##[href^='https://ccs.holor0803.cn']
+##[href^='https://dc.vvsmse72']
+##[href^='https://down.erperweima.top/']
+##[href^='https://dt.mydrivers.com/b.ashx']
+##[href^='https://fcc.hxaxfcc.cn/']
+##[href^='https://gougew.lanzoub.com/']
+##[href^='https://iluluweb.club']
+##[href^='https://jd.dangbei.com/']
+##[href^='https://jincai.sohu.com/']
+##[href^='https://js.xiaobaofei.com']
+##[href^='https://kcc.qrjxween.com/cc/']
+##[href^='https://luodi.aitaokeji.top/']
+##[href^='https://mtyshi.com/']
+##[href^='https://tz.jingjiezhenkong.com']
+##[href^='https://tz.kefuyuming.vip/']
+##[href^='https://uod217.com/']
+##[href^='https://w5979.com:']
+##[href^='https://www.00285164.com']
+##[href^='https://www.00426740.com']
+##[href^='https://www.qlspx.com:']
+##[href^='https://xcc.'][href*='cn/']
+##[href^='https://xxx.nunxun.com']
+##[onclick*="trackEvent', 'ad"]
+##[onclick*='https://i.opiwb.com:']
+##[onclick*='pypyj.com']
+##[onclick*='www.l4lui.com'],.col-12.position-relative>b
+##[onclick="window.open('http://682kg.com/')"]
+##[onclick="window.open('https://docs.qq.com/doc/DZGtmWUxpamJGTnNY');"]
+##[onclick='gourl()'][src^='/images/bfq/']
+##[onclick^="window.location.href='https://apps.apple.com/cn/app/%E9%80%9F%E9%98%85%E5%B0%8F%E8%AF%B4"]
+##[poster^='https://dingbu.bj.bcebos.com/']
+##[rel='nofollow'][href^='/book/baidu_verify_code']
+##[src$='/dibu.adadadad']
+##[src*='zdmbl.xyz']
+##[src='/images/c_l.png']
+##[src='/static/ads.png']
+##[src='http://m.guangzhoubingqing.com/88888.jpg']
+##[src='https://pnm.hpvitycz.cn/00.jpg']
+##[src^="https://img.sobot.com/chatres/"][title="sb"]
+##[src^='/MDassets/images/']
+##[src^='/Uploads/ad/'][src$='.gif'][alt='广告']
+##[src^='/banners/pr_advertising_ads_banner']
+##[src^='/static/resources/lp.php'][style^='max-width: 100%; transform-origin: left top;']
+##[src^='data:image/png;base64,iVBORw0KGgoAAAANSU'][style*='position: fixed; z-index: 2000000000; width: 30px; bottom:']
+##[src^='https://ae01.alicdn.com/'][alt='歪歪漫画']
+##[src^='https://dingbu.bj.bcebos.com/']
+##[src^='https://immmg.owowqrf.cn']
+##[src^='https://kykqss.xyz']
+##[src^='https://l.bt5v.com/v.php']
+##[src^='https://play.cdn6.buzz/js/']
+##[src^='https://qwe0231141.bj.bcebos.com/']
+##[style$="both;margin: auto;text-align: center;line-height: initial;margin-bottom: 10px;"]
+##[style$=' 0% 0% / 100% no-repeat; height: 130px; width: 100%; position: relative;']
+##[style$='auto;text-align: center;line-height: initial;margin-bottom: 10px;margin-left: 20px;margin-right: 20px;']
+##[style$='display:block;width:9.6vw;height:8.5vw;background: #000;opacity:0.01;']
+##[style*='display: block; width: 100%; left: 0px; position: fixed; z-index: 2147'][style*='bottom: 132px;']
+##[style*='line-height: 115px; left: 0px; z-index: 0; width: 100vw; background: url']
+##[style*='px; top: 0px; left: 0px; animation: 1.5s ease 0.2s infinite normal none running shakegwegs; z-index:']
+##[style*='width: 100% !important; margin: 0px !important; padding: 0px !important; display: flex !']
+##[style*='width: 100% !important; margin: 0px !important; padding: 0px !important; display: flex !'] *
+##[style*='width: 100vw; background: url'][style$='no-repeat; position: fixed;'][style*='0px 0px / 100vw ']
+##[style*='width:9.6vw;height:8.5vw;background:#000;opacity:0.01;']
+##[style='box-sizing: border-box; position: relative; left: 0px; z-index: 912944; text-indent: -10em;']
+##[style='display: block; width: 100%; left: 0px; position: fixed; z-index: 2147483646; height: 49px; bottom: 132px;']
+##[style='position:relative !important;padding:0px !important;margin:0px !important;line-height:1 !important;']
+##[style='text-align: center; margin: 40px 0; color: blue; font-size: larger;']
+##[style='top: 0vw; display: block;']
+##[style='top: 16.4vw; display: block;']
+##[style='top: 24.6vw; display: block;']
+##[style='top: 8.2vw; display: block;']
+##[style='width: 100%; height: 123.75px;']
+##[style='width: 100%; height: auto; position: fixed; left: 0px; top: 0px; z-index: 2147483647;']
+##[style='width: 100%;height:660px;z-index:2147483647;position:fixed;display:block;bottom:0px;']
+##[style='width:100%;height:auto;min-height:120px;position:relative;display:block;']
+##[style='z-index: 99999; text-indent: -10em;position: relative; left: 0px;box-sizing: border-box;']
+##[style^="pointer-events: none;background-image:url('https://33789.qqqwww987.site"],[style^='z-index: 2147483647; height: 123px; ']
+##[style^='bottom: 0px; width: 100%; height: 50vw; position: fixed; left: 0px; right: 0px; margin: 0px; background: url("https://']
+##[style^='position: fixed; bottom: 20%; z-index: 19999 !important; ']
+##[style^='position: fixed; color: transparent; line-height: 100vh; width: 100vw; z-index: '][style*='; top: 0px; left: 0px;']
+##[style^='position: fixed; z-index: 2147483616; width: 10%; height: 32.5px;']
+##a > I.gg-icon
+##a > IMG[src$='.gif'][wapsrc][style^='width: 100%']
+##a.gggg[href^="https"]
+##a[href*=".com?s="]
+##a[href*='html?channelCode'] > IMG[src*='.gif'][width='100%']
+##a[href^="/ad.html?url="]
+##a[href^="https://91keep.tv"]
+##body > A[ontouchstart='this.click();'][href]
+##body > DIV[class][style='top: 132px;']
+##body > DIV[class][style='top: 133px;']
+##body > DIV[class][style^='bottom: '][style$='vw; display: block;']
+##body > DIV[style*='height: 33px'][style*='132px !important;']
+##body > DIV[style='bottom: 130px;']
+##body > DIV[style='display: block; width: 100%; height: 132px;']
+##body > DIV[style='display: block; width: 100%; height: 133px;']
+##body > [id][style*='width:100%'][style*='min-height:120px']
+##body > a[id*='hudie_']
+##body > div#bottommob.bottommob
+##body > h1 > strong > title > a
+##body#nr_body a[href*="/?utm_source="]
+##body#nr_body div.fixed ~ *
+##body#nr_body font > [id]
+##body#nr_body.nr_all.c_nr > div > div[id][class] > [href]
+##body#nr_body.nr_all.c_nr > div[class] > DIV[style='height:90px;width:100%;']
+##body#nr_body.nr_all.c_nr > section[id]
+##body#read.read DIV[style$=' width: 100vw; position: relative;']
+##body#reader-m-fix IMG[src*='.gif'][style='width:100%;height:100%']
+##body#wrapper A[ontouchstart='this.click();']
+##body.active > div.myui-panel > DIV#home_slide
+##body.bg_xin > A[href*='com:'][target='_blank']
+##body.chapter > div.container div.slide-baidu *
+##body.conch-hasone section > span > video
+##body.fed-min-width.website-read > [style='bottom: 132px;']
+##body.no_overflow strong
+##body.page.player > DIV.shortcuts-mobile-overlay
+##body.page.player > div.popup.popup-tips.popup-icon.open
+##center > [href^='https://docs.qq.com/doc'][target='_blank']
+##center > a > IMG[alt$='到期']
+##center > div.hengfu
+##div#apage.apage > div > ul > li > a
+##div#beijing.article_content.layui-clear > div.left > div > a
+##div#content.content div[id] > DIV[style*='z-index: 2147483647']
+##div#detail.selector-zero > div > DIV[style]
+##div#gmright
+##div#h2_player_prevideo > A[href][target='_blank']
+##div#header-wrapper.header_b > div#header
+##div#hengfu_wap_vod_xia > a
+##div#liveline > l,div#liveline > ll
+##div#main.main.read_page [id^="set_adds"]
+##div#nr_body.nr_all.c_nr div.show-app2
+##div#page-back DIV.container.clearfix div > A > IMG[src]
+##div#playlistbtn > A[href='/ht.html']
+##div#reader-scroll.acgn-reader-chapter.v>div>center>strong>button
+##div.ad-area > [href]
+##div.ad-frame-container
+##div.am-gallery-item > a
+##div.appad
+##div.bf_qy DIV.copy_div_btn
+##div.callApp_fl_btn.an
+##div.close-player_pic[onclick="document.getElementById('player_pic').style.display='none'"]
+##div.container > DIV.t-img-box
+##div.container > IFRAME[align][width][src][border][height]
+##div.container > div.row div.yalayi_box
+##div.container.ff-bg > div.row.ff-row.slide
+##div.flex-1.order-first > DIV.under_player
+##div.homepage > div.main > div.content > DIV[style='width:100%;height:180px']
+##div.inn-content-reseter > a > IMG[decoding='async'][loading='lazy']
+##div.layout-box a > IMG[src*='.gif']
+##div.m0auto div.s_h,div.m0auto div.s_h + *
+##div.main div.content div[id].is_mb a[id] img[id]
+##div.maomi-content > SECTION.section.section-banner
+##div.maomi-content A[href='/baidu/index.html']
+##div.mobile > div.content IMG[src*='.gif']
+##div.module-list-right-title-wrap > div.normal-title-wrap > div > a
+##div.my-ad > a
+##div.page.player > div.main > div.content > div.module.module-player > div.module-main > div.player-box > div.player-rm.rm-list > a > img
+##div.page.player > div.main > div.content > div.module.module-player DIV[style='width:100%;height:180px']
+##div.page.view > div.main > div.content > DIV[style='width:100%;height:100px']
+##div.play_boxbg div[class$='_acmsd']
+##div.player-rm.rm-two.rm-list > a
+##div.poi-row IMG[width='950'][height='300'][style='max-width:100%;height:auto']
+##div.poi-row a > IMG[width='100%'][height='auto'][src]
+##div.post_list_ajax > A[target='_blank']
+##div.recommend > a[id*='hudie_']
+##div.row > DIV.md-r-panel
+##div.row > div[id] > ul > li.cpn > a
+##div.row.col5.clearfix:nth-of-type(2) > dl:nth-of-type(1)
+##div.slide-baidu IMG[src='/images/aw1.gif']
+##div.stui-pannel__bd > #t-img-box
+##div.stui-player.col-pd DIV[style='text-align:center']
+##div.swiper-slide > A[rel='nofollow noopenner']
+##div.synopsisArea > a[id*='hudie_']
+##div.video-box > div.hf > a
+##div[class*='bookid_ads']
+##div[class^="is_"] > a > img[referrerpolicy="no-referrer"][src*="hdslb.com"]
+##div[id$='ad1'][class^='text'],div[id$='ad2'][class^='text'],div[id$='ad3'][class^='text'],div[id$='ad4'][class^='text'],div[id$='ad5'][class^='text'],div[id$='ad6'][class^='text']
+##div[id*='cat_'][id*='_ad']
+##div[id] > div[style*='z-index: 2147483647; width: 100vw; background: url']
+##html.wap [style='left: 40%;']
+##iframe.ad-frame
+##img#hth[onclick$="hth.html')"]
+##img#hth[onclick^="window.open"]
+##oxk
+##secion#ly LI[role='group'],secion#ly > H2
+##section > SPAN[style='display: block; clear: both; overflow: hidden;']
+##section.global_video_bottom_dbtc
+##section.wrap > section.f0
+##span > A[href='###']
+##ul > li > A[href$='_list.html']
+##ul#page-list.layui-clear.page-wz > ul > li:not([class])
+##ul.content-list > li.content-tb
+##ul.thread_detail_ads
+*.lijie.*/*_*?$third-party
+*/blsx_*_*_*?*$third-party
+.buzz$domain=btsj6.com|yinghua8.tv|yinghuavideo.com|dm99.me
+.buzz/*0*0*0*==$third-party
+.cn/2022/*/*.txt$third-party
+.cn/2023/*/*.txt$third-party
+.cn/ack?s=*$third-party
+.cn/bid?url=*$third-party
+.cn/redbaiduct.com?s=$third-party
+.cn:*/vh5$third-party
+.cn:8001/*/*?*=$third-party
+.com/adv1/?q=
+.com/c.php?s=*=*=$third-party
+.com/candy*.js$third-party
+.com/gg.js
+.com/js/g.js
+.com/qq.js$third-party
+.com/sh/*.js$third-party
+.com/sh/to/$third-party
+.com/xz/*?token8=
+.com/z-*-*?123$third-party
+.com:10446/*/get*.html
+.com:7891/stats$third-party
+.com:8001/*/*?*=$third-party
+.com:8003/d/*&n=$third-party
+.com:8003/sc/*?n=$third-party
+.com:8004/*/*?*=$third-party
+.com:8005/*&n=$third-party
+.com:8007/*/*?*=$third-party
+.com:8008/*/*?*=$third-party
+.com:8008/sc/*?n=$third-party
+.com:8010/cc/
+.com:8077/*?$third-party
+.cyou/redbaiduct.com
+.cyou/xling_*_$third-party
+.icu/*_*_*.js$third-party
+.icu/?token=$third-party
+.icu/biyys*.js$third-party
+.icu/pssbk?$third-party
+.js?*&ssid=$third-party
+.live/hm.js$third-party
+.live/r/*/*_r=*
+.live/ty/*-*-*$third-party
+.net/v2/stats/1*$third-party
+.net/vh1/1*$third-party
+.ru/ads/
+.shop:*/ack?s=
+.shop:*/bid?url=
+.top/*/*.js?ts=$third-party
+.top/*/2022*/.js$third-party
+.top/*q=*form=*&*url=http*$third-party
+.top/?token=$third-party
+.top/gluinfo.php?s=$third-party
+.xyz$domain=btsj6.com|yinghua8.tv|yinghuavideo.com|dm99.me
+.xyz/*0*0*==$third-party
+.xyz/*?16$third-party
+.xyz/*_*_1_*.js?$third-party
+.xyz//qby_*.js$third-party
+.xyz/?token=
+.xyz/ack?s=$third-party
+.xyz/alpine?$third-party
+.xyz/base*.js?$third-party
+.xyz/bid?url=*$third-party
+.xyz/foundation?$third-party
+.xyz/gatsby?$third-party
+.xyz/get?$third-party
+.xyz/gif$third-party
+.xyz/hm.html?s=
+.xyz/hm.js?$third-party
+.xyz/jque*.js?$third-party
+.xyz/mithril?$third-party
+.xyz/qby_*.js?$third-party
+.xyz/st?gp=*$third-party
+.xyz/svelte?$third-party
+.xyz/ty/*-*-*$third-party
+.xyz/xefeliffng_$third-party
+.xyz/xling_*_*_*.js?
+/*/*.add.*.add
+/*_*_aubi.js$third-party
+/360mse/360mse_*.apk?
+/Distribute/Distribute_g/butterfly/*
+/Public/wap/zymk/js/guanggao.js
 /^.+stat\.kugou\.com/
 /^admarvel\./
 /^admaster\./
@@ -33,11 +546,323 @@
 /^supersonicads\./
 /^wlmonitor\./
 /^zjtoolbar\./
+/_xa/ads?
+/_xa/ads_
+/adjs
+/api/LM/Report?placeUUID=$third-party
+/api/ad/*
+/api/getPos?jspath=/videos/view//*
+/app/*/%E6%B5%8F%E8%A7%88%E5%99%A8.apk
+/app/get*?t=*http$third-party
+/app/market/*/%E9%AB%98%E9%80%9F%E6%B5%8F%E8%A7%8%A8.apk
+/asfile/m/gudings.js
+/baidu/189/999.php
+/baidu/tg.js
+/banners/pr_advertising_ads_banner
+/bar/*.js$domain=yinghuavideo.com|yinghua8.tv
+/bigREDcat.js?$third-party
+/bigREDdog.css?
+/biyys*hh.js$third-party
+/blxn_*_*_*?*$third-party
+/bugsnag.min.js$third-party
+/dibu.adadadad
+/dj*ll5c20ff.js
+/exads-adblock-3.10
+/gameapk/*/hongbao.apk
+/hm.html?s=*=http
+/hm.js?$third-party
+/ht.js?site_
+/index.html?channelCode=
+/js/ads
+/js/js4.js
+/js/lmdas.js
+/js/mts.js
+/js/mts66.js
+/js/news2zz.js
+/js/pingbi.js
+/js/statistics/user_ad.js
+/m.html?rmid=*&yd=
+/m.html?shareName=*&proxyAccount=
+/obj/ad-app-package
+/redbaiduct.com?s=
+/scripts/snstyle.js?v=2$~third-party
+/show_ads_
+/sinaads/release/sinaads.js
+/site/mov*$third-party
+/static/*/KdLmbuThM.js?v=
+/static/*/Lqho7OKcg.js?v=
+/static/js/miniyyrtv-config.js
+/statics/js/dddd.js
+/statics/js/guding.js
+/statics/js/hth1111.html
+/stats.php?adsid=$third-party
+/template/mytheme/statics/js/listing.js
+/v0/amp-addthis-*.js
+/v2/stats/1*/1*$third-party
+/v2/stats/9*$third-party
+/vh2/*$third-party
+/vhyoydie_*_*.js$third-party
+/vj1/*$third-party
+/vj2/*$third-party
+/vj3/*$third-party
+/xtub_*_rony.js$third-party
+/yinghuacd/bottom.js
+18comic.org,18comic.vip,jmcomic1.city,jmcomic1.win,jmcomic1.group##.bot-per-context
+18comic.org,18comic.vip,jmcomic1.city,jmcomic1.win,jmcomic1.group##[data-group^='album_related'],[data-group^='all_bottom']
+18comic.org,18comic.vip,jmcomic1.city,jmcomic1.win,jmcomic1.group##[data-group^='photo_center_']
+18comic.org,18comic.vip,jmcomic1.city,jmcomic1.win,jmcomic1.group#.bot-per-times
+18comic.vip##IMG[src^='//18comic.vip/media/albums/']
+52movieba.com,acglala.me,acglala.net,awaker.cn,bimiacg4.net,bimiacg5.net,ccav1.com,cdsoso.me,cgown.com,cn163.net,comicat.org,cosersuki.org,dzbhdm.net,epinv.com,eroacg.com,galacg.me,gmgard.com,haochi123.com,hexieshe.cn,hexieshe.com,hexieshe.xyz,hggard.com,hmghmg.com,hmoe11.net,idanmu.ee,ifenpaidy.com,jitapu.com,jitashe.org,jiyingw.vip,kelatv.com,kisssub.org,languang.co,llss.bz,mtrend.cn,mydrivers.com,mzh.ren,nxing.cn,oyksoft.com,souxue8.com,speedtest.cn,tingroom.com,whsir.com,xxshe.info,xxshe.xyz##a[href*=".taobao.com"]
+5dm.app##[src*="sinaimg.cn"]
+91porny.com###playerJsvLayer.jsv-layer
+91porny.com##.mobile-jsv-bottom,.mb-3.p-0,.d-sm-none,.mb-0.p-0
+91porny.com##A.display.d-block[href^='http'],A.display.d-block[href^='http'] ~ *
+91porny.com/api/getPos?jspath=/
+:8007/*/*?is_not=
+:8008/*/*?is_not=
+:8891/v*$third-party
+?adspot_
+?local_ga_js=
+Mplay/kk1.js
+_/bigREDcat.css?
+_/bigREDdog.js
+acglala.me##.topm,.donghua_info > DIV[style='width:100%;'],.donghua_info > a
+achaec.cc##[style*='px; bottom: 0px; left: 0px; z-index: ']
+achaec.cc##[style*='px; top: 0px; left: 0px; z-index:']
+ali213.net##.placeholderforpromotion
+apkcombo.com##.diseanmevrtt
+apkcombo.com##[data-d-ad-id]
+autohome.com.cn##ol > li,.evade-operate
+axutongxue.com##ASIDE[style*='height:58px;overflow:hidden;width:322px;border:dashed .5px']
+axutongxue.com##DIV[style*='px;position:relative;box-shadow:rgb(0 0 0/24%)0px 3px 8px;']
+axutongxue.com##DIV[style*='z-index: 9999999;display: flex;justify-content: center;align-items: center;']
+axutongxue.com##DIV[style='text-align:center']
+baidu.com###J-super-layer-promote
+baidu.com###bdrainrwDragButton
+baidu.com###page-copyright.se-page-copyright.se-copyrig
+baidu.com###page-copyright.se-page-copyright.se-copyright-zbios[style='margin-bottom: 50px;']
+baidu.com###qtqy_container
+baidu.com###relative_shop_flow
+baidu.com##.ad-wrapper
+baidu.com##.barea-ad
+baidu.com##.brand-entry
+baidu.com##.c-result.result[srcid='mkt_ad_space']
+baidu.com##.ec-ad
+baidu.com##.ec_ad_results
+baidu.com##.ec_wise_ad
+baidu.com##.rel-exp-feed-ad-item
+baidu.com##.se-recommend-word-list,#se-recommend-word-list-container
+baidu.com##DIV.c-container.ec-container
+baidu.com##DIV[class='qrcode call']
+baidu.com##DIV[data-module='rec:undefined-undefined']
+baidu.com##DIV[data-module='swan-ad-fc-feed'] DIV[sid][posid][prank]
+baidu.com##[class*='index_godCard'][class*='index_noGuaranteeTag'][class*='index_adTextPosition'],[class^='index_brandEntry__'],[data-show*='swan-ad-fc-swiper-banner']
+baidu.com##[class^='ball-wrapper']
+baidu.com##[data-tpl='adv_wenku_fc']
+baidu.com##[data-video-player='true']
+baidu.com##a.ball-wrapper__3BTBO.c-blocka
+baidu.com##div[class$="-ecom-ads"]
+baidu.com#@##header > div:last-child
+baidu.com#@##page-pre
+baidu.com#@#div[class*="ads"]
+baifumeiba.com##DIV#ad
+baike.baidu.com##[class="qtqy-container"],[class="yitiao-content J-yitiao-content"],[class="yitiao-title"]
+baike.baidu.com##[onclick^="page.Mixedor.mixedOpen(this,"]
+baike.so.com##section#business-flow.business-flow
 bilibili.com#@#.bili-dialog-m
 bilibili.com#@#.btn-ctnr
+bimibimi.cc##[src^='https://dd-static.jd.com']
+bing.com###bnp_container
+bing.com##.b_ad
+boylove.today,boylove1.cc,boyloves.fun,boylove3.cc##DIV[style='bottom: 80px;']
+chen-xing/figure_bed*
+chinaso.com##.wrap-toolbar
+cibaipuki.com##.table2
+cibaipuki.com##.topnotice a:not([href='http://7a7c.com'])
+cibaipuki.com##A[href^='/article-list-id'][target='_blank']
+cibaipuki.com##IMG[border='0'][width='100%']
+cibaipuki.com##SECTION[id^='download_']
+cibaipuki.com##[href*=":"]
 cjcx.neea.edu.cn#@#[style="visibility: visible; display: block;"]
+ckizma.com###post-card-64841,#post-card-50163,.post-card-ads,.popup-container
+com/js/lp365.js
+com:8891/c.php?s=*$third-party
+cpu.baidu.com##A[href*='cpro.baidu.com']
+cqjschungao.com##[style*='px no-repeat; position: relative;']
+cqjschungao.com##[style='bottom: 132px;']
+cupfox.app##IMG[class^='jsx-'][width='100%'],.swiper-wrapper img[class^='jsx-'][class*='a']:only-child,.cupfox-content.right,.cupfox-content.left
+ddzzxs.com###inglestore.inglestore
+dingbu.*.*.*/*.add$third-party
+dingbu.*.*.com/dingbu.$third-party
+dm530p.net##DIV[style$='; display: block;']
+dongmanhuayuan.myheartsite.com##.card-body
+fanyi.baidu.com##H1,H3,.intro-nav.clearfix,.intro-copyrigh,A.app-bar,.intro-copyright
+guancha.cn##.g_header44
+guancha.cn##.g_swiper_container
+hanman/static/dist/ppm/js/main.js
+hanyu.baidu.com###fengchao_els.c-container.card.fengchao-els
+hanyu.baidu.com##.fengchao-el
+hao123.com##.popup
+happymh.com##[src="https://c.nationaltcm.com/ad/tm1111dd.png"]
+heiliao346.pro###post-card-1234,#post-card-518,#post-card-1000,#post-card-666,#post-card-1588,#post-card-1555,#post-card-1118,#post-card-618,#post-card-888,#post-card-999
+huya.com###template
+huya.com##A[data-edesc='点击/推荐/左侧导航推荐图']
+ifeng.com##[class^='index_bottom_box']
+ifeng.com##[class^='index_fixSlideBox']
+ifeng.com##[class^='index_pageBottomBrand']
+ifeng.com##[class^='index_wutong']
+ifeng.com##[href^='https://mall.ifeng.com'],IMG[class^='picMark-'][src^='https://x0.ifengimg.com/']
+ifeng.com##div[class^="ad_"]
+ikan6.vip,www.1111modruba.cc##IMG[src$='.gif']
+imgur.com##.Ad.sas.Smart
+ix6080.com##DIV[style$='vw; display: block;']
+javbus.com##.container-fluid:nth-child(9) > .row > .ad-list:nth-child(3)
+jingyan.baidu.com###wrapper > .exp-container:nth-child(2) > aside.wgt-ad-guess.content-box:nth-child(2)
+jingyan.baidu.com##.ad-card
+jingyan.baidu.com##.asp-self-rander > .asp-wrap
+js/yys/Pfhl365.js
+luoqiuzw.com##DIV[id^="a-loading-"]
+m.baidu.com#@##results > div[class]:not(.result):not(.result-op):not(.sp-rslt-bar):not(.s-group-result):not(.hint-unsafe)
+m.douban.com##div.center [style*='padding: 4px;']
+m.guancha.cn##.g_header.go-to-app
+m.hupu.com##A[href^='https://mobile.yangkeduo.com/duo_transfer_channel.html']
+m.hupu.com##IMG[alt='NBA英雄'][width='94%']
+m.hupu.com##[class^="show_ad"]
+m.iqiyi.com##.iqyGuide-content,.cover
+m.jd.com##DIV.modal__mask
+m.jd.com##DIV.modal__wrap
+m.kdslife.com###app.Card.DownloadGuide
+m.qidian.com##A.catalog-download
+m.qidian.com##I.icon-logo
+m.qidian.com##P.text-content
+m.sm.cn##DIV[ad_seid],.dl-banner-lg.card
+manwa.me#@#.ad-area
+manwa1.me,manwa2.me,manwa.me##.ad-area-close
+manwa1.me,manwa2.me,manwa.me##.swiper-container.swiper-container-horizontal
+manwa1.me,manwa2.me,manwa.me##[data-group^='ad_chapter'][data-width='300'][data-height='250']
+manwa1.me,manwa2.me,manwa.me##[style*='15px'][style*='background-color:'][style*='margin: 10px'][style*='margin-top: 14px'][style*='border-radius: 20px'],.fas.fa-times
+manwa1.me,manwa2.me,manwa.me##[style='transform-origin: left top; margin: 0px auto;']
+match.tdping.com##P[style='text-align:left;margin:0;'],td.livetitle > L
+mini.yyrtv.com##.right-gg
+mobi*.*.cam/*_$third-party
+mobi*.*.cyou/*_$third-party
+mobi*.*.top/*_$third-party
+mobi*.*.xyz/*_$third-party
+mobile.baidu.com##SECTION.detail-banner.banner-ck
 mydrivers.com#@#.baidu, a[href^=http][target=_blank]
+myqqjd.com##.adsbygoogl
+nxnba.com##.bootom-fixed
+oss-cn-hangzhou.aliyuncs.com##A.hm_item[href^='https://tcs-devops.aliyuncs.com/thumbnail/']
+pabopa.com##DIV[style='width: 100%;'],DIV[carousel-item],#slide.layui-carousel,.closeable
+pan.baidu.com##A.active-msg
+pan.baidu.com##div.content DIV.photo-banner
+pornhub.com##.adContainer
+pornhub.com##.topAdContainter
+qilishusong.cn##[style*='display: block'],[style*='position: absolute; width: 100%;'],[style*='height:120px;']
+qq.com##.VideoArticleBottomAdContainer,.ssp.nospl[data-boss-once='true'],DIV[data-boss-expo*='ad&s_or'],DIV[id^='App_WAP_share_page_']
+qq.com##A[dt-eid^='em_item_ad']
+qq.com##[id^='App_WAP_share_page']
 ruanyifeng.com#@#a[href*=".apeclass.com"]
+share.acgnx.se##IMG[src*='share.acgnx.se']
+sina.cn###float-btn.callApp_fl_btn
+sina.cn##SECTION.sw_c0.sina_sliders_pos
+sina.cn##[sax-type='proxy'][data-pos][data-saxname][loaded='loaded']
+sina.com.cn##[id^="fake_div_"].xxl-card
+skyroad.downallbook.com##IMG[height='60'][width='98%']
+smartapps.cn##.sw-22__bdad-wrap,.sw-22__ad-expose
+smartapps.cn##swan-nest-banner-ad.ad-expose
+so.toutiao.com##.relative.pointer-events-none
+so.toutiao.com##DIV[id^='ad_']
+so.toutiao.com##section.commonbox.hasfooter
+sogou.com##.ad_result
+sohu.com###bottomBanner[data-spm='b-mb'][data-spm-stop='init']
+sohu.com###middleBanner[data-spm='a-mb'][data-spm-stop='init']
+sohu.com###recommendSearch
+sohu.com##.cbd-plate-bill.common-ad
+sohu.com##.feedback
+sohu.com##.float-discuss-container
+sohu.com##.float-discuss-up.float-discuss-enter
+sohu.com##.middle-insert-ad
+sohu.com##.nice-img-clz
+sohu.com##.top-bill-wrapper[data-spm='a-tb'][data-spm-stop='init']
+sohu.com##A[href='javascript:void(0);']
+sohu.com##DIV[id^="ceans_"]
+sohu.com##[data-spm-content='ad']
+sohu.com##[data-spm^='ad-']
+soshu888.net##[style$='width: 100vw; position: relative;']
+soutubot.moe##.bg-gray-800.overflow-hidden
+static/pull/qwe1021.js
+stbemucode.com##DIV.header-ads
+stbemucode.com##IFRAME[frameborder='0'][marginheight='0']
+template/m1938pc/ads/*.js
+thepaper.cn##[class^='index_footer_banner']
+tieba.baidu.com##.activity_head
+tieba.baidu.com##.tbui_slideshow_slide
+tieba.baidu.com##DIV[id^='aside-ad']
+tieba.baidu.com##DIV[id^='mediago-tb-frs-list']
+tieba.baidu.com##div[class*='-ad-pb-']
+trafficjunky.com$third-party
+trakt.tv##DIV[id$='-wrapper']
+tv.sohu.com##.actv-banner.js-app-topbanner,.banner_yunying,.js-oper-pos,IMG.vrs-banner-act-img
+unpkg.com/aladug/*.js
+v11av.xyz##.content__body [rel='nofollow'][href][target='_blank']
+v11av.xyz##.row.q-ma-none A[rel='noopener nofollow'][href][style='display: block;']
+webtor.io##DIV.ad
+webtor.io##IFRAME[scrolling='no']
+webtor.io##[data-element='empty']
+wk.baidu.com##.fc-ad-wrap
+wk.baidu.com##.middle-box-root
+woozooo.com##.ves
+www.123pan.com##.advBanner
+www.123pan.com##DIV.app-adv-container
+www.123pan.com##IMG[src*='-banner'],.ant-carousel
+www.3ppp.net##DIV.bottom_fixed
+www.67tool.com##.footer-banner
+www.aiwuav.xyz##A.toptxt,IMG[src*='.gif'][alt],SPAN[class^="clobox"],IMG[width='100%'][src*='.gif']
+www.apkmirror.com##.ains.ains-has-label
+www.apkmirror.com##DIV[style$=' display: flex; justify-content: center; font-family: Roboto, Arial;']
+www.dbbqb.com##.MuiPaper-root
+www.ghxi.com##.wpcom_ad_wrap
+www.ghxi.com##DIV[style^='padding:10px;position: fixed;bottom: 0;left: 0;right:0;z-index: ']
+www.haijiao.com##.addbox,.bannerliststyle,.van-swipe-item,.crossbutton
+www.hbhtyl.com##P[style^='width: 100% !important; margin: 0p']
+www.huadongty.com##DIV[id$=' img-containers']
+www.huadongty.com##SECTION
+www.hzw.com.cn##.xfb_close_icon,#xfb_lbox,.xfb_close_btn
+www.itdog.cn##IMG[src^='/upload/images/'][width='270'][height='80'],.gg_link,.top_link_hidden,[src$='.gif']
+www.itdog.cn#%#window.alert=function(str){return}
+www.jianshu.com##[aria-label='lwa-ad-one']
+www.jianshu.com#@#div[class$="_0"]
+www.jjtyss.com##ins[class],.myui-player.clearfix p,.container p
+www.jmhongyan.com##ins[class],.container p
+www.lezhutv.com##[style='bottom: 132px;']
+www.meijuii.cc##DIV[style*='vw; display: block;']
+www.olevod.com##.B1Lss,.B1Rss
+www.wenshushu.cn##A[href^='https://wenshushu.cn/ad/']
+www.xda-developers.com##.adzone-above-latest
+www.xhfz2.com##A[href^='https://www.xhfz2.com/ad.php']
+www.xhfz2.com##DIV#topcont
+www.xhfz2.com##DIV.HomeTuList
+www.xhfz2.com##DIV.pctext
+www.xhfz2.com##span.lileft > A[style^='float:left;color:']
+www.xvideos.com###ad-footer
+www.xvideos.com##.thumb-ad
+www.ydyse.com##.left,.bottom,.right,.ad,.adimage
+www.zhihu.com##.KfeCollection-VipRecommendCard
+www.zhihu.com##.OpenInAppButton
+www.zhihu.com##A.MBannerAd
+www.zhihu.com##A.MHotFeedAd,.MRelateFeedAd,.WeiboAd-wrap,.AdvertImg.AdvertImg--isLoaded.MBannerAd-image,.Banner-adTag,[href='https://maimai.cn/']
+xian360.top##CENTER
+ximalaya.com##.change-logo.S_q,.packet-container._PC,.less-tips._PC *
+xmh/200/200-*.gif
+xyz/kallss?
+xyz/stimulus?
+yemancomic.com##div > center > strong > button[onclick^="window.location.href"]
+yhdm*.com/js/wap2-jm-ms.js?ver=
+youtube.com##AD-SLOT-RENDERER
+zhidao.baidu.com###knowledge-answer-list
+zhidao.baidu.com##.doodle-container,.feed-recommend,.wgt-recommend-business,[class*="-ads"],[class*="related-yxiao-item"],[class*="icon-bdad"],[class*="-youx"]
+zol.com.cn##A.dingtong.xianshiyouhui
 ||*-ad-sign.byteimg.com^
 ||*-ad.a.yximgs.com^
 ||*-applog.fqnovel.com^
@@ -170,6 +995,7 @@ ruanyifeng.com#@#a[href*=".apeclass.com"]
 ||0272aa.com^
 ||0272dd.com^
 ||027dir.com^
+||027pbj.net^
 ||027whht.com^
 ||028yhtz.com^
 ||02953a52b0.com^
@@ -389,6 +1215,7 @@ ruanyifeng.com#@#a[href*=".apeclass.com"]
 ||0x01n2ptpuz3.com^
 ||0xon2uo9s.com^
 ||0xxd.com^
+||0yq00i.cn^
 ||0yzabcd.com^
 ||1-1ads.com^
 ||1-cl0ud.com^
@@ -620,6 +1447,7 @@ ruanyifeng.com#@#a[href*=".apeclass.com"]
 ||11b6n4ty2x3.taxliencode.com^
 ||11f1b925c4.com^
 ||11g1ip22h.de^
+||11jianzhan.com^
 ||11nux.com^
 ||11supjav.xyz^
 ||11tiki.com^
@@ -785,6 +1613,7 @@ ruanyifeng.com#@#a[href*=".apeclass.com"]
 ||155zn.com^
 ||156.232.37.2^
 ||156.246.162.2^
+||156zw.com/css/js/tools.js
 ||157776.com^
 ||1582020.com^
 ||1583030.com^
@@ -801,6 +1630,7 @@ ruanyifeng.com#@#a[href*=".apeclass.com"]
 ||1624a08136.com^
 ||163.197.136.33^
 ||163.197.167.236^
+||163.com/wap/special/article_cooper_piapia/
 ||163487*.qmgmw.com^
 ||1638511.com^
 ||164.155.185.254^
@@ -882,6 +1712,7 @@ ruanyifeng.com#@#a[href*=".apeclass.com"]
 ||189zx.com^
 ||18ap945.cn^
 ||18comic2.biz^
+||18dui.com^
 ||18hdxxx.com^
 ||18mad.com^
 ||18naked.com^
@@ -955,6 +1786,7 @@ ruanyifeng.com#@#a[href*=".apeclass.com"]
 ||1bestgoods.com^
 ||1bet.com^
 ||1betandgonow.com^
+||1biqug.com/js/ajax.js
 ||1bm3n8sld.de^
 ||1bpmtrvkqkj.pettoonies.com^
 ||1buu1.penyouw.com^
@@ -1250,6 +2082,7 @@ ruanyifeng.com#@#a[href*=".apeclass.com"]
 ||206solutions.com^
 ||207-87-18-203.wsmg.digex.net^
 ||207.net^
+||208622.top^
 ||2088763.com^
 ||20bd.pandasuite.io^
 ||20dollars2surf.com^
@@ -1404,6 +2237,7 @@ ruanyifeng.com#@#a[href*=".apeclass.com"]
 ||24-tabs.ru^
 ||24-xxx.biz^
 ||2406dfaaa8.com^
+||2431.vainews.cn^
 ||2468.go2cloud.org^
 ||24695.com^
 ||247-banking.com^
@@ -1444,6 +2278,7 @@ ruanyifeng.com#@#a[href*=".apeclass.com"]
 ||24hoursuptodatecdn.net^
 ||24hstatic.com^
 ||24klm.cn^
+||24klm.net^
 ||24log.com^
 ||24log.de^
 ||24log.es^
@@ -1507,6 +2342,7 @@ ruanyifeng.com#@#a[href*=".apeclass.com"]
 ||272xb.com^
 ||273knt.xyz^
 ||2777d013fc.com^
+||277txt.com/da/*.js
 ||2799f73c61.com^
 ||27admin.com^
 ||27fys.xyz^
@@ -2212,6 +3048,7 @@ ruanyifeng.com#@#a[href*=".apeclass.com"]
 ||36pn.com^
 ||36uh.com^
 ||36yoo.net^
+||37.1.213.100^
 ||37.44x.io^
 ||370alaska.treker.fun^
 ||370california.treker.fun^
@@ -2451,6 +3288,7 @@ ruanyifeng.com#@#a[href*=".apeclass.com"]
 ||3xx.vip^
 ||3yej.xyz^
 ||3z3sfuj.cn^
+||3zmmm.net/ggxx/
 ||4-counter.com^
 ||4-interads.com^
 ||4006825178.com^
@@ -2513,6 +3351,7 @@ ruanyifeng.com#@#a[href*=".apeclass.com"]
 ||44jq.cn^
 ||44jui.top^
 ||44q.com^
+||44r9fl.xyz^
 ||44tdfa.com^
 ||45.126.123.80^
 ||45190ec38a.com^
@@ -2589,6 +3428,7 @@ ruanyifeng.com#@#a[href*=".apeclass.com"]
 ||4dsbanner.net^
 ||4dsply.com^
 ||4dtrk.com^
+||4dyt.cn^
 ||4e26d342b8.com^
 ||4e645c7cf2.com^
 ||4ec2e6f324.com^
@@ -2682,6 +3522,7 @@ ruanyifeng.com#@#a[href*=".apeclass.com"]
 ||4xporn.com^
 ||5-internads-7.com^
 ||5-n-appmobile.com^
+||5.61.55.143^
 ||5.ccutu.com^
 ||5.gzfenda.com^
 ||5.sc126.com^
@@ -2775,6 +3616,7 @@ ruanyifeng.com#@#a[href*=".apeclass.com"]
 ||51vipedu.com^
 ||51vs.club^
 ||51wxyx.cn^
+||51xuex.com.cn^
 ||51xumei.com^
 ||51y5.net^
 ||51yes.com^
@@ -2865,6 +3707,7 @@ ruanyifeng.com#@#a[href*=".apeclass.com"]
 ||5551825.com^
 ||5551895.com^
 ||5551933.com^
+||55555555555.xyz^
 ||555lotte.com^
 ||555shopify.com^
 ||55706cc809.com^
@@ -2920,6 +3763,8 @@ ruanyifeng.com#@#a[href*=".apeclass.com"]
 ||58ar.com^
 ||58dukkan.com^
 ||58isg.cn^
+||58jingxuan.top/115
+||58jingxuan.top/dhbioperhbvoprwm
 ||58lm.vip^
 ||58mingri.cn^
 ||58scx.com^
@@ -2982,8 +3827,11 @@ ruanyifeng.com#@#a[href*=".apeclass.com"]
 ||5d8dd0486a.com^
 ||5dec6805a0.com^
 ||5df20e46f3.com^
+||5dm.tv/html/5dmm.jpg
 ||5dm6ghn.cn^
 ||5dydk.com^
+||5dyx.com/static/jquery.js
+||5dyx.com/static/js/deny.js
 ||5e00.pandasuite.io^
 ||5e164e9f70.com^
 ||5e1fcb75b6d662d.com^
@@ -3031,6 +3879,8 @@ ruanyifeng.com#@#a[href*=".apeclass.com"]
 ||5moxhf6z8c.ru^
 ||5namlienquan-giftcode.com^
 ||5nfc.net^
+||5nj.com/js/cnzz22.js
+||5nj.com/js/cnzz33.js
 ||5nt1gx7o57.com^
 ||5o0ob.top^
 ||5o8aj5nt.de^
@@ -3105,6 +3955,7 @@ ruanyifeng.com#@#a[href*=".apeclass.com"]
 ||623762.com^
 ||6257028645.com^
 ||627sf.cn^
+||627txt.com/da/*js
 ||62a401411b.com^
 ||62b70ac32d4614b.com^
 ||62f1175918.com^
@@ -3200,6 +4051,7 @@ ruanyifeng.com#@#a[href*=".apeclass.com"]
 ||66vang.com^
 ||66wen.com^
 ||670360.com^
+||670t5x.cn^
 ||6711.com^
 ||671c.pandasuite.io^
 ||671djn.cyou^
@@ -3571,6 +4423,7 @@ ruanyifeng.com#@#a[href*=".apeclass.com"]
 ||7jkzmbd.cn^
 ||7jrahgc.de^
 ||7jzic2hylf.ru^
+||7kjiiu.cn^
 ||7krvbn.com^
 ||7kzod8.cn^
 ||7lbd4.armandthiery.fr^
@@ -3862,6 +4715,8 @@ ruanyifeng.com#@#a[href*=".apeclass.com"]
 ||8feichai.com^
 ||8ff41d1efd.com^
 ||8fvchzuz.myutilitydomain.com^
+||8g0j.cn^
+||8gp4wjq3.com^
 ||8gs4unh05aq6.com^
 ||8gustis.xyz^
 ||8hacks.org^
@@ -3918,6 +4773,7 @@ ruanyifeng.com#@#a[href*=".apeclass.com"]
 ||90935ff0ea.com^
 ||90a47357a5.com^
 ||90f2a627a3.com^
+||90mh.com/mip/qdbao77.js
 ||91.51rmc.com^
 ||910weixin.com^
 ||911.cc^
@@ -3951,6 +4807,8 @@ ruanyifeng.com#@#a[href*=".apeclass.com"]
 ||91jiedai.cn^
 ||91mh.co^
 ||91mh.me^
+||91mjw.com/hy-66-90.php
+||91p20.space^
 ||91taojin.com^
 ||91xzba.com^
 ||91ysa.com^
@@ -4052,6 +4910,7 @@ ruanyifeng.com#@#a[href*=".apeclass.com"]
 ||97da4337b5.com^
 ||97e4ef7bf5.com^
 ||97fn1ej0.myutilitydomain.com^
+||97kpz.com/js/bbk/g.js
 ||97shang.wang^
 ||97wanle.com^
 ||9800.com^
@@ -4082,6 +4941,7 @@ ruanyifeng.com#@#a[href*=".apeclass.com"]
 ||999.com^
 ||999.money^
 ||9996777888.com^
+||99999999.club^
 ||999aa666bb.com^
 ||999dlce.com^
 ||999gg.net^
@@ -4200,6 +5060,7 @@ ruanyifeng.com#@#a[href*=".apeclass.com"]
 ||9miwo.com^
 ||9nl.eu^
 ||9nwg9sib9e.com^
+||9odes.ltd^
 ||9purdfe9xg.com^
 ||9qusw7f.cn^
 ||9r7i9bo06157.top^
@@ -4232,6 +5093,7 @@ ruanyifeng.com#@#a[href*=".apeclass.com"]
 ||9xwk68.cn^
 ||9y88.com^
 ||9yad.com^
+||Media.net^
 ||a*.chajiaotong.com^
 ||a-5.info^
 ||a-94interdads.com^
@@ -4321,6 +5183,7 @@ ruanyifeng.com#@#a[href*=".apeclass.com"]
 ||a.booksir.cn^
 ||a.boyjackpot.com^
 ||a.brack.ch^
+||a.breaktime.com.tw^
 ||a.bxwblog.cn^
 ||a.careangel.com^
 ||a.cctv.com^
@@ -8077,6 +8940,7 @@ ruanyifeng.com#@#a[href*=".apeclass.com"]
 ||abracon.actonservice.com^
 ||abrahackbugs.xyz^
 ||abrahamschildren.com^
+||abram.xin^
 ||abrasivematch.com^
 ||abrhydona.com^
 ||abridgeoverwhelmfireball.com^
@@ -8154,6 +9018,7 @@ ruanyifeng.com#@#a[href*=".apeclass.com"]
 ||abtest.alibaba.com^
 ||abtest.mistat.xiaomi.com^
 ||abtest.swrve.com^
+||abtt.pufenchuanmu.com^
 ||abtyroguean.com^
 ||abtyroguer.com^
 ||abuaac.suzette-shop.jp^
@@ -9083,6 +9948,7 @@ ruanyifeng.com#@#a[href*=".apeclass.com"]
 ||ad.hepsiburada.com^
 ||ad.hiiir.com^
 ||ad.hodomobile.com^
+||ad.holmesmind.com^
 ||ad.horvitznewspapers.net^
 ||ad.hot-mob.com^
 ||ad.houkei-shinjuku.com^
@@ -9297,6 +10163,7 @@ ruanyifeng.com#@#a[href*=".apeclass.com"]
 ||ad.sina.com.cn^
 ||ad.sinovision.net^
 ||ad.site-landing.com^
+||ad.sitemaji.com^
 ||ad.slashgear.com^
 ||ad.smaad.jp^
 ||ad.snappea.com^
@@ -9352,6 +10219,7 @@ ruanyifeng.com#@#a[href*=".apeclass.com"]
 ||ad.vo-media.ru^
 ||ad.vrvm.com^
 ||ad.walkgame.com^
+||ad.wamxb.info^
 ||ad.wang502.com^
 ||ad.wavu.hu^
 ||ad.wawacity.xyz^
@@ -9757,6 +10625,7 @@ ruanyifeng.com#@#a[href*=".apeclass.com"]
 ||adc.streamspread.com^
 ||adc.tripple.at^
 ||adc.xxxlshop.de^
+||adc3-launch.adcolony.com^
 ||adcaffe.com^
 ||adcains.com^
 ||adcalm.com^
@@ -9778,6 +10647,7 @@ ruanyifeng.com#@#a[href*=".apeclass.com"]
 ||adcd7.com^
 ||adcde.com^
 ||adcdn.goo.ne.jp^
+||adcdn.holmesmind.com^
 ||adcdn.hpplay.cn^
 ||adcdn.tencentmusic.com^
 ||adcdnx.com^
@@ -9929,6 +10799,7 @@ ruanyifeng.com#@#a[href*=".apeclass.com"]
 ||addstock.co.uk^
 ||addtactical.com^
 ||addthief.com^
+||addthis.com/live/
 ||addthis.com^
 ||addthis.fr^
 ||addthiscdn.com^
@@ -11181,6 +12052,7 @@ ruanyifeng.com#@#a[href*=".apeclass.com"]
 ||ads.apn.co.nz^
 ||ads.appsgeyser.com^
 ||ads.araba.com^
+||ads.aralego.com^
 ||ads.aroundtherings.com^
 ||ads.as4x.tmcs.net^
 ||ads.as4x.tmcs.ticketmaster.com^
@@ -11980,6 +12852,7 @@ ruanyifeng.com#@#a[href*=".apeclass.com"]
 ||ads.xxxad.net^
 ||ads.yahoo.com^
 ||ads.yam.com^
+||ads.yap.yahoo.com^
 ||ads.yimg.com.edgesuite.net^
 ||ads.yimg.com^
 ||ads.yourfreedvds.com^
@@ -12082,6 +12955,7 @@ ruanyifeng.com#@#a[href*=".apeclass.com"]
 ||ads3.haber3.com^
 ||ads3.realcities.com^
 ||ads3.virtual-nights.com^
+||ads30.adcolony.com^
 ||ads360.cn^
 ||ads360.com^
 ||ads4.advance.net^
@@ -13375,6 +14249,7 @@ ruanyifeng.com#@#a[href*=".apeclass.com"]
 ||adx-tk.rayjump.com^
 ||adx.36kr.com^
 ||adx.aarki.net^
+||adx.ads.oppomobile.com^
 ||adx.adtaipo.com^
 ||adx.adxglobal.com^
 ||adx.apiok.net^
@@ -13519,6 +14394,7 @@ ruanyifeng.com#@#a[href*=".apeclass.com"]
 ||aeeonmart.com^
 ||aefeeqdlnh.com^
 ||aeffe3nhrua5hua.com^
+||aefmbeq.cn^
 ||aegis.qq.com^
 ||aegis.trovo.live^
 ||aegiumks.com^
@@ -13582,9 +14458,11 @@ ruanyifeng.com#@#a[href*=".apeclass.com"]
 ||af.eficads.com^
 ||af.gmobile.biz^
 ||af.shozankan-shop.com^
+||af31f.site^
 ||af60f3d6b4.com^
 ||af91c27a8e.com^
 ||afa28048bf78ad9.com^
+||afablca.cn^
 ||afafevk.com^
 ||afahivar.com^
 ||afahivar.coom^
@@ -14150,6 +15028,7 @@ ruanyifeng.com#@#a[href*=".apeclass.com"]
 ||afj0.com^
 ||afjaopdq.page.link^
 ||afjlb.com^
+||afk3rs.xyz^
 ||afkwa.com^
 ||afl-static-cdn.newbiz-prod.stroeerws.de^
 ||aflsj.com^
@@ -14205,6 +15084,7 @@ ruanyifeng.com#@#a[href*=".apeclass.com"]
 ||afrjhanwosa.com^
 ||afront.io^
 ||afrosai.org^
+||afs.googlesyndication.com^
 ||afsanalytics.com^
 ||afshanthough.pro^
 ||afsharemlak.com^
@@ -14517,6 +15397,9 @@ ruanyifeng.com#@#a[href*=".apeclass.com"]
 ||ahoravideo-schnellvpn.xyz^
 ||ahov1.top^
 ||ahoxirsy.com^
+||ahp18.site^
+||ahp19.site^
+||ahp24.site^
 ||ahpbxmuw.page.link^
 ||ahpengjie.com^
 ||ahporntube.com^
@@ -14682,6 +15565,9 @@ ruanyifeng.com#@#a[href*=".apeclass.com"]
 ||aiptu.cn^
 ||aiqdviuyvlcplis.xyz^
 ||aiqidwcfrm.com^
+||aiqu222.com/da/
+||aiqu28.com/da/
+||aiqu288.com/da/
 ||air-vox.com^
 ||air-weigh.actonservice.com^
 ||air2s.com^
@@ -14860,6 +15746,7 @@ ruanyifeng.com#@#a[href*=".apeclass.com"]
 ||ajx130.online^
 ||ajxx98.online^
 ||ajyrsxdvbyc.xyz^
+||ajzsa.xyz^
 ||ak-ads-ns.prisasd.com^
 ||ak-br-cdn.kwai.net.iberostar.com^
 ||ak-d.tripcdn.com^
@@ -15277,6 +16164,7 @@ ruanyifeng.com#@#a[href*=".apeclass.com"]
 ||aliyaoberbrunnergreg21.myshopify.com^
 ||aliyoo999.com^
 ||aliys.net^
+||aliyun.cdn.chengzilte.top^
 ||aliyun6969.cn^
 ||aliyunapi.org^
 ||aliyuncss.com^
@@ -15530,6 +16418,7 @@ ruanyifeng.com#@#a[href*=".apeclass.com"]
 ||aloftlarge.com^
 ||aloftrecedestatistics.com^
 ||alog.umeng.com^
+||alog.umengcloud.com^
 ||alogs.umeng.com^
 ||alogsus.umeng.com^
 ||alogus.umeng.com^
@@ -15831,6 +16720,7 @@ ruanyifeng.com#@#a[href*=".apeclass.com"]
 ||amd.sellingsimplified.net^
 ||amdahlasinego.com^
 ||amdc.alipay.com^
+||amdc.m.taobao.com^
 ||amdcopen.m.taobao.com^
 ||ame.co.id^
 ||amebanbiglot.uno^
@@ -16084,6 +16974,7 @@ ruanyifeng.com#@#a[href*=".apeclass.com"]
 ||analyse.bcovery.com^
 ||analyse.hinemos.info^
 ||analyse.lnearn.com^
+||analyse.weather.com.cn^
 ||analysecrappy.com^
 ||analyselog.dx.com^
 ||analysis.120ask.com^
@@ -17089,6 +17980,7 @@ ruanyifeng.com#@#a[href*=".apeclass.com"]
 ||anbstudios.com^
 ||anceenablesas.info^
 ||anceovarec.cfd^
+||ancheonyo.fun^
 ||anchoicstage.com^
 ||anchusauredo.com^
 ||ancientact.com^
@@ -17284,6 +18176,7 @@ ruanyifeng.com#@#a[href*=".apeclass.com"]
 ||ankunding.biz^
 ||anldnews.pro^
 ||anlhcenruea.com^
+||anluyg.net/static/js/channel*.js
 ||anlytics.co^
 ||anmdr.link^
 ||anmeilai.net^
@@ -17296,6 +18189,7 @@ ruanyifeng.com#@#a[href*=".apeclass.com"]
 ||anncmq.com^
 ||anncquyaxns.com^
 ||annedouglas.com^
+||annelinterv.fun^
 ||annesuspense.com^
 ||annexere.top^
 ||anni141224.club^
@@ -17631,9 +18525,11 @@ ruanyifeng.com#@#a[href*=".apeclass.com"]
 ||aowykupwwnqrg.xyz^
 ||aoxtyivjpt.com^
 ||aoyinn.com^
+||aoyou1.top^
 ||aoyou2.top^
 ||aoyou3.top^
 ||aoyou4.top^
+||aoyou5.top^
 ||aoyuegc.cn^
 ||aozmpm.jwell.com^
 ||ap*.jj20.com^
@@ -17712,6 +18608,7 @@ ruanyifeng.com#@#a[href*=".apeclass.com"]
 ||apextwo.com^
 ||apexviewershop.com^
 ||apexwantstar.com^
+||apfobmfr.cn^
 ||apfsujontqu.com^
 ||apfxpuatkla.com^
 ||apglinks.net^
@@ -17901,6 +18798,7 @@ ruanyifeng.com#@#a[href*=".apeclass.com"]
 ||api.pushspring.com^
 ||api.qcmm07.com^
 ||api.quantumgraph.com^
+||api.qvpublish.com^
 ||api.ringtonematcher.com^
 ||api.rotatornet.com^
 ||api.ryanyao.design^
@@ -17924,11 +18822,15 @@ ruanyifeng.com#@#a[href*=".apeclass.com"]
 ||api.ts.feedback.qy.net^
 ||api.tumra.com^
 ||api.tv.sohu.com^
+||api.tw06.xlmc.sec.miui.com^
 ||api.uca.cloud.unity3d.com^
 ||api.ucheba.ru^
 ||api.usebutton.com^
 ||api.widget.zalo.me^
 ||api.wipmania.com^
+||api.xn--zw0autp42d.cn^
+||api.xyhx.cc^
+||api.xyhx.org^
 ||api.yidaomobi.com^
 ||api.youngle.tech^
 ||api.youtu.qq.com^
@@ -19612,6 +20514,8 @@ ruanyifeng.com#@#a[href*=".apeclass.com"]
 ||arvigorothan.com^
 ||arvtejiq.page.link^
 ||arwartortleer.com^
+||arwh3scr.world^
+||arwh4scr.xyz^
 ||arwhismura.com^
 ||arxeologiya.az^
 ||arxfwqmn.page.link^
@@ -19674,7 +20578,9 @@ ruanyifeng.com#@#a[href*=".apeclass.com"]
 ||as3.io^
 ||as5000.com^
 ||as62wl63346.rest^
+||as89de.top^
 ||asa2.cn^
+||asacdn.com/prod/redirect.html
 ||asacdn.com^
 ||asadcdn.com^
 ||asafesite.com^
@@ -20153,6 +21059,7 @@ ruanyifeng.com#@#a[href*=".apeclass.com"]
 ||aswtai.xyz^
 ||asxjhqaey.com^
 ||asxqjkgt.page.link^
+||asycxtz.cn^
 ||asyetaprovinc.org^
 ||asyledieses.com^
 ||asylumclogunaccustomed.com^
@@ -20490,6 +21397,7 @@ ruanyifeng.com#@#a[href*=".apeclass.com"]
 ||auckledfathere.xyz^
 ||aucred.com^
 ||auction-release.mlpapi.com^
+||auction.unityads.unity3d.com^
 ||auctionads.com^
 ||auctionads.net^
 ||auctionnudge.com^
@@ -21244,6 +22152,7 @@ ruanyifeng.com#@#a[href*=".apeclass.com"]
 ||axungeguying.com^
 ||axungetosher.top^
 ||axuns.com^
+||axutongxue.com/js/uuiiio.js
 ||axuyrdlw.page.link^
 ||axvasdex.page.link^
 ||axvsag103sdvsbd.oss-accelerate.aliyuncs.com^
@@ -21283,6 +22192,7 @@ ruanyifeng.com#@#a[href*=".apeclass.com"]
 ||ayerbo.xhost.ro^
 ||aygccr.eonet.jp^
 ||ayhjukc.cn^
+||ayidaye.m.zwdu.com^
 ||ayifatvi.page.link^
 ||ayk.cx^
 ||aykibra.cn^
@@ -21531,6 +22441,7 @@ ruanyifeng.com#@#a[href*=".apeclass.com"]
 ||b0lc.cn^
 ||b0oie4xjeb4ite.com^
 ||b0omr3wn6u4b.com^
+||b0rbgroup.xyz^
 ||b0ufmrzl.icu^
 ||b1.027art.com^
 ||b1.51scw.net^
@@ -21862,6 +22773,9 @@ ruanyifeng.com#@#a[href*=".apeclass.com"]
 ||baidu-image-qqcom.com^
 ||baidu-jxf.co^
 ||baidu-taobao-av.com^
+||baidu.com/api/wapui/getrelatedbusiness
+||baidu.com/newspage/api/getmobads?
+||baidu.com/rec?*=ad&
 ||baidu1.cardbaobao.com^
 ||baidu1.codejie.net^
 ||baidu2img.com^
@@ -21905,12 +22819,14 @@ ruanyifeng.com#@#a[href*=".apeclass.com"]
 ||baijiangyurong.top^
 ||baikalize.com^
 ||baike.biz^
+||baikebcs.bdimg.com/*banner*.jpg
 ||bailedgatheringmirth.com^
 ||bailedperiodic.com^
 ||bailifftoddle.com^
 ||bailinghealth.cn^
 ||bailoaso.xyz^
 ||bailonushe.com^
+||baimakanshu.com/assets/public/
 ||baimb.com^
 ||baimbw.cn^
 ||bainederrain.xyz^
@@ -21942,6 +22858,7 @@ ruanyifeng.com#@#a[href*=".apeclass.com"]
 ||baixkw.cn^
 ||baiyaqin.xyz^
 ||baiyi.site^
+||baiyishaonian.cn^
 ||baiyongbei.xyz^
 ||baiyuandian.cc^
 ||baizb.com^
@@ -22249,6 +23166,7 @@ ruanyifeng.com#@#a[href*=".apeclass.com"]
 ||bannerpress.it^
 ||bannerpromotion.it^
 ||bannerrage.com^
+||banners-cdn77.trafficfactory.biz^
 ||banners-gallery.coccoc.com^
 ||banners-slb.mobile.yandex.net^
 ||banners.adfox.net^
@@ -22750,6 +23668,7 @@ ruanyifeng.com#@#a[href*=".apeclass.com"]
 ||bcash4you.com^
 ||bcb.game^
 ||bcb9.cn^
+||bcbo.cc^
 ||bcc-ltd.actonservice.com^
 ||bccda4ab57.com^
 ||bcceb2c771.com^
@@ -22771,6 +23690,7 @@ ruanyifeng.com#@#a[href*=".apeclass.com"]
 ||bcgbbzxackpk.com^
 ||bcggo.ru^
 ||bcghs.edu.bd^
+||bcglkfu.cn^
 ||bch8.destinia.co^
 ||bchabc-bchsv-hardfork.info^
 ||bchackomania.org^
@@ -22778,6 +23698,7 @@ ruanyifeng.com#@#a[href*=".apeclass.com"]
 ||bchina-1.xsfaya.com^
 ||bchkhtyns.com^
 ||bchuvp.xyz^
+||bcidnfers.live^
 ||bcigeg.pishposhbaby.com^
 ||bcjxwlkj.com^
 ||bckqdynigv.com^
@@ -23068,6 +23989,7 @@ ruanyifeng.com#@#a[href*=".apeclass.com"]
 ||beanstalkdata.com^
 ||beanworks.actonservice.com^
 ||beap-bc.yahoo.com^
+||beap.gemini.yahoo.com^
 ||beap1.cb.g01.yahoodns.net^
 ||bear.big.dk^
 ||bear.datingrelationshipsadvice.com^
@@ -23144,6 +24066,7 @@ ruanyifeng.com#@#a[href*=".apeclass.com"]
 ||beclosecods.com^
 ||beclsbx.icu^
 ||becode.xiao84.com^
+||become.songche.net^
 ||becomeapartner.io^
 ||becomeiguana.com^
 ||becomesnerveshobble.com^
@@ -23928,6 +24851,7 @@ ruanyifeng.com#@#a[href*=".apeclass.com"]
 ||bh-test.groc.press^
 ||bh.groc.press^
 ||bh.twifoilperoxyl.com^
+||bh0874.online^
 ||bh3.net^
 ||bhaabom.cn^
 ||bhabhiporn.pro^
@@ -23966,6 +24890,7 @@ ruanyifeng.com#@#a[href*=".apeclass.com"]
 ||bhofavwigram.com^
 ||bhosadwa.com^
 ||bhovnhvpq.com^
+||bhpprfk.cn^
 ||bhqfnuq.com^
 ||bhs4.com^
 ||bhtcjurm.com^
@@ -24085,6 +25010,7 @@ ruanyifeng.com#@#a[href*=".apeclass.com"]
 ||bieliddittied.com^
 ||biemedia.com^
 ||bienvenido.americanindustriesgroup.com^
+||bieqpf.cn^
 ||bierlanz-test.till-koppers.de^
 ||bierlanz.till-koppers.de^
 ||biettainhimua2.wixsite.com^
@@ -24230,11 +25156,12 @@ ruanyifeng.com#@#a[href*=".apeclass.com"]
 ||bima.weathercn.com^
 ||bimbim.com^
 ||bimg.abv.bg^
+||bimiacg*.net/template/JOELEO/asset/js/jquery.leeleo.js
+||bimiacg4.net/template/JOELEO/asset/js/jquery.common.js
 ||bimil.ru^
 ||biminibliss.rwbimini.com^
 ||bimlocal.com^
 ||bimmodeling.net^
-||bimmqcflkdix.com^
 ||bimsld.com^
 ||bin-layer.de^
 ||bin-layer.ru^
@@ -24334,6 +25261,7 @@ ruanyifeng.com#@#a[href*=".apeclass.com"]
 ||birdshome.top^
 ||birgga.top^
 ||birglucy.xyz^
+||birjkhm.cn^
 ||birkelseeds.com^
 ||birkenstock-ca.com^
 ||birlerskababs.com^
@@ -24633,6 +25561,7 @@ ruanyifeng.com#@#a[href*=".apeclass.com"]
 ||bkzwzyznzqabk.top^
 ||bkzwzyznzqjzl.top^
 ||bl-test.curatedplanet.com^
+||bl.emotionalworld.cn^
 ||bl.noonishkahala.com^
 ||bl.wavecdn.de^
 ||bl0uxepb4o.com^
@@ -25597,6 +26526,8 @@ ruanyifeng.com#@#a[href*=".apeclass.com"]
 ||bosco.co.in^
 ||boshao666.com^
 ||boshaulr.net^
+||boshishuwu.com/js/middlestyle.js
+||boshishuwu.com/js/zhuanhua.js
 ||bosiwangzi.cn^
 ||bosmafamily.nl^
 ||bosodeterna.com^
@@ -25629,6 +26560,7 @@ ruanyifeng.com#@#a[href*=".apeclass.com"]
 ||botnetdownload.com^
 ||botnrr.xyz^
 ||botongfuff.uno^
+||botonmetaverse.com^
 ||botsagario.net^
 ||botsaunirt.com^
 ||botscanner.com^
@@ -25722,6 +26654,7 @@ ruanyifeng.com#@#a[href*=".apeclass.com"]
 ||boxix.online^
 ||boxlikepavers.com^
 ||boxlivegarden.com^
+||boxmp4.com/js/foot.js
 ||boxofficehelping.com^
 ||boxofficeliterally.com^
 ||boxofwhisper.com^
@@ -25833,6 +26766,7 @@ ruanyifeng.com#@#a[href*=".apeclass.com"]
 ||br.ac2.cheaptickets.com^
 ||br.adpinfo.com^
 ||br.backmarket.fr^
+||br.bendan.shop^
 ||br.bio-rad.com^
 ||br.coe777.com^
 ||br.email.lifesum.com^
@@ -26324,6 +27258,7 @@ ruanyifeng.com#@#a[href*=".apeclass.com"]
 ||browser.events.data.msn.com^
 ||browser.pipe.aria.microsoft.com^
 ||browser.sentry-cdn.com^
+||browser.sentry-cdn.com^$third-party
 ||browser1.ru^
 ||browserdownloadz.com^
 ||browsergames2018.com^
@@ -26464,6 +27399,7 @@ ruanyifeng.com#@#a[href*=".apeclass.com"]
 ||bsvideo10.ru^
 ||bsvkfwth.xyz^
 ||bswakciowtsmnm.com^
+||bswsmlp.cn^
 ||bsxmuny.wp.pl^
 ||bsxqnbhahvjrrry.com^
 ||bsyftapbp.com^
@@ -26695,6 +27631,7 @@ ruanyifeng.com#@#a[href*=".apeclass.com"]
 ||buleor.com^
 ||bulgae.com^
 ||bulgecsi.com^
+||bulisite.top^
 ||bulkbookstore.actonservice.com^
 ||bulkd.co^
 ||bulkeach.com^
@@ -26999,6 +27936,7 @@ ruanyifeng.com#@#a[href*=".apeclass.com"]
 ||buywords.de^
 ||buyyeezy2023.com^
 ||buzffovvq.com^
+||buzien.top^
 ||buzz.logility.com^
 ||buzz.neilsonmarketing.com^
 ||buzz.vocus.com^
@@ -28408,6 +29346,7 @@ ruanyifeng.com#@#a[href*=".apeclass.com"]
 ||casumoaffiliates.com^
 ||cat.acesandaros.org^
 ||cat.beunitedinchrist.com^
+||cat.da.us.criteo.com^
 ||cat.gfx.io^
 ||cat.laravel-news.com^
 ||cat.mattr.global^
@@ -28597,6 +29536,7 @@ ruanyifeng.com#@#a[href*=".apeclass.com"]
 ||cbt.faqserv.com^
 ||cbt.whatcounts.net^
 ||cbttnmo.xyz^
+||cbu01.alicdn.com/img/ibank/2020/714/563/22725365417_967741881.jpg
 ||cbudbs.tirendo.de^
 ||cbuvhv.desertcart.ae^
 ||cbvjddh.23txt.com^
@@ -28648,6 +29588,7 @@ ruanyifeng.com#@#a[href*=".apeclass.com"]
 ||ccaahdancza.com^
 ||ccaas.avaya.com^
 ||ccalgf.com^
+||ccav.website^
 ||ccb.myzen.co.uk^
 ||ccbaehjabejaegdeebe.ru^
 ||ccbccb.cn^
@@ -28794,6 +29735,7 @@ ruanyifeng.com#@#a[href*=".apeclass.com"]
 ||cdn-tcp.online^
 ||cdn.234doo.com^
 ||cdn.7nsc.cn^
+||cdn.9823df.com^
 ||cdn.ad.citynews.it^
 ||cdn.adfenix.com^
 ||cdn.adm.myhayo.com^
@@ -28844,6 +29786,7 @@ ruanyifeng.com#@#a[href*=".apeclass.com"]
 ||cdn.convertbox.com^
 ||cdn.counter.dev^
 ||cdn.cpex.cz^
+||cdn.creative-bars1.com^
 ||cdn.crsope.com^
 ||cdn.dashenya.com^
 ||cdn.ddmanager.ru^
@@ -28871,10 +29814,12 @@ ruanyifeng.com#@#a[href*=".apeclass.com"]
 ||cdn.haocaa.com^
 ||cdn.hauleddes.com^
 ||cdn.hiperadverts.com^
+||cdn.holmesmind.com^
 ||cdn.house^
 ||cdn.hunteryvely.com^
 ||cdn.imvkan.com^
 ||cdn.iople.com^
+||cdn.itphanpytor.club^
 ||cdn.jampp.com^
 ||cdn.jiuzhilan.com^
 ||cdn.jquery-cdn.cc^
@@ -28948,6 +29893,7 @@ ruanyifeng.com#@#a[href*=".apeclass.com"]
 ||cdn.usabilitytracker.com^
 ||cdn.usefathom.com^
 ||cdn.userleap.com^
+||cdn.vue-js.cyou^
 ||cdn.wadawada-stop-report-us.com^
 ||cdn.weiye.net^
 ||cdn.wenzhangba.cn^
@@ -28961,6 +29907,7 @@ ruanyifeng.com#@#a[href*=".apeclass.com"]
 ||cdn.yenidwa.com^
 ||cdn.yieldwrapper.com^
 ||cdn.yottos.com^
+||cdn.yunliunet.com^
 ||cdn.zx-adnet.com^
 ||cdn.zxclan.com^
 ||cdn0.mobmore.com^
@@ -28997,6 +29944,7 @@ ruanyifeng.com#@#a[href*=".apeclass.com"]
 ||cdn3.hentaihand.com^
 ||cdn3.hentaihaven.fun^
 ||cdn3.hentok.com^
+||cdn3.mancdn88.com^
 ||cdn3.r34comix.com^
 ||cdn38871181.ahacdn.me^
 ||cdn3reference.com^
@@ -29257,6 +30205,7 @@ ruanyifeng.com#@#a[href*=".apeclass.com"]
 ||cegclcbe.page.link^
 ||ceggfe.msc-kreuzfahrten.de^
 ||cegrithy.net^
+||ceh.cehbh.com^
 ||cehangola.com^
 ||cehbf.com^
 ||cehbg.com^
@@ -29538,6 +30487,7 @@ ruanyifeng.com#@#a[href*=".apeclass.com"]
 ||cgbaybqywso.com^
 ||cgbmjsasm.xyz^
 ||cgbswl.icu^
+||cgdyw.net/xx/
 ||cgeckmydirect.biz^
 ||cggf.xyz^
 ||cggq.scheme.corycabana.net^
@@ -29547,6 +30497,7 @@ ruanyifeng.com#@#a[href*=".apeclass.com"]
 ||cgicounter.oneandone.co.uk^
 ||cgicounter.onlinehome.de^
 ||cgicounter.puretec.de^
+||cgigc.com.cn^
 ||cgirm.greatfallstribune.com^
 ||cgjrfhmk.page.link^
 ||cgkeazaf.page.link^
@@ -29656,6 +30607,7 @@ ruanyifeng.com#@#a[href*=".apeclass.com"]
 ||changesshortly.com^
 ||changhehengqi.com^
 ||chango.com^
+||changshuohr.net^
 ||changxu.cool^
 ||changyan.sohu.com^
 ||changyangadvertising.com^
@@ -30396,6 +31348,7 @@ ruanyifeng.com#@#a[href*=".apeclass.com"]
 ||chyfkf.cn^
 ||chygam.ru^
 ||chyjobopse.pro^
+||chykohija.pro^
 ||chytridaustral.com^
 ||chyuok.xyz^
 ||chyxyrothi.com^
@@ -30552,6 +31505,7 @@ ruanyifeng.com#@#a[href*=".apeclass.com"]
 ||cittem.com^
 ||citvcharacato.com^
 ||city-ads.de^
+||city.youpukeji.cn^
 ||city009.com^
 ||cityads.com^
 ||cityads.ru^
@@ -30645,6 +31599,7 @@ ruanyifeng.com#@#a[href*=".apeclass.com"]
 ||cjzrfxs.xyz^
 ||ck-cdn.com^
 ||ck.abdalpaces.com^
+||ck.ads.oppomobile.com^
 ||ck.barefitaiding.com^
 ||ck.zzipps.com^
 ||ck123.io^
@@ -31877,6 +32832,7 @@ ruanyifeng.com#@#a[href*=".apeclass.com"]
 ||cmfads.com^
 ||cmflinks.provesio.com^
 ||cmgfbg.billetreduc.com^
+||cmgjqqu.cn^
 ||cmh2pw.com^
 ||cmhfzerm.page.link^
 ||cmhmpr.lolaliza.com^
@@ -31986,6 +32942,7 @@ ruanyifeng.com#@#a[href*=".apeclass.com"]
 ||cms100.xyz^
 ||cmshow.gtimg.cn^
 ||cmspapp83.com^
+||cmspapp84.com^
 ||cmstrendslog.indiatimes.com^
 ||cmstrendslog.timesnow.tv^
 ||cmsxodnj.xyz^
@@ -32232,6 +33189,7 @@ ruanyifeng.com#@#a[href*=".apeclass.com"]
 ||cocoawu.b0.upaiyun.com^
 ||cococx.com^
 ||cocolight.co.tz^
+||cocomanga.com/js/atmp.html
 ||coconuts.boy.jp^
 ||coconutsoftenedput.com^
 ||coconutsumptuousreseptivereseptive.com^
@@ -33111,6 +34069,7 @@ ruanyifeng.com#@#a[href*=".apeclass.com"]
 ||config.kuyun.com^
 ||config.safedk.com^
 ||config.uca.cloud.unity3d.com^
+||config.unityads.unity3d.com^
 ||confightencedtrk.com^
 ||configuration.ttpsdk.info^
 ||configurationluxuriantinclination.com^
@@ -34037,6 +34996,7 @@ ruanyifeng.com#@#a[href*=".apeclass.com"]
 ||count.carrierzone.com^
 ||count.channeladvisor.com^
 ||count.ddooo.com^
+||count.enet.com.cn^
 ||count.fr^
 ||count.gothaer-digital.de^
 ||count.iyaxin.com^
@@ -34048,6 +35008,7 @@ ruanyifeng.com#@#a[href*=".apeclass.com"]
 ||count.munhwa.com^
 ||count.newhua.com^
 ||count.nuanyuehanxing.com^
+||count.pcauto.com.cn^
 ||count.prx.org^
 ||count.qiannao.com^
 ||count.rin.ru^
@@ -34138,6 +35099,7 @@ ruanyifeng.com#@#a[href*=".apeclass.com"]
 ||counter.packa2.cz^
 ||counter.pagesview.com^
 ||counter.pax.com^
+||counter.pcauto.com.cn^
 ||counter.people.cn^
 ||counter.photopulse.ru^
 ||counter.pixplug.in^
@@ -34390,6 +35352,7 @@ ruanyifeng.com#@#a[href*=".apeclass.com"]
 ||cp.7y7.com^
 ||cp.cp.twendee.jp^
 ||cp.deltadentalwa.com^
+||cp.eoncreativity.com^
 ||cp.ir-central.irco.com^
 ||cp.jfcdns.com^
 ||cp.official-coupons.com^
@@ -34531,6 +35494,7 @@ ruanyifeng.com#@#a[href*=".apeclass.com"]
 ||cpndz.space^
 ||cpng.lol^
 ||cpobcsianm.com^
+||cpoml.iask.sina.com.cn^
 ||cppgf.com^
 ||cppkmmthkpttbb.com^
 ||cppm-kc2.net.jumia.ci^
@@ -34815,6 +35779,7 @@ ruanyifeng.com#@#a[href*=".apeclass.com"]
 ||create.encoreglobal.com^
 ||create2fear.com^
 ||createsgummous.com^
+||createssque.club^
 ||creatify.co.in^
 ||creationagency.actonservice.com^
 ||creative-bars1.com^
@@ -34998,6 +35963,7 @@ ruanyifeng.com#@#a[href*=".apeclass.com"]
 ||cro.fi-tsunagu.com^
 ||croakconfirmedget.com^
 ||croakdisconnectedclaw.com^
+||crobotb.com^
 ||crocetta.viessmann.it^
 ||crocodile.rapid-sale.co.uk^
 ||crocopop.com^
@@ -36126,6 +37092,7 @@ ruanyifeng.com#@#a[href*=".apeclass.com"]
 ||cvzvun.vidaxl.de^
 ||cw.nu^
 ||cw9twua9.shop^
+||cw9twuas.xyz^
 ||cwandlf.top^
 ||cwc494e.cn^
 ||cwcdmm.zennioptical.com^
@@ -36269,6 +37236,7 @@ ruanyifeng.com#@#a[href*=".apeclass.com"]
 ||cyf9.destinia.cl^
 ||cyfyb2.site^
 ||cygnus.com^
+||cyhbrjf.cn^
 ||cyhtr.com^
 ||cyih0e43aty7.com^
 ||cyijr.com^
@@ -37122,6 +38090,7 @@ ruanyifeng.com#@#a[href*=".apeclass.com"]
 ||d2wpknqle9nuv8.cloudfront.net^
 ||d2wpx0eqgykz4q.cloudfront.net^
 ||d2wu036mkcz52n.cloudfront.net^
+||d2wy8f7a9ursnm.cloudfront.net^
 ||d2x0u7rtw4p89p.cloudfront.net^
 ||d2x19ia47o8gwm.cloudfront.net^
 ||d2xng9e6gymuzr.cloudfront.net^
@@ -37584,6 +38553,8 @@ ruanyifeng.com#@#a[href*=".apeclass.com"]
 ||dad-api.dcard.tw^
 ||dad1mq193mgtr.cloudfront.net^
 ||dad524dd40.com^
+||dada.dadawm.cc^
+||dadatuwz.com^$third-party
 ||dadawm.cc^
 ||dadbj.cn^
 ||dadcc.cn^
@@ -37697,6 +38668,7 @@ ruanyifeng.com#@#a[href*=".apeclass.com"]
 ||dairebougee.com^
 ||dairouzy.net^
 ||daishu.shop^
+||daishudy.com/js/g/b_1.js
 ||daistii.com^
 ||daisycontroversy.com^
 ||daisyshopp.com^
@@ -37943,6 +38915,7 @@ ruanyifeng.com#@#a[href*=".apeclass.com"]
 ||dasv10rewq.xyz^
 ||dasych.drmartypets.com^
 ||dat.yl-zipper.com^
+||dat8.cc^
 ||data-0034231193.apps.iocnt.de^
 ||data-00460c60fa.eurotransport.de^
 ||data-004e4e6793.wetter.at^
@@ -40227,6 +41200,7 @@ ruanyifeng.com#@#a[href*=".apeclass.com"]
 ||data.accountslatam.coca-cola.com^
 ||data.adlermode.com^
 ||data.adobedc.net^
+||data.ads.oppomobile.com^
 ||data.adwombat.com^
 ||data.aem-sites-internal.adobe.com^
 ||data.all-in.de^
@@ -41305,6 +42279,7 @@ ruanyifeng.com#@#a[href*=".apeclass.com"]
 ||deergift.com^
 ||deerhunter2014cheat.com^
 ||deesudcoolingtower.com^
+||deeterno.cn^
 ||deethout.net^
 ||deewansturacin.com^
 ||deezer-france.com^
@@ -41926,6 +42901,7 @@ ruanyifeng.com#@#a[href*=".apeclass.com"]
 ||dexchangegenius.com^
 ||dexchangeinc.com^
 ||deximedia.com^
+||dexinyi.cn^
 ||dexplatform.com^
 ||dexpredict.com^
 ||dextersolutions.actonservice.com^
@@ -42187,6 +43163,7 @@ ruanyifeng.com#@#a[href*=".apeclass.com"]
 ||diaetolino.tryspecialnutnow.online^
 ||diaetoxilclk.getbestnow.online^
 ||diagnose.igstatic.com^
+||diagnosis.ad.xiaomi.com^
 ||diagnosticamoreno.com^
 ||diagnostics.support.microsoft.com^
 ||diagnostics.thermo.com^
@@ -42273,6 +43250,7 @@ ruanyifeng.com#@#a[href*=".apeclass.com"]
 ||dibsemey.com^
 ||dibyc.com^
 ||dic9vgwbkxd8r.cloudfront.net^
+||dicancele.fun^
 ||dicdoc.pro^
 ||dicebot-game.com^
 ||dich-vu-kvip-vpbank.com^
@@ -42719,6 +43697,7 @@ ruanyifeng.com#@#a[href*=".apeclass.com"]
 ||dinglixuan.cn^
 ||dingo.moehring.dev^
 ||dingswonden.info^
+||dingyar.top^
 ||diningalliance.actonservice.com^
 ||diningjumbofocused.com^
 ||diningprefixmyself.com^
@@ -43082,6 +44061,7 @@ ruanyifeng.com#@#a[href*=".apeclass.com"]
 ||ditchesteenish.com^
 ||ditdotsol.com^
 ||dithhdwwvqm.com^
+||ditorialproce.biz^
 ||ditwrite.com^
 ||diuetgeo.page.link^
 ||diuleilou.top^
@@ -43334,6 +44314,7 @@ ruanyifeng.com#@#a[href*=".apeclass.com"]
 ||dlhaven.com^
 ||dlhqffirehv.com^
 ||dlhygj.com^
+||dlili.tv/ufile/22222.js
 ||dlink-staging.blueapron.com^
 ||dlink.blueapron.com^
 ||dlink.hsdyn.com^
@@ -43867,6 +44848,7 @@ ruanyifeng.com#@#a[href*=".apeclass.com"]
 ||domocaw.ru^
 ||domodomain.com^
 ||domorewithless.adp.ca^
+||domp4.cc/js/wcount.js
 ||dompetaman.live^
 ||dompeterapp.com^
 ||domslc.com^
@@ -43885,6 +44867,7 @@ ruanyifeng.com#@#a[href*=".apeclass.com"]
 ||doneoftheow.com^
 ||donescaffold.com^
 ||donfailrank.live^
+||dong.aeimmmj.cn^
 ||dongdm.cn^
 ||dongdong.szhomeimg.com^
 ||donghothongminh-mienphiship.online^
@@ -44172,6 +45155,7 @@ ruanyifeng.com#@#a[href*=".apeclass.com"]
 ||download-shares.com^
 ||download-staging.planify.io^
 ||download-stats.mozilla.org^
+||download.2345.cn/2345yd1/apk/
 ||download.350.com^
 ||download.asyncfox.xyz^
 ||download.ayazona.com^
@@ -44554,6 +45538,7 @@ ruanyifeng.com#@#a[href*=".apeclass.com"]
 ||dreamhackz.com^
 ||dreamintim.net^
 ||dreamkarts.com^
+||dreamlikeverse.com^
 ||dreamlog.ru^
 ||dreamnews.biz^
 ||dreampartners.ru^
@@ -44908,6 +45893,7 @@ ruanyifeng.com#@#a[href*=".apeclass.com"]
 ||dtprofit.com^
 ||dtq9oy2ckjhxu.cloudfront.net^
 ||dtqbqmzzbeck.com^
+||dtrcw.cc^
 ||dtrk.slimcdn.com^
 ||dtscdn.com^
 ||dtscout.com^
@@ -45052,6 +46038,7 @@ ruanyifeng.com#@#a[href*=".apeclass.com"]
 ||dunrnd.com^
 ||dunta.ru^
 ||duobyj.icu^
+||duodada.com/Tpl/default/system.js
 ||duoduo.net^
 ||duofulai.vip^
 ||duojixing.com^
@@ -45136,6 +46123,7 @@ ruanyifeng.com#@#a[href*=".apeclass.com"]
 ||dv-nang-cap-vpbank.com^
 ||dv.amtwcvh.cn^
 ||dv.chemie.de^
+||dv.taolingjing.com^
 ||dv0uonokej56p.cloudfront.net^
 ||dv59b.montecarlomeeting.com^
 ||dv663fc06d35i.cloudfront.net^
@@ -45289,6 +46277,7 @@ ruanyifeng.com#@#a[href*=".apeclass.com"]
 ||dxtsqgnwn.com^
 ||dxuuvxweynac.com^
 ||dxvgvbaqzgeb.com^
+||dxwsty.cn^
 ||dxxwdz.xyz^
 ||dxyvxeytwxgepjr.xyz^
 ||dxz454z33ibrc.cloudfront.net^
@@ -45305,6 +46294,7 @@ ruanyifeng.com#@#a[href*=".apeclass.com"]
 ||dybxezbel1g44.cloudfront.net^
 ||dycej.com^
 ||dyckwtcmyb.xyz^
+||dycwt.cn^
 ||dycxkj.cn^
 ||dydab.com^
 ||dydd.xyz^
@@ -46079,6 +47069,7 @@ ruanyifeng.com#@#a[href*=".apeclass.com"]
 ||eblaghs.fartit.com^
 ||eblastengine.com^
 ||eblastengine.upickem.net^
+||eblnzoq.cn^
 ||ebmarketingshops.com^
 ||ebmhpt.sneakscloud.com^
 ||ebmlsvw.cn^
@@ -46245,6 +47236,7 @@ ruanyifeng.com#@#a[href*=".apeclass.com"]
 ||ecu.hagerty.com^
 ||ecuc123.net^
 ||ecudisrush.live^
+||ecudsc.cn^
 ||ecuebovjrnn.com^
 ||ecurrency4all.com^
 ||ecusemis.com^
@@ -46275,6 +47267,7 @@ ruanyifeng.com#@#a[href*=".apeclass.com"]
 ||ed.emp.de^
 ||ed.emp.fi^
 ||ed.emp.ie^
+||ed.gumoda.top^
 ||ed.irtc.space^
 ||ed.large.be^
 ||ed.large.nl^
@@ -46383,6 +47376,7 @@ ruanyifeng.com#@#a[href*=".apeclass.com"]
 ||edog2017.karyamedia.net^
 ||edomz.com^
 ||edomz.net^
+||edong.link^
 ||edoumeph.com^
 ||edoumoosseg.com^
 ||edqbparlheuj.com^
@@ -46758,6 +47752,7 @@ ruanyifeng.com#@#a[href*=".apeclass.com"]
 ||ehfjup.xyz^
 ||ehg-youtube.hitbox.com^
 ||ehgavvcqj.xyz^
+||ehk.trenhdg.com^
 ||ehknmwjl.page.link^
 ||ehliswxnrx.com^
 ||ehm.result.garrettcountygranfondo.org^
@@ -46841,6 +47836,7 @@ ruanyifeng.com#@#a[href*=".apeclass.com"]
 ||eiwojaavyvc.com^
 ||eiwyhwha.xyz^
 ||eiyjkwmredryb.com^
+||eiykmtb.cn^
 ||eiykwdhmnybu.com^
 ||eiyxjls.cn^
 ||ej.basialforced.com^
@@ -48210,6 +49206,7 @@ ruanyifeng.com#@#a[href*=".apeclass.com"]
 ||entrerscab.com^
 ||entry-stats.huffpost.com^
 ||entry.baidu.com^
+||entsnotesq.fun^
 ||entterto.com^
 ||entunebagman.space^
 ||entuvmcdcedli.com^
@@ -48291,6 +49288,7 @@ ruanyifeng.com#@#a[href*=".apeclass.com"]
 ||eoweridus.com^
 ||eownouncillors.info^
 ||eoxaxdglxecvguh.xyz^
+||eoyqzzk.cn^
 ||eozjqg.com^
 ||eozwcp.jetex.com^
 ||ep.americanexpress.com^
@@ -48300,6 +49298,7 @@ ruanyifeng.com#@#a[href*=".apeclass.com"]
 ||ep5banners.com^
 ||epaaab.com^
 ||epacash.com^
+||epaes.com.cn^
 ||epagogerepines.com^
 ||epailseptox.com^
 ||eparil.com^
@@ -48490,6 +49489,7 @@ ruanyifeng.com#@#a[href*=".apeclass.com"]
 ||erbiscusysexbu.info^
 ||erc.dns05.com^
 ||ercnnier.com^
+||ercnrxa.cn^
 ||ercockremarkedo.info^
 ||ercoeteasacom.com^
 ||erconditingde.info^
@@ -48525,6 +49525,7 @@ ruanyifeng.com#@#a[href*=".apeclass.com"]
 ||erileni.ru^
 ||eringosdye.com^
 ||erizoricher.life^
+||erjiyouhuiquan.com^
 ||erkascozgu.com^
 ||erkeincepts.website^
 ||erkesi.cn^
@@ -48595,6 +49596,7 @@ ruanyifeng.com#@#a[href*=".apeclass.com"]
 ||erslaneng.com^
 ||erssqstdjnn.com^
 ||erstonordersityex.info^
+||ert.pengwenli.top^
 ||ert5.rmcsport.tv^
 ||ertainoutweileds.info^
 ||ertewqas.net^
@@ -48775,6 +49777,7 @@ ruanyifeng.com#@#a[href*=".apeclass.com"]
 ||estatestitch.com^
 ||estaticos.soitu.es^
 ||estatueofthea.info^
+||estcruden.biz^
 ||esteemtalented.com^
 ||esteticasiemprelindas.com^
 ||esthevaskin.com.np^
@@ -48931,6 +49934,7 @@ ruanyifeng.com#@#a[href*=".apeclass.com"]
 ||etkht.cn^
 ||etl.tindersparks.com^
 ||etl.xlmc.sandai.net^
+||etlanaberez.fun^
 ||etm-consult.de^
 ||etnacsqssv.com^
 ||etoads.net^
@@ -49023,6 +50027,7 @@ ruanyifeng.com#@#a[href*=".apeclass.com"]
 ||eugenearsonmeanwhile.com^
 ||euitx.cn^
 ||euizhltcd6ih.com^
+||eujxqgh.cn^
 ||eukova.com^
 ||eukworektobe.pics^
 ||eulal-cnr.com^
@@ -49347,6 +50352,7 @@ ruanyifeng.com#@#a[href*=".apeclass.com"]
 ||events.glory-global.com^
 ||events.gogoair.com^
 ||events.golubcapital.com^
+||events.hotjar.io^
 ||events.iap.unity3d.com^
 ||events.ifunny.co^
 ||events.il.fi^
@@ -49417,6 +50423,7 @@ ruanyifeng.com#@#a[href*=".apeclass.com"]
 ||events.whisk.com^
 ||events.yourcx.io^
 ||events2.www.edenfantasys.com^
+||events3alt.adcolony.com^
 ||eventsapi.grocerkey.com^
 ||eventsbands.com^
 ||eventservice.rs^
@@ -50250,6 +51257,7 @@ ruanyifeng.com#@#a[href*=".apeclass.com"]
 ||f773a03dcb.com^
 ||f775.thehour.com^
 ||f77j6t2b.com^
+||f77xv3.top^
 ||f780f.space^
 ||f794d2f9d9.com^
 ||f7aaww.razercelullares.motorcycles^
@@ -51030,6 +52038,7 @@ ruanyifeng.com#@#a[href*=".apeclass.com"]
 ||fccomvn.com^
 ||fcgmoas.cn^
 ||fcgxidqwcx.xyz^
+||fcgztan.cn^
 ||fcheats.com^
 ||fcheng.top^
 ||fchio.com^
@@ -51058,6 +52067,7 @@ ruanyifeng.com#@#a[href*=".apeclass.com"]
 ||fcpygacbjukjdvr.com^
 ||fcqbjjcvohqo.com^
 ||fcqqbrfucuf.com^
+||fcqztan.cn^
 ||fcrdb.com^
 ||fcrxoyyaf.com^
 ||fcs.ovh^
@@ -53060,6 +54070,7 @@ ruanyifeng.com#@#a[href*=".apeclass.com"]
 ||forest.himanfast.com^
 ||forestcremate.com^
 ||forestsbotherdoubted.com^
+||forestseasons.com.cn^
 ||forestsshampoograduate.com^
 ||forestwo1f.ltd^
 ||foretellfifth.com^
@@ -54966,6 +55977,7 @@ ruanyifeng.com#@#a[href*=".apeclass.com"]
 ||g-fallback.whatsapp.net.iberostar.com^
 ||g-statistic.com^
 ||g-stats.openhost.es^
+||g.163.com/*&affiliate=
 ||g.163.com^
 ||g.3lian.com^
 ||g.adultporn.tv^
@@ -55000,6 +56012,7 @@ ruanyifeng.com#@#a[href*=".apeclass.com"]
 ||g.staging.pathsha.re^
 ||g.tbcdn.cn^
 ||g.whatsapp.net.iberostar.com^
+||g.yccdn.com^
 ||g.youshishop.com^
 ||g081fme.cn^
 ||g0awayu.com^
@@ -55763,6 +56776,7 @@ ruanyifeng.com#@#a[href*=".apeclass.com"]
 ||gbrrrxbodqdlq.com^
 ||gbrtyhnsc.xyz^
 ||gbsbgmwo.page.link^
+||gbsp002.com^
 ||gbstaohe.page.link^
 ||gbstobpvhhosqsr.com^
 ||gbtracking.cubiq.com^
@@ -55899,6 +56913,7 @@ ruanyifeng.com#@#a[href*=".apeclass.com"]
 ||gdl.i9dhjx.ru^
 ||gdla.rgov.net^
 ||gdlmainhub.com^
+||gdls114.com^
 ||gdlvbiaokeji.cn^
 ||gdm1.toner.fr^
 ||gdmconvtrck.com^
@@ -57092,6 +58107,7 @@ ruanyifeng.com#@#a[href*=".apeclass.com"]
 ||gjekqhry.page.link^
 ||gjfeblixctsojx.xyz^
 ||gjffrtfkhf.xyz^
+||gjh9v.tianshilv.cn^
 ||gjiai.com^
 ||gjiak.com^
 ||gjigle.com^
@@ -57305,6 +58321,7 @@ ruanyifeng.com#@#a[href*=".apeclass.com"]
 ||globaladmedia.net^
 ||globaladsales.com^
 ||globaladv.net^
+||globalapi.ad.xiaomi.com^
 ||globalbanking.wolterskluwer.com^
 ||globalcommunications.sc.com^
 ||globalcustodian.strategic-i.com^
@@ -57572,6 +58589,7 @@ ruanyifeng.com#@#a[href*=".apeclass.com"]
 ||gnbekvxyfuoyr.com^
 ||gnditiklas.com^
 ||gndkcpwowxnc.com^
+||gndmnrh.cn^
 ||gndrglsn.com^
 ||gnemxcfermkpp.com^
 ||gnenuelnn.com^
@@ -57601,6 +58619,7 @@ ruanyifeng.com#@#a[href*=".apeclass.com"]
 ||gnphoqzf.page.link^
 ||gnqpystsiece.com^
 ||gnqtageoyy.com^
+||gnqxd.cn^
 ||gnrbmyul.page.link^
 ||gnreb.caching.oysterfloats.com^
 ||gnrmty.eurovaistine.lt^
@@ -58536,6 +59555,7 @@ ruanyifeng.com#@#a[href*=".apeclass.com"]
 ||goldtimeinvest.com^
 ||goldtrailmotorlodge.com^
 ||goldtroopsdetached.com^
+||golengmen.com/assets/publish/
 ||golfchapah.space^
 ||golinkapp.com^
 ||golivejasmincreditshack.com^
@@ -58652,6 +59672,8 @@ ruanyifeng.com#@#a[href*=".apeclass.com"]
 ||googfle.com^
 ||google-ads.hara.vn^
 ||google-analytics-cn.com^
+||google-analytics.com$third-party
+||google-analytics.com/analytics.js
 ||google-analytics.com^
 ||google-document.org^
 ||google-pagerank.net^
@@ -58685,6 +59707,7 @@ ruanyifeng.com#@#a[href*=".apeclass.com"]
 ||googleshopping.sapoapps.vn^
 ||googlesyndication.com^
 ||googletagmanager-cn.com^
+||googletagmanager.com^
 ||googletagnamager.com^
 ||googletagservices-cn.com^
 ||googletraveladservices.com^
@@ -58898,7 +59921,9 @@ ruanyifeng.com#@#a[href*=".apeclass.com"]
 ||govirtualoffice.actonservice.com^
 ||govjieyang.cn^
 ||govkunming.cn^
+||govlaibing.cn^
 ||govlihu.cn^
+||govliuzhou.cn^
 ||govmetric.com^
 ||govqingdao.cn^
 ||govshanghai.cn^
@@ -59561,6 +60586,7 @@ ruanyifeng.com#@#a[href*=".apeclass.com"]
 ||gsnlc.cn^
 ||gsol.edm.globalsources.com^
 ||gsols.edm.globalsources.com^
+||gsp0.kj-gov.cn^
 ||gsp1.baidu.com^
 ||gspjom.3balls.com^
 ||gsport.com^
@@ -59587,6 +60613,7 @@ ruanyifeng.com#@#a[href*=".apeclass.com"]
 ||gswinnodf.com^
 ||gswtol.com^
 ||gsx-appleaccess.com^
+||gsxbxvd.cn^
 ||gsybhchttmopb.com^
 ||gsycdb.com^
 ||gsycl.top^
@@ -59653,6 +60680,7 @@ ruanyifeng.com#@#a[href*=".apeclass.com"]
 ||gtbtnrpzz.com^
 ||gtchong.com^
 ||gtcpsvyirosieug.com^
+||gtcqbnu.cn^
 ||gtcslt-di2.com^
 ||gte.gaintheedgeofficial.com^
 ||gtech.com.co^
@@ -59719,6 +60747,7 @@ ruanyifeng.com#@#a[href*=".apeclass.com"]
 ||guang.sdsgwy.com^
 ||guang1.zhakao.cn^
 ||guangdongtaiji.com^
+||guanggao28.xyz^
 ||guangsss1999.com^
 ||guangweixinxi345.cn^
 ||guangzhengtwentynine.top^
@@ -59749,6 +60778,7 @@ ruanyifeng.com#@#a[href*=".apeclass.com"]
 ||guasarestant.com^
 ||guasim.top^
 ||guatocut.live^
+||gubgonx.cn^
 ||gubopedruph.com^
 ||guccigang.top^
 ||guchihyfa.pro^
@@ -59862,6 +60892,7 @@ ruanyifeng.com#@#a[href*=".apeclass.com"]
 ||guodulvyou.xyz^
 ||guofuhaohua.club^
 ||guohead.com^
+||guohexinxiang.com^
 ||guolvhbb.cn^
 ||guominziben.com^
 ||guomob.com^
@@ -59972,7 +61003,9 @@ ruanyifeng.com#@#a[href*=".apeclass.com"]
 ||gweducelne.com^
 ||gweluwaggoc.com^
 ||gwen.insertcoin.se^
+||gwertyuadf.com^
 ||gwfcpecnwwtgn.xyz^
+||gwg51.com^
 ||gwguyh.edreams.es^
 ||gwide.xyz^
 ||gwivqo.xyz^
@@ -59983,6 +61016,7 @@ ruanyifeng.com#@#a[href*=".apeclass.com"]
 ||gwkumosy.page.link^
 ||gwmaajp.cn^
 ||gwmeinq.cn^
+||gwmrb.cn^
 ||gwmtracking.com^
 ||gwngroup.id^
 ||gwo-training.vn^
@@ -60063,6 +61097,7 @@ ruanyifeng.com#@#a[href*=".apeclass.com"]
 ||gyfwz.com^
 ||gyh1lh20owj.ru^
 ||gyhgcgj.xyz^
+||gyjinchuang.vip^
 ||gyjwkknwanbug.xyz^
 ||gykj.xyz^
 ||gykyec.xyz^
@@ -60138,6 +61173,7 @@ ruanyifeng.com#@#a[href*=".apeclass.com"]
 ||gzqgaq.xyz^
 ||gzqswl.cn^
 ||gzqudou.com^
+||gzqvd.cn^
 ||gzsanxiaomingshi.cn^
 ||gzsjym.xyz^
 ||gzsscr.cn^
@@ -60746,6 +61782,8 @@ ruanyifeng.com#@#a[href*=".apeclass.com"]
 ||halibut.codehooks.io^
 ||halibut.phytype.com^
 ||halidspilau.guru^
+||halihali*.com/js/wap2-jm-ms.js
+||halihali2.com/js/wap2-jm-100ftop.js
 ||halileo.com^
 ||halldata.com^
 ||halleyperson.pro^
@@ -60902,6 +61940,7 @@ ruanyifeng.com#@#a[href*=".apeclass.com"]
 ||haokan3.cn^
 ||haokanshipin.com^
 ||haokoubei.top^
+||haokuaixiu.site^
 ||haolew.com^
 ||haomaiweb.com^
 ||haomaojin.com^
@@ -60913,6 +61952,7 @@ ruanyifeng.com#@#a[href*=".apeclass.com"]
 ||haoxxwang.com^
 ||haoy1.top^
 ||haoyongdm.com^
+||haoyu666.top/uploads*%E7%B2%BE%E5%93%81%E5%BD%B1%E8%A7%86.apk?
 ||haoyundm.com^
 ||haoyundmn.com^
 ||haoyundmtaotao.com^
@@ -61036,6 +62076,7 @@ ruanyifeng.com#@#a[href*=".apeclass.com"]
 ||hasbh6sb-hab3216jhxbxjh.xyz^
 ||hasdarot.info^
 ||hasdrs.com^
+||hasdser.com^
 ||hasfzyam.page.link^
 ||hasgde.site^
 ||hash-hash-tag.com^
@@ -61268,6 +62309,7 @@ ruanyifeng.com#@#a[href*=".apeclass.com"]
 ||hcaffil.mironet.cz^
 ||hcaig.com^
 ||hcbjwt.com^
+||hcbmg.cn^
 ||hcbmq.cn^
 ||hcbox.bikemax.cz^
 ||hcbox.boomshop.sk^
@@ -61424,6 +62466,7 @@ ruanyifeng.com#@#a[href*=".apeclass.com"]
 ||hdvcode.com^
 ||hdvideosnet.com^
 ||hdviwzmp.page.link^
+||hdvkl.cn^
 ||hdvmyo.com^
 ||hdwibtrw.com^
 ||hdwvhgnisi.com^
@@ -61916,6 +62959,7 @@ ruanyifeng.com#@#a[href*=".apeclass.com"]
 ||hfawdgz.cn^
 ||hfc195b.com^
 ||hfcpa.top^
+||hfctx.cn^
 ||hfd.bridgetowermedia.com^
 ||hfeoveukrn.info^
 ||hffdjxnyxckf.xyz^
@@ -61981,7 +63025,9 @@ ruanyifeng.com#@#a[href*=".apeclass.com"]
 ||hgijycxp.com^
 ||hgirsxsgetv.com^
 ||hgjjk45.com^
+||hgjxp.cn^
 ||hgkuafsvkrn.xyz^
+||hgkzl.cn^
 ||hglllshop.com^
 ||hgofcd.com^
 ||hgpbhuj.cn^
@@ -62006,6 +63052,7 @@ ruanyifeng.com#@#a[href*=".apeclass.com"]
 ||hh-btr.com^
 ||hh.jiankang.com^
 ||hh.zhhbqg.com^
+||hh0212.cc^
 ||hh6666.com^
 ||hh6820123.com^
 ||hh9uv6tq.com^
@@ -62016,6 +63063,8 @@ ruanyifeng.com#@#a[href*=".apeclass.com"]
 ||hhcktiucw.xyz^
 ||hhcskj.com^
 ||hhdjcabafaejaibaaaeg.world^
+||hhdmh.net/bd/36mh.js
+||hhdmh.net/js/g1.js
 ||hhff111222.com^
 ||hhffpagi.com^
 ||hhfhgf.cc^
@@ -62706,6 +63755,7 @@ ruanyifeng.com#@#a[href*=".apeclass.com"]
 ||hmizat.co^
 ||hmjhnkas.com^
 ||hmjiayi.com^
+||hmjs.cnmo-img.com.cn^
 ||hmlkppk.cn^
 ||hmlvxk.julian-fashion.com^
 ||hmma.baidu.cn^
@@ -62737,6 +63787,7 @@ ruanyifeng.com#@#a[href*=".apeclass.com"]
 ||hncadh.com^
 ||hncpz.cn^
 ||hnctsm.com^
+||hndfw.com.cn^
 ||hndhas.com^
 ||hndshop.cn^
 ||hnfnjn.xyz^
@@ -62759,6 +63810,7 @@ ruanyifeng.com#@#a[href*=".apeclass.com"]
 ||hnkyxyknp.com^
 ||hnl.ijgocb.cn^
 ||hnlczgjx.com^
+||hnlphr.cn^
 ||hnltcw.com^
 ||hnnuaa.willhaben.at^
 ||hnnuange.com^
@@ -62800,6 +63852,7 @@ ruanyifeng.com#@#a[href*=".apeclass.com"]
 ||hnzls8.cn^
 ||hnzyfs.com^
 ||hnzyzhy.cn^
+||hnzzff.club^
 ||ho47no3iry.de^
 ||hoa44trk.com^
 ||hoabinoo.net^
@@ -62902,6 +63955,7 @@ ruanyifeng.com#@#a[href*=".apeclass.com"]
 ||holond.com^
 ||holor0701.cn^
 ||holor0804.cn^
+||holor857.cn^
 ||holptimawa.com^
 ||holshistoricbulky.com^
 ||holtsap1.net.anwalt.de^
@@ -62980,6 +64034,7 @@ ruanyifeng.com#@#a[href*=".apeclass.com"]
 ||hongking542-1321530550.cos.ap-hongkong.myqcloud.com^
 ||hongkong.treker.fun^
 ||hongkongbluebag.hk^
+||hongmao39.top^
 ||hongniuziyuan.com^
 ||hongruikt.com^
 ||hongshikai.com^
@@ -63224,6 +64279,7 @@ ruanyifeng.com#@#a[href*=".apeclass.com"]
 ||hotinfosource.com^
 ||hotinga.ru^
 ||hotjar.com^
+||hotjar.com^$third-party
 ||hotjar.io^
 ||hotkabachok.com^
 ||hotkeys.com^
@@ -63407,6 +64463,7 @@ ruanyifeng.com#@#a[href*=".apeclass.com"]
 ||hpggroup.net^
 ||hpgmkbt.icu^
 ||hphtjv.orellfuessli.ch^
+||hpiekt.cn^
 ||hpijkah.com^
 ||hpikarkucasz.com^
 ||hpilhooxcjh.com^
@@ -63814,6 +64871,7 @@ ruanyifeng.com#@#a[href*=".apeclass.com"]
 ||huichenbz.com^
 ||huichuan.sm.cn^
 ||huician.cn^
+||huicpu.com^
 ||huifangwen.com^
 ||huigoushop.com^
 ||huigun.top^
@@ -64470,7 +65528,9 @@ ruanyifeng.com#@#a[href*=".apeclass.com"]
 ||i6h1x9ss5wtv.ru^
 ||i7.ictorganisers.com^
 ||i7.vaishnaviinterior.com^
+||i7akpd1.xyz^
 ||i7ece0xrg4nx.com^
+||i7pnx0t.cn^
 ||i8023.icu^
 ||i8xkjci7nd.com^
 ||i99i.org^
@@ -64536,6 +65596,7 @@ ruanyifeng.com#@#a[href*=".apeclass.com"]
 ||iangp.com^
 ||ianjgmpat.com^
 ||ianjumb.com^
+||ianyshare.xyz^
 ||iaogqszcujbls.com^
 ||iaozwe.xyz^
 ||iapclick.gowadogo.com^
@@ -64606,6 +65667,7 @@ ruanyifeng.com#@#a[href*=".apeclass.com"]
 ||ibnads.xl.co.id^
 ||ibonmfvcwb.xyz^
 ||iboxs.xyz^
+||ibozys.cn^
 ||ibpsguny.page.link^
 ||ibpxl.com^
 ||ibpxl.net^
@@ -64978,6 +66040,8 @@ ruanyifeng.com#@#a[href*=".apeclass.com"]
 ||ifdyifowri.com^
 ||ifefashionismscold.com^
 ||ifeib.com^
+||ifeng.com/*&adids=
+||ifeng.com/showcode
 ||ifengad.*.ifeng.com^
 ||ifengad.3g.ifeng.com^
 ||ifeurcw.cn^
@@ -65162,6 +66226,7 @@ ruanyifeng.com#@#a[href*=".apeclass.com"]
 ||ihwdun.xyz^
 ||ihwijcnh.page.link^
 ||ihzuephjxb.com^
+||ii.joqtfa.cn^
 ||ii.woolensulking.com^
 ||ii1.chajiaotong.com^
 ||iia1.pikacn.com^
@@ -65279,6 +66344,7 @@ ruanyifeng.com#@#a[href*=".apeclass.com"]
 ||ikjocef.cn^
 ||ikjwmfeds.xyz^
 ||ikjzwgcg.com^
+||ikkdm.com/mg/show2.js
 ||ikktkxjs.page.link^
 ||iklan-laris.com^
 ||iklanads.com^
@@ -65958,12 +67024,14 @@ ruanyifeng.com#@#a[href*=".apeclass.com"]
 ||imall.cntv.cn^
 ||imalug.com^
 ||imamseenu.com^
+||imanhuapi.com/style/js/mpmh.js
 ||imanifestnow.net^
 ||imap.dpsl.net^
 ||imapi-sg.isnssdk.com^
 ||imarker.com^
 ||imarker.ru^
 ||imarketservices.com^
+||imasdk.googleapis.com^
 ||imassg.xyz^
 ||imathematica.org^
 ||imatmobile.com^
@@ -66008,6 +67076,7 @@ ruanyifeng.com#@#a[href*=".apeclass.com"]
 ||img.bwin.be^
 ||img.bwin.com^
 ||img.bwin.es^
+||img.bzzyx.cn/dipiao.js
 ||img.ckcgsy.cn^
 ||img.dubyc.com^
 ||img.e.sigsauer.com^
@@ -66039,6 +67108,7 @@ ruanyifeng.com#@#a[href*=".apeclass.com"]
 ||img.interhome.ch^
 ||img.interhome.com^
 ||img.interhome.se^
+||img.ishanggao.com^
 ||img.learn.abreon.com^
 ||img.libdd.com^
 ||img.link.cabinetry.com^
@@ -66055,6 +67125,7 @@ ruanyifeng.com#@#a[href*=".apeclass.com"]
 ||img.starpc.cn^
 ||img.taotaosou.cn^
 ||img.uu1001.cn^
+||img.vue-js.cyou^
 ||img.website-security.symantec.com^
 ||img.x937.xyz^
 ||img.x959.xyz^
@@ -66204,6 +67275,7 @@ ruanyifeng.com#@#a[href*=".apeclass.com"]
 ||imp.pvnsolutions.com^
 ||imp.xgo.com.cn^
 ||imp.xmax.jp^
+||imp.zol.com.cn^
 ||imp2aff.com^
 ||impact-betegy.com^
 ||impact-dm.actonservice.com^
@@ -67988,6 +69060,7 @@ ruanyifeng.com#@#a[href*=".apeclass.com"]
 ||intimatestraightharrow.com^
 ||intimg1k.com^
 ||intimidatekerneljames.com^
+||intimidatepropel.com^
 ||intimidatingsinewhamper.com^
 ||intimlife.net^
 ||intimmag.ru^
@@ -68237,6 +69310,7 @@ ruanyifeng.com#@#a[href*=".apeclass.com"]
 ||ipaplnpq.page.link^
 ||iparty.asia^
 ||ipc.com.pk^
+||ipc08dt.com^
 ||ipcatch.com^
 ||ipcc.vnpt.com.vn^
 ||ipcfgw.pieces.com^
@@ -68302,6 +69376,7 @@ ruanyifeng.com#@#a[href*=".apeclass.com"]
 ||iplogger.org^
 ||iplogger.ru^
 ||ipm-provider.ff.avast.com^
+||ipm.atm.youku.com^
 ||ipmathematical.org^
 ||ipmatm.cp12.wasu.tv^
 ||ipmeta.io^
@@ -68977,6 +70052,7 @@ ruanyifeng.com#@#a[href*=".apeclass.com"]
 ||ixinst.com^
 ||ixirix.com^
 ||ixisivomer.com^
+||ixjtpbj.cn^
 ||ixkhaxpubqf.com^
 ||ixkofjcwzlz.com^
 ||ixmbkxthnj.xyz^
@@ -69055,6 +70131,7 @@ ruanyifeng.com#@#a[href*=".apeclass.com"]
 ||j.br.baidu.com^
 ||j.dailiqing.net^
 ||j.diangon.com^
+||j.guanjiabo.net^
 ||j.imdb.cn^
 ||j.northbeam.io^
 ||j.uralweb.ru^
@@ -69221,6 +70298,7 @@ ruanyifeng.com#@#a[href*=".apeclass.com"]
 ||jakeycorkage.digital^
 ||jakhoople.com^
 ||jakid.xyz^
+||jakisity.top^
 ||jakj.settings.oysterfloats.org^
 ||jaletemetia.com^
 ||jalewaads.com^
@@ -69369,6 +70447,7 @@ ruanyifeng.com#@#a[href*=".apeclass.com"]
 ||jb7hvckszone.com^
 ||jbalrqvennvka.top^
 ||jbalrqvennvrl.top^
+||jbazhaheia.top^
 ||jbbljg.autoscout24.bg^
 ||jbdmb1.ynztzh.com^
 ||jbdz.shop^
@@ -69409,6 +70488,7 @@ ruanyifeng.com#@#a[href*=".apeclass.com"]
 ||jcbjcb9.cn^
 ||jcboloni.cn^
 ||jcbyeqvstf.xyz^
+||jcde.site^
 ||jcdixdh.cn^
 ||jcedzifarqa.com^
 ||jcelyj.com^
@@ -69429,6 +70509,7 @@ ruanyifeng.com#@#a[href*=".apeclass.com"]
 ||jcpaintingcompanyllc.com^
 ||jcpcfopwcae.com^
 ||jcpclick.com^
+||jcpecb.com^
 ||jcpjfyikk.dogbonemarket.com^
 ||jcplzp.lancel.com^
 ||jcqueawk.xyz^
@@ -69652,6 +70733,7 @@ ruanyifeng.com#@#a[href*=".apeclass.com"]
 ||jesgoo.com^
 ||jesmomdcare.co.uk^
 ||jessicalaurax.com^
+||jessicarace.com^
 ||jessieemys.com^
 ||jestbiases.com^
 ||jestinvaderspeedometer.com^
@@ -69733,6 +70815,7 @@ ruanyifeng.com#@#a[href*=".apeclass.com"]
 ||jfpltp.eyeforfashion.pl^
 ||jfqkj.com^
 ||jfremovals.com^
+||jfsdiwmnbsk009.top^
 ||jfsldq.top^
 ||jfsm5.top^
 ||jfsocqmvvqt.com^
@@ -69836,6 +70919,7 @@ ruanyifeng.com#@#a[href*=".apeclass.com"]
 ||jiaheyonggu.com^
 ||jiajiann.cn^
 ||jiajv.net^
+||jialingmm.net/dm/tj.js
 ||jialiren.net^
 ||jializyw.com^
 ||jializyzapi.com^
@@ -69900,6 +70984,7 @@ ruanyifeng.com#@#a[href*=".apeclass.com"]
 ||jiese.fun^
 ||jieshimaya.xyz^
 ||jieyixiu.com^
+||jiezoiq.cn^
 ||jifen.2345.com^
 ||jiffehxjwvpoefo.xyz^
 ||jifflebreasts.com^
@@ -70054,6 +71139,7 @@ ruanyifeng.com#@#a[href*=".apeclass.com"]
 ||jiuswcpdwgpwetf.com^
 ||jiutiao20221212.xyz^
 ||jiutou20230210.live^
+||jiuyuntian3.cn^
 ||jivox.com^
 ||jivskpprocrkv.com^
 ||jivxwirz.page.link^
@@ -70235,6 +71321,7 @@ ruanyifeng.com#@#a[href*=".apeclass.com"]
 ||jmpqkikcv.com^
 ||jmqrogtmvfo.com^
 ||jmqxbeo.cn^
+||jmr.nnxiant.cn^
 ||jmrnews.pro^
 ||jmtbyiohpgugcsk.com^
 ||jmulab.cn^
@@ -70292,6 +71379,7 @@ ruanyifeng.com#@#a[href*=".apeclass.com"]
 ||jnxiacha.cn^
 ||jnxm2.com^
 ||jnxz66.cn^
+||jnyayk.xyz^
 ||jnyngg.cn^
 ||jnyyryjarlyyl.top^
 ||jnzedp.his-j.com^
@@ -70657,6 +71745,7 @@ ruanyifeng.com#@#a[href*=".apeclass.com"]
 ||jrcompanyhack.com^
 ||jrcpalladio.com^
 ||jrdkc.com^
+||jrds.net.cn^
 ||jrdupvtgubvja.xyz^
 ||jreivtal.page.link^
 ||jrfa.net^
@@ -70708,6 +71797,7 @@ ruanyifeng.com#@#a[href*=".apeclass.com"]
 ||js.agkn.com^
 ||js.aiservice.vn^
 ||js.allporncomic.com^
+||js.bbdsdy.com^
 ||js.bju888.com^
 ||js.brstke.top^
 ||js.bulkhentai.com^
@@ -70731,6 +71821,7 @@ ruanyifeng.com#@#a[href*=".apeclass.com"]
 ||js.jianbihuadq.com^
 ||js.kabutocho-dsp.net^
 ||js.kalvinbg.cn^
+||js.keeyekey.xyz^
 ||js.kt250.com^
 ||js.loveshop8.com^
 ||js.manga1000.top^
@@ -70781,6 +71872,7 @@ ruanyifeng.com#@#a[href*=".apeclass.com"]
 ||js2.hdzog.com^
 ||js22f.net^
 ||js2json.com^
+||js6.efyt6.com^
 ||js7k.com^
 ||js88895.net^
 ||jsadapi.com^
@@ -70801,7 +71893,10 @@ ruanyifeng.com#@#a[href*=".apeclass.com"]
 ||jscounter.com^
 ||jscsd.cn^
 ||jscvalves.me^
+||jsczde.cn^
 ||jsdelvr.com^
+||jsdocker.com^
+||jsebmcv.cn^
 ||jsecoin.com^
 ||jseuprrsedc.com^
 ||jsf.cnlinfo.net^
@@ -70823,6 +71918,7 @@ ruanyifeng.com#@#a[href*=".apeclass.com"]
 ||jslog.post.cz^
 ||jslog.zapps.vn^
 ||jsm.39yst.com^
+||jsm.godloveme.cn^
 ||jsmcrpu.com^
 ||jsmcrt.com^
 ||jsmentry.com^
@@ -70831,6 +71927,7 @@ ruanyifeng.com#@#a[href*=".apeclass.com"]
 ||jsmpsi.com^
 ||jsmpus.com^
 ||jsmwd.com^
+||jsmxkj.com^
 ||jsnncgz.com^
 ||jsnoownma.fun^
 ||jsnqh.cn^
@@ -70853,6 +71950,8 @@ ruanyifeng.com#@#a[href*=".apeclass.com"]
 ||jss.haoxyx.com^
 ||jss.haoxyz.com^
 ||jss.tvzhe.com^
+||jssav4hk.xyz^
+||jssav6hk.club^
 ||jssdk.pulse.schibsted.com^
 ||jssearch.net^
 ||jsshuiyuan.com^
@@ -70898,6 +71997,7 @@ ruanyifeng.com#@#a[href*=".apeclass.com"]
 ||jtiqpdqofdlwam.com^
 ||jtiqpdqofdlwb.com^
 ||jtj7tq6c.xyz^
+||jtjh.tw^
 ||jtjtqar.com^
 ||jtkctpvlsilycn.com^
 ||jtkshop.net^
@@ -71189,6 +72289,7 @@ ruanyifeng.com#@#a[href*=".apeclass.com"]
 ||jwalf.com^
 ||jwandla.top^
 ||jwcnjv.xlmoto.eu^
+||jwddpvu.cn^
 ||jwdhoxw.cn^
 ||jweod.xyz^
 ||jweoe.xyz^
@@ -71279,6 +72380,7 @@ ruanyifeng.com#@#a[href*=".apeclass.com"]
 ||jxyy.site^
 ||jxzz.tech^
 ||jy.zhongxues.com^
+||jy8izgie.xyz^
 ||jyarkinhechershedt.xyz^
 ||jybaekajjmroq.top^
 ||jybnuw.mudah.my^
@@ -71421,6 +72523,7 @@ ruanyifeng.com#@#a[href*=".apeclass.com"]
 ||k28maingeneral.com^
 ||k2n0f.cn^
 ||k3.karbilyazilim.com^
+||k31bpzf.xyz^
 ||k3gy2.xyz^
 ||k3node.com^
 ||k3vzn.flx10.com^
@@ -71768,6 +72871,7 @@ ruanyifeng.com#@#a[href*=".apeclass.com"]
 ||kdbumyha.com^
 ||kdcl.pchome.com.tw^
 ||kdconstructionusa.com^
+||kdcxhr.cn^
 ||kdfjabv.com^
 ||kdgjsf.com^
 ||kdh095.cn^
@@ -71894,6 +72998,7 @@ ruanyifeng.com#@#a[href*=".apeclass.com"]
 ||kendosliny.com^
 ||kendotube.com^
 ||kenduktur.com^
+||kengi.top^
 ||kenirqmfxniekeb.com^
 ||kenitra.treker.fun^
 ||kenizg.com^
@@ -72063,6 +73168,7 @@ ruanyifeng.com#@#a[href*=".apeclass.com"]
 ||kfeawfjatxpi.com^
 ||kfebxhjlco.com^
 ||kfeiu.com^
+||kfejnjs.cn^
 ||kffawlmqdahowhr.com^
 ||kfhninhokutn.com^
 ||kfiopkln.com^
@@ -72286,6 +73392,7 @@ ruanyifeng.com#@#a[href*=".apeclass.com"]
 ||killa-hacks.com^
 ||killbot.org^
 ||killcase.ru^
+||killcovid2021.com/*.mp4
 ||killcsgo.com^
 ||killernineteenthjoyous.com^
 ||killerwebstats.com^
@@ -72483,6 +73590,7 @@ ruanyifeng.com#@#a[href*=".apeclass.com"]
 ||kjfoqi.cn^
 ||kjgb11.com^
 ||kjgen.com^
+||kjggk1.xyz^
 ||kjgqsrejwsthwiw.com^
 ||kjgzctn.com^
 ||kjheamwouk.xyz^
@@ -72556,6 +73664,7 @@ ruanyifeng.com#@#a[href*=".apeclass.com"]
 ||kkuztcsx.com^
 ||kkwfvwpyswjmvi.com^
 ||kkyjfdj.xyz^
+||kkylx.xyz^
 ||kkyqrxqd.com^
 ||kkzkydeegpmih.com^
 ||kkznoe.autouncle.ch^
@@ -72646,6 +73755,7 @@ ruanyifeng.com#@#a[href*=".apeclass.com"]
 ||kmeqdnmgdkpn.com^
 ||kmes.com.pk^
 ||kmfwrqdp.com^
+||kmgfjc.cn^
 ||kmgzyug.com^
 ||kmhfsrwqdu.com^
 ||kmhmnqeh.page.link^
@@ -72676,6 +73786,7 @@ ruanyifeng.com#@#a[href*=".apeclass.com"]
 ||kmpxq.cn^
 ||kmqghr.bristolshop.be^
 ||kmqhmn.helen-marlen.com^
+||kmr.enrosr.cn^
 ||kmrcewt.cn^
 ||kmu.gwmrb.cn^
 ||kmwatson.events.data.microsoft.com^
@@ -72696,6 +73807,7 @@ ruanyifeng.com#@#a[href*=".apeclass.com"]
 ||knaveavo.guru^
 ||knawelgrx.com^
 ||knaxfbg.cn^
+||knbtpty.xyz^
 ||knc.lv^
 ||kncapitalguru.com^
 ||kncecafvdeu.info^
@@ -72997,6 +74109,7 @@ ruanyifeng.com#@#a[href*=".apeclass.com"]
 ||kouceeptait.com^
 ||koucerie.com^
 ||kouclo.com^
+||koudaikeji.info^
 ||koudaiyundong.com^
 ||kougloar.com^
 ||koujaups.xyz^
@@ -73139,6 +74252,7 @@ ruanyifeng.com#@#a[href*=".apeclass.com"]
 ||krplss.click^
 ||krqjfirm.com^
 ||krqttfeq.com^
+||krr894.top^
 ||krrtxbfbeey.top^
 ||krrzyber.page.link^
 ||krsvpobbneyj.com^
@@ -73163,11 +74277,14 @@ ruanyifeng.com#@#a[href*=".apeclass.com"]
 ||kscly.com^
 ||kscmqmrlrepwim.com^
 ||ksdarprt.reseguiden.se^
+||ksdayhtj.shop^
+||ksdayhtl.xyz^
 ||ksdp997.com^
 ||ksdr.xyz^
 ||ksehinkitw.hair^
 ||ksfqxcpx.page.link^
 ||kshrsf.icu^
+||kshuiz.top^
 ||kshzlyvbaaa.com^
 ||ksi2trk.com^
 ||ksjdkjh.ru^
@@ -73296,6 +74413,7 @@ ruanyifeng.com#@#a[href*=".apeclass.com"]
 ||kukckk.sagefinds.com^
 ||kukiwu.ru^
 ||kukrosti.com^
+||kukudm.com/mg/show2.js
 ||kukulm.com^
 ||kukury2hf8nd09.com^
 ||kulasid.com^
@@ -73419,6 +74537,7 @@ ruanyifeng.com#@#a[href*=".apeclass.com"]
 ||kwanvibist.com^
 ||kwbmkwej.com^
 ||kwcmrfb.cn^
+||kwdgudw.cn^
 ||kweiqox.beauty^
 ||kwflvcdn.000dn.com^
 ||kwgefe.com^
@@ -73539,8 +74658,10 @@ ruanyifeng.com#@#a[href*=".apeclass.com"]
 ||kywtndbtqldbvp.com^
 ||kyxfpvas.page.link^
 ||kyxnz.cn^
+||kyxw9itc.xyz^
 ||kyxw9itv.club^
 ||kyyuvzwq.page.link^
+||kyzx.xyZ^
 ||kz.cateredjapish.com^
 ||kz2oq0xm6ie7gn5dkswlpv6mfgci8yoe3xlqp12gjotp5fdjxs5ckztb8rzn.codes^
 ||kz8tr2.cn^
@@ -74816,6 +75937,7 @@ ruanyifeng.com#@#a[href*=".apeclass.com"]
 ||lencool.cn^
 ||lendc.xyz^
 ||lengejoberdak.pro^
+||lengmen.cc/assets/public/
 ||lengtikto.xyz^
 ||lenguae.com^
 ||lenkang.com^
@@ -74983,6 +76105,7 @@ ruanyifeng.com#@#a[href*=".apeclass.com"]
 ||levulicbenday.digital^
 ||levyteenagercrushing.com^
 ||lewdlygrips.top^
+||lewenma.com/js/read.js
 ||lewhrzv.xyz^
 ||lewio.scheme.corycabana.net^
 ||lewis.gct.com^
@@ -75005,6 +76128,7 @@ ruanyifeng.com#@#a[href*=".apeclass.com"]
 ||leyuzy.vip^
 ||leyxue.cn^
 ||lezboncoin.fr^
+||lezbrja.cn^
 ||lezepi.ru^
 ||lezntf.heydudeshoesusa.com^
 ||lezpress.fr^
@@ -75054,6 +76178,7 @@ ruanyifeng.com#@#a[href*=".apeclass.com"]
 ||lg.lotus.vn^
 ||lg777.club^
 ||lgad.cjpowercast.com.edgesuite.net^
+||lganilgll.cyou^
 ||lgbdxo.azazie.com^
 ||lgbxelnukhsil.xyz^
 ||lgcssusa.com^
@@ -75109,6 +76234,7 @@ ruanyifeng.com#@#a[href*=".apeclass.com"]
 ||lhiefl.com^
 ||lhinsights.com^
 ||lhioqxkralmy.com^
+||lhippac.cn^
 ||lhiswrkt.com^
 ||lhj.asia^
 ||lhkmedia.in^
@@ -75376,6 +76502,7 @@ ruanyifeng.com#@#a[href*=".apeclass.com"]
 ||lijie.in^
 ||lijie1010.top^
 ||lijit.com^
+||lijunkai.com^
 ||likablefix.pro^
 ||likdie.com^
 ||like.likewut.net^
@@ -75485,6 +76612,7 @@ ruanyifeng.com#@#a[href*=".apeclass.com"]
 ||lineside.networkrail.co.uk^
 ||linezing.com^
 ||lingamretene.com^
+||lingcde.cn^
 ||lingd.cn^
 ||lingerincle.com^
 ||linghangshouji.com^
@@ -75499,6 +76627,7 @@ ruanyifeng.com#@#a[href*=".apeclass.com"]
 ||lingquanba.wang^
 ||lingrethertantin.com^
 ||lingsiqiwu.com^
+||lingting.xin^
 ||lingtowprecide.com^
 ||lingyknubby.com^
 ||lingzhushijie.cn^
@@ -76410,6 +77539,7 @@ ruanyifeng.com#@#a[href*=".apeclass.com"]
 ||liuyansha.vip^
 ||liuyi22.cn^
 ||liuyimin5.cn^
+||liuyingtv.com/common/api_getAcode.php
 ||liuyuhuaa.cn^
 ||liuyun.name^
 ||liuziqiu.cn^
@@ -76548,6 +77678,7 @@ ruanyifeng.com#@#a[href*=".apeclass.com"]
 ||livyersremoval.com^
 ||liwanting0305.com^
 ||liwed.xyz^
+||liweidianqi.com/a*.js
 ||liweiling.xyz^
 ||liwnffsxdhn.com^
 ||liwq.club^
@@ -77043,6 +78174,7 @@ ruanyifeng.com#@#a[href*=".apeclass.com"]
 ||log-api.cli.im^
 ||log-api.huxiu.com^
 ||log-api.pangolin-sdk-toutiao-b.com^
+||log-api.pangolin-sdk-toutiao.com^
 ||log-collector.shopee.vn^
 ||log-dmp.suishenyun.cn^
 ||log-dttc.sggp.org.vn^
@@ -77602,6 +78734,7 @@ ruanyifeng.com#@#a[href*=".apeclass.com"]
 ||lontegismftvnf.com^
 ||looceemu.net^
 ||loodoost.net^
+||looedu.top^
 ||looeyurgers.com^
 ||loofstassah.com^
 ||loogreem.xyz^
@@ -77629,6 +78762,7 @@ ruanyifeng.com#@#a[href*=".apeclass.com"]
 ||looksthrilled.com^
 ||lookszone.ru^
 ||lookujie.net^
+||lookxiuxiu.com^
 ||lookypeacing.uno^
 ||loolausufouw.com^
 ||loolowhy.com^
@@ -77837,6 +78971,7 @@ ruanyifeng.com#@#a[href*=".apeclass.com"]
 ||low-lyingwh.cfd^
 ||low-sad.com^
 ||low1sneakerssverige.com^
+||lowadec.cn^
 ||lowdodrioon.com^
 ||lowdurantom.com^
 ||lowereasygoing.com^
@@ -78052,6 +79187,7 @@ ruanyifeng.com#@#a[href*=".apeclass.com"]
 ||lpgyfayg.page.link^
 ||lpirha.com^
 ||lpjgr.top^
+||lpjxzs.com^
 ||lplimjxiyx.com^
 ||lpmetorealiuk.info^
 ||lpmzt.cn^
@@ -78303,6 +79439,7 @@ ruanyifeng.com#@#a[href*=".apeclass.com"]
 ||lucidmedia.com^
 ||lucidtiger.com^
 ||lucificassents.com^
+||luciochen.cn^
 ||luckilyewe.com^
 ||lucklayed.info^
 ||lucknowcakes.in^
@@ -78508,6 +79645,7 @@ ruanyifeng.com#@#a[href*=".apeclass.com"]
 ||lv6od3a4sz12.www.logology.co^
 ||lvaazvwmmvwev.top^
 ||lvbngvy.com^
+||lvcha99.cc^
 ||lvdhg.scheme.corycabana.net^
 ||lvecygampj.com^
 ||lvhqntk.cn^
@@ -78594,6 +79732,7 @@ ruanyifeng.com#@#a[href*=".apeclass.com"]
 ||lxbndh.xyz^
 ||lxdqrtlvscuhj.xyz^
 ||lxfsimoastsiite.xyz^
+||lxg8s.xyz^
 ||lxhjaq.cn^
 ||lxhttbwm.page.link^
 ||lxiaho.lesfurets.com^
@@ -78811,6 +79950,7 @@ ruanyifeng.com#@#a[href*=".apeclass.com"]
 ||m.aetv.com^
 ||m.ailezhai.cn^
 ||m.alto.com^
+||m.atm.youku.com^
 ||m.aty.sohu.com^
 ||m.bankrollyourlife.com^
 ||m.bell.ca^
@@ -78833,6 +79973,7 @@ ruanyifeng.com#@#a[href*=".apeclass.com"]
 ||m.data.mob.com^
 ||m.delltechnologies.com^
 ||m.dglscm.cn^
+||m.do.downcdn.top^
 ||m.doubleclick.net^
 ||m.dq.ca^
 ||m.dq.com^
@@ -78890,6 +80031,7 @@ ruanyifeng.com#@#a[href*=".apeclass.com"]
 ||m.natural.ai^
 ||m.navi.com^
 ||m.nbm65.com^
+||m.nereus.live^
 ||m.nxtgn.us^
 ||m.olympia.it^
 ||m.one018.com^
@@ -78900,6 +80042,7 @@ ruanyifeng.com#@#a[href*=".apeclass.com"]
 ||m.petmire.com^
 ||m.pl.pornzone.tv^
 ||m.plateiq.com^
+||m.pmtong.shop^
 ||m.premier.info.shutterstock.com^
 ||m.providers.alto.com^
 ||m.qhxcdmfj.cn^
@@ -78917,6 +80060,7 @@ ruanyifeng.com#@#a[href*=".apeclass.com"]
 ||m.shoppreparcels.com^
 ||m.showaddict.com^
 ||m.simba.taobao.com^
+||m.slshiye.cn^
 ||m.smartmatch.email^
 ||m.spaceplus.my^
 ||m.staging.plateiq.com^
@@ -78941,13 +80085,16 @@ ruanyifeng.com#@#a[href*=".apeclass.com"]
 ||m.vpc.ca^
 ||m.vsxet.com^
 ||m.wa136.top^
+||m.wantemachine.com.cn^
 ||m.washmen.com^
 ||m.wenxuemi.cc^
 ||m.wishmindr.com^
 ||m.x-power.info^
 ||m.x81zw.com^
 ||m.xrum.info^
+||m.xylmdm.top^
 ||m.yes.youku.com^
+||m.yinghuacd.com/bar
 ||m.yocvn.com^
 ||m.zedcdn.me^
 ||m.zineworm.com^
@@ -79628,7 +80775,10 @@ ruanyifeng.com#@#a[href*=".apeclass.com"]
 ||mangoalmahs.com^
 ||mangoga.xyz^
 ||mangtoz.xyz^
+||manguan.vip^
 ||mangzoi.xyz^
+||manhuabei.com/assets/xiwang.js
+||manhuapi.com/style/js/common.js
 ||maniacalappliance.com^
 ||maniconclavis.com^
 ||manicurereprimand.com^
@@ -79640,6 +80790,7 @@ ruanyifeng.com#@#a[href*=".apeclass.com"]
 ||mankindcopiesrichest.com^
 ||manlungkey.com^
 ||manlytribute.com^
+||manmanju.com/mg/show*.js
 ||mannen-shopping.com^
 ||mannesoth.com^
 ||mannwn.com^
@@ -79699,6 +80850,7 @@ ruanyifeng.com#@#a[href*=".apeclass.com"]
 ||mapping.fun^
 ||mappyt.fr^
 ||mapsgalaxy.com^
+||mapsmnx.cyou^
 ||mapupdatezone.com^
 ||mapxiongan.cn^
 ||maqiang520.online^
@@ -79740,6 +80892,7 @@ ruanyifeng.com#@#a[href*=".apeclass.com"]
 ||mareswimming.com^
 ||marfeelcache.com^
 ||margaretanddavid.com^
+||margueritenice.com^
 ||marial.pro^
 ||marianneflog.com^
 ||maricich.actonservice.com^
@@ -79754,6 +80907,7 @@ ruanyifeng.com#@#a[href*=".apeclass.com"]
 ||marinsm.com^
 ||marisappear.pro^
 ||maritaltrousersidle.com^
+||marjorienice.com^
 ||markedcrayon.com^
 ||markedmeasure.com^
 ||markedpail.com^
@@ -81717,6 +82871,7 @@ ruanyifeng.com#@#a[href*=".apeclass.com"]
 ||mbveryu.top^
 ||mbvfawgcsnukb.com^
 ||mbww.com^
+||mbxsku.cn^
 ||mbxt.net^
 ||mbxudcghfy.com^
 ||mbxw.xyz^
@@ -82439,6 +83594,7 @@ ruanyifeng.com#@#a[href*=".apeclass.com"]
 ||meetrics.com^
 ||meetrics.net^
 ||meetsocialmeta.com^
+||meetsourhig.biz^
 ||meetwebclub.com^
 ||meeweb.com^
 ||meewireg.com^
@@ -82510,6 +83666,7 @@ ruanyifeng.com#@#a[href*=".apeclass.com"]
 ||meidd.cyou^
 ||meidd.xyz^
 ||meihaoxiangwang.com^
+||meihu56.cn^
 ||meiko.my^
 ||meilleurtelecharger.fr^
 ||meilunsc.com^
@@ -84371,6 +85528,7 @@ ruanyifeng.com#@#a[href*=".apeclass.com"]
 ||mftracking.com^
 ||mfuginehls.com^
 ||mfwlis.xyz^
+||mfxyqh.cn^
 ||mfypxtfqngxw.com^
 ||mfysdpnu.page.link^
 ||mg-navigation.eu^
@@ -84382,6 +85540,7 @@ ruanyifeng.com#@#a[href*=".apeclass.com"]
 ||mg.nezqmud.com^
 ||mg.xhkvff.cn^
 ||mg.yunchong6.cn^
+||mg.zgcqxjzny.cn^
 ||mg09.zhaopin.com^
 ||mg2connext.com^
 ||mgage.com^
@@ -84454,6 +85613,7 @@ ruanyifeng.com#@#a[href*=".apeclass.com"]
 ||mhggzg.com^
 ||mhglue.xyz^
 ||mhgshawy.guru^
+||mhhanman.xyz/data/my/myjs.js
 ||mhi9da.cn^
 ||mhidwg.elgiganten.se^
 ||mhinvest.actonservice.com^
@@ -84468,6 +85628,7 @@ ruanyifeng.com#@#a[href*=".apeclass.com"]
 ||mhrmpcoop.com.ph^
 ||mhrpusbstm.com^
 ||mhshopee.com^
+||mhslbgk.cn^
 ||mhtgdirbo.com^
 ||mhtky.cn^
 ||mhtrt.com^
@@ -84657,6 +85818,7 @@ ruanyifeng.com#@#a[href*=".apeclass.com"]
 ||mikhainpretts.xyz^
 ||mikhrmpwbtrip.com^
 ||mikkymax.com^
+||mikongdd.top^
 ||mil-privilegios.es^
 ||mila-vica.de^
 ||milacrechiack.com^
@@ -84681,6 +85843,9 @@ ruanyifeng.com#@#a[href*=".apeclass.com"]
 ||milfur.com^
 ||milgenial.uy^
 ||milibao.com^
+||milimili.tv/js/loadjs/jquery10.4.js
+||milimili.tv/js/loadjs/jquery10.7.js
+||milimili.tv/js/loadjs/jquery10.8.js
 ||milink.pandora.xiaomi.com^
 ||miliolaungated.space^
 ||militaryverse.com^
@@ -84894,6 +86059,7 @@ ruanyifeng.com#@#a[href*=".apeclass.com"]
 ||mipagerank.com^
 ||mipanel.me^
 ||mipcache.bdstatic.com^
+||mipcdn.com/c/s/by.manhuachi.com
 ||mipengine.baidu.com^
 ||mipwm.com^
 ||miqiks.com^
@@ -85155,6 +86321,7 @@ ruanyifeng.com#@#a[href*=".apeclass.com"]
 ||mkoh.top^
 ||mkopli-1.live^
 ||mkpioiwxoh.top^
+||mkqdj.cn^
 ||mkscuty.cn^
 ||mkshopmobi.xyz^
 ||mksogv.oneclickdrive.com^
@@ -85403,6 +86570,7 @@ ruanyifeng.com#@#a[href*=".apeclass.com"]
 ||mn.5.p2l.info^
 ||mn.mn.co.cu^
 ||mn1180.top^
+||mn123cass.xyz^
 ||mn1nm.com^
 ||mn230126pb.com^
 ||mnaspm.com^
@@ -86014,6 +87182,7 @@ ruanyifeng.com#@#a[href*=".apeclass.com"]
 ||monster.branch.rocks^
 ||monster.trk.agency^
 ||monsterbladehack.com^
+||monsteredward.com^
 ||monsterhack.org^
 ||monsterhosted.com^
 ||monsteriptv.se^
@@ -86263,6 +87432,7 @@ ruanyifeng.com#@#a[href*=".apeclass.com"]
 ||motrixi.com^
 ||motsardi.net^
 ||motsjnv.cn^
+||motuopj.cn^
 ||mouaa.com^
 ||moulaga.ncredaf.com^
 ||moultedpiroot.space^
@@ -86727,6 +87897,7 @@ ruanyifeng.com#@#a[href*=".apeclass.com"]
 ||msri.club^
 ||msrv.su^
 ||msrvt.net^
+||mssdhde.cn^
 ||mssdk-sg.byteoversea.com^
 ||mssdk-sg.tiktok.com^
 ||mssdkrt.xyz^
@@ -86913,6 +88084,7 @@ ruanyifeng.com#@#a[href*=".apeclass.com"]
 ||mudfishatabals.com^
 ||mudiriaspile.com^
 ||mudmonster.org^
+||mudroom.aquadisco.xyz^
 ||mudsishaiboo.com^
 ||mudwortlithog.website^
 ||mueid.xyz^
@@ -87049,6 +88221,7 @@ ruanyifeng.com#@#a[href*=".apeclass.com"]
 ||museuw.com^
 ||mushesarrear.com^
 ||mushroompalkadotchocolatebars.shop^
+||music.163.com/weapi/activity/downloadpage/config/get
 ||music.getyesappz1.com^
 ||music.myappzcenter.com^
 ||music611.com^
@@ -87141,6 +88314,7 @@ ruanyifeng.com#@#a[href*=".apeclass.com"]
 ||mutury.com^
 ||mutux.cfd^
 ||muwmedia.com^
+||muxing.city^
 ||muybjar.cn^
 ||muycpg.xyz^
 ||muyihh.top^
@@ -87580,6 +88754,7 @@ ruanyifeng.com#@#a[href*=".apeclass.com"]
 ||mygsyv.com^
 ||mygtmn.com^
 ||mygummyjelly.com^
+||myhaitang.xyz/assets/public/
 ||myhandshops.myshopify.com^
 ||myhappy-news.com^
 ||myhealth.ssmhealth.com^
@@ -87751,6 +88926,7 @@ ruanyifeng.com#@#a[href*=".apeclass.com"]
 ||myvisitors.se^
 ||myvisualiq.net^
 ||mywb.fr^
+||mywb3.com^
 ||mywebclick.net^
 ||mywebpage.ni.com^
 ||mywebstats.org^
@@ -87887,6 +89063,7 @@ ruanyifeng.com#@#a[href*=".apeclass.com"]
 ||n5.nskfyl.com^
 ||n522rv1.cn^
 ||n5725.com^
+||n5m5.com/static/js/playcon.js
 ||n5ta9.site^
 ||n6.nskfyl.com^
 ||n6579.com^
@@ -88521,6 +89698,7 @@ ruanyifeng.com#@#a[href*=".apeclass.com"]
 ||nbcollectretry.kugou.com^
 ||nbcxa65t001z.net.jumia.ug^
 ||nbdiscount.com^
+||nbfieef.cn^
 ||nbfopy.jjshouse.com^
 ||nbg.seagate.com^
 ||nbgpbzwz.page.link^
@@ -89092,6 +90270,7 @@ ruanyifeng.com#@#a[href*=".apeclass.com"]
 ||new.soul-path.me^
 ||new.xiongzhangad.com^
 ||new.zalizo.pp.ua^
+||new.zhuanquxian.com^
 ||new17write.com^
 ||new23tesla.com^
 ||new24h.pro^
@@ -89454,6 +90633,7 @@ ruanyifeng.com#@#a[href*=".apeclass.com"]
 ||newyiba.top^
 ||newzilla.name^
 ||newzmaker.me^
+||nex.163.com/q?
 ||nex.163.com^
 ||nex.corp.163.com^
 ||nexac.com^
@@ -89519,6 +90699,7 @@ ruanyifeng.com#@#a[href*=".apeclass.com"]
 ||nfkd2ug8d9.com^
 ||nfkq8jy5db0b.com^
 ||nfldgbt.xyz^
+||nflks.cn^
 ||nfoxlyvassg.com^
 ||nfshacksreborn.com^
 ||nftfyvbfbonpe.com^
@@ -89575,6 +90756,7 @@ ruanyifeng.com#@#a[href*=".apeclass.com"]
 ||ngfruitiesmatc.info^
 ||nggdwfz.cn^
 ||nggw.sync.oystergardens.club^
+||nghdp.cn^
 ||nghiencltx.com^
 ||ngine.tuistone.com^
 ||ngishc.top^
@@ -89833,6 +91015,7 @@ ruanyifeng.com#@#a[href*=".apeclass.com"]
 ||niltibse.net^
 ||nilzq.xyz^
 ||nim.qiyukf.com^
+||nimaxrv.cn^
 ||nimazhale.top^
 ||nimblebird.co^
 ||nimbleswan.io^
@@ -89905,6 +91088,7 @@ ruanyifeng.com#@#a[href*=".apeclass.com"]
 ||nirentang.com^
 ||nirvezal.com^
 ||nishoagn.com^
+||nisihu.com.cn^
 ||nisonfofztaf.com^
 ||nissifresh.com^
 ||nitasodo.ru^
@@ -90519,6 +91703,7 @@ ruanyifeng.com#@#a[href*=".apeclass.com"]
 ||nounct.com^
 ||nounooch.com^
 ||nounrespectively.com^
+||nourcomip.fun^
 ||noureewo.com^
 ||nourishinghorny.com^
 ||noushe.zevvle.com^
@@ -90569,6 +91754,7 @@ ruanyifeng.com#@#a[href*=".apeclass.com"]
 ||novosti247.com^
 ||novostimira.biz^
 ||novostisporta.info^
+||novret.com/?clickid=
 ||novunu.football-plyus.net^
 ||now-dns.net^
 ||now-dns.org^
@@ -91487,6 +92673,7 @@ ruanyifeng.com#@#a[href*=".apeclass.com"]
 ||obedirectukly.info^
 ||obeip.com^
 ||oberry.cn^
+||obertsiamw.fun^
 ||obeus.com^
 ||obeyedortostr.cc^
 ||obeyroman.com^
@@ -91947,11 +93134,13 @@ ruanyifeng.com#@#a[href*=".apeclass.com"]
 ||oflike.com^
 ||ofnumeltor.com^
 ||ofoockoo.com^
+||ofooe.cn^
 ||ofphanpytor.com^
 ||ofpiplupon.com^
 ||ofqaqsazxli.com^
 ||ofqopmnpia.com^
 ||ofracosmetics.fr^
+||ofreadingand.biz^
 ||ofregahen.com^
 ||ofregahen.xyz^
 ||ofrumhiswhelectua.info^
@@ -91972,6 +93161,7 @@ ruanyifeng.com#@#a[href*=".apeclass.com"]
 ||og.elemeuric.com^
 ||og.zyzjpx.cn^
 ||ogaewcqgj.com^
+||oganilglk.cyou^
 ||ogb2.biopur-leanature.fr^
 ||ogb2.biovie.com^
 ||ogb2.eauthermalejonzac.com^
@@ -92006,6 +93196,7 @@ ruanyifeng.com#@#a[href*=".apeclass.com"]
 ||ogniicbnb.ru^
 ||ognimyjm.com^
 ||ognsotmhjx.com^
+||ognujxj.cn^
 ||ognyvo.ru^
 ||ogocvet.ru^
 ||ogogear.com^
@@ -92038,6 +93229,7 @@ ruanyifeng.com#@#a[href*=".apeclass.com"]
 ||ohaijoub.com^
 ||ohbayersbur.pro^
 ||ohchat.net^
+||ohchehw.cn^
 ||ohdrgrpfyvughty.xyz^
 ||ohdvafp.xyz^
 ||ohelgbbileii.xyz^
@@ -92099,6 +93291,7 @@ ruanyifeng.com#@#a[href*=".apeclass.com"]
 ||oi.hqbang.com^
 ||oi.lesbianbliss.com^
 ||oi.transhero.com^
+||oi9rp7.online^
 ||oiarske.com^
 ||oiat.dow.com^
 ||oiavbcpu.page.link^
@@ -92239,6 +93432,7 @@ ruanyifeng.com#@#a[href*=".apeclass.com"]
 ||okfgsbtmcnh.com^
 ||okfileload.com^
 ||okfiles.net^
+||okforwardt.fun^
 ||okgvtr.com^
 ||okidata.fr^
 ||okienamare.com^
@@ -92497,6 +93691,7 @@ ruanyifeng.com#@#a[href*=".apeclass.com"]
 ||omkt.co^
 ||omkxadadsh.com^
 ||omkxes.xyz^
+||omlube.com/O/1000970O3001405O1O.js
 ||omlube.com^
 ||ommaqnopxh.com^
 ||ommatearittock.digital^
@@ -92820,6 +94015,7 @@ ruanyifeng.com#@#a[href*=".apeclass.com"]
 ||oneqanatclub.com^
 ||onerror.cf^
 ||onerror.gq^
+||onesignal.com^$third-party
 ||onesocailse.com^
 ||onesols.com^
 ||onesourcebackground.actonservice.com^
@@ -95079,6 +96275,7 @@ ruanyifeng.com#@#a[href*=".apeclass.com"]
 ||panoz.xyz^
 ||panpant.xyz^
 ||panruo.net.cn^
+||pansclub.xyz^
 ||pansymerbaby.com^
 ||pantafives.com^
 ||pantatec.ae^
@@ -96344,6 +97541,7 @@ ruanyifeng.com#@#a[href*=".apeclass.com"]
 ||pdfurqok.com^
 ||pdhhmf.cn^
 ||pdhjnz.xyz^
+||pdiabbi.cn^
 ||pdiboss.in^
 ||pdiyluhfttb.xyz^
 ||pdjjrh.xyz^
@@ -96372,6 +97570,7 @@ ruanyifeng.com#@#a[href*=".apeclass.com"]
 ||pdqkkzouflx.com^
 ||pdridjiviq.com^
 ||pdrqubl.com^
+||pdrtcgfx.cn^
 ||pds-midea.com^
 ||pds.gmarket.co.kr^
 ||pdsgaj.piquadro.com^
@@ -96847,6 +98046,7 @@ ruanyifeng.com#@#a[href*=".apeclass.com"]
 ||pexavfro.xyz^
 ||pexi.nl^
 ||pexkmaebfy.xyz^
+||pexnjio.cn^
 ||pexoenne.site^
 ||pexuvais.net^
 ||peyqvn.falke.com^
@@ -96878,6 +98078,7 @@ ruanyifeng.com#@#a[href*=".apeclass.com"]
 ||pfjzzl.com^
 ||pflexads.com^
 ||pflhnpu.cn^
+||pflrv.cn^
 ||pflvyqvpiwdnl.com^
 ||pfnmryfxnds.com^
 ||pfqwbqs.cn^
@@ -97295,10 +98496,12 @@ ruanyifeng.com#@#a[href*=".apeclass.com"]
 ||piaads.com^
 ||piads.vn^
 ||piaigyyigyghjmi.xyz^
+||pianba.tv/api/web_htmls.js
 ||pianistcampingroom.com^
 ||piano.io^
 ||pianoalter.xyz^
 ||pianoassort.com^
+||pianyuan.la/slade.js
 ||piaochong.co^
 ||piaozhouyyds.com^
 ||piar-m.ru^
@@ -97557,6 +98760,7 @@ ruanyifeng.com#@#a[href*=".apeclass.com"]
 ||pinwalerompers.com^
 ||pinyierp.com^
 ||pinyoux.com^
+||pinyuege.net/template/pinygm/public/js/
 ||piodeachiniot.com^
 ||piokf.sync.oystergardens.club^
 ||pion.loveserials.net^
@@ -97929,6 +99133,7 @@ ruanyifeng.com#@#a[href*=".apeclass.com"]
 ||pkgo.com.ve^
 ||pkhhyool.com^
 ||pkhntvfvkho.com^
+||pki.net.cn/public/1/plugins
 ||pkia.fr^
 ||pkiawn.konvy.com^
 ||pkimbc.bestsecret.com^
@@ -98522,6 +99727,7 @@ ruanyifeng.com#@#a[href*=".apeclass.com"]
 ||pmeduhamndax.com^
 ||pmelon.com^
 ||pmemedicalstore.ae^
+||pmensrl.cn^
 ||pmetorealiukze.xyz^
 ||pmeuehivfps.com^
 ||pmgroyaloak.com^
@@ -98536,6 +99742,7 @@ ruanyifeng.com#@#a[href*=".apeclass.com"]
 ||pmsrvr.com^
 ||pmssrv.mercadolibre.com.ve^
 ||pmtkhcr.com^
+||pmvlwjy.cn^
 ||pmxalz.xyz^
 ||pmzbrfpijoa.com^
 ||pmzer.com^
@@ -98651,6 +99858,7 @@ ruanyifeng.com#@#a[href*=".apeclass.com"]
 ||pognamta.net^
 ||pogosearch.com^
 ||pogothere.xyz^
+||pogwua.cn^
 ||pogyreflush.com^
 ||pohlbe.com^
 ||pohpll.xyz^
@@ -99010,6 +100218,7 @@ ruanyifeng.com#@#a[href*=".apeclass.com"]
 ||poqoiwn.com^
 ||poqup.com^
 ||poqwnllkm.com^
+||poqwua.cn^
 ||porcatenonform.com^
 ||porcelainfurtherties.com^
 ||porcelainprivatelybrush.com^
@@ -99394,6 +100603,7 @@ ruanyifeng.com#@#a[href*=".apeclass.com"]
 ||pqxyqq.com^
 ||pqzedteh.page.link^
 ||pr-agent.jp^
+||pr-bh.ybp.yahoo.com^
 ||pr-chart.com^
 ||pr-chart.de^
 ||pr-linktausch.de^
@@ -100746,6 +101956,8 @@ ruanyifeng.com#@#a[href*=".apeclass.com"]
 ||pstat.akathists.com^
 ||pstat.goodremotejobs.com^
 ||pstatic.datafastguru.info^
+||pstatp.com/growth/fe_sdk/bannersdk
+||pstatp.com/toutiao/push.js
 ||pstats.cloudpal.app^
 ||pstats.com^
 ||pstmrk.it^
@@ -100855,6 +102067,7 @@ ruanyifeng.com#@#a[href*=".apeclass.com"]
 ||ptffvpjhhb.com^
 ||ptflrj.xyz^
 ||ptfxh.com^
+||ptgdb.cn^
 ||pthejzb.com^
 ||pthhmlxaruxpd.com^
 ||pthzqqvrjyou.com^
@@ -100992,6 +102205,7 @@ ruanyifeng.com#@#a[href*=".apeclass.com"]
 ||pubfruitlesswording.com^
 ||pubfuture-ad.com^
 ||pubfuture.com^
+||pubfuture.com^$third-party
 ||pubfutureads.com^
 ||pubg-csgo.ru^
 ||pubg-trade.com^
@@ -101096,6 +102310,9 @@ ruanyifeng.com#@#a[href*=".apeclass.com"]
 ||puerq.com^
 ||puerty.com^
 ||pueyrredonmotos.com^
+||pufei.cc/skin/footer.js
+||pufei.cc/skin/middle.js
+||pufei8.com/skin/t6.html
 ||pufexedu.ru^
 ||puffarena.co.uk^
 ||puffarena.com^
@@ -101517,11 +102734,13 @@ ruanyifeng.com#@#a[href*=".apeclass.com"]
 ||pvrtx.net^
 ||pvrugd.nieruchomosci-online.pl^
 ||pvsxzlb.com^
+||pvtest.zol.com.cn^
 ||pvtypsgueyqey.com^
 ||pvwtkxcpsrcsd.com^
 ||pvx.autohome.com.cn^
 ||pvxvazbehd.com^
 ||pvxymnz.cn^
+||pvymlsvo.xyz^
 ||pw.gigazine.net^
 ||pwbmdalngizhz.com^
 ||pwdplz.com^
@@ -101615,6 +102834,7 @@ ruanyifeng.com#@#a[href*=".apeclass.com"]
 ||pychrpui.page.link^
 ||pycvlnu.com^
 ||pydnsv.ejobs.ro^
+||pyeditingpro.biz^
 ||pyerc.com^
 ||pyfqqcekcgd.xyz^
 ||pygokay.cn^
@@ -101671,6 +102891,7 @@ ruanyifeng.com#@#a[href*=".apeclass.com"]
 ||pziad.com^
 ||pzimff.com^
 ||pzjizsyf.icu^
+||pzkrgcp.cn^
 ||pzlxnd.xyz^
 ||pzoynkxexnx.com^
 ||pzqfmhy.com^
@@ -101686,6 +102907,8 @@ ruanyifeng.com#@#a[href*=".apeclass.com"]
 ||q-counter.com^
 ||q-stats.nl^
 ||q.azcentral.com^
+||q.baminw.com.cn^
+||q.f05.xyz^
 ||q.nasdaq.com^
 ||q.quora.com^
 ||q.skiplino.com^
@@ -101842,6 +103065,7 @@ ruanyifeng.com#@#a[href*=".apeclass.com"]
 ||qcffrrsyaxcccx.xyz^
 ||qcgtoz.cwjobs.co.uk^
 ||qchannel01.cn^
+||qchannel03.cn$third-party
 ||qchannel03.cn^
 ||qchannel04.cn^
 ||qchannel0d.cn^
@@ -101870,6 +103094,7 @@ ruanyifeng.com#@#a[href*=".apeclass.com"]
 ||qcv5.blogtruyenmoi.com^
 ||qcvbtrtlmjdhvxe.xyz^
 ||qcvf.ifeng.com^
+||qczcxe.cn^
 ||qcztoeks.page.link^
 ||qd.js.sanjiangge.cc^
 ||qd.wanjuanba.com^
@@ -101917,6 +103142,7 @@ ruanyifeng.com#@#a[href*=".apeclass.com"]
 ||qdyazc.com^
 ||qdydwlkj3.top^
 ||qdywarwh.page.link^
+||qdzilh.cn^
 ||qdzyspjx.com^
 ||qdzzg.sync.oystergardens.club^
 ||qe.notersmilks.com^
@@ -101945,6 +103171,7 @@ ruanyifeng.com#@#a[href*=".apeclass.com"]
 ||qeyps.com^
 ||qezfer.motelamiio.com^
 ||qezpjlp.cn^
+||qf1d.top^
 ||qfbles.elefant.ro^
 ||qfblqq.com^
 ||qfcdgy.cn^
@@ -102019,7 +103246,10 @@ ruanyifeng.com#@#a[href*=".apeclass.com"]
 ||qhfcsd.rastaclat.com^
 ||qhfjamsmjyn.com^
 ||qhgbkr.cn^
+||qhicumg.cn^
 ||qhimagje.page.link^
+||qhimgs4.com/*.gif$domain=hdmoli.com
+||qhimgs4.com/*.gif$domain=www.jiaozi.me
 ||qhip.com^
 ||qhiqlwcwguv.com^
 ||qhjm600.com^
@@ -102066,6 +103296,7 @@ ruanyifeng.com#@#a[href*=".apeclass.com"]
 ||qiaobaba.top^
 ||qiaoenyl.xyz^
 ||qiaohong.ltd^
+||qiaolianshu.com^
 ||qiaopiguniang.com^
 ||qiaoxiaomiao.com^
 ||qiapuyyds.com^
@@ -102092,11 +103323,14 @@ ruanyifeng.com#@#a[href*=".apeclass.com"]
 ||qiji1.jdwx.info^
 ||qijiandian.xyz^
 ||qijiuwangluo.ltd^
+||qijpaih.cn^
 ||qiklsv.com^
 ||qilashou.com^
 ||qilinwh.cn^
 ||qilungroup.cn^
 ||qimacdg.cn^
+||qimiaomh.com/muban/m/static/js/common.js
+||qimiaomh.com/muban/m/static/js/hhh.js
 ||qimwsxukxwnhba.xyz^
 ||qingfeng.homes^
 ||qingganlan.ltd^
@@ -102132,6 +103366,7 @@ ruanyifeng.com#@#a[href*=".apeclass.com"]
 ||qirls.info^
 ||qirnz.com^
 ||qiruidea.com^
+||qishula.com/css/ding.js
 ||qist.me^
 ||qisxlwbt.page.link^
 ||qitou20230204.live^
@@ -102180,6 +103415,7 @@ ruanyifeng.com#@#a[href*=".apeclass.com"]
 ||qjwpy.com^
 ||qjxiyt.respect-shoes.ru^
 ||qjxszp.cn^
+||qjxys.cn^
 ||qjyoanpkf.com^
 ||qjyzj.cn^
 ||qkalpmwsvfwqqy.com^
@@ -102204,6 +103440,7 @@ ruanyifeng.com#@#a[href*=".apeclass.com"]
 ||qksrv.net^
 ||qksrv1.com^
 ||qksz.net^
+||qktmwiq.cn^
 ||qkuvmwf.cn^
 ||qkwsqq.com^
 ||qkyliljavzci.com^
@@ -102359,6 +103596,7 @@ ruanyifeng.com#@#a[href*=".apeclass.com"]
 ||qpxohp.com^
 ||qpzsh.cn^
 ||qpztub.xyz^
+||qq-hls.xyz^
 ||qq0010.xyz^
 ||qq0017.xyz^
 ||qq163com.cn^
@@ -102401,6 +103639,8 @@ ruanyifeng.com#@#a[href*=".apeclass.com"]
 ||qqqqbdma.com^
 ||qqqwes.com^
 ||qqqwww987.online^
+||qqqwww987.site^
+||qqqwww987.space^
 ||qqrzioas.page.link^
 ||qqshoe.ru^
 ||qqskinsx.fun^
@@ -102488,6 +103728,7 @@ ruanyifeng.com#@#a[href*=".apeclass.com"]
 ||qsorirgzqw.com^
 ||qsoxiekkfjl.com^
 ||qsptmejr.page.link^
+||qsptv.net/tpl/newstyle/js/pv.js
 ||qss-client.qq.com^
 ||qsstats.com^
 ||qstyxveuwcdk.com^
@@ -102498,6 +103739,7 @@ ruanyifeng.com#@#a[href*=".apeclass.com"]
 ||qtbaye.mona.ch^
 ||qtbb6.com^
 ||qtciam.xyz^
+||qtd95fj.online^
 ||qtdkfh.beautywelt.de^
 ||qtejflbrrtesvk.com^
 ||qtfnvf.ethika.com^
@@ -102505,6 +103747,7 @@ ruanyifeng.com#@#a[href*=".apeclass.com"]
 ||qtienly.top^
 ||qtimowbaqnd.xyz^
 ||qtj0.destinia.pl^
+||qtmdzsj.cn^
 ||qtmojo.cn^
 ||qtmojo.com^
 ||qtq632.com^
@@ -102911,6 +104154,7 @@ ruanyifeng.com#@#a[href*=".apeclass.com"]
 ||qwe0231141.bj.bcebos.com^
 ||qwe4456133.justthegays.com^
 ||qweasd.vip^
+||qweewq2021.online^
 ||qweewq2021.site^
 ||qweoc88123.top^
 ||qwer0001.top^
@@ -103016,6 +104260,7 @@ ruanyifeng.com#@#a[href*=".apeclass.com"]
 ||qz496amxfh87mst.com^
 ||qzbxfs.com^
 ||qzcxtm.mango.com^
+||qzda.cc^
 ||qzdaren.com^
 ||qzdmvwewzxzzze.com^
 ||qzeavzrfaoqn.com^
@@ -103027,6 +104272,7 @@ ruanyifeng.com#@#a[href*=".apeclass.com"]
 ||qzlog.com^
 ||qznbiamj.page.link^
 ||qznjujv.xyz^
+||qzos9ou.xyz^
 ||qzpb.qq.com^
 ||qzpbwq.com^
 ||qzpkxf.edenboutique.ro^
@@ -103132,6 +104378,7 @@ ruanyifeng.com#@#a[href*=".apeclass.com"]
 ||r2r.utas.edu.au^
 ||r3.ritikajoshi.com^
 ||r3.romeflirt.com^
+||r36ku.site^
 ||r3adyt0download.com^
 ||r3oodleaw5au4ssir.com^
 ||r3sgtlt.cn^
@@ -103457,6 +104704,7 @@ ruanyifeng.com#@#a[href*=".apeclass.com"]
 ||rapolok.com^
 ||rappenaphrite.com^
 ||rapradwye.live^
+||rapsmnz.cyou^
 ||rapt.com^
 ||raptapee.com^
 ||raptingy.net^
@@ -103615,6 +104863,7 @@ ruanyifeng.com#@#a[href*=".apeclass.com"]
 ||rbfive.bid^
 ||rbfour.bid^
 ||rbgrckaysvrp.com^
+||rbioclv.cn^
 ||rbipb.com^
 ||rbis-solutions.averydennison.com^
 ||rbjn.co.id^
@@ -103648,6 +104897,7 @@ ruanyifeng.com#@#a[href*=".apeclass.com"]
 ||rc.rlcdn.com^
 ||rc.visionsolutions.com^
 ||rc.vtex.com.br^
+||rc7e.top^
 ||rcadserver.com^
 ||rcblfd.xyz^
 ||rcblkkhfvrxyn.com^
@@ -103841,6 +105091,7 @@ ruanyifeng.com#@#a[href*=".apeclass.com"]
 ||readiong.net^
 ||readirectly.com^
 ||readly-renterval.icu^
+||readme.red^
 ||readme.ru^
 ||readnewstoday.ru^
 ||readnos.com^
@@ -103940,6 +105191,7 @@ ruanyifeng.com#@#a[href*=".apeclass.com"]
 ||realvids.online^
 ||realvids.space^
 ||realvu.net^
+||realwanghao.com^
 ||realwap.net^
 ||realytics.io^
 ||realytics.net^
@@ -104907,6 +106159,7 @@ ruanyifeng.com#@#a[href*=".apeclass.com"]
 ||reporting.singlefeed.com^
 ||reportinglogger.my.rightster.com^
 ||reportions.club^
+||reportlog.dftoutiao.com^
 ||reports-api.sqreen.io^
 ||reports-tsi.tangerine.io^
 ||reports.hibu.com^
@@ -106271,6 +107524,7 @@ ruanyifeng.com#@#a[href*=".apeclass.com"]
 ||ropesunfamiliar.com^
 ||ropft.sync.oystergardens.club^
 ||roqiwno.com^
+||ror12.cc^
 ||rordukinarilyhuke.info^
 ||roredi.com^
 ||rorer.ru^
@@ -106516,6 +107770,7 @@ ruanyifeng.com#@#a[href*=".apeclass.com"]
 ||rqz4.supdigital.fr^
 ||rr.giggertji.com^
 ||rr.pochengweiyuan.com^
+||rr.tracker.mobiletracking.ru^
 ||rrclassic.in^
 ||rrdtjj.top^
 ||rreauksofthecom.xyz^
@@ -106609,6 +107864,7 @@ ruanyifeng.com#@#a[href*=".apeclass.com"]
 ||rsvp.heatexperience.com^
 ||rsvp.markettraders.com^
 ||rsvpgenius.com^
+||rsvqlz.cn^
 ||rsvvfx.xyz^
 ||rsx.afterpay.com^
 ||rsxocgqnu.com^
@@ -106942,6 +108198,7 @@ ruanyifeng.com#@#a[href*=".apeclass.com"]
 ||rtdsheet.com^
 ||rtdvabus.page.link^
 ||rtdxqq.com^
+||rte.fuoo1.top^
 ||rteneme.ru^
 ||rtfmakw.com^
 ||rthmhocfdb.com^
@@ -107274,6 +108531,7 @@ ruanyifeng.com#@#a[href*=".apeclass.com"]
 ||rvadnet.com^
 ||rvbiocn.cn^
 ||rvbqze.albamoda.de^
+||rvbztg.cn^
 ||rvddfchkj.xyz^
 ||rvdnyq.topito.com^
 ||rverxn.autosphere.fr^
@@ -107422,6 +108680,7 @@ ruanyifeng.com#@#a[href*=".apeclass.com"]
 ||rznscya.cn^
 ||rzoevr.qvc.de^
 ||rzqdqw.com^
+||rzsgxmm.cn^
 ||rztrkr.com^
 ||rzviy.com^
 ||rzwhlgvzny.com^
@@ -107633,6 +108892,7 @@ ruanyifeng.com#@#a[href*=".apeclass.com"]
 ||s.toyotafinancial.com^
 ||s.tuoitre.vn^
 ||s.ufile.cc^
+||s.union.360.cn^
 ||s.useeffectbyexample.com^
 ||s.usenix.org^
 ||s.valuemedia-ltd.com^
@@ -108186,6 +109446,7 @@ ruanyifeng.com#@#a[href*=".apeclass.com"]
 ||saisiddhipls.com^
 ||saison-x.com^
 ||saisonstream.com^
+||saitef.cn^
 ||saiwecee.com^
 ||saiwhoal.xyz^
 ||saiwhute.com^
@@ -108806,6 +110067,7 @@ ruanyifeng.com#@#a[href*=".apeclass.com"]
 ||sb5.shble.com^
 ||sb6.shble.com^
 ||sb6688.xyz^
+||sb6k.top^
 ||sb7.shble.com^
 ||sb89347.com^
 ||sbaffiliates.com^
@@ -108817,6 +110079,7 @@ ruanyifeng.com#@#a[href*=".apeclass.com"]
 ||sbcjahdc.com^
 ||sbcomniture.focus.de^
 ||sbcpower.com^
+||sbdebcz.cn^
 ||sbdhdq.zeeman.com^
 ||sbdtds.com^
 ||sbdvjsbjslkv.com^
@@ -108946,6 +110209,7 @@ ruanyifeng.com#@#a[href*=".apeclass.com"]
 ||sbzcxlyq.page.link^
 ||sc-analytics.appspot.com^
 ||sc-forbes.forbes.com^
+||sc-gov-cn.website^
 ||sc-nossl.speakeasy.net^
 ||sc-static.net^
 ||sc.5.p2l.info^
@@ -109381,6 +110645,7 @@ ruanyifeng.com#@#a[href*=".apeclass.com"]
 ||scuhuh.cucannetshop.jp^
 ||scullerropeman.digital^
 ||sculpturelooking.com^
+||scupio.com/js/ad.js
 ||scupio.com^
 ||scupio.net^
 ||scure-royaibamk.com^
@@ -109528,6 +110793,7 @@ ruanyifeng.com#@#a[href*=".apeclass.com"]
 ||sdkapp.uve.weibo.com^
 ||sdkauth.hpplay.cn^
 ||sdkclick.mobile.sina.cn^
+||sdkconfig.ad.intl.xiaomi.com^
 ||sdkconfig.ad.xiaomi.com^
 ||sdkconfig.play.aiseet.atianqi.com^
 ||sdkconfig.video.qq.com^
@@ -110665,6 +111931,7 @@ ruanyifeng.com#@#a[href*=".apeclass.com"]
 ||sentry.fidibo.net^
 ||sentry.footballiapp.com^
 ||sentry.hamravesh.com^
+||sentry.io^$third-party
 ||sentry.malltina.com^
 ||sentry.mba^
 ||sentry.mediacdn.vn^
@@ -111647,6 +112914,9 @@ ruanyifeng.com#@#a[href*=".apeclass.com"]
 ||shimmedlocated.com^
 ||shimmering-novel.pro^
 ||shimmeringconcert.com^
+||shimo.im/*/ads?
+||shimo.im/kong-api/ads
+||shimo.im/lizard-api/ads
 ||shinasi.info^
 ||shindyprayhrs.com^
 ||shinebliss.com^
@@ -112271,10 +113541,12 @@ ruanyifeng.com#@#a[href*=".apeclass.com"]
 ||show-msgch.qq.com^
 ||show-review.com^
 ||show.9zwang.com^
+||show.aklm.cc^
 ||show.decorex.com^
 ||show.everytell.com^
 ||show.findqc.com^
 ||show.kc.taotaosou.com^
+||show.meituangov.cn^
 ||show.pinyoux.com^
 ||show.qx15.com^
 ||show.re.taobao.com^
@@ -112365,6 +113637,7 @@ ruanyifeng.com#@#a[href*=".apeclass.com"]
 ||shubasairy.life^
 ||shucaihangjia.com^
 ||shufan.club^
+||shufapeixun.shop^
 ||shuffele.com^
 ||shuffleskinz.com^
 ||shuglaursech.com^
@@ -112636,6 +113909,7 @@ ruanyifeng.com#@#a[href*=".apeclass.com"]
 ||simility.com^
 ||similm.xyz^
 ||simiousfinfish.uno^
+||simiyue2.com^
 ||simkindisyoke.space^
 ||simnasfikpunhas.com^
 ||simon184.cn^
@@ -112703,6 +113977,7 @@ ruanyifeng.com#@#a[href*=".apeclass.com"]
 ||simuld.com^
 ||simultaneouslyagreeingcontradiction.com^
 ||sina-img.club^
+||sina.cn/cm/sinaads_
 ||sinaalicdn.com^
 ||sinabuy.cn^
 ||sinatraworthy.uno^
@@ -112906,6 +114181,7 @@ ruanyifeng.com#@#a[href*=".apeclass.com"]
 ||sivashekimevi.com^
 ||sivastblab.org^
 ||siversbesomer.space^
+||siwei.pub^
 ||six9e.canal.fr^
 ||sixassertive.com^
 ||sixauthority.com^
@@ -112917,6 +114193,7 @@ ruanyifeng.com#@#a[href*=".apeclass.com"]
 ||sixsigmatraffic.com^
 ||sixteeeex.com^
 ||siyl.net^
+||siz3wxt8p.shop^
 ||sizcsi.eobuv.cz^
 ||sizeilksohs.com^
 ||sizesidewalk.com^
@@ -112929,6 +114206,7 @@ ruanyifeng.com#@#a[href*=".apeclass.com"]
 ||sjarvis.taobao.com^
 ||sjbaiduadv1.redou.com^
 ||sjbgyak.cn^
+||sjdfuvz.cn^
 ||sjevdjqhdmlelo.com^
 ||sjgnskf.com^
 ||sjh.baidu.com^
@@ -113431,6 +114709,7 @@ ruanyifeng.com#@#a[href*=".apeclass.com"]
 ||sls2.loisirsencheres.com^
 ||slshiye.cn^
 ||slsofficial.co.id^
+||slsuggestion.live^
 ||sltcp.cn^
 ||sltint.adv.ott.cibntv.net^
 ||sltle.icu^
@@ -116665,6 +117944,8 @@ ruanyifeng.com#@#a[href*=".apeclass.com"]
 ||snaggy-screen.su^
 ||snaggy.su^
 ||snaglighter.com^
+||snailok.com/template/stui_tpl/sdfsdfzxxsa/dxf.js
+||snailok.com/template/stui_tpl/sdfsdfzxxsa/heade.js
 ||snailsengine.com^
 ||snailteasesimulator.com^
 ||snailthreatenedinvited.com^
@@ -116724,6 +118005,7 @@ ruanyifeng.com#@#a[href*=".apeclass.com"]
 ||snbnhngl.ifeng.com^
 ||snbwyi.heine.at^
 ||sncfashionbeats.com^
+||sncop.uioozpxq.com^
 ||sncop.uioozpxq.com^$all
 ||snd.freshstartnews.com^
 ||sndcoe.ac.in^
@@ -116833,6 +118115,7 @@ ruanyifeng.com#@#a[href*=".apeclass.com"]
 ||so.blueplus.ch^
 ||so.bluewin.ch^
 ||so.boh.com^
+||so.clzgd.com^
 ||so.desertschools.org^
 ||so.opentable.co.uk^
 ||so.opentable.com^
@@ -116964,6 +118247,7 @@ ruanyifeng.com#@#a[href*=".apeclass.com"]
 ||sodreekrukiy.com^
 ||sodreh.com^
 ||sodrwtgq.page.link^
+||sodu2020.com/js/ppc.js
 ||sodudak.ru^
 ||soejzg.efe.com.pe^
 ||soelui.butosklep.pl^
@@ -117022,6 +118306,7 @@ ruanyifeng.com#@#a[href*=".apeclass.com"]
 ||softwaretohack.com^
 ||softwaretricks.net^
 ||softwaretun.com^
+||sofunlib.com/assets/publish
 ||sogadetin.com^
 ||sogemad.net^
 ||sogesta.cl^
@@ -117029,6 +118314,7 @@ ruanyifeng.com#@#a[href*=".apeclass.com"]
 ||soggysponge.com^
 ||soggyzoo.com^
 ||soglkuki.prolexgroup.ru^
+||sogo.uc.continuefaf.top^
 ||sogou.st^
 ||sogov587.top^
 ||sohiuc.sheego.de^
@@ -119906,9 +121192,11 @@ ruanyifeng.com#@#a[href*=".apeclass.com"]
 ||static.adconnect.vn^
 ||static.admaximize.com^
 ||static.adright.com^
+||static.ads-twitter.com^
 ||static.aio.media^
 ||static.analytics-site.com^
 ||static.app.m.letv.com^
+||static.cdnativepush.com^
 ||static.clickscloud.net^
 ||static.cz01.cn^
 ||static.doubleclick.net^
@@ -119924,6 +121212,7 @@ ruanyifeng.com#@#a[href*=".apeclass.com"]
 ||static.g.ppstream.com^
 ||static.g.pptv.com^
 ||static.gaomaer.cn^
+||static.gridsumdissector.com^
 ||static.herr.io^
 ||static.hyprmx.com^
 ||static.ichehome.com^
@@ -119943,6 +121232,7 @@ ruanyifeng.com#@#a[href*=".apeclass.com"]
 ||static.matchads.net^
 ||static.mediav.com^
 ||static.meijiacun.com^
+||static.missav.com/js/plyr.js
 ||static.mntzm.com^
 ||static.mvot.vn^
 ||static.narrativ.com^
@@ -119952,6 +121242,7 @@ ruanyifeng.com#@#a[href*=".apeclass.com"]
 ||static.oroll.com^
 ||static.osalta.eu^
 ||static.prototypes.ru^
+||static.ptoahaistais.com^
 ||static.rongkao.com^
 ||static.rtb-serve.com^
 ||static.scroll.com^
@@ -121856,6 +123147,7 @@ ruanyifeng.com#@#a[href*=".apeclass.com"]
 ||strewjaunty.com^
 ||strewviolently.com^
 ||streynerecoded.guru^
+||stricaik.com^
 ||strickenenergetic.com^
 ||strictgrittwine.com^
 ||strident-writing.com^
@@ -123319,6 +124611,7 @@ ruanyifeng.com#@#a[href*=".apeclass.com"]
 ||sypnios.com^
 ||syqhvv.vivense.com^
 ||syqqmm.com^
+||syr66.com.cn^
 ||syrianburlier.top^
 ||syringaburan.digital^
 ||syringeitch.com^
@@ -123356,6 +124649,7 @@ ruanyifeng.com#@#a[href*=".apeclass.com"]
 ||systemtrees.com^
 ||systolesaughy.digital^
 ||systweak.com^
+||sytclsb.cyou^
 ||sytcyf.com^
 ||sytqxychwk.xyz^
 ||sytsr.com^
@@ -124433,6 +125727,7 @@ ruanyifeng.com#@#a[href*=".apeclass.com"]
 ||tanggoushequ.xyz^
 ||tangibleteam.com^
 ||tangier.treker.fun^
+||tangk.top^
 ||tanglike.biz^
 ||tanglikefree.online^
 ||tangnickmienphi.com^
@@ -125519,6 +126814,7 @@ ruanyifeng.com#@#a[href*=".apeclass.com"]
 ||tempfiles.ninja^
 ||templa.xyz^
 ||templates.buscape.com^
+||templates_pc/default/scripts/chapter_bottom.js
 ||templerun2.newzgames.com^
 ||templerunforpc.com^
 ||tempobanners.com^
@@ -126033,6 +127329,7 @@ ruanyifeng.com#@#a[href*=".apeclass.com"]
 ||tfqrqdpgarskxv.com^
 ||tfrwxv.xyz^
 ||tfs.faqserv.com^
+||tfsuggestion.live^
 ||tftoigpp.page.link^
 ||tftpd.net^
 ||tftran.shop^
@@ -126042,6 +127339,7 @@ ruanyifeng.com#@#a[href*=".apeclass.com"]
 ||tfvzslon.page.link^
 ||tfw73.online^
 ||tfzozf.xyz^
+||tg.loclog.cn^
 ||tg.meitu.com^
 ||tg.mybb.ru^
 ||tg.sooyooj.com^
@@ -127140,6 +128438,7 @@ ruanyifeng.com#@#a[href*=".apeclass.com"]
 ||tingexceleler.com^
 ||tingfengyu.top^
 ||tinggalklik.com^
+||tinghao8.com/assets/publish/
 ||tingiaitrian.com^
 ||tingiovang777.com^
 ||tingiovangvn.com^
@@ -127729,8 +129028,11 @@ ruanyifeng.com#@#a[href*=".apeclass.com"]
 ||tnc16-alisg.isnssdk.com^
 ||tnc16-useast1a.isnssdk.com^
 ||tnc3-aliec2.snssdk.com^
+||tnc3-aliec2.zijieapi^
 ||tnc3-alisc1.zijieapi.com^
+||tnc3-alisc1.zijieapi^
 ||tnc3-bjlgy.snssdk.com^
+||tnc3-bjlgy.zijieapi^
 ||tncid.app^
 ||tncomg.com^
 ||tncred.com^
@@ -127787,6 +129089,7 @@ ruanyifeng.com#@#a[href*=".apeclass.com"]
 ||tob-cms.bj.bcebos.com^
 ||tobaitsie.com^
 ||tobaltoyon.com^
+||tobapplog.ctobsnssdk.com^
 ||tobbypet.cl^
 ||tobepure.com^
 ||tobink.com^
@@ -128363,6 +129666,7 @@ ruanyifeng.com#@#a[href*=".apeclass.com"]
 ||tovespiquener.com^
 ||tovoathouy.com^
 ||tovoxu.ru^
+||tovppl.cn^
 ||towardsbrilliance.com^
 ||towardscircumscribe.com^
 ||towardsmainlandpermissible.com^
@@ -132420,6 +133724,7 @@ ruanyifeng.com#@#a[href*=".apeclass.com"]
 ||trafficsel.com^
 ||trafficshop.com^
 ||trafficspaces.net^
+||trafficstars.com$third-party
 ||trafficstars.com^
 ||trafficstrategies.com^
 ||trafficswarm.com^
@@ -133579,6 +134884,7 @@ ruanyifeng.com#@#a[href*=".apeclass.com"]
 ||trrmmxjst.com^
 ||trsbmiw.com^
 ||trskwvl.com^
+||trslw.cn^
 ||trtjigpsscmv9epe10.com^
 ||trtxdtigvap.com^
 ||tru.am^
@@ -133772,6 +135078,7 @@ ruanyifeng.com#@#a[href*=".apeclass.com"]
 ||tsbm.ch^
 ||tsbmkf.zonnebrillen.com^
 ||tsccqvlqjpchjcl.com^
+||tsck.online^
 ||tscoin.info^
 ||tscounter.com^
 ||tsdandassociates.co.sz^
@@ -133953,6 +135260,7 @@ ruanyifeng.com#@#a[href*=".apeclass.com"]
 ||ttlm.cc^
 ||ttlmodels.com^
 ||ttltwdxg.page.link^
+||ttly888.com^
 ||ttmaim.com^
 ||ttmc.actonservice.com^
 ||ttmetrics.faz.net^
@@ -134244,6 +135552,7 @@ ruanyifeng.com#@#a[href*=".apeclass.com"]
 ||tutorthing.com^
 ||tutphiarcox.com^
 ||tutsterblanche.com^
+||tutufu.com/bd/b-c1.js
 ||tututiki.com^
 ||tututu666.com^
 ||tutvp.com^
@@ -134425,6 +135734,7 @@ ruanyifeng.com#@#a[href*=".apeclass.com"]
 ||twjobq.sixt.com^
 ||twjobq.sixt.de^
 ||twjobq.sixt.fr^
+||twjsx.cn^
 ||twjxmd.com^
 ||twk20rw5v1.com^
 ||twkbui.mansion-review.jp^
@@ -134513,6 +135823,7 @@ ruanyifeng.com#@#a[href*=".apeclass.com"]
 ||txtrk.com^
 ||txtspy.org^
 ||txtxr.com^
+||txtyuzhaiwu.com/astyle/wap.js
 ||txuesoft.cn^
 ||txv0.destinia.hu^
 ||txv2-br-cdn.kwai.net.iberostar.com^
@@ -134607,11 +135918,15 @@ ruanyifeng.com#@#a[href*=".apeclass.com"]
 ||tz-dsp.com^
 ||tz.ycfgnau.cn^
 ||tz284.com^
+||tz659.com/js/cdn.js
+||tz659.com/js/chapte*.js
+||tz659.com/js/html*.js
 ||tz88.store^
 ||tzaho.com^
 ||tzaqkp.com^
 ||tzaristdiploma.com^
 ||tzarmedia.com^
+||tzcfyre.cn^
 ||tzegilo.com^
 ||tzelzfnj.xyz^
 ||tzgfztxp.page.link^
@@ -134724,6 +136039,7 @@ ruanyifeng.com#@#a[href*=".apeclass.com"]
 ||u2vb0c.cn^
 ||u33011.com^
 ||u33022.com^
+||u346zd.top^
 ||u40cc3twb.com^
 ||u47.pnc.com^
 ||u5274.cn^
@@ -135128,6 +136444,7 @@ ruanyifeng.com#@#a[href*=".apeclass.com"]
 ||uhwnrfu.cn^
 ||uhxmyqyevkcvit.com^
 ||uhy89mb.com^
+||uhyhdrh.cn^
 ||uhznibgq.page.link^
 ||ui.belboon.com^
 ||ui.ppjol.com^
@@ -135171,6 +136488,7 @@ ruanyifeng.com#@#a[href*=".apeclass.com"]
 ||uissm.com^
 ||uiswtr3.xyz^
 ||uiszwh.icu^
+||uiteligularly.fun^
 ||uito.top^
 ||uitopadxdy.com^
 ||uitrens.ru^
@@ -135388,6 +136706,7 @@ ruanyifeng.com#@#a[href*=".apeclass.com"]
 ||umbbs.cn^
 ||umbel.com^
 ||umbrella.asia^
+||umbrellaomendear.com,^
 ||umbretalen.com^
 ||umc.danuoyi.alicdn.com^
 ||umcbbt.com^
@@ -135419,6 +136738,7 @@ ruanyifeng.com#@#a[href*=".apeclass.com"]
 ||umis.top^
 ||umiwi.com^
 ||umkbvsrz.page.link^
+||umkezbh.cn^
 ||umm6.cn^
 ||ummanmetal.com^
 ||ummerciseha.com^
@@ -135590,6 +136910,7 @@ ruanyifeng.com#@#a[href*=".apeclass.com"]
 ||unequalbrake.com^
 ||unequaltrail.com^
 ||unequaltravelresearch.com^
+||unetall.com^
 ||unetbootin.net^
 ||unetbootin.org^
 ||unevenobjective.com^
@@ -135651,6 +136972,7 @@ ruanyifeng.com#@#a[href*=".apeclass.com"]
 ||unifiedwfo.verintsystemsinc.com^
 ||unifilabs.actonservice.com^
 ||unifini.de^
+||uniformer.biz^
 ||uniformheartlesssneaking.com^
 ||uniformutilitiesexpressing.com^
 ||uniformyeah.com^
@@ -135926,6 +137248,7 @@ ruanyifeng.com#@#a[href*=".apeclass.com"]
 ||unwrittenspot.com^
 ||unxuoag.cn^
 ||unylgxxmrsbb.com^
+||unypud.cn^
 ||unyzea.aboutyou.sk^
 ||unzipauscult.com^
 ||unzpc.com^
@@ -135949,6 +137272,7 @@ ruanyifeng.com#@#a[href*=".apeclass.com"]
 ||uomo-shopping.com^
 ||uomzeknm.page.link^
 ||uoobmvrjyjomnle.com^
+||uopsawxst.cyou^
 ||uoqsxdpx.xyz^
 ||uorhlwm.com^
 ||uorwogwlbwtk.xyz^
@@ -136089,6 +137413,7 @@ ruanyifeng.com#@#a[href*=".apeclass.com"]
 ||uponpidgeottotor.com^
 ||uponrimking.live^
 ||uponsurskita.com^
+||uporods.com^
 ||upoveqbkia.xyz^
 ||uppardjets.com^
 ||upperched.com^
@@ -136318,6 +137643,7 @@ ruanyifeng.com#@#a[href*=".apeclass.com"]
 ||urr.kumamoto-food.com^
 ||urryjgwqjo.com^
 ||urs.metacritic.com^
+||ursegreatm.fun^
 ||ursonewry.com^
 ||ursorsee.pro^
 ||urssff.fr^
@@ -136626,6 +137952,7 @@ ruanyifeng.com#@#a[href*=".apeclass.com"]
 ||uttack.com^
 ||utterlyfunding.com^
 ||uttermosthobbies.com^
+||uttlinediv.top^
 ||utubepwhml.com^
 ||utwwzqdx.xyz^
 ||uty.micocc.com^
@@ -136712,6 +138039,7 @@ ruanyifeng.com#@#a[href*=".apeclass.com"]
 ||uvzlyhlk.page.link^
 ||uvzomxvbpbgo.com^
 ||uvzrtq.livingspaces.com^
+||uwadakest.cyou^
 ||uwams.info^
 ||uwandlt.top^
 ||uwavoptig.com^
@@ -136725,6 +138053,7 @@ ruanyifeng.com#@#a[href*=".apeclass.com"]
 ||uwgmguwpzkeudh.com^
 ||uwgnpkd.cn^
 ||uwmlmhcjmjvuqy.xyz^
+||uwnvcxb.cn^
 ||uwoaptee.com^
 ||uwrzjgtnur.com^
 ||uwselectie.be^
@@ -136774,6 +138103,8 @@ ruanyifeng.com#@#a[href*=".apeclass.com"]
 ||uycxhgrp.xyz^
 ||uydzfldt.xyz^
 ||uyeaoofppwrhz.com^
+||uyf1u0x7.xyz^
+||uyflu0x7.xyz^
 ||uyfpmhmqh.xyz^
 ||uygckiy.cn^
 ||uyivht.robertgraham.us^
@@ -136899,6 +138230,7 @@ ruanyifeng.com#@#a[href*=".apeclass.com"]
 ||v2-ad.video.yximgs.com^
 ||v2-lm.adukwai.com^
 ||v2.business-search.online^
+||v2.dakang-energy.com^
 ||v2.market-search.online^
 ||v2.newsearches.online^
 ||v2.reachmax.cn^
@@ -136936,6 +138268,7 @@ ruanyifeng.com#@#a[href*=".apeclass.com"]
 ||v5b99.cn^
 ||v5levm1.com^
 ||v6.viayonetici.com^
+||v6jt.cn^
 ||v6rxv5coo5.com^
 ||v6t39t.ru^
 ||v7.market-search.online^
@@ -137612,6 +138945,7 @@ ruanyifeng.com#@#a[href*=".apeclass.com"]
 ||vemtourt.com^
 ||venadvonline.com^
 ||venameb.webd.pl^
+||venator.link^
 ||venatusmedia.com^
 ||venber.cn^
 ||vencord.xyz^
@@ -137759,6 +139093,7 @@ ruanyifeng.com#@#a[href*=".apeclass.com"]
 ||verycleaner.cn^
 ||veryn1ce.com^
 ||verypopularwebsite.com^
+||verysadfun.com/assets/publish/jquery.*.js
 ||verysilenit.com^
 ||vesdsp.com^
 ||vesofefinego.info^
@@ -137851,6 +139186,7 @@ ruanyifeng.com#@#a[href*=".apeclass.com"]
 ||vghd.com^
 ||vghkncbu.xyz^
 ||vghnnh.xyz^
+||vgijoh.com^
 ||vgimer.cn^
 ||vgjaxnuw.xyz^
 ||vgkuiico.page.link^
@@ -138646,6 +139982,7 @@ ruanyifeng.com#@#a[href*=".apeclass.com"]
 ||vipicmou.net^
 ||viplinck.com^
 ||viplovang.com^
+||viplp.top^
 ||vipmasajes.com^
 ||vipmmomo2456.fun^
 ||vipmomo.club^
@@ -139937,6 +141274,7 @@ ruanyifeng.com#@#a[href*=".apeclass.com"]
 ||vzrufh.com^
 ||vztfc.com^
 ||vztlivv.com^
+||vzttq.brfvyrrp.com^
 ||vzttq.brfvyrrp.com^$all
 ||vzufzah.com^
 ||vzvvifw.cn^
@@ -140229,6 +141567,7 @@ ruanyifeng.com#@#a[href*=".apeclass.com"]
 ||wancai.shop^
 ||wanchencloth.cn^
 ||wanderbj.top^
+||wandouys.com/slade.js
 ||wandtrade.com^
 ||wanesorates.digital^
 ||wanforsake.com^
@@ -140256,6 +141595,7 @@ ruanyifeng.com#@#a[href*=".apeclass.com"]
 ||wangqilin.xyz^
 ||wangqing7.top^
 ||wangqipu.com^
+||wangxialin.top^
 ||wangxiaowei.ink^
 ||wangxingkui.online^
 ||wangxuan.pw^
@@ -140265,6 +141605,7 @@ ruanyifeng.com#@#a[href*=".apeclass.com"]
 ||wangyeshij.top^
 ||wangyh.icu^
 ||wangyouxs.cn^
+||wangyq.ltd^
 ||wangyuekun.xyz^
 ||wangyun.host^
 ||wangyun01.cn^
@@ -140300,6 +141641,7 @@ ruanyifeng.com#@#a[href*=".apeclass.com"]
 ||wap-click.com^
 ||wap.2f.com^
 ||wap.bntxt.com^
+||wap.gxzhshop.com^
 ||wap.hfoyjg.cn^
 ||wap.x4399.com^
 ||wap.yb3.cc^
@@ -140632,6 +141974,7 @@ ruanyifeng.com#@#a[href*=".apeclass.com"]
 ||wc-tracking.lavasoft.com^
 ||wcadlvruvrq.xyz^
 ||wcadlxvbjus.com^
+||wcanj.com/2345/
 ||wcaos.com^
 ||wcbfr.adultpages.nl^
 ||wcbghap63.shop^
@@ -140670,11 +142013,13 @@ ruanyifeng.com#@#a[href*=".apeclass.com"]
 ||wcxegvp.com^
 ||wcyapvikap.com^
 ||wcycotzoxhvapo.com^
+||wd.adcolony.com^
 ||wd.adcolony.xyz^
 ||wd.towmonterses.com^
 ||wd282endfws.de^
 ||wda.com^
 ||wdad.cc^
+||wdadad.cn
 ||wdadad.cn^
 ||wdads.sx.atl.publicus.com^
 ||wdasa.top^
@@ -141163,6 +142508,7 @@ ruanyifeng.com#@#a[href*=".apeclass.com"]
 ||websiteonlinecounter.com^
 ||websiteperform.com^
 ||websitepromoserver.com^
+||websitequan.com^
 ||websitereconnecting.com^
 ||websitesampling.com^
 ||websitetosubmit.com^
@@ -141279,6 +142625,7 @@ ruanyifeng.com#@#a[href*=".apeclass.com"]
 ||webunder.ru^
 ||webuysupplystore.mooo.com^
 ||webvideomarketing.ru^
+||webview.unityads.unity3d.com^
 ||webvisor.com^
 ||webvisor.org^
 ||webvisor.ru^
@@ -141398,6 +142745,7 @@ ruanyifeng.com#@#a[href*=".apeclass.com"]
 ||weixinxx.com^
 ||weixisiwang.com^
 ||weiyajz.cn^
+||weiyuedu.cc/skin/v3/js/dibu.js
 ||weizhenwx.com^
 ||weiziqiang.top^
 ||wejpuy.factor75.com^
@@ -141481,6 +142829,7 @@ ruanyifeng.com#@#a[href*=".apeclass.com"]
 ||wenhat.com^
 ||wenher.com^
 ||wenhua.jiaoshou.com^
+||wenjinsai.top^
 ||wenku-cms.bj.bcebos.com^
 ||wenluoxi.com^
 ||wennishbubbles.com^
@@ -141949,6 +143298,7 @@ ruanyifeng.com#@#a[href*=".apeclass.com"]
 ||why3.inseec.education^
 ||whychymithy.com^
 ||whycywhivu.pro^
+||whyfate.cn^
 ||whyl-laz-i-264.site^
 ||whyocafenet.space^
 ||whytoss.com^
@@ -142034,6 +143384,7 @@ ruanyifeng.com#@#a[href*=".apeclass.com"]
 ||widgets.lendingtree.com^
 ||widgets.oddschecker.com^
 ||widgets.openli.com^
+||widgets.outbrain.com/outbrain.js
 ||widgets.outbrain.com^
 ||widgets.pinterest.com^
 ||widgets.planeta.ru^
@@ -142486,6 +143837,7 @@ ruanyifeng.com#@#a[href*=".apeclass.com"]
 ||wlfcwkijsknted.xyz^
 ||wlfng.com^
 ||wlgxaij.cn^
+||wlhcb.cn^
 ||wlhzbbvtofot.com^
 ||wlimrvsnusyawk.com^
 ||wliuahugpgo.com^
@@ -142580,6 +143932,7 @@ ruanyifeng.com#@#a[href*=".apeclass.com"]
 ||wn.pos.baidu.com^
 ||wn052ucd.online^
 ||wn68din.cn^
+||wn80drk.shop^
 ||wn80drk.xyz^
 ||wnaj.scheme.corycabana.net^
 ||wnd2.destinia.cat^
@@ -142645,6 +143998,8 @@ ruanyifeng.com#@#a[href*=".apeclass.com"]
 ||wofri.uihdlx.xyz^
 ||wofulsensism.com^
 ||wogglehydrae.com^
+||wogukcd.xyz^
+||wohewodejxp.top^
 ||wohong5.com^
 ||wohpaqjb.com^
 ||wojbpyhdtquj.com^
@@ -143490,8 +144845,10 @@ ruanyifeng.com#@#a[href*=".apeclass.com"]
 ||www.1h2h54jkw.com^
 ||www.1hkfq6598i.com^
 ||www.200-rockergod.com^
+||www.200ps.com^
 ||www.22-trk-srv.com^
 ||www.24-visionaryenterprise.com^
+||www.288txt.com/da/*.js
 ||www.31d.net^
 ||www.32414.com^
 ||www.33-trk-srv.com^
@@ -143507,6 +144864,7 @@ ruanyifeng.com#@#a[href*=".apeclass.com"]
 ||www.52zdm.com^
 ||www.55-trk-srv.com^
 ||www.56.com^
+||www.5nj.com/js/cnzz*.js
 ||www.5thavenue.com^
 ||www.6399690.com^
 ||www.66-trk-srv.com^
@@ -143529,6 +144887,7 @@ ruanyifeng.com#@#a[href*=".apeclass.com"]
 ||www.acpprograms.org^
 ||www.activisionnews.com^
 ||www.ad-words.ru^
+||www.ad5lm.net^
 ||www.adbert.com.tw^
 ||www.addfreecounter.com^
 ||www.adfunkyserver.com^
@@ -143567,6 +144926,7 @@ ruanyifeng.com#@#a[href*=".apeclass.com"]
 ||www.affiliateclick.com^
 ||www.affiliatesuccess.net^
 ||www.affilo.cz^
+||www.afmykaa.com^
 ||www.agile-company-365.com^
 ||www.agile-enterprise-365.com^
 ||www.agile365enterprise.com^
@@ -143654,7 +145014,9 @@ ruanyifeng.com#@#a[href*=".apeclass.com"]
 ||www.bis-dic15.com^
 ||www.bitlocker.net^
 ||www.bjhdrx.com^
+||www.bjjabc.com^
 ||www.bjjxsb.net^
+||www.bl2030.com^
 ||www.bliss91.com^
 ||www.blocwhite7.com^
 ||www.blossomtel.com^
@@ -143695,6 +145057,7 @@ ruanyifeng.com#@#a[href*=".apeclass.com"]
 ||www.caramail.com^
 ||www.care5alea.com^
 ||www.cart8draw.com^
+||www.cartoon18.com/assets/*/jquery.js
 ||www.cashcapitalsystem.com^
 ||www.casinochoix.xyz^
 ||www.casinofrancaisavis.xyz^
@@ -143817,11 +145180,13 @@ ruanyifeng.com#@#a[href*=".apeclass.com"]
 ||www.direct-azr-78.com^
 ||www.directnetadvertising.net^
 ||www.displaystorm.com^
+||www.diyuxa.com^
 ||www.djkeun1bal.com^
 ||www.dkjn1bal2.com^
 ||www.dknindsl.com^
 ||www.dl-provider.com^
 ||www.dltrckng.com^
+||www.doca182.com^
 ||www.doesmyzipqualify.com^
 ||www.doll8tune.com^
 ||www.doll9jiva.com^
@@ -143954,12 +145319,20 @@ ruanyifeng.com#@#a[href*=".apeclass.com"]
 ||www.goodlivingpoint.com^
 ||www.goodstrongfit.com^
 ||www.goooslots.xyz^
+||www.govchengdu.cn^
 ||www.govguangxi.cn^
 ||www.govguilin.cn^
+||www.govguiyang.cn^
+||www.govhangzhou.cn^
+||www.govhebie.cn^
 ||www.govjieyang.cn^
+||www.govlihu.cn^
+||www.govshenzhen.cn^
 ||www.govxian.cn^
+||www.govxinjing.cn^
 ||www.govyunfu.cn^
 ||www.govyunnan.cn^
+||www.govzhajian.cn^
 ||www.gralfusnzpo008.top^
 ||www.greathealthpoint.com^
 ||www.greatstronglife.com^
@@ -144002,6 +145375,7 @@ ruanyifeng.com#@#a[href*=".apeclass.com"]
 ||www.hiroden-con.jp^
 ||www.hiss3lark.com^
 ||www.hitstats.co.uk^
+||www.hiweha.com^
 ||www.hlgglm.com^
 ||www.hook6vein.com^
 ||www.hopforbest.com^
@@ -144012,11 +145386,13 @@ ruanyifeng.com#@#a[href*=".apeclass.com"]
 ||www.hwn773.us^
 ||www.hxcav77.com^
 ||www.iaccede.net.jumia.ug^
+||www.ibgdd67.top^
 ||www.idealcasino.net^
 ||www.idirect.com^
 ||www.ifileyou.com^
 ||www.iicdn.com^
 ||www.iiillililllillillilillililililllliiiillllliilili.com^
+||www.ilaohuyou.xyz^
 ||www.ili.net^
 ||www.ilkwork.com^
 ||www.imcounting.com^
@@ -144051,6 +145427,8 @@ ruanyifeng.com#@#a[href*=".apeclass.com"]
 ||www.isfilebest.com^
 ||www.isistech.com.tw^
 ||www.itaoffer.xyz^
+||www.jacklm1.com^
+||www.jacklm3.com^
 ||www.jaup0lake.com^
 ||www.javtvnow.xyz^
 ||www.jebb8hurt.com^
@@ -144058,6 +145436,9 @@ ruanyifeng.com#@#a[href*=".apeclass.com"]
 ||www.jemze.com^
 ||www.jenxsw21lb.com^
 ||www.jetseeker.com^
+||www.jianpian.vip^
+||www.jipinyouwu.com^
+||www.jmine.cn^
 ||www.jody0sora.com^
 ||www.jolic2.com^
 ||www.josh7cuba.com^
@@ -144084,6 +145465,7 @@ ruanyifeng.com#@#a[href*=".apeclass.com"]
 ||www.konversation.com^
 ||www.kota3chat.com^
 ||www.kowqd3.top^
+||www.kowqd9.top^
 ||www.kpr2exp21.com^
 ||www.kprbexp21.com^
 ||www.ksk-mjto-001.com^
@@ -144119,6 +145501,7 @@ ruanyifeng.com#@#a[href*=".apeclass.com"]
 ||www.leibish.com^
 ||www.lesben-pornos.cxa.de^
 ||www.letterbox-path.com^
+||www.lezhutv.com/static/jquerys.js
 ||www.lforen-cloud-trace.com^
 ||www.lieuducasino.xyz^
 ||www.lifefitnessnow.com^
@@ -144129,7 +145512,9 @@ ruanyifeng.com#@#a[href*=".apeclass.com"]
 ||www.list1holp.com^
 ||www.littledevildoubt.com^
 ||www.livemz.com^
+||www.lm661.com^
 ||www.lmknjb1.com^
+||www.lmlmvip.com^
 ||www.loki8lave.com^
 ||www.loldyttw.net^
 ||www.lomalindasda.org^
@@ -144166,6 +145551,7 @@ ruanyifeng.com#@#a[href*=".apeclass.com"]
 ||www.masterspace.biz^
 ||www.mavic852.com^
 ||www.mbljpu9.com^
+||www.mdfsbn.com^
 ||www.me1294hlx.com^
 ||www.mean8sigh.com^
 ||www.media-motor.com^
@@ -144278,6 +145664,7 @@ ruanyifeng.com#@#a[href*=".apeclass.com"]
 ||www.optimum-xyz.com^
 ||www.originalicons.com^
 ||www.orionkeraily.fi^
+||www.ostlon.com^
 ||www.otto5loki.com^
 ||www.ourfuckbook.com^
 ||www.ozonatory24.pl^
@@ -144295,6 +145682,7 @@ ruanyifeng.com#@#a[href*=".apeclass.com"]
 ||www.path5wall.com^
 ||www.pawnauctions.net^
 ||www.paydashboardinfo.com^
+||www.pcuois.com^
 ||www.pdxor02.com^
 ||www.peachy18.com^
 ||www.peak-ip-54.com^
@@ -144308,7 +145696,9 @@ ruanyifeng.com#@#a[href*=".apeclass.com"]
 ||www.peterfishwick.free-online.co.uk^
 ||www.pfhsystem.com^
 ||www.photo-ads.co.uk^
+||www.pkmp*.xyz/template/piankuwap/js/afoot.js
 ||www.pkrchp001.com^
+||www.pksanb.com^
 ||www.placelocal.com^
 ||www.planet.eon.net^
 ||www.pleasedonotblockme.com^
@@ -144328,6 +145718,7 @@ ruanyifeng.com#@#a[href*=".apeclass.com"]
 ||www.portaldimensional.com^
 ||www.postmasterbannernet.com^
 ||www.postnewsads.com^
+||www.ppslsa.com^
 ||www.presidency.site^
 ||www.pri12mel.com^
 ||www.pro-partners.nl^
@@ -144342,11 +145733,15 @@ ruanyifeng.com#@#a[href*=".apeclass.com"]
 ||www.qcoldtui1999.com^
 ||www.qetup12.com^
 ||www.qinlinghe.com^
+||www.qkixi.com^
+||www.qlspx.com^
 ||www.qlzn6i1l.com^
 ||www.qpwoei2.com^
 ||www.qqads.com^
 ||www.qqyx1a.cn^
+||www.qsixi.com^
 ||www.quoteafs.com^
+||www.qwupoq.com^
 ||www.r45j15.com^
 ||www.raab3frog.com^
 ||www.rals4alum.com^
@@ -144420,6 +145815,7 @@ ruanyifeng.com#@#a[href*=".apeclass.com"]
 ||www.scienceaaas.org^
 ||www.scottofyork.plus.com^
 ||www.se-core-pipe.com^
+||www.seainan333.com^
 ||www.searchingpage.com^
 ||www.searchingzone.com^
 ||www.searchv.com^
@@ -144446,6 +145842,7 @@ ruanyifeng.com#@#a[href*=".apeclass.com"]
 ||www.shrfbdg004.com^
 ||www.simplecounter.net^
 ||www.simplyhelper.com^
+||www.sioccu.com^
 ||www.skattabrain.com^
 ||www.skegness.net^
 ||www.skvarsani.plus.com^
@@ -144509,6 +145906,7 @@ ruanyifeng.com#@#a[href*=".apeclass.com"]
 ||www.talentbroker.net^
 ||www.tank3pull.com^
 ||www.tao123.com^
+||www.tctakoh.com^
 ||www.teltech.hu^
 ||www.tent0mown.com^
 ||www.test92.com^
@@ -144572,12 +145970,14 @@ ruanyifeng.com#@#a[href*=".apeclass.com"]
 ||www.truhealthychoices.com^
 ||www.tryprofits.com^
 ||www.tst16infra.com^
+||www.ttyyuuoo.com^
 ||www.tube6sour.com^
 ||www.tula9mari.com^
 ||www.tutka.net^
 ||www.tutop.com^
 ||www.u88.cn^
 ||www.uerlqe.com^
+||www.ufndsm.com^
 ||www.uhygtf1.com^
 ||www.ult-blk-cbl.com^
 ||www.undiaenlausj.com^
@@ -144590,11 +145990,13 @@ ruanyifeng.com#@#a[href*=".apeclass.com"]
 ||www.user-shield.com^
 ||www.users.dialstart.net^
 ||www.users.freenetname.co.uk^
+||www.uuboos.com^
 ||www.v61.com^
 ||www.valadygators.com^
 ||www.vandenberghider.plus.com^
 ||www.vane3alga.com^
 ||www.vanguard-art.com^
+||www.vbnm888.com^
 ||www.vcentury01.com^
 ||www.vcrnads.com^
 ||www.vejaskor.com.se^
@@ -144633,6 +146035,7 @@ ruanyifeng.com#@#a[href*=".apeclass.com"]
 ||www.websiteexploration.com^
 ||www.websitepromoten.be^
 ||www.weknow.ac^
+||www.werwzd1.com^
 ||www.wescam.info^
 ||www.wesiedu.com^
 ||www.wessexgrange.plus.com^
@@ -144658,6 +146061,7 @@ ruanyifeng.com#@#a[href*=".apeclass.com"]
 ||www.xbn.ru^
 ||www.xenley.com^
 ||www.xianliao.me^
+||www.xiewje.com^
 ||www.xihufe.com^
 ||www.xingpingmaoyi.cn^
 ||www.xiuxiu4.one^
@@ -144674,6 +146078,7 @@ ruanyifeng.com#@#a[href*=".apeclass.com"]
 ||www.ydwsjt-2.com^
 ||www.yeld9auto.com^
 ||www.yirr5frog.com^
+||www.ykjyyy.com/8888/
 ||www.ynxjf.com^
 ||www.you1ad.com^
 ||www.youfiletor.com^
@@ -144686,9 +146091,12 @@ ruanyifeng.com#@#a[href*=".apeclass.com"]
 ||www.yuyue008.cn^
 ||www.yuzuni.com^
 ||www.ywmc.com.tw^
+||www.ywquyq.com^
 ||www.yymh1113.com^
 ||www.zakelijk.cz.nl^
+||www.zbinview.com^
 ||www.zcbmn14.com^
+||www.zhangjiyi.top^
 ||www.zhaohainan.cn^
 ||www.ziyuanm.com.s-hl-content^
 ||www.zmxncb5.com^
@@ -144853,6 +146261,7 @@ ruanyifeng.com#@#a[href*=".apeclass.com"]
 ||wwxxww.ru^
 ||wwyysheng.xyz^
 ||wx.sifakaoshi360.com^
+||wx.uc.downcdn.top^
 ||wxa.wxs.qq.com^
 ||wxa79ef55c1a84e284.wx.ckjr001.com^
 ||wxaaqr.plusdental.de^
@@ -144862,6 +146271,7 @@ ruanyifeng.com#@#a[href*=".apeclass.com"]
 ||wxbhdksq.page.link^
 ||wxcqdnf.com^
 ||wxddid.cn^
+||wxdqgmr.cn^
 ||wxebgpj.cn^
 ||wxebye.aboutyou.hu^
 ||wxejroeeteesr.com^
@@ -144946,7 +146356,9 @@ ruanyifeng.com#@#a[href*=".apeclass.com"]
 ||wyoutube.fr^
 ||wyovhzs.cn^
 ||wyoxmklaa.xyz^
+||wyplmjufd.live^
 ||wyq3rum.icu^
+||wyqaafplm.live^
 ||wyresgkvhfdiz.com^
 ||wyrtqdvhuiyhml.com^
 ||wysasys.com^
@@ -145124,6 +146536,7 @@ ruanyifeng.com#@#a[href*=".apeclass.com"]
 ||x4.lov3.net^
 ||x41.me^
 ||x4csq.top^
+||x4jdm.tv/mdp.js
 ||x4pollyxxpush.com^
 ||x5.jougennotuki.com^
 ||x56za02.cn^
@@ -145140,6 +146553,7 @@ ruanyifeng.com#@#a[href*=".apeclass.com"]
 ||x822.mrt.com^
 ||x888x.myserver.org^
 ||x88s.pandasuite.io^
+||x8kwcr3l.xyz^
 ||x9.shinobi.jp^
 ||x95general.com^
 ||x9socptyr.com^
@@ -145257,6 +146671,7 @@ ruanyifeng.com#@#a[href*=".apeclass.com"]
 ||xbetobprp.com^
 ||xbets24.com^
 ||xbetskins.com^
+||xbiqu5.com/12345678.js
 ||xblcodesnow.com^
 ||xbldocp.xyz^
 ||xblgdvrassets3010.blob.core.windows.net^
@@ -145340,6 +146755,7 @@ ruanyifeng.com#@#a[href*=".apeclass.com"]
 ||xcho.top^
 ||xcholvbc.xyz^
 ||xcialbdmud.com^
+||xcisleoa.cn^
 ||xcjy876.com^
 ||xckj0623.com^
 ||xckyqq.com^
@@ -145554,6 +146970,7 @@ ruanyifeng.com#@#a[href*=".apeclass.com"]
 ||xhit.com^
 ||xhivjkfghj.com^
 ||xhkdpmjw.page.link^
+||xhkvff.cn^
 ||xhl161.com^
 ||xhlzokzxoxykxf.com^
 ||xhmnbvn.com^
@@ -145621,6 +147038,7 @@ ruanyifeng.com#@#a[href*=".apeclass.com"]
 ||xiaodongjun.com^
 ||xiaodongrui.com^
 ||xiaoertuina.top^
+||xiaofangtongzhi.xy^
 ||xiaofashi.top^
 ||xiaogouzhuanqian.cn^
 ||xiaoguojiang.xyz^
@@ -145630,6 +147048,7 @@ ruanyifeng.com#@#a[href*=".apeclass.com"]
 ||xiaohuangshu.me^
 ||xiaohui2.cn^
 ||xiaohuishu.top^
+||xiaojifly.cn^
 ||xiaokeji.club^
 ||xiaokenan.net^
 ||xiaoli.video^
@@ -145745,6 +147164,7 @@ ruanyifeng.com#@#a[href*=".apeclass.com"]
 ||xinshiji.ltd^
 ||xintengfeiyang.info^
 ||xinxbh.cn^
+||xinxindm.com/gog.js
 ||xinyansaas.com^
 ||xinym1.xyz^
 ||xinym2.xyz^
@@ -146198,6 +147618,7 @@ ruanyifeng.com#@#a[href*=".apeclass.com"]
 ||xmywlyh.cn^
 ||xmzurh.xyz^
 ||xmzwdgm.com^
+||xn--*.xn--fiqs8s:
 ||xn----7sbhgfcdscaa3cdd6dq3e3dvf.xn--p1ai^
 ||xn--1qwynp09f.net^
 ||xn--2hvw21e.online^
@@ -146236,9 +147657,11 @@ ruanyifeng.com#@#a[href*=".apeclass.com"]
 ||xn--steamcommunlt-lse6412i.com^
 ||xn--stemcmmunily-09a608b.com^
 ||xn--u1aaw.xn--p1ai^
+||xn--wxtr44c.video^
 ||xn--wxtr9fwyxk9c.club^
 ||xn--wxtr9fwyxk9c.top^
 ||xn--wxtr9fwyxk9c.xn--fiqs8s^
+||xn--wxtr9fwyxk9c.xn--io0a7i^
 ||xn--wxtr9fwyxk9co4hbua.xn--fiqs8s^
 ||xn--xhq9mt12cf5v.ren^
 ||xn--xhq9mt12cf5v.shop^
@@ -146891,6 +148314,7 @@ ruanyifeng.com#@#a[href*=".apeclass.com"]
 ||y.topya.com^
 ||y0764.cn^
 ||y0o1g.cn^
+||y0tf2wp.online^
 ||y1.arte.tv^
 ||y1.junshitt.com^
 ||y1.spreton.com^
@@ -146898,6 +148322,7 @@ ruanyifeng.com#@#a[href*=".apeclass.com"]
 ||y1jxiqds7v.com^
 ||y3.ifengimg.com^
 ||y341i.xyz^
+||y3600.cc/js/jquery.min.js
 ||y3cdp.top^
 ||y3d3apip.buzz^
 ||y3mmew2.goldenways.fun^
@@ -147161,6 +148586,7 @@ ruanyifeng.com#@#a[href*=".apeclass.com"]
 ||yc-ads.s3.amazonaws.com^
 ||yc444.cn^
 ||ycabxkwl.page.link^
+||ycc90.xyz^
 ||yccdn.com^
 ||ycctxwachqke.com^
 ||ycdywl.com^
@@ -147204,6 +148630,7 @@ ruanyifeng.com#@#a[href*=".apeclass.com"]
 ||ydgsvls.cn^
 ||yditweb.cn^
 ||ydjfdkcv.com^
+||ydjs.zol.com.cn^
 ||ydonkuan.com^
 ||ydosfw.filippa-k.com^
 ||ydpushserver.youdao.com^
@@ -147397,6 +148824,7 @@ ruanyifeng.com#@#a[href*=".apeclass.com"]
 ||yhbheroq.xyz^
 ||yhbngqpiag.com^
 ||yhbsk.cn^
+||yhdm.tv/bar/yfyh.js
 ||yhdtns.com^
 ||yheyg94gjv2o.ru^
 ||yhgameofmu.xyz^
@@ -147624,6 +149052,7 @@ ruanyifeng.com#@#a[href*=".apeclass.com"]
 ||yjwumvme.com^
 ||yjxssk.apartments.com^
 ||yjxzvqy.xyz^
+||yk-ssp.ad.youku.com^
 ||yk.dissentsangir.com^
 ||ykad-data.youku.com^
 ||ykad-gateway.youku.com^
@@ -147636,6 +149065,7 @@ ruanyifeng.com#@#a[href*=".apeclass.com"]
 ||ykgunszm.page.link^
 ||ykkbwdf.cn^
 ||yklfg.cn^
+||ykmh.com/js/aajquery.img01.js
 ||ykmvnhue.com^
 ||ykmxeretfl.top^
 ||ykotyeo.cn^
@@ -147717,6 +149147,8 @@ ruanyifeng.com#@#a[href*=".apeclass.com"]
 ||ymizyoto.page.link^
 ||ymjfhg.com^
 ||ymkomlhgzbpitp.com^
+||ymm17.cc^
+||ymm19.cc^
 ||ymmiyun.com^
 ||ymniqh.icu^
 ||ymonetize.com^
@@ -147898,6 +149330,7 @@ ruanyifeng.com#@#a[href*=".apeclass.com"]
 ||youintelligence.com^
 ||youku-acs.m.taobao.com^
 ||youku-crm-product.youku.com^
+||youku6.top^
 ||youlamedia.com^
 ||youle55.com^
 ||youlejia.xyz^
@@ -148333,6 +149766,7 @@ ruanyifeng.com#@#a[href*=".apeclass.com"]
 ||yujianli.top^
 ||yujianmeihao179.cn^
 ||yujyjms.cn^
+||yukariyakumo.cn^
 ||yukatabarter.store^
 ||yukonearshot.com^
 ||yule.sohu.com^
@@ -148438,6 +149872,7 @@ ruanyifeng.com#@#a[href*=".apeclass.com"]
 ||yvsnhc.com^
 ||yvtgva.casa.it^
 ||yvzgazds6d.com^
+||yw800.com.cn^
 ||ywaaa.sync.oystergardens.club^
 ||ywadf.cn^
 ||ywadk.top^
@@ -148491,6 +149926,7 @@ ruanyifeng.com#@#a[href*=".apeclass.com"]
 ||ywsbiouy.page.link^
 ||ywsiqlg.cn^
 ||ywsxqrcfrtsnfa.com^
+||ywsywh.cn^
 ||ywtd.xyz^
 ||ywtvurjiulvuvj.xyz^
 ||ywudaepnaudn.com^
@@ -148509,6 +149945,8 @@ ruanyifeng.com#@#a[href*=".apeclass.com"]
 ||yxbyd.store^
 ||yxcpm.com^
 ||yxcrcc.xyz^
+||yxdm.tv/js/gad.js
+||yxdm.tv/js/mbootstrap_nei.js
 ||yxehuwru.page.link^
 ||yxeqahmgyxqdid.com^
 ||yxgacdl.com^
@@ -148773,6 +150211,7 @@ ruanyifeng.com#@#a[href*=".apeclass.com"]
 ||zapunited.com^
 ||zaqedc.top^
 ||zaqlovh*.xyz^
+||zaqptv2bo.xyz^
 ||zarabotki.ru^
 ||zarad.net^
 ||zarame.uno^
@@ -148791,6 +150230,7 @@ ruanyifeng.com#@#a[href*=".apeclass.com"]
 ||zarpop.com^
 ||zarwjgv.com^
 ||zashtorkino.ru^
+||zasjf.xyz^
 ||zasjfget.xyz^
 ||zastag.com^
 ||zat.io^
@@ -148809,10 +150249,12 @@ ruanyifeng.com#@#a[href*=".apeclass.com"]
 ||zauglomo.net^
 ||zauglust.net^
 ||zaumaico.com^
+||zaupjw.xyz^
 ||zaurakfaulted.com^
 ||zauthuvy.com^
 ||zaventemdijleland.viessmann.be^
 ||zavisi.rs^
+||zawqwpajq.club^
 ||zax01.com^
 ||zaxonoax.com^
 ||zayac2volk11.com^
@@ -148834,6 +150276,7 @@ ruanyifeng.com#@#a[href*=".apeclass.com"]
 ||zbc6hy*.live^
 ||zbc6hye*.xyz^
 ||zbc6hyepls.xyz^
+||zbc6hyip.xyz^
 ||zbcoufps.page.link^
 ||zbdcrnfheyfu.com^
 ||zbdtkk.totvs.com^
@@ -148848,6 +150291,7 @@ ruanyifeng.com#@#a[href*=".apeclass.com"]
 ||zbqmsc.com^
 ||zbsybh.cn^
 ||zbtlgd.com^
+||zbv7kxrteclub.xyz^
 ||zbvchabjbcj.com^
 ||zbvhwaakws.com^
 ||zbwnzb.cn^
@@ -148867,7 +150311,11 @@ ruanyifeng.com#@#a[href*=".apeclass.com"]
 ||zcchyr*.xyz^
 ||zcchyw*.xyz^
 ||zcck60eqyw.world^
+||zcck60qyw.xyz^
+||zcck60wqyw.xyz^
+||zccr2qe.live^
 ||zcczrsaqw.xyz^
+||zcczrvsaqw.shop^
 ||zcczrvsaqw.world^
 ||zcczrvsaqw.xyz^
 ||zcczrvsaw.xyz^
@@ -148910,29 +150358,40 @@ ruanyifeng.com#@#a[href*=".apeclass.com"]
 ||zd.plattedrattons.com^
 ||zd0.top^
 ||zd2020.top^
+||zd518.cn/statics/js/home.js
+||zd518.cn/template/qpg6080/baidufx/baidufx.js
+||zdabnt.buzz^
 ||zdabnt.live^
 ||zdads.e-media.com^
 ||zdajdudqfq.com^
 ||zdama.xyz^
 ||zdamybi.xyz^
 ||zdbbqb.mancrates.com^
+||zdcfta.buzz^
+||zdcfta.live^
 ||zdcjts.asics.com^
+||zdcoes.live^
 ||zdcv5.xyz^
 ||zdd-9.com^
 ||zddpnf.xyz^
 ||zdenochary.com^
 ||zdf3q.xyz^
+||zdfjas.top^
 ||zdfl.xyz^
 ||zdftqc.xyz^
 ||zdg-bend.xyz^
 ||zdgbend.buzz^
 ||zdhpen.xyz^
+||zdhpenn.live^
 ||zdhpenn.shop^
 ||zdhq.xyz^
 ||zditthqx.page.link^
+||zdiwsb.live^
+||zdjeae.live^
 ||zdjljvsi.com^
 ||zdjtxjp.xyz^
 ||zdkdwk.buzz^
+||zdkdwk.live^
 ||zdkjr.xyz^
 ||zdljbrwosbymft.com^
 ||zdlnhv.xyz^
@@ -148960,6 +150419,8 @@ ruanyifeng.com#@#a[href*=".apeclass.com"]
 ||zdvzw.com^
 ||zdwsh.tech^
 ||zdwykjd.icu^
+||zdx25.site^
+||zdx30.site^
 ||zdx5.destinia.pe^
 ||zdxblxwjoees.com^
 ||zdxcuchr.com^
@@ -149127,6 +150588,7 @@ ruanyifeng.com#@#a[href*=".apeclass.com"]
 ||zevents.com^
 ||zevents.sa^
 ||zevwkbzwkbqzw.top^
+||zewfbw.buzz^
 ||zewfbw.xyz^
 ||zewkj.com^
 ||zewoagoo.com^
@@ -149142,7 +150604,9 @@ ruanyifeng.com#@#a[href*=".apeclass.com"]
 ||zfcdirf.icu^
 ||zfctrack.net^
 ||zfcumb.xyz^
+||zfehvv.buzz^
 ||zfehvv.xyz^
+||zfenuq.buzz^
 ||zferral.com^
 ||zffymmdg.com^
 ||zfgan.com^
@@ -149257,6 +150721,7 @@ ruanyifeng.com#@#a[href*=".apeclass.com"]
 ||zhaner.xyz^
 ||zhangbaochang.top^
 ||zhangbu.ren^
+||zhangchi.work^
 ||zhangdujia.com^
 ||zhangfeiyijuepifa.com^
 ||zhangjianlong.xyz^
@@ -149279,6 +150744,7 @@ ruanyifeng.com#@#a[href*=".apeclass.com"]
 ||zhanjiang.treker.fun^
 ||zhanjiangletian.com^
 ||zhannei-dm.csdn.net^
+||zhanzhang.baidu.com/push.js
 ||zhanzhang.net^
 ||zhanzhang.toutiao.com^
 ||zhaoanhu.vip^
@@ -149297,6 +150763,7 @@ ruanyifeng.com#@#a[href*=".apeclass.com"]
 ||zhej78i1an8w6ceu.com^
 ||zhekoudajie.com^
 ||zhemaijs.net^
+||zhenbuka.com/gg/lunbo.js
 ||zhenghemold.com^
 ||zhengliyqq.com^
 ||zhengshaoze.com^
@@ -149311,8 +150778,12 @@ ruanyifeng.com#@#a[href*=".apeclass.com"]
 ||zhenxingkuangchanpin.com^
 ||zherimo.ru^
 ||zhexnuq.cn^
+||zhflodsix.cn^
 ||zhfvwkkftg.com^
 ||zhh8886.com^
+||zhhbqg.com/ee/*.js
+||zhhbqg.com/ww/*.js
+||zhhbqg.com/xxgg/*.js
 ||zhhxxnfuxn.com^
 ||zhiad.com^
 ||zhiai.space^
@@ -149332,6 +150803,7 @@ ruanyifeng.com#@#a[href*=".apeclass.com"]
 ||zhihuirenjia.xyz^
 ||zhihuiyun.net.cn^
 ||zhihuizeyuan.com^
+||zhijiangweidu.top^
 ||zhilii.com^
 ||zhilingshidai.com^
 ||zhimaad.cn^
@@ -149350,6 +150822,7 @@ ruanyifeng.com#@#a[href*=".apeclass.com"]
 ||zhivalley.cn^
 ||zhixd.cn^
 ||zhixianghuibao.com^
+||zhixin.host^
 ||zhixiuchang.com^
 ||zhiyaspa.com^
 ||zhizhizhizhi.oss-*.aliyuncs.com^
@@ -149632,6 +151105,7 @@ ruanyifeng.com#@#a[href*=".apeclass.com"]
 ||zlinkd.com^
 ||zlinkm.com^
 ||zlippyshare.com^
+||zljnwzp.cn^
 ||zljwhbuagdvl.com^
 ||zljyrpwg.page.link^
 ||zllhtz.cn^
@@ -150083,11 +151557,13 @@ ruanyifeng.com#@#a[href*=".apeclass.com"]
 ||zwatgf.megaknihy.cz^
 ||zwbbkjvzqembe.top^
 ||zwdq.xyz^
+||zwdu.com/getuserinfo.php
 ||zwfkxb.xyz^
 ||zwinqi.spartoo.pt^
 ||zwiucp.ohmynews.com^
 ||zwjaoni.cn^
 ||zwjezmzbyerkj.top^
+||zwlikv.cn^
 ||zwmkfoo.cn^
 ||zwmosu.xyz^
 ||zwmvyzyrlvava.top^
@@ -150137,6 +151613,7 @@ ruanyifeng.com#@#a[href*=".apeclass.com"]
 ||zxs.sync.oystergardens.club^
 ||zxse43.com^
 ||zxsmxt.com^
+||zxsnllo.cn^
 ||zxucii.com^
 ||zxvvcvd.cn^
 ||zxwdw.com^
@@ -150147,6 +151624,7 @@ ruanyifeng.com#@#a[href*=".apeclass.com"]
 ||zxwstong.com^
 ||zxxgoikbqyiu.com^
 ||zxyonlybelongstolym.xyz^
+||zxzj.me/slade2.js
 ||zy16eoat1w.com^
 ||zy8.org^
 ||zyam.club^
@@ -150164,6 +151642,7 @@ ruanyifeng.com#@#a[href*=".apeclass.com"]
 ||zyf03k.xyz^
 ||zygehty.cn^
 ||zygenidempaper.digital^
+||zygkzytb.cn^
 ||zygomasbeaches.guru^
 ||zygscl.cn^
 ||zyhx.ltd^
@@ -150171,6 +151650,7 @@ ruanyifeng.com#@#a[href*=".apeclass.com"]
 ||zyijzosrnzfru.com^
 ||zyjy.ink^
 ||zykumw.com^
+||zykwnj.cn^
 ||zykxjt.com^
 ||zylytavo.com^
 ||zymo.mps.weibo.com^
@@ -150212,6 +151692,7 @@ ruanyifeng.com#@#a[href*=".apeclass.com"]
 ||zzbbjh.cn^
 ||zzbmanavblkaw.top^
 ||zzbmxl.xyz^
+||zzccseo.com/statics/js/di.js
 ||zzcharming.top^
 ||zzchuy.cn^
 ||zzcmjn.com^
@@ -150271,4 +151752,4 @@ ruanyifeng.com#@#a[href*=".apeclass.com"]
 ||zzyy20.top^
 ||zzyytt.top^!
 ||zzznews.ru^
-||zzzsmall.test.oisd.nl^!--
+||zzzsmall.test.oisd.nl^[Adblock Plus 2.0]
