@@ -5862,6 +5862,7 @@ mcdulll.com##.pixnet-ad
 mcdulll.com##body div[class*="-mib-ad-"]
 mcdulll.com,mcdulll.pixnet.net###box1290930
 mcdulll.com,mcdulll.pixnet.net###box1989082
+mcmod.cn##a[href^="https://link.mcmod.cn/target/service-ad-vat"]
 md.hkgolden.com##.hkg-ad
 md.hkgolden.com#?##viewpage > .post:has(> :is(div[id^="div-gpt-"], .hkg-ad))
 megatime.com.tw###ad_type_9
@@ -7202,10 +7203,12 @@ speedtest.cn##.advertisingSpace
 speedtest.cn##.index-advertising
 speedtest.cn##.pub-ad
 speedtest.cn##.shade
+speedtest.cn##.speed-bottom-activity
 speedtest.cn##.speed-bottom-ads
 speedtest.cn##.speed-top-ads
 speedtest.cn##.summer_logo
 speedtest.cn##.ticket618_logo
+speedtest.cn##div[class^="speed-activity"][class$="wrap-index"]
 speedtest.cn##div[class^="speed-twoads"]
 splaybow.com###divPrevious:last-child
 sports.qq.com##.focus_con > .item > a[href^="http"]:not([href*=".qq."])
