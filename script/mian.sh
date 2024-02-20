@@ -7,6 +7,7 @@ curl -o i-3.txt https://adguardteam.github.io/HostlistsRegistry/assets/filter_5.
 curl -o i-4.txt https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_224_Chinese/filter.txt
 curl -o i-5.txt https://raw.githubusercontent.com/PhoenixLjw/AdRules/main/dns.txt
 curl -o i-6.txt https://raw.githubusercontent.com/lingeringsound/10007_auto/master/adb.txt
+curl -o i-7.txt https://raw.githubusercontent.com/samyansan/AdRules-SamYan/main/Rules/samyansan.txt
 
 # 合并规则并去除重复项
 cat i*.txt > i-mergd.txt
