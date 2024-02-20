@@ -633,7 +633,6 @@
 ##img#hth[onclick$="hth.html')"]
 ##img#hth[onclick^="window.open"]
 ##img[width="320"][height="50"]
-##oxk
 ##secion#ly LI[role='group'],secion#ly > H2
 ##section > SPAN[style='display: block; clear: both; overflow: hidden;']
 ##section.global_video_bottom_dbtc
@@ -1651,7 +1650,6 @@ baijiahao.baidu.com##div[style^="left: calc"]
 baijiahao.baidu.com##span[class*="cm-variable"]
 baijiahao.baidu.com#?#.layer-item:contains(百度)
 baijiahao.baidu.com#?#div.layer-item:contains(打开)
-baijiahao.baidu.com#?#span:contains(打开APP)
 baijiahao.baidu.com#?#span:contains(打开百度APP)
 baike.baidu.com###J-bds_app
 baike.baidu.com###adLayerSideWrap
@@ -2351,6 +2349,7 @@ comicbus.com##[src^="../images/ads/"]
 comichronicle.com,afumi-stage.jp,onlyporn.tube,watchporn.to,lifematome.blog,tora-kekkon.com,m.eprice.com.tw,dodoyo.jp,life-alright.com,bookwiz.me,yasasiikurasi.com,tabootube.xxx,ba-ro-4869.com,aquarium-suisou.net##.sponsor
 community.spiceworks.com##.ad-content-slot
 community.spiceworks.com##.ad-leaderboard-slot
+comnews.ru###bn-popup
 comnews.ru###mv-bottom-banner
 comnews.ru###mv-fullscreen
 comptoir-info.com#@#.textad
