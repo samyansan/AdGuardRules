@@ -11,6 +11,8 @@ curl -o i-7.txt https://raw.githubusercontent.com/samyansan/AdRules-SamYan/main/
 curl -o i-8.txt https://raw.githubusercontent.com/damengzhu/banad/main/jiekouAD.txt
 curl -o i-9.txt https://raw.githubusercontent.com/Noyllopa/NoAppDownload/master/NoAppDownload.txt
 curl -o i-10.txt https://raw.githubusercontent.com/samyansan/AdHosts/master/adguard
+curl -o i-11.txt https://raw.githubusercontent.com/jk278/Ad-J/main/Ad-J.txt
+curl -o i-12.txt https://raw.githubusercontent.com/samyansan/AdRules-SamYan/main/Rules/adgk.txt
 
 # 合并规则并去除重复项
 cat i*.txt > i-mergd.txt
