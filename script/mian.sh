@@ -13,6 +13,12 @@ curl -o i-9.txt https://raw.githubusercontent.com/Noyllopa/NoAppDownload/master/
 curl -o i-10.txt https://raw.githubusercontent.com/samyansan/AdHosts/master/adguard
 curl -o i-11.txt https://raw.githubusercontent.com/jk278/Ad-J/main/Ad-J.txt
 curl -o i-12.txt https://raw.githubusercontent.com/samyansan/AdRules-SamYan/main/Rules/adgk.txt
+curl -o i-13.txt https://raw.githubusercontent.com/TG-Twilight/AWAvenue-Ads-Rule/main/AWAvenue-Ads-Rule.txt
+curl -o i-14.txt https://filters.adtidy.org/extension/ublock/filters/11.txt
+curl -o i-15.txt https://raw.githubusercontent.com/Cats-Team/AdRules/main/mod/rules/adblock-rules.txt
+curl -o i-16.txt https://raw.githubusercontent.com/Cats-Team/AdRules/main/mod/rules/dns-rules.txt
+curl -o i-17.txt https://raw.githubusercontent.com/xinggsf/Adblock-Plus-Rule/master/mv.txt
+curl -o i-18.txt https://easylist-downloads.adblockplus.org/antiadblockfilters.txt
 
 # 合并规则并去除重复项
 cat i*.txt > i-mergd.txt
