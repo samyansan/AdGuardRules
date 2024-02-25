@@ -2,7 +2,6 @@
 
 # 下载规则
 curl -o i-1.txt https://raw.githubusercontent.com/samyansan/ADKill/main/w.txt
-curl -o i-2.txt https://cdn.jsdelivr.net/gh/damengzhu/abpmerge@main/abpmerge.txt
 
 # 合并规则并去除重复项
 cat i*.txt > i-mergd.txt
