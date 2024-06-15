@@ -3,8 +3,8 @@
 ! Powerd by SamSan
 ! Description: Just a merged Adblock rule. Nothing more
 ! Expires: 6 hours (update frequency)
-! Version: 2024-06-15 08:33:53
-! Total count: 139593
+! Version: 2024-06-15 14:09:01
+! Total count: 139601
 
 ###ADtip
 ###AdBlockDialog
@@ -3711,6 +3711,7 @@ $third-party,xmlhttprequest,domain=cocolamanhua.com|subhd.tv|subhdtw.com|xyg688.
 17173.com##.list-beauty
 17173.com##.mod-tg1
 17173.com##.pic[href*="Room"]
+17173.com##.slide-list > li[style]:has(> a[href*="&ad_code="])
 17173.com##a[href*="&ad_code="]
 17173.com##a[href^="https://gtv."]
 17173.com,am730.com.hk,cdyee.com,chinaz.com,eastmoney.com,epochtimes.com,hsw.cn,ifeng.com,lantian.tv,maoken.com,phoenixtv.com,pyccoo.cn,xineurope.com,yesky.com,zdzdm.com##.adbox
@@ -5731,6 +5732,7 @@ boke112.com##a[href*="url.cn"]
 boke112.com##a[href^="https://dwz.cn/"]
 boke112.com,dzbhdm.net,mzh.ren,whsir.com##a[href*=".aliyun.com"]
 boke112.com,ruanyifeng.com##a[href^="http://t.cn/"]
+bole90.com###xy_toast_ad
 bonbonme.com##.topbannerer
 boniu123.cc##.left_side
 boniu123.cc##.right_side
@@ -13090,6 +13092,8 @@ yes-news.com##.notification
 yesky.com###flayer
 yesky.com###gfapp1
 yesky.com##.abox
+yesky.com##.main_left_advertisement
+yesky.com##.rightGg
 yesky.com##div[class^="ad1"]
 yesky.com##div[class^="ad7"]
 yeyemo4.com,yeyemo5.com,yeyemo6.com,yeyemo7.com,yeyemo8.com,yeyemo9.com,yeyemo10.com##center > a[target="_blank"] > img
@@ -30953,6 +30957,7 @@ zzzyk.com###Tinfo
 ||bbnfcfrvjs.com^
 ||bbphonix.xyz^
 ||bbqckhmgboal.xyz^
+||bbqoa.top^
 ||bbrdbr.com^
 ||bbrnpj.xyz^
 ||bbs.a9vg.com/showit/img_show.php
@@ -55325,6 +55330,7 @@ zzzyk.com###Tinfo
 ||foghug.site^
 ||fogl1onf.com^
 ||fognvcteac.com^
+||fogolakda.top^
 ||fogsham.com^
 ||fogtrack.net^
 ||fogtweybq.com^
@@ -98432,6 +98438,7 @@ zzzyk.com###Tinfo
 ||pwwghcyzsn.info^
 ||pwwqkppwqkezqer.site^
 ||pwxerujvl.com^
+||pwxlbsie.icu^
 ||pwxmwmoyuobgku.com^
 ||pwxtock.com^
 ||px*.mediahills.ru^
@@ -118487,6 +118494,7 @@ zzzyk.com###Tinfo
 ||szbxw.cn^
 ||szbzp.cn^
 ||szdaqi88.com^
+||szdpk.cn^
 ||szfcol.com/images/wxright240.jpg
 ||szfcol.com/js/siteAd.js
 ||szfhl99.com^
