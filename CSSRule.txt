@@ -850,7 +850,6 @@
 ##.ggpost-below
 ##.ggtop
 ##.ggw
-##.globalPadding
 ##.global_video_bottom_dbtc
 ##.google-ad2_fixed
 ##.google_adsense2
@@ -1430,6 +1429,7 @@
 ##[href^='https://xcc.'][href*='cn/']
 ##[href^='https://xxx.nunxun.com']
 ##[onclick*="trackEvent', 'ad"]
+##[onclick*='fjbglfrv.com']
 ##[onclick*='https://i.opiwb.com:']
 ##[onclick*='pypyj.com']
 ##[onclick*='www.l4lui.com'],.col-12.position-relative>b

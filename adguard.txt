@@ -3,7 +3,7 @@
 ! Powerd by SamSan
 ! Description: Just a merged Adblock rule. Nothing more
 ! Expires: 6 hours (update frequency)
-! Version: 2024-06-18 14:10:27
+! Version: 2024-06-18 20:13:31
 ! Total count: 139726
 
 ###ADtip
@@ -858,7 +858,6 @@
 ##.ggpost-below
 ##.ggtop
 ##.ggw
-##.globalPadding
 ##.global_video_bottom_dbtc
 ##.google-ad2_fixed
 ##.google_adsense2
@@ -1438,6 +1437,7 @@
 ##[href^='https://xcc.'][href*='cn/']
 ##[href^='https://xxx.nunxun.com']
 ##[onclick*="trackEvent', 'ad"]
+##[onclick*='fjbglfrv.com']
 ##[onclick*='https://i.opiwb.com:']
 ##[onclick*='pypyj.com']
 ##[onclick*='www.l4lui.com'],.col-12.position-relative>b
@@ -1969,8 +1969,9 @@ $third-party,xmlhttprequest,domain=cocolamanhua.com|subhd.tv|subhdtw.com|xyg688.
 .cn/redbaiduct.com?s=$third-party
 .cn/sc/*?x=$script,third-party
 .cn/v/*.xmtl?$third-party
+.cn:*/d/*?c=*$third-party
+.cn:*/sc/*?n=$third-party
 .cn:*/vh5$third-party
-.cn:8001/*/*?*=$third-party
 .cn:8005/cc/*?is_not=
 .co/ads/
 .co/js/ads/
@@ -2079,10 +2080,7 @@ $third-party,xmlhttprequest,domain=cocolamanhua.com|subhd.tv|subhdtw.com|xyg688.
 .com:7891/stats$third-party
 .com:8001/*/*?*=$third-party
 .com:8003/d/*&n=$third-party
-.com:8004/*/*?*=$third-party
 .com:8005/*&n=$third-party
-.com:8007/*/*?*=$third-party
-.com:8008/*/*?*=$third-party
 .com:8008/sc/*?n=$third-party
 .com:8010/cc/
 .com:91/Runtime/js/psCreat.js
@@ -12204,7 +12202,7 @@ tptoon.com##span[style^="position:fixed; bottom:30vh;"]
 track718.com##.track-adsense-ad
 track718.com##.track-search-ad
 trackr.fr##.alert-dashed
-trafficjunky.com$third-party
+trafficjunky.com$third-part
 trakt.tv##DIV[id$='-wrapper']
 tropica.cn##.a_mu1
 tropica.cn##.bm.a_c1
@@ -54865,6 +54863,7 @@ zzzyk.com###Tinfo
 ||fizawhwpyda.com^
 ||fizzysquirtbikes.com^
 ||fj.sina.com.cn/iframe/63/
+||fjbglfrv.com^
 ||fjctlnn.top^
 ||fjdfqy.com^
 ||fjdpdcdndc.com^
@@ -95512,6 +95511,7 @@ zzzyk.com###Tinfo
 ||plausible.safing.io^
 ||plausible.sbw.org^
 ||plausible.scimago.es^
+||plausible.server.hakai.app^
 ||plausible.shadygrovepca.org^
 ||plausible.simplelogin.io^
 ||plausible.srijn.net^
