@@ -2292,7 +2292,10 @@
 18board.com,18board.net,18p2p.com,18p2p.tv##a[target="_blank"] > img[width="920"]
 18board.com,18board.net,18p2p.com,18p2p.tv##a[target="_blank"] > img[width="950"]
 18board.com,18board.net,18p2p.com,18p2p.tv##a[target="_blank"] > img[width^="72"]
+18comic.org,18comic.vip##div[class="row"][style="display: flex;flex-wrap: wrap;"]
 18comic.org,18comic.vip##div[data-group^="photo_center_games_"]
+18comic.org,18comic.vip##div[data-group^="skyscraper_"]
+18comic.org,18comic.vip##div[data-height="250"][data-width="300"]
 18comic.org,18comic.vip,18-comic.work#$?#.col-xs-6 > div[data-type][style]:has(> ins + script) { remove: true; }
 18comic.org,18comic.vip,18-comic.work#?#.col-xs-6 > div[data-show][style]:has(> p:only-child > a[target="_blank"] > img)
 18comic.org,18comic.vip,18-comic.work#@?#:-abp-has(>ins+script)
@@ -2301,8 +2304,6 @@
 18comic.org,18comic.vip,jmcomic1.city,jmcomic1.win,jmcomic1.group##[data-group^='album_related'],[data-group^='all_bottom']
 18comic.org,18comic.vip,jmcomic1.city,jmcomic1.win,jmcomic1.group##[data-group^='photo_center_']
 18comic.vip##IMG[src^='//18comic.vip/media/albums/']
-18comic.vip##div[data-group^="skyscraper_"]
-18comic.vip,18comic.org##div[data-height="250"][data-width="300"]
 18h.animezilla.com###manga-bottom
 18h.avmimi.com##body > p[align="center"]:first-child
 18h.avmimi.com##body > table[width="100%"]:nth-child(2)
