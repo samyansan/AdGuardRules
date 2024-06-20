@@ -2246,19 +2246,20 @@
 17yy.com##.t2_3
 17yy.com##.t2r_3
 18-comic.work,18-comicfreedom.org,18-comicfreedom.xyz,18-comicstellar.art,18comic.org,18comic.vip,jm-comic1.cc,jm-comic2.cc,jmcomic.me,jmcomic1.me,jmcomic2.me#@#.col-lg-3.col-xs-6 > .well
-18-comic.work,18comic.org,18comic.vip,jmcomic.me###guide-modal
-18-comic.work,18comic.org,18comic.vip,jmcomic.me##.div_sticky2
-18-comic.work,18comic.org,18comic.vip,jmcomic.me##.modal-backdrop
-18-comic.work,18comic.org,18comic.vip,jmcomic.me##a[href*="//"]:not([href*="comic."]) > [style*="back"]
-18-comic.work,18comic.org,18comic.vip,jmcomic.me##a[href*="//"]:not([href*="comic."]) > div[style^="display: block;"]
-18-comic.work,18comic.org,18comic.vip,jmcomic.me##a[href*="//"]:not([href*="comic."]) > img
-18-comic.work,18comic.org,18comic.vip,jmcomic.me##a[href*="//"]:not([href*="comic."]) > img + [style]
-18-comic.work,18comic.org,18comic.vip,jmcomic.me##style + div[style="cursor: pointer; position: relative;"]
-18-comic.work,18comic.org,18comic.vip,jmcomic.me#?#:-abp-has(>ins+div)
-18-comic.work,18comic.org,18comic.vip,jmcomic.me#?#:-abp-has(>ins+script)
-18-comic.work,18comic.org,18comic.vip,jmcomic.me#?#:-abp-has(>ins+style)
-18-comic.work,18comic.org,18comic.vip,jmcomic.me#?#:-abp-has(>script+ins)
-18-comic.work,18comic.org,18comic.vip,jmcomic.me#?#:not(body):-abp-has(>script[src*=".realsrv.com"])
+18-comicfrieren.xyz,18comic.org,18comic.vip###guide-modal
+18-comicfrieren.xyz,18comic.org,18comic.vip##.div_sticky2
+18-comicfrieren.xyz,18comic.org,18comic.vip##.modal-backdrop
+18-comicfrieren.xyz,18comic.org,18comic.vip##.row[style="display: flex;flex-wrap: wrap;"]
+18-comicfrieren.xyz,18comic.org,18comic.vip##a[href*="//"]:not([href*="comic."]) > [style*="back"]
+18-comicfrieren.xyz,18comic.org,18comic.vip##a[href*="//"]:not([href*="comic."]) > div[style^="display: block;"]
+18-comicfrieren.xyz,18comic.org,18comic.vip##a[href*="//"]:not([href*="comic."]) > img
+18-comicfrieren.xyz,18comic.org,18comic.vip##a[href*="//"]:not([href*="comic."]) > img + [style]
+18-comicfrieren.xyz,18comic.org,18comic.vip##style + div[style="cursor: pointer; position: relative;"]
+18-comicfrieren.xyz,18comic.org,18comic.vip#?#:-abp-has(>ins+div)
+18-comicfrieren.xyz,18comic.org,18comic.vip#?#:-abp-has(>ins+script)
+18-comicfrieren.xyz,18comic.org,18comic.vip#?#:-abp-has(>ins+style)
+18-comicfrieren.xyz,18comic.org,18comic.vip#?#:-abp-has(>script+ins)
+18-comicfrieren.xyz,18comic.org,18comic.vip#?#:not(body):-abp-has(>script[src*=".realsrv.com"])
 18183.com###gsBtn
 18183.com##.down_url
 18183.com##.pcBtn > a[href*="@"]
@@ -3799,6 +3800,7 @@ baofeng.com##.ad-pop-wrap
 baofeng.com##.play-ads
 baoliny.com,gasaq.com,hgitv.com,ifooday.cn,nen.com.cn##.guanggao
 baomidou.com##.sidebar-content > astro-island
+baozimh.one##.banners
 bbc.com##section[class*="AdContainer"]
 bbs-mychat.com###cate_top > tr > .f_one
 bbs-mychat.com#@#.adContent
@@ -6715,8 +6717,7 @@ igorchernomoretz.com##body > div[id^="ab"] + div[style*="cursor"]
 igxe.cn##.lion-flexd
 ihome99.com##.ad-980x60
 iis7.com###QTGG
-ijiandao.com###index_top_ad
-ijiandao.com##div[class^="banner_h_"]
+ijiandao.com,ijiandao.cn##.index-ad
 ik123.com###aa960a
 ikan6.vip,www.1111modruba.cc##IMG[src$='.gif']
 ikandy.fun##.stui-banner__pic[href="/statics/js/ky-a.html"]
@@ -8321,6 +8322,8 @@ mobile01.com#$#body { overflow: visible!important; }
 mobile01.com#?#.l-articlePage:has(> .l-articlePage__author .c-authorInfo__id > a[href^="/marketstore.php?"])
 mobile01.com#@#.googlead
 mobilemagazinehk.com##.adv2
+moe-acg.com##A[href*=".x8o.de"]
+moe-acg.com##div[style="position: relative;width: 100%;height: 0;padding-bottom: 18%;"]
 moe.best###rcm_sidebar
 moe.best##.alert
 moe.best##.markdown-body + div[style="text-align:center;margin-top:40px"]
