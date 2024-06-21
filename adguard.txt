@@ -3,8 +3,8 @@
 ! Powerd by SamSan
 ! Description: Just a merged Adblock rule. Nothing more
 ! Expires: 6 hours (update frequency)
-! Version: 2024-06-21 08:34:08
-! Total count: 139882
+! Version: 2024-06-21 14:10:51
+! Total count: 139902
 
 ###ADtip
 ###AdBlockDialog
@@ -5296,6 +5296,7 @@ baidu.com##.home-app-promotion
 baidu.com##.hotad-list-box
 baidu.com##.icon-bdad
 baidu.com##.img-adv-swap1
+baidu.com##.index-module_drawerHand__aRhcO
 baidu.com##.intro-adv
 baidu.com##.l-header-ad
 baidu.com##.landrightbanner
@@ -11896,6 +11897,10 @@ suopao.org##.tr3.t_one[onmouseout]
 super.sina.cn##.call_up_banner
 supercloudsms.com##a[id^="ad_"]
 superlife.ca##.sidebar-ad-zone
+supertaste.tvbs.com.tw###ad_m_bottom
+supertaste.tvbs.com.tw###lightbox--ad
+supertaste.tvbs.com.tw##.ad_m_block
+supertaste.tvbs.com.tw##.ad_m_top
 supportdap.online##.td-post-content > a[rel="nofollow"] > img
 susongbbs.com#@#.ad_banner
 sutin0831.pixnet.net#$#div[class*="-ad-sidebar-"] { position: absolute!important; left: -3000px!important; }
@@ -13847,6 +13852,7 @@ zzzyk.com###Tinfo
 ||1048358656.rsc.cdn77.org^
 ||1059265748.rsc.cdn77.org^
 ||105app.com^
+||107.167.16.14^
 ||107788.com^
 ||1080872514.rsc.cdn77.org^
 ||1085549509.rsc.cdn77.org^
@@ -15251,6 +15257,7 @@ zzzyk.com###Tinfo
 ||3dmgame.com/page/img/shangcheng
 ||3dmgame.com/page/js/indexalert_ad.
 ||3dmgame.com/page/js/push_browser.js
+||3dmgame.com/static/image/common/pc_tg3dm.
 ||3dmgame.com/sw/zjworld/js/index.
 ||3dmgame.com/templets/common/show_js/show_js.js
 ||3dmgame.com/templets/index/gimg/
@@ -15500,6 +15507,8 @@ zzzyk.com###Tinfo
 ||4f369824ed.com^
 ||4f4e1936f7.com^
 ||4fb0cadcc3.com^
+||4fb60fd0.xyz^
+||4fb60fd0.xyz^$dnsrewrite=ad-block.dns.adguard.com
 ||4fef80eb73.com^
 ||4ffecd1ee4.com^
 ||4g0.cc^
@@ -30691,6 +30700,7 @@ zzzyk.com###Tinfo
 ||banners.tapclap.com^
 ||banners.tempobet.com^
 ||banners.videosecrets.com^
+||banners.wsnonline.dk^
 ||banners5html2.com^
 ||bannershotlink.perfectgonzo.com^
 ||bannersmall.com^
@@ -32066,6 +32076,7 @@ zzzyk.com###Tinfo
 ||bfg.loanzify.app^
 ||bfgacxuooced.com^
 ||bfgtfxd.com^
+||bfhueh.top^
 ||bfjk360.com^
 ||bfjoyp.plus.nl^
 ||bfjpbw.herrenausstatter.de^
@@ -69923,6 +69934,7 @@ zzzyk.com###Tinfo
 ||jinjililanius.top^
 ||jink.de^
 ||jinlanqiangyi.cn^
+||jinman4.com/ad/
 ||jinnf.cn^
 ||jinniu168.com^
 ||jinshagt222.com^
@@ -92287,6 +92299,7 @@ zzzyk.com###Tinfo
 ||ouldhukelpm.org^
 ||ouleegneeje.com^
 ||oulpli.bettybarclay.com^
+||oulragart.xyz^
 ||oulrarta.net^
 ||oulrukry.xyz^
 ||oulsools.com^
@@ -94513,6 +94526,7 @@ zzzyk.com###Tinfo
 ||phaitaghy.com^
 ||phaixurd.com^
 ||phalingy.net^
+||phallicbedsore.com^
 ||phamsacm.net^
 ||phanmem111.com^
 ||phanmem333.com^
@@ -100369,6 +100383,7 @@ zzzyk.com###Tinfo
 ||raivoufe.xyz^
 ||rajabets.xyz^
 ||rajatraffic.com^
+||rajmobbism.com^
 ||rakamu.com^
 ||rake.11st.co.kr^
 ||rake.tmap.co.kr^
@@ -105032,6 +105047,7 @@ zzzyk.com###Tinfo
 ||saunerema.net^
 ||saupouni.xyz^
 ||sauptoacoa.com^
+||sauptowhy.com^
 ||saurajembe.top^
 ||sauriaparpen.com^
 ||sausagegirlieheartburn.com^
@@ -107394,6 +107410,7 @@ zzzyk.com###Tinfo
 ||shenzo.xyz^
 ||shepeekr.net^
 ||shepherdalmightyretaliate.com^
+||shepsubsitha.com^
 ||shequdaohang.com^
 ||shequdaohang.com^$third-party
 ||sheregesh-io.traveler.today^
@@ -117953,6 +117970,7 @@ zzzyk.com###Tinfo
 ||superstitiouscoherencemadame.com^
 ||superstriker.net^
 ||superstyle.ru^
+||supertaste.tvbs.com.tw/css/adunit.min.css
 ||supertop.ru^
 ||supertrackingz.com^
 ||supertura.com^
@@ -128390,6 +128408,7 @@ zzzyk.com###Tinfo
 ||uphilo.com^
 ||uphorter.com^
 ||uphorter.com^$dnsrewrite=ad-block.dns.adguard.com
+||uphoveduke.com^
 ||uphoveeh.xyz^
 ||uphzxdv.cn^
 ||upinu.xyz^
@@ -132518,6 +132537,7 @@ zzzyk.com###Tinfo
 ||wazzeyzloayz.top^
 ||wazzeyzlozyj.top^
 ||wb.gtimg.com^
+||wbaj.cn^
 ||wbaogaqvrukprx.com^
 ||wbaogaqvrukprx.com^$dnsrewrite=ad-block.dns.adguard.com
 ||wbapp.mobile.sina.cn^
