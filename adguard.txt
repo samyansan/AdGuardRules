@@ -3,8 +3,8 @@
 ! Powerd by SamSan
 ! Description: Just a merged Adblock rule. Nothing more
 ! Expires: 6 hours (update frequency)
-! Version: 2024-06-24 14:10:50
-! Total count: 140044
+! Version: 2024-06-24 20:13:44
+! Total count: 140053
 
 ###ADtip
 ###AdBlockDialog
@@ -16217,6 +16217,7 @@ zzzyk.com###Tinfo
 ||6park.com/parks/$script
 ||6park.com^$subdocument,badfilter
 ||6ped2nd3yp.com^
+||6pznpz.com^
 ||6qu5dcmyumtw.com^
 ||6quspne.com^
 ||6rn05mmbct.ru^
@@ -26789,6 +26790,7 @@ zzzyk.com###Tinfo
 ||api.qvpublish.com^
 ||api.rees46.com^
 ||api.rideraid.net^
+||api.sardine.ai^
 ||api.scwsf.com^
 ||api.sdk.fmobi.cn^
 ||api.sec.miui.com^
@@ -26832,6 +26834,7 @@ zzzyk.com###Tinfo
 ||api.youtu.qq.com^
 ||api.zol.com^
 ||api1.888zy.cn^
+||api168168.com^
 ||api2.appsflyer.com^
 ||api2.boclinkads.com^
 ||api2.branch.io^
@@ -30479,6 +30482,8 @@ zzzyk.com###Tinfo
 ||baihuwang.com^
 ||baihuwang.com^$third-party
 ||baijav.com^
+||baijs02.xyz^
+||baijs03.xyz^
 ||baikalize.com^
 ||baike.biz^
 ||baike.com/iframeheightforad.
@@ -31210,6 +31215,7 @@ zzzyk.com###Tinfo
 ||bd3.jobui.com^
 ||bd4.chuiyue.com^
 ||bd4travel.com^
+||bd51static.com^
 ||bd5a57.xyz^
 ||bd5a57.xyz^$dnsrewrite=ad-block.dns.adguard.com
 ||bd742.com^
@@ -47740,6 +47746,7 @@ zzzyk.com###Tinfo
 ||douhooke.net^
 ||doujs01.xyz^
 ||doujs02.xyz^
+||doujs03.xyz^
 ||doukekan.cn^
 ||doukoula.com^
 ||doumaibiji.cn^
@@ -59883,6 +59890,7 @@ zzzyk.com###Tinfo
 ||google-analytics.com/analytics.js
 ||google-analytics.com/analytics.js$script,redirect=noopjs,important,domain=ebb.io
 ||google-analytics.com^
+||google-js-01.xyz^
 ||google-pagerank.net^
 ||google-shopping-v2.sapoapps.vn^
 ||google-shopping.sapoapps.vn^
@@ -89483,6 +89491,7 @@ zzzyk.com###Tinfo
 ||nourishinghorny.com^
 ||nourishmentrespective.com^
 ||noushe.zevvle.com^
+||nouveau-digital.com^
 ||nouveaulain.com^
 ||nouvhidtxryveg.com^
 ||nov.evmenov37.ru^
