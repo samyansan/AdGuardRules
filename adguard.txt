@@ -3,8 +3,8 @@
 ! Powerd by SamSan
 ! Description: Just a merged Adblock rule. Nothing more
 ! Expires: 6 hours (update frequency)
-! Version: 2024-06-26 08:34:16
-! Total count: 140098
+! Version: 2024-06-26 14:10:41
+! Total count: 140103
 
 ###ADtip
 ###AdBlockDialog
@@ -9873,8 +9873,10 @@ manhuagui.com##div[style^="width: 300px; height: 250px;"]
 manhuaren.com###lb-win
 manmanbuy.com##.app-activity-download
 manmanw.net##.tlads
+manwa.fun###detail > div:has(> div.ad-area-close)
+manwa.fun#%#//scriptlet("prevent-setTimeout", "/alert\('请关闭.*Chrome/")
+manwa.fun#%#//scriptlet('remove-attr', 'style', '.two-ad-area')
 manwa.me##.ad-area > a
-manwa.me#$#.ad-area { position: absolute !important; left: -3000px !important; }
 manwa.me#@#.ad-area
 manwa1.me,manwa2.me,manwa.me##.ad-area-close
 manwa1.me,manwa2.me,manwa.me##.swiper-container.swiper-container-horizontal
@@ -17970,6 +17972,8 @@ zzzyk.com###Tinfo
 ||a8aspconv.xn--ipv6-yn4cxgwe959zqrkp58g.com^
 ||a8aspconv.xn--ocn-ws1e.jp^
 ||a8atcomsme.mellife.jp^
+||a8b68645.xyz^
+||a8b68645.xyz^$dnsrewrite=ad-block.dns.adguard.com
 ||a8clic.alcosystem.co.jp^
 ||a8click.daini2.co.jp^
 ||a8click.you-up.com^
@@ -68327,6 +68331,7 @@ zzzyk.com###Tinfo
 ||io1g.net^
 ||ioaalobqpc.com^
 ||ioadserve.com^
+||ioaiqp.top^
 ||ioam.de^
 ||iob.imgur.com^
 ||iobvmtx.xyz^
@@ -79769,10 +79774,8 @@ zzzyk.com###Tinfo
 ||manureoddly.com^
 ||manurepungentfew.com^
 ||manuretravelingaroma.com^
-||manwa.fun/static/upload/ads/$image,redirect=1x1-transparent.gif,important
 ||manwa.me/static/custom/files/300X250.$image,redirect=1x1-transparent.gif,~third-party
 ||manwa.me/static/custom/files/300X250.$image,rewrite=abp-resource:1x1-transparent-gif,~third-party
-||manwa.me/static/custom/files/300X250.gif$image,redirect=1x1-transparent.gif,important
 ||manychat.com^
 ||manymgsgn.com^
 ||manyou.com^
@@ -100228,6 +100231,7 @@ zzzyk.com###Tinfo
 ||qyerstatic.com/common/models/common/component/footerBanner/
 ||qygxrh.vandykes.com^
 ||qygzbxpt.com^
+||qyisloy.top^
 ||qykvrcqk.com^
 ||qykxyax.com^
 ||qylgfuikc.com^
@@ -126664,6 +126668,7 @@ zzzyk.com###Tinfo
 ||ttrruq749.shop^
 ||tts.178ud.com^
 ||ttsbtdgdo.com^
+||ttse.b-cdn.net^
 ||ttsv2.shijiezhidao.com^
 ||tttppp.oss-cn-guangzhou.aliyuncs.com^
 ||ttts.miyue17.com^
