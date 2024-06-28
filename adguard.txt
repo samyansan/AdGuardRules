@@ -3,8 +3,8 @@
 ! Powerd by SamSan
 ! Description: Just a merged Adblock rule. Nothing more
 ! Expires: 6 hours (update frequency)
-! Version: 2024-06-28 08:34:37
-! Total count: 140186
+! Version: 2024-06-28 14:10:54
+! Total count: 140201
 
 ###ADtip
 ###AdBlockDialog
@@ -2649,6 +2649,7 @@ $third-party,xmlhttprequest,domain=cocolamanhua.com|subhd.tv|subhdtw.com|xyg688.
 /ceshi127722.
 /cf.aspx?action=cycadget&
 /chinaadclient.
+/cjs/cprt.js$domain=dailygh.com|xgcartoon.com
 /clicktotal/ClickTotal.js
 /cloudinject[a-zA-Z0-9.-]*-dev.*.[a-zA-Z0-9.-]*-[a-zA-Z0-9.-]*-[a-zA-Z0-9.-]*.amazonaws.com/
 /clys.js?2020
@@ -5040,6 +5041,7 @@ apkcombo.com##.diseanmevrtt
 apkcombo.com##[data-d-ad-id]
 apkpure.net,apkpure.com##DIV.js-ad-slot
 apowersoft.cn##.activity-poster
+app.n26.com#@#.bl > .gg
 appchina.com###yyh-bottom
 appinn.com###ranshownow
 appinn.com###sidebar > .widget:first-child
@@ -6466,6 +6468,8 @@ dahe.cn###adsg
 dailiantong.com##.appDwn
 daily.zhihu.com##.Daily
 daily.zhihu.com##.active
+dailygh.com###video_fade
+dailygh.com##.div_removeable
 dailymotion.com#@#.ad_box
 dailynews.sina.com##.TopNav + table
 dajie.com##.envelop_layer
@@ -7399,6 +7403,8 @@ fsjoy.com#@#.main_adv
 fstore.biz#@##adblockinfo
 fsylr.com##.plus_r
 ft.com,ftchinese.com##.bn-ph
+ftchinese.com#%#//scriptlet('prevent-setTimeout', '.offsetHeight')
+ftchinese.com#@#.AdsBox
 ftuapps.dev##[style*="cursor: no-drop;"]
 ftvnews.com.tw##div[id^="div_gpt_"]
 fububu.com###wendibu
@@ -7949,6 +7955,8 @@ he-games.com###he_bottom_ad
 hea.cn###top_slides_box
 health.tvbs.com.tw##.ad_desktop_top
 health.tvbs.com.tw##.ed-hidden.ed-xl-block
+health.tvbs.com.tw##.fromEditor > section.ed-px-5.ed-lg-hidden
+health.tvbs.com.tw##.h-full > div.flex-wrap > div.max-w-full > div.px-5.lg\:hidden:has(> div > div.flex.justify-center)
 health.tvbs.com.tw##.hidden .justify-center:has(> div[id^="health_pc_read_"])
 health.tvbs.com.tw##div[data-testid="ad-container"]
 healthylives.tw###contentBox > div[style^="width:336px;height: 280px;"]
@@ -12047,7 +12055,6 @@ thinbug.com###inktokad
 thinkphp.cn##.a6
 thmz.com###floatdivids
 thwiki.cc###a-carousel
-thwiki.cc##.on-right > .swiper-container
 tianhaohz.com##span[style="display: block; clear: both; overflow: hidden;"]
 tianqi.com##.xcx_erweima
 tianshif.com###comment-ad
@@ -12776,6 +12783,7 @@ wotactions.com###ads_warning
 wowhead.com##.block-bgimg
 wpjam.com###wpjam_blog_300x250_1
 ws://*/api/wss/GetNotReadCount$third-party
+wss://*.xyz:*?x=$third-party
 wss://*/api/wss/GetNotReadCount$third-party
 wuchajian.net##.UPAD
 wuyong.fun##.content-area .adsbygoogle
@@ -12896,6 +12904,7 @@ xgan.cn##.bottom_fixed
 xgan.cn##.container center > a[target="_blank"] > img
 xgan.cn##a[href^="https://www.jspp9.xyz"]
 xgan.cn##body > center > a[target="_blank"][rel="nofollow"]
+xgcartoon.com,dailygh.com###video-top-ad
 xgrb.cn##.d_2016_ggw
 xgw5.com###app-card-list
 xgw5.com##div[style="z-index:10;margin-bottom: 10px;margin-top:10px"]
@@ -13060,6 +13069,7 @@ yahoo.com#?#.stream-item:-abp-has(>div>div>div>span:-abp-contains(即日熱搜))
 yahoo.com#?#.wafer-beacon:-abp-has(a[data-ylk*=":ad;"])
 yam.com##.axdBox
 yamol.tw##.panel[style="text-align:left;width:100%;padding:0px;background-color:white"]
+yanaifei.net#$?#.swiper-wrapper > .swiper-slide:has(> .banner[href^="https://"][target="_blank"]) { remove: true; }
 yantuchina.com##div[style="width:618px;height:150px;margin: 0 auto; display:block;"]
 yaociyuan.bid##.board a[target="_blank"] > img
 yaociyuan.bid##.content a[target="_blank"] > img
@@ -36147,6 +36157,7 @@ zzzyk.com###Tinfo
 ||cavilerestops.com^
 ||cavy9soho.com^
 ||cawbarthe.com^
+||cawedburial.com^
 ||cawlavzzap.com^
 ||cawnielammy.com^
 ||caxist.com^
@@ -55118,6 +55129,7 @@ zzzyk.com###Tinfo
 ||fkwc.sfr.fr^
 ||fkwkzlb.com^
 ||fkxlsc.fenix-store.com^
+||fkxs.net/tops/
 ||fkxsklor.com^
 ||fkyhqtfiopfit.com^
 ||fkyujept.com^
@@ -84936,7 +84948,6 @@ zzzyk.com###Tinfo
 ||misrepush.com^
 ||missaffiliate.com^
 ||missav.com/pop?url=
-||missav.com/static/img/partners/
 ||missevan.com^$domain=jijidown.com
 ||missilesocalled.com^
 ||missilesurvive.com^
@@ -96236,6 +96247,7 @@ zzzyk.com###Tinfo
 ||podbooth.martela.se^
 ||podcorn.com^
 ||podefr.net^
+||podgilyfattens.com^
 ||podiumpresto.com^
 ||podiumpresto.com^$third-party
 ||podlersabir.com^
@@ -105115,6 +105127,7 @@ zzzyk.com###Tinfo
 ||sanduon.com^
 ||sandwichdeliveringswine.com^
 ||sandysuspicions.com^
+||sanedfalsely.com^
 ||sanfordcessor.space^
 ||sange20221226.xyz^
 ||sangeiunzen.com^
@@ -123217,6 +123230,7 @@ zzzyk.com###Tinfo
 ||torbit.com^
 ||torcheszocalo.top^
 ||torchtrifling.com^
+||toreddorize.com^
 ||torflegorb.com^
 ||torgdom.biz^
 ||torgnn.ru^
@@ -134009,6 +134023,7 @@ zzzyk.com###Tinfo
 ||wholecoolposts.com^
 ||wholecoolstories.com^
 ||wholedailyfeed.com^
+||wholeelision.com^
 ||wholefreshposts.com^
 ||wholehk.com/atttuop.js
 ||wholehugestories.com^
