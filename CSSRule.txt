@@ -3760,6 +3760,7 @@ baijiahao.baidu.com#?#span:contains(打开APP)
 baijiahao.baidu.com#?#span:contains(打开百度APP)
 baijiahao.baidu.com,feed.baidu.com##body > div[id$="-container"]:last-child
 baike.baidu.com###J-bds_app
+baike.baidu.com###J-union-wrapper
 baike.baidu.com##.BK-after-content-wrapper
 baike.baidu.com##.appdownload.item
 baike.baidu.com##.baike-dynamic-wrapper
@@ -7664,6 +7665,7 @@ lenovo.com.cn##div[id^="ad_bd_"]
 lenovo.com.cn##div[id^="ad_bd_"] + .ad-mark
 lenovo.com.cn#?#.imgNewText:-abp-has(>footer>.info>.source:-abp-contains(/广告/))
 lenovo.com.cn#?#a:-abp-has(>div>p:-abp-contains(广告))
+letsplay.tw##.entry-content > div[style="min-width: 300px; min-height:300px;"]
 letv.com###JS_banner01
 letv.com###JS_banner02
 letv.com##.fl_app_bot_wrap
@@ -11017,6 +11019,7 @@ www.so.com###footer a[href="http://mse.360.cn"]
 www.so.com###footer a[href="http://mse.360.cn"] + span
 www.sogou.com##.tgad-box + div
 www.wangjing.cn##.content > div[style*="980px;"]
+www.wdbay.com##[class][classname]
 www.wenshushu.cn##A[href^='https://wenshushu.cn/ad/']
 www.wenxuecity.com###leftside
 www.wenxuecity.com###rightside
