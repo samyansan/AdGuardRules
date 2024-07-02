@@ -3080,9 +3080,9 @@
 91porny.com##.mobile-jsv-bottom,.mb-3.p-0,.d-sm-none,.mb-0.p-0
 91porny.com##.row > div.colVideoList:has(> div.video-elem > a[target="_blank"])
 91porny.com##A.display.d-block[href^='http'],A.display.d-block[href^='http'] ~ *
+91porny.org,jiuse.io,x9av7.com###main > div[id^="rd"]
+91porny.org,jiuse.io,x9av7.com##.footer + .block
 91porny.org,jiuse.io,x9av7.com#?#.card:-abp-has(>.card-image>a[href^="http"])
-91porny.org,x9av7.com,jiuse.io###main > div[id^="rd"]
-91porny.org,x9av7.com,jiuse.io##.footer + .block
 91rb99.com##.top
 91wenmi.com###xiezuo
 91wenmi.com###xzsp
@@ -3803,7 +3803,7 @@ baofeng.com##.ad-pop-wrap
 baofeng.com##.play-ads
 baoliny.com,gasaq.com,hgitv.com,ifooday.cn,nen.com.cn##.guanggao
 baomidou.com##.sidebar-content > astro-island
-baozimh.one##.banners
+baozimh.one,yazhouse8.com##.banners
 bbc.com##section[class*="AdContainer"]
 bbs-mychat.com###cate_top > tr > .f_one
 bbs-mychat.com#@#.adContent
@@ -4589,6 +4589,7 @@ codejie.net##.s-ad-tit-box
 codejie.net#@##google-ads
 codeleading.com##div[id*="ads"]
 codenong.com###sidebar aside[id^="text-"]
+codeplayer.vip,cupfox.app##.banner-box
 codepub.com##.small-banner
 coderutil.com##.head-recommend-adv
 coderutil.com##.search-module + a
@@ -4741,7 +4742,6 @@ ctwant.com##.l-ad__article
 ctwant.com##.l-ad__wrapper
 ctwant.com##.m-adpopup
 cupfox.app##.banner > div.banner-content.right
-cupfox.app##.banner-box
 cupfox.app##.t-img-box > a[target="_blank"] > img
 cupfox.app##IMG[class^='jsx-'][width='100%'],.swiper-wrapper img[class^='jsx-'][class*='a']:only-child,.cupfox-content.right,.cupfox-content.left
 cupfox.app#?##outer-container > .model:has(> .model-content > a[href*=".jd.com"])
@@ -6725,7 +6725,7 @@ igorchernomoretz.com##body > div[id^="ab"] + div[style*="cursor"]
 igxe.cn##.lion-flexd
 ihome99.com##.ad-980x60
 iis7.com###QTGG
-ijiandao.com,ijiandao.cn##.index-ad
+ijiandao.cn,ijiandao.com,jojf.cn##.index-ad
 ik123.com###aa960a
 ikan6.vip,www.1111modruba.cc##IMG[src$='.gif']
 ikandy.fun##.stui-banner__pic[href="/statics/js/ky-a.html"]
@@ -7352,7 +7352,6 @@ jmw.com.cn##.top_pic
 jmw.com.cn##[class^="advertising"]
 jnnc.com###float_layer
 jnnc.com##.basehr + div
-jojf.cn##.index-ad
 jokeji.cn##.ad360_280
 jokerlu.com##.closebox
 jokerlu.com,jokerlu1.com##a[onclick^="_czc."]
@@ -8331,7 +8330,7 @@ mobile01.com#$#body { overflow: visible!important; }
 mobile01.com#?#.l-articlePage:has(> .l-articlePage__author .c-authorInfo__id > a[href^="/marketstore.php?"])
 mobile01.com#@#.googlead
 mobilemagazinehk.com##.adv2
-moe-acg.com##A[href*=".x8o.de"]
+moe-acg.com##a[href*=".x8o.de"]
 moe-acg.com##div[style="position: relative;width: 100%;height: 0;padding-bottom: 18%;"]
 moe.best###rcm_sidebar
 moe.best##.alert
@@ -9002,6 +9001,7 @@ pilipali.cc##.tips-widget-weixin
 pilipili.site##.block-sales
 pincong.rocks##.a-a
 pincong.rocks##.aw-mod > a[target="_blank"]
+pindao.hao123.com##.cmsad_wrapper
 ping.chinaz.com##.sth > .col-red
 pinggu.org##.banner2015
 pinggu.org##.hdbanner
