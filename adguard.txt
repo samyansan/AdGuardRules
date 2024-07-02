@@ -3,8 +3,8 @@
 ! Powerd by SamSan
 ! Description: Just a merged Adblock rule. Nothing more
 ! Expires: 6 hours (update frequency)
-! Version: 2024-07-02 14:11:42
-! Total count: 139226
+! Version: 2024-07-02 20:13:29
+! Total count: 139232
 
 ###ADtip
 ###AdBlockDialog
@@ -20513,6 +20513,7 @@ zzzyk.com###Tinfo
 ||ad.tpmn.co.kr^
 ||ad.tpmn.io^
 ||ad.tradertimerz.media^
+||ad.twinrdengine.com^
 ||ad.u-car.com.tw^
 ||ad.udition.jp^
 ||ad.unimhk.com^
@@ -35260,6 +35261,8 @@ zzzyk.com###Tinfo
 ||c2i.startappnetwork.com^
 ||c2s.startappnetwork.com^
 ||c2shb.pubgw.yahoo.com^
+||c31133f7.xyz^
+||c31133f7.xyz^$dnsrewrite=ad-block.dns.adguard.com
 ||c3metrics.com^
 ||c3metrics.medifast1.com^
 ||c3s.bionestraff.pro^
@@ -42882,6 +42885,8 @@ zzzyk.com###Tinfo
 ||d236v5t33fsfwk.cloudfront.net^
 ||d239g0z67jcted.cloudfront.net^
 ||d23a1izvegnhq4.cloudfront.net^
+||d23d450d.xyz^
+||d23d450d.xyz^$dnsrewrite=ad-block.dns.adguard.com
 ||d23d7sc86jmil5.cloudfront.net^
 ||d23guct4biwna6.cloudfront.net^
 ||d23p9gffjvre9v.cloudfront.net^
@@ -123798,6 +123803,7 @@ zzzyk.com###Tinfo
 ||track.ferrari.com^
 ||track.ferraridealers.com^
 ||track.financialfairness.org.uk^
+||track.fluffyfalcon.com^
 ||track.ft.com^
 ||track.futureshop.ca^
 ||track.fxstreet.com^
