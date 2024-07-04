@@ -3,8 +3,8 @@
 ! Powerd by SamSan
 ! Description: Just a merged Adblock rule. Nothing more
 ! Expires: 6 hours (update frequency)
-! Version: 2024-07-04 08:34:38
-! Total count: 139318
+! Version: 2024-07-04 14:10:45
+! Total count: 139332
 
 ###ADtip
 ###AdBlockDialog
@@ -4315,7 +4315,7 @@ $third-party,xmlhttprequest,domain=subhd.tv|subhdtw.com|xyg688.com|xyg688.xyz|zz
 52asus.com###guiigo-black-mask
 52av.one##.message + center
 52av.one##div[style^="text-align:center;"] > a[target="_blank"] > img
-52bdys.com###ayx
+52bdys.com###ayx > img
 52bdys.com##center[style*="background"]
 52bdys.com##div[style^="position: fixed;bottom:"]
 52biquge.com##[onclick*="app"]
@@ -10142,13 +10142,19 @@ msn.cn##.rc > a[href^="https://sp.booking.com/"]
 msn.cn##[class^="articlePage_eoabContent"]
 msn.cn##cs-native-ad-card
 msn.cn##div[class^="nativeAd-DS-card"]
-msn.cn#%#//scriptlet("json-prune", "*", "list.*.link.ad list.*.link.kicker")
 msn.cn#%#//scriptlet('hide-in-shadow-dom', '.recommended-sites-container')
+msn.cn#%#//scriptlet('hide-in-shadow-dom', 'msft-article-card:not([class="contentCard"])')
+msn.cn#%#//scriptlet('inject-css-in-shadow-dom', '#entry-point-hp-wc-header[style^="top:"] { top: 0 !important; }')
+msn.cn#%#//scriptlet('inject-css-in-shadow-dom', '#entry-point-hp-wc-root-wrapper[style^="margin-top:"] { margin-top: 0 !important; }')
+msn.cn#%#//scriptlet('inject-css-in-shadow-dom', '.ad-container, .vd-ad, cs-native-ad-card-no-hover, display-ads, .display-ad-container, .display-ads-container, .views-right-rail-top-display, #entry-point-hp-wc-banner, .me-stripe-title-subtitle, #displayAdCard, a[href*=".booking.com/"], a[href^="https://amzn.to/"] { display: none !important; }')
+msn.cn#%#//scriptlet('inject-css-in-shadow-dom', 'cs-native-ad-card { visibility: hidden !important; }')
+msn.cn#%#//scriptlet('json-prune', '*', 'list.*.link.ad list.*.link.kicker')
+msn.cn#%#//scriptlet('json-prune', '*.*', 'adFeedbackData adType adServedUrls')
+msn.cn#%#//scriptlet('json-prune', 'configs.*.properties.slideshowWCSettings.interstitialNativeAds configs.*.properties.fullScreenSlideshowSettings.interstitialNativeAds properties.componentConfigs.slideshowConfigs.interstitialNativeAds properties.componentConfigs.slideshowConfigs.slideshowSettings.interstitialNativeAds')
 msn.com###displayAdCard
 msn.com###taboola-above-homepage-thumbnails
 msn.com##.ad
 msn.com##div[data--adqjyluqt]
-msn.com#%#//scriptlet('hide-in-shadow-dom', 'msft-article-card:not([class="contentCard"])')
 mtrend.cn###morecontent > .morecontent_next[style]
 mtrend.cn###topictabs1
 mtrend.cn###toptabs1 > .kz_line
@@ -16053,6 +16059,7 @@ zzzyk.com###Tinfo
 ||634369.xyz^
 ||634369.xyz^$dnsrewrite=ad-block.dns.adguard.com
 ||637o.top^
+||63912b9175.com^
 ||63ef.com^*.js
 ||63kc.com^
 ||63r2vxacp0pr.com^
@@ -37874,6 +37881,7 @@ zzzyk.com###Tinfo
 ||ckxxbao.com/templets/default/js/wx.js
 ||ckygge.mohd.it^
 ||ckyhec.maxisport.com^
+||ckynh.com^
 ||ckywou.com^
 ||cl*.k5a.io^
 ||cl-997764a8.gcdn.co^
@@ -54839,6 +54847,7 @@ zzzyk.com###Tinfo
 ||fjmgnfoedmsjj.xyz^
 ||fjmksbwxb.com^
 ||fjnsnt.xyz^
+||fjojdlcz.com^
 ||fjqcqdr.icu^
 ||fjs043.cn^
 ||fjs056.cn^
@@ -56657,6 +56666,7 @@ zzzyk.com###Tinfo
 ||fxmkij.jny.com^
 ||fxmnba.com^
 ||fxmrelevbu.com^
+||fxnmjb.xyz^
 ||fxnow.ru^
 ||fxpayments.americanexpress.co.nz^
 ||fxpayments.americanexpress.com.au^
@@ -69623,6 +69633,7 @@ zzzyk.com###Tinfo
 ||jibn12.jintang114.org^
 ||jiciqm.antalyahomes.com^
 ||jickodsa.com^
+||jiclzori.com^
 ||jicypigra.com^
 ||jieaxwgwnydl.com^
 ||jiedaibao.com^
@@ -71401,6 +71412,7 @@ zzzyk.com###Tinfo
 ||kdgjsf.com^
 ||kdh095.cn^
 ||kdh8.com^
+||kdipsumd.top^
 ||kdjdpyrt.xyz^
 ||kdkatxfkxmgmbhu.xyz^
 ||kdl.huaxinsp.cn^
@@ -95743,6 +95755,7 @@ zzzyk.com###Tinfo
 ||polluxnetwork.com^
 ||poloptrex.com^
 ||poloud.com^
+||polpepsn.com^
 ||polredsy.com^
 ||poltarimus.com^
 ||polyad.net^
@@ -97395,6 +97408,7 @@ zzzyk.com###Tinfo
 ||pstatp.com^*/push.js
 ||pstats.cloudpal.app^
 ||pstats.com^
+||pstmqnplyzqahq.com^
 ||pstnmhftix.xyz^
 ||pstreetma.com^
 ||pstt.mtb-news.de^
