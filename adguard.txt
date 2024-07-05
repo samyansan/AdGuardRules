@@ -3,8 +3,8 @@
 ! Powerd by SamSan
 ! Description: Just a merged Adblock rule. Nothing more
 ! Expires: 6 hours (update frequency)
-! Version: 2024-07-05 14:11:32
-! Total count: 140177
+! Version: 2024-07-05 20:13:02
+! Total count: 140183
 
 ###ADtip
 ###AdBlockDialog
@@ -54468,6 +54468,8 @@ zzzyk.com###Tinfo
 ||fe-shop.cc^
 ||fe.lea.lycos.co.uk^
 ||fe.lwcvn.com^
+||fe30a5b4.xyz^
+||fe30a5b4.xyz^$dnsrewrite=ad-block.dns.adguard.com
 ||fe4r7k22y68p.info^
 ||fe7qygqi2p2h.com^
 ||fe95a992e6afb.com^
@@ -61240,6 +61242,7 @@ zzzyk.com###Tinfo
 ||gw100-10.com^
 ||gw1jvhs.com^
 ||gw2cddpt2hao.asia^
+||gw2cddpt2hao.cloud^
 ||gw5.push.mcp.weibo.cn^
 ||gw6.push.mcp.weibo.cn^
 ||gwallet.com^
@@ -79703,6 +79706,7 @@ zzzyk.com###Tinfo
 ||maihigre.net^
 ||maihikuh.com^
 ||mail-ads.google.com^
+||mail-count.matsui.co.jp^
 ||mail-spinner.com^
 ||mail.academyforconsciousleadership.net^
 ||mail.adswt.com^
@@ -94273,6 +94277,7 @@ zzzyk.com###Tinfo
 ||peacefullimit.com^
 ||peacefullyclenchnoun.com^
 ||peacefullyundergroundsubsided.com^
+||peach-analytics.vercel.app^
 ||peachesevaporateearlap.com^
 ||peachessummoned.com^
 ||peachrecess.com^
@@ -114599,6 +114604,7 @@ zzzyk.com###Tinfo
 ||srvpcn.com^
 ||srvpcn.com^$dnsrewrite=ad-block.dns.adguard.com
 ||srvpub.com^
+||srvr.dmvs-apac.com^
 ||srvtrck.com^
 ||srvtrkxx1.com^
 ||srvtrkxx2.com^
