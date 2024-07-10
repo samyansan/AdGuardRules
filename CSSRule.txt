@@ -7387,7 +7387,6 @@ js0573.com###adv2
 js0573.com###gotopl
 js0573.com###gotopr
 js0573.com##.gg_bnr
-jsav2.com##.row > div.colVideoList:not(:has(> div.video-elem > a[href^="/video"]))
 jsbooks.com.cn#@#.left-ads
 jsjiami.com##.asd > li > a.shaky
 jsjiami.com##.banner-container li._logo ~ li > a[target="_blank"]
@@ -11058,6 +11057,7 @@ x3cn.com#?#body > div#qmenu_menu ~ div[style]:has(> a[target="_blank"])
 x6d.com#?#li:-abp-has(>.myad)
 x6d.com,xiaodao0.com##a[href^="/ad."]
 x6g.com##.addd
+x9av1.com,jsav2.com##.row > div.colVideoList:not(:has(> div.video-elem > a[href^="/video"]))
 xbeibeix.com#@#.google-ad
 xbgame.net#$#.download .content-area > div[class] { background-image: none !important; }
 xbgame.net#@##google-ads
