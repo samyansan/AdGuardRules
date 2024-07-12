@@ -3,8 +3,8 @@
 ! Powerd by SamSan
 ! Description: Just a merged Adblock rule. Nothing more
 ! Expires: 6 hours (update frequency)
-! Version: 2024-07-12 08:35:10
-! Total count: 140451
+! Version: 2024-07-12 14:10:41
+! Total count: 140470
 
 ###ADtip
 ###AdBlockDialog
@@ -23,6 +23,7 @@
 ###TopAdvert
 ###Video-Shunt-Box + .container
 ###ZAML
+###Zi_ad_a_H
 ###\31 280_adv
 ###\31 x1_container.float-banner-footer
 ###__ads_dp
@@ -472,6 +473,7 @@
 ##.Text-Advertising
 ##.TqAdShow
 ##.Zi_ad_a_H
+##.Zi_ad_a_SB
 ##._300x250.item
 ##.__isboostOverContent
 ##._cggp
@@ -1898,6 +1900,7 @@ $script,subdocument,third-party,domain=dlkoo.com
 $script,subdocument,third-party,websocket,xmlhttprequest,domain=bhshu.net|louzhong8.com|miwens.com
 $script,subdocument,~third-party,websocket,xmlhttprequest,domain=m.6666xsw.com|m.biqugee6.com|m.bqg99.cc|m.chenkuan.com|m.jmshuwu.net|wodexiaoshuoh.com
 $script,third-party,denyallow=authkong.com|rsc.cdn77.org|linkvertise.com|fastly.net|statically.io|sharecast.ws|b-cdn.net|bunnycdn.ru|bootstrapcdn.com|cdn.ampproject.org|cloudflare.com|cdn.staticfile.org|disqus.com|disquscdn.com|dmca.com|ebacdn.com|facebook.net|fastlylb.net|fbcdn.net|fluidplayer.com|fontawesome.com|github.io|google.com|googleapis.com|googletagmanager.com|gstatic.com|jquery.com|jsdelivr.net|jwpcdn.com|jwplatform.com|polyfill.io|recaptcha.net|shrink.pe|twitter.com|ulogin.ru|unpkg.com|userapi.com|vidazoo.com|vk.com|yastatic.net|ytimg.com|zencdn.net|youtube.com|cackle.me|googleoptimize.com|vuukle.com|chatango.com|twimg.com|google-analytics.com|hcaptcha.com|raincaptcha.com|media-imdb.com|blogger.com|hwcdn.net|instagram.com|wp.com|fastcomments.com|plyr.io|cloudflare.net|rabbitstream.net|x.com,_____,domain=wap.dmwenku.com|m.wfxs.tw|h.fkxs.net|wap.ishuquge.la|m.91zww.com|592mh.top|dubuxiaoshuo.com|clm410.buzz|bookbl.com|shuku99.com|qiyoudy2.com|1yydstxt178.com|rouman5.com|feijisu20.com|iqb5.org|wap.xkushu.com|spoilertop.com|booktxts.com|bixia33.com|rouwenwu19.com|91porny.com|yznnw.com|vodtw.la|ckplayer.vip|uuread.tw
+$script,third-party,denyallow=cdn.yinghuazy.xyz|authkong.com|rsc.cdn77.org|linkvertise.com|fastly.net|statically.io|sharecast.ws|b-cdn.net|bunnycdn.ru|bootstrapcdn.com|cdn.ampproject.org|cloudflare.com|cdn.staticfile.org|disqus.com|disquscdn.com|dmca.com|ebacdn.com|facebook.net|fastlylb.net|fbcdn.net|fluidplayer.com|fontawesome.com|github.io|google.com|googleapis.com|googletagmanager.com|gstatic.com|jquery.com|jsdelivr.net|jwpcdn.com|jwplatform.com|polyfill.io|recaptcha.net|shrink.pe|twitter.com|ulogin.ru|unpkg.com|userapi.com|vidazoo.com|vk.com|yastatic.net|ytimg.com|zencdn.net|youtube.com|cackle.me|googleoptimize.com|vuukle.com|chatango.com|twimg.com|google-analytics.com|hcaptcha.com|raincaptcha.com|media-imdb.com|blogger.com|hwcdn.net|instagram.com|wp.com|fastcomments.com|plyr.io|cloudflare.net|rabbitstream.net|x.com,_____,domain=mxdm.xyz
 $script,third-party,denyallow=myqcloud.com|bytecdntp.com|pddpic.com|googletagmanager.com,domain=yjys.me
 $script,third-party,domain=52movieba.com|audio699.com|kan-tv.com|m.supfree.net|movieffm.net|xiaoxintv.net
 $script,third-party,domain=cilimao.co|cilimao.one
@@ -5307,6 +5310,7 @@ baidu.com##.l-header-ad
 baidu.com##.landrightbanner
 baidu.com##.link-banner
 baidu.com##.manual-spread
+baidu.com##.na-ec-waterfall
 baidu.com##.nav_ads
 baidu.com##.openAppCarsouselTpl
 baidu.com##.openAppCommonTpl-100
@@ -6540,6 +6544,7 @@ ddooo.com##.xzbtn
 ddooo.com#?#span:-abp-has(>p:-abp-contains(高速))
 ddooo.com#?#ul:-abp-has(>dd:-abp-contains(高速))
 ddrk.me##a[onclick^="ClickobayST();"]
+ddxs.vip##.content > p > font[color="red"]
 ddxsku.com##.adhtml
 ddys.*,ddrk.me#%#//scriptlet('set-constant', 'Object.prototype.canobpreroll_', 'true')
 ddys.*,ddrk.me#%#//scriptlet('set-constant', 'Object.prototype.cnobpreroll_', 'true')
@@ -6579,6 +6584,8 @@ dict.cn###tjcd
 dict.cn##.search-right-ad5
 dict.cn##.search-right-ad7
 didispace.com##.widget-wrap > p[style="text-align: left;padding-bottom: 20px;line-height: 30px;"]
+digitimes.com.tw##.dt-ad-block
+digitimes.com.tw##a[href*="/webad/"]
 dilidili.wang#$#body > article[class][style*="position: fixed;top: 0;z-index: 9999;display:block !important;"] { position: absolute!important; left: -3000px!important; }
 dilidili3.com#?#.body > div.body-wrap:has(> div.mod-box > div.mod-title > h3:contains(友情链接))
 dimtown.com##.aggd
@@ -8866,9 +8873,10 @@ jable.tv##div[class^="root-"]
 jable.tv#?#div.col-6.col-sm-4.col-lg-12:has(> div.video-img-box > div.img-box > a[href*="?banner="])
 jaitoutcompris.com###antiBlock
 jandan.net###random-ads
+jandan.net###sidebar > UL:nth-child(2)
 jandan.net###sidebar > div#box
-jandan.net###sidebar > ul[style="height:480px"]
 jandan.net##.goods2-list
+jandan.net##.post[style="padding-left:150px;width:336px;height:280px;"]
 jandan.net##a[href*="/money.php?"]
 jandan.net#?##sidebar > ul:has(> h3:contains(广告))
 jandan.net#?#.commentlist > li.row:has(> div > font:contains(广告))
@@ -10217,6 +10225,7 @@ mvcat.com###ad-jd
 mvcat.com##.jsalert
 mwrf.net##.uc1_focus_pics
 mx-fm.com,ts.21cn.com#@#.ad_img
+mxdm.xyz#%#//scriptlet('abort-current-inline-script', 'Function', 'new Function(document[')
 mxdm9.com,ntdm9.com,mxdm6.com,ntdm6.com##[style$='background-size: 400px 127px !important;'],[style$='bottom: 127px;']
 my0511.com###bbdcc
 my0511.com###dbdcc
@@ -10620,6 +10629,7 @@ opdown.com##.gxxz-btn
 opdown.com##.listaddrs
 opticsky.cn###head > .tac
 opticsky.cn##.p83_gridC > .cc
+orangenews.hk##img[advid]
 orsoon.com###new-actentry
 oschina.net###project_ad_banner
 oschina.net##.aside-topjj
@@ -13893,6 +13903,7 @@ zzzyk.com###Tinfo
 ||1059265748.rsc.cdn77.org^
 ||105app.com^
 ||107.167.16.*.gif
+||107.167.22.*.gif
 ||107788.com^
 ||1080872514.rsc.cdn77.org^
 ||1085549509.rsc.cdn77.org^
@@ -15856,6 +15867,7 @@ zzzyk.com###Tinfo
 ||57.com.cn^
 ||5726303d87522d05.com^
 ||57558.com^
+||57573zubo36833.com^
 ||57577.live^$csp=script-src
 ||576tv.com/Scripts/home.js
 ||577682.com^
@@ -56343,6 +56355,7 @@ zzzyk.com###Tinfo
 ||fpjs.io^
 ||fpjscdn.net^
 ||fpmleqdb.com^
+||fpninv.xyz^
 ||fpnpmcdn.net^
 ||fpptmv.mrmarvis.co.uk^
 ||fprnt.com^
@@ -56735,6 +56748,7 @@ zzzyk.com###Tinfo
 ||fromoffspringcaliber.com^
 ||front.optimonk.com^
 ||frontcognizance.com^
+||frontendcodingtips.com^
 ||frontendjs.com/api/ad
 ||fronthlpr.com^
 ||fronthlpric.com^
@@ -66603,6 +66617,7 @@ zzzyk.com###Tinfo
 ||imgmega.com/i/*.gif$domain=18avtube.com|mm-cg.com
 ||imgnewad.ytn.co.kr^
 ||imgopen.vip^
+||imgoss2255.top^
 ||imgoss511.top^
 ||imgot.info^
 ||imgot.site^
@@ -93837,6 +93852,7 @@ zzzyk.com###Tinfo
 ||paradiseannouncingnow.com^
 ||paradisemall.net^
 ||paradisenookminutes.com^
+||paradizeconstruction.com^
 ||paradocs.ru^
 ||paradoxfactor.com^
 ||paradoxfactor.com^$third-party
@@ -109101,6 +109117,7 @@ zzzyk.com###Tinfo
 ||singroot.com^
 ||singroot.com^$third-party
 ||singstout.com^
+||singtao.ca/editions/affiliate_
 ||singulardisplace.com^
 ||singularheroic.com^
 ||sinhvienvietnam2022.weebly.com^
@@ -114784,6 +114801,7 @@ zzzyk.com###Tinfo
 ||srsotqdgln.com^
 ||srtb.msn.cn^
 ||srtb.msn.com^
+||srtlisb.top^
 ||srtlyye.com^
 ||srtrak.com^
 ||sruk.srglobal.com^
@@ -127076,6 +127094,7 @@ zzzyk.com###Tinfo
 ||tuotianxia.top^
 ||tupian6666.com^
 ||tupian888.*.bcebos.com^
+||tupian88888.com^
 ||tupian9999.com^
 ||tuplzt.xyz^
 ||tupwiwm.com^
