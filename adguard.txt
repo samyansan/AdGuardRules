@@ -3,8 +3,8 @@
 ! Powerd by SamSan
 ! Description: Just a merged Adblock rule. Nothing more
 ! Expires: 6 hours (update frequency)
-! Version: 2024-07-14 14:11:55
-! Total count: 140547
+! Version: 2024-07-14 20:12:58
+! Total count: 140549
 
 ###ADtip
 ###AdBlockDialog
@@ -10108,6 +10108,7 @@ moeci.com#%#//scriptlet('prevent-setTimeout', '_0x')
 moegirl.org.cn##.moe-card[data-region="oversea"]
 moegirl.org.cn##.moe-card[region="oversea"]
 moegirl.org.cn##[class^='stevrhgmNo']
+moegirl.org.cn##[style*='box-shadow: rgb(136, 136, 136) 0px 0px']
 moegirl.org.cn#?#.capsule-card:-abp-has(.n-tag)
 moerats.com##div[style="box-shadow: 1px 1px 5px 5px rgba(17, 150, 196, 0.35);border-radius: 15px;"]
 molure.cn##.adplan
@@ -86021,6 +86022,7 @@ zzzyk.com###Tinfo
 ||moedao.com/js/top.js
 ||moedgapers.com^
 ||moegirl.org.cn/insight/MoegirlInsight.
+||moegirl.org.cn/insight/moegirlinsight.
 ||moengage.com^
 ||moera.xyz^
 ||moerats.com/usr/affpc/
