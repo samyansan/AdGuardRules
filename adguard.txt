@@ -3,8 +3,8 @@
 ! Powerd by SamSan
 ! Description: Just a merged Adblock rule. Nothing more
 ! Expires: 6 hours (update frequency)
-! Version: 2024-07-17 08:36:06
-! Total count: 140673
+! Version: 2024-07-17 14:10:55
+! Total count: 140661
 
 ###ADtip
 ###AdBlockDialog
@@ -8491,7 +8491,6 @@ image.baidu.com###ecomContainer
 image.baidu.com###imgCmsAdPart
 image.baidu.com###imgid > .fcimgpage
 image.baidu.com###only-lady-sec
-image.baidu.com###pageLayoutTipWindow
 image.baidu.com###plz-albums
 image.baidu.com###plz-head-banner
 image.baidu.com###relEcom
@@ -10051,6 +10050,8 @@ minimultik.ru###abDetected
 minwt.com##.g-336-280
 mirrormedia.mg##.micro-ad
 mirrormedia.mg##.story__ad
+mirrormedia.mg##div[class^="gpt-placeholder"]
+mirrormedia.mg##div[class^="related-article-list__AdvertisementWrapper"]
 missyuan.com##.spaceborder
 mitbbs.ca,mitbbs.com##.index_add
 mitbbs.ca,mitbbs.com##.newskuang2
@@ -25223,8 +25224,6 @@ zzzyk.com###Tinfo
 ||ampcr.io^
 ||amplayeranydwou.info^
 ||amplayeranydwou.info^$dnsrewrite=ad-block.dns.adguard.com
-||amplify.outbrain.com^
-||amplifypixel.outbrain.com^
 ||amplitude.chess.com^
 ||amplitude.com^
 ||amplitudesheriff.com^
@@ -53122,7 +53121,6 @@ zzzyk.com###Tinfo
 ||eventlog.hd.baofeng.com^
 ||eventlog.inspsearchapi.com^
 ||eventlog.jackpot.de^
-||eventlog.outbrain.com^
 ||eventlogger.soundcloud.com^
 ||eventlqvn.com^
 ||eventos.abastur.com^
@@ -64196,7 +64194,6 @@ zzzyk.com###Tinfo
 ||hpplay.cn^
 ||hppmy.cn^
 ||hppvkbfcuq.com^
-||hpr.outbrain.com^
 ||hprinb.xyz^
 ||hprmbmtegydcwc.com^
 ||hprmnfctkj.com^
@@ -77054,7 +77051,6 @@ zzzyk.com###Tinfo
 ||log-en.sggp.org.vn^
 ||log-gateway.zoom.us^
 ||log-hl.snssdk.com^
-||log-ird.outbrain.com^
 ||log-lb.skyperfectv.co.jp^
 ||log-marketing.jp^
 ||log-music-data.line-apps.com^
@@ -87257,7 +87253,6 @@ zzzyk.com###Tinfo
 ||muzsj.com^
 ||muzzlematrix.com^
 ||muzzlepairhysteria.com^
-||mv.outbrain.com^
 ||mv.treehousei.com^
 ||mva1.maeva.com^
 ||mvads.kugou.com^
@@ -88810,6 +88805,7 @@ zzzyk.com###Tinfo
 ||newnns.com^
 ||newnudecash.com^
 ||newoctads.com^
+||newormedia.com^
 ||newperspective.americanexpress.com^
 ||newpgqnfapkamg.xyz^
 ||newprofitcontrol.com^
@@ -90983,7 +90979,6 @@ zzzyk.com###Tinfo
 ||ocwlhv.ecid.com.br^
 ||oczqhythihhu.com^
 ||oda.markitondemand.com^
-||odb.outbrain.com^
 ||odc.1und1.de^
 ||odc.wunderground.com^
 ||oddauthorscreative.com^
@@ -93757,7 +93752,6 @@ zzzyk.com###Tinfo
 ||paicdn.privateapi.click^
 ||paichaus.com^
 ||paid-to-promote.net^
-||paid.outbrain.com^
 ||paid.outbrain.com^$dnsrewrite=ad-block.dns.adguard.com
 ||paidforfree.com^
 ||paidlemirkily.com^
@@ -104323,7 +104317,6 @@ zzzyk.com###Tinfo
 ||ruykjvdtutselj.com^
 ||ruzxzebrupa.com^
 ||rv.modanisa.com^
-||rva.outbrain.com^
 ||rvbiocn.cn^
 ||rvbqze.albamoda.de^
 ||rvbztg.cn^
@@ -106440,6 +106433,7 @@ zzzyk.com###Tinfo
 ||sdk-monitoring.ogury.co^
 ||sdk-orion.appboy.com^
 ||sdk-services.appsflyer.com^
+||sdk.1rtb.net^
 ||sdk.51.la^
 ||sdk.adtiming.com^
 ||sdk.airbridge.io^
@@ -115903,7 +115897,6 @@ zzzyk.com###Tinfo
 ||starvegingerwaist.com^
 ||starvybryan.com^
 ||starwave.com^
-||stas.outbrain.com^
 ||stascdnuuar.com^
 ||stassaxouwa.com^
 ||stat*.1internet.tv^
@@ -119177,7 +119170,6 @@ zzzyk.com###Tinfo
 ||sync.audtd.com^
 ||sync.mobojoy.baidu.com^
 ||sync.opendsp.ru^
-||sync.outbrain.com^
 ||sync.shinobi.jp^
 ||sync.teamrtb.net^
 ||sync.tv^
@@ -124647,7 +124639,6 @@ zzzyk.com###Tinfo
 ||tr.orange-lease.fr^
 ||tr.orcamento-online.pt^
 ||tr.orcamentos-companeo.pt^
-||tr.outbrain.com^
 ||tr.oxatis.devisdirect.com^
 ||tr.p.360.cn^
 ||tr.panels-mediametrie.fr^
@@ -129198,7 +129189,6 @@ zzzyk.com###Tinfo
 ||urbanproxy.eu^$dnsrewrite=ad-block.dns.adguard.com
 ||urboja.com^
 ||urbund.com^
-||urc.taboolasyndication.com^
 ||urccncd.xyz^
 ||urchin.5173.com^
 ||urchin.com^
@@ -130921,7 +130911,6 @@ zzzyk.com###Tinfo
 ||videocdnshop.com^
 ||videoclick.
 ||videoclik.
-||videoevents.outbrain.com^
 ||videofan.ru^
 ||videoframe.blue^
 ||videogenetic.com^
@@ -134519,7 +134508,6 @@ zzzyk.com###Tinfo
 ||widespace.com^
 ||widespreadgabblewear.com^
 ||widezealconstant.com^
-||widget-pixels.outbrain.com^
 ||widget-view.dmm.co.jp^
 ||widget-view.dmm.com^
 ||widget.admiral.hr^
