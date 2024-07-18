@@ -3,8 +3,8 @@
 ! Powerd by SamSan
 ! Description: Just a merged Adblock rule. Nothing more
 ! Expires: 6 hours (update frequency)
-! Version: 2024-07-18 14:10:55
-! Total count: 140728
+! Version: 2024-07-18 20:14:13
+! Total count: 140736
 
 ###ADtip
 ###AdBlockDialog
@@ -30697,6 +30697,7 @@ zzzyk.com###Tinfo
 ||baihuiad.com^
 ||baihuwang.com^
 ||baihuwang.com^$third-party
+||baijs010.xyz^
 ||baijs02.xyz^
 ||baijs03.xyz^
 ||baijs05.xyz^
@@ -33747,8 +33748,11 @@ zzzyk.com###Tinfo
 ||boostingads.com^
 ||boostog.net^
 ||boostquery.com^
+||bootcdn.cn^
 ||bootcdn.net/ajax/libs/jquery-cookie/*/jquery.cookie.$domain=zaixianjisuan.com
+||bootcdn.net^
 ||bootcss.com/assets/js/and
+||bootcss.com^
 ||bootharchie.com^
 ||bootstrap-framework.org^
 ||bootstrap-js.com^
@@ -48181,6 +48185,7 @@ zzzyk.com###Tinfo
 ||doujs06.xyz^
 ||doujs07.xyz^
 ||doujs08.xyz^
+||doujs09.xyz^
 ||doukekan.cn^
 ||doukoula.com^
 ||doumaibiji.cn^
@@ -60369,6 +60374,7 @@ zzzyk.com###Tinfo
 ||google-analytics.com^
 ||google-js-01.xyz^
 ||google-js-02.xyz^
+||google-js-08.xyz^
 ||google-pagerank.net^
 ||google-shopping-v2.sapoapps.vn^
 ||google-shopping.sapoapps.vn^
@@ -116334,6 +116340,8 @@ zzzyk.com###Tinfo
 ||staticad.thethao247.vn^
 ||staticadm.leju.com^
 ||staticcdn.ecootec.com^
+||staticfile.net^
+||staticfile.org^
 ||staticiv.com^
 ||staticjs.cn^
 ||statics.3987.com^
