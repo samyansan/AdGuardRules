@@ -3017,6 +3017,7 @@
 7down.com###btndowns
 7hcn.com##.pr > a[href^="http"]:not([href^="http://www.7hcn."])
 7hcn.com##.rCont
+7itv.com##body > div[style]
 7junshi.com##.breaknovel-ave
 7junshi.com##.videoads
 7junshi.com##div[style="position: fixed; right: 0px; bottom: 0;z-index:999;width: 300px;height: 250px;"]
@@ -3087,9 +3088,6 @@
 91porny.com##.mobile-jsv-bottom,.mb-3.p-0,.d-sm-none,.mb-0.p-0
 91porny.com##.row > div.colVideoList:has(> div.video-elem > a[target="_blank"])
 91porny.com##A.display.d-block[href^='http'],A.display.d-block[href^='http'] ~ *
-91porny.org,jiuse.io,x9av7.com###main > div[id^="rd"]
-91porny.org,jiuse.io,x9av7.com##.footer + .block
-91porny.org,jiuse.io,x9av7.com#?#.card:-abp-has(>.card-image>a[href^="http"])
 91rb99.com##.top
 91wenmi.com###xiezuo
 91wenmi.com###xzsp
@@ -3227,6 +3225,7 @@ admin5.com##.float_both_index
 admin5.com##.notice
 adrama.to###container > div[style*="margin-right: 2px;"][style*="width: 300px;"]
 adrama.to#?#.post_sidebar > div.side_box:has(div[id^="mynewads_"])
+aeahsck.cc##.stui-vodlist  > li:has(> div.stui-vodlist__box > a[href][target="_blank"])
 aeink.com##.widget_ui_adsf
 aeink.com##.widget_ui_textads
 aeink.com##p[style*=".alicdn.com/"]
@@ -6501,6 +6500,7 @@ huya.com###J_duyaHeaderRight > .clearfix.duya-header-control > .hy-nav-download.
 huya.com###J_roomGg2 + a
 huya.com###J_roomGgTop
 huya.com###J_roomSideTop
+huya.com###ab-item
 huya.com###ggcomment
 huya.com###huya-ab
 huya.com###huya-ab-fixed
@@ -6509,6 +6509,7 @@ huya.com###template
 huya.com##.J_ad
 huya.com##.end-ab-banner
 huya.com##.end-ab-wrap
+huya.com##.huya-ab
 huya.com##.j_posterItem[href^="http"]:not([href*=".huya."])
 huya.com##.jump-to-phone
 huya.com##.nav-expand-list #J_tt_hd_category_ad
@@ -7396,6 +7397,9 @@ js0573.com###adv2
 js0573.com###gotopl
 js0573.com###gotopr
 js0573.com##.gg_bnr
+jsav2.com,91porny.org,x9av1.com,x9av7.com###main > div[id^="rd"]
+jsav2.com,91porny.org,x9av1.com,x9av7.com##.footer + .block
+jsav2.com,91porny.org,x9av1.com,x9av7.com#?#.card:-abp-has(>.card-image>a[href^="http"])
 jsbooks.com.cn#@#.left-ads
 jsjiami.com##.asd > li > a.shaky
 jsjiami.com##.banner-container li._logo ~ li > a[target="_blank"]
