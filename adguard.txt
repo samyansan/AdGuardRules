@@ -3,8 +3,8 @@
 ! Powerd by SamSan
 ! Description: Just a merged Adblock rule. Nothing more
 ! Expires: 6 hours (update frequency)
-! Version: 2024-07-19 14:10:50
-! Total count: 140757
+! Version: 2024-07-19 20:13:11
+! Total count: 140766
 
 ###ADtip
 ###AdBlockDialog
@@ -2396,6 +2396,7 @@ $third-party,xmlhttprequest,domain=subhd.tv|subhdtw.com|xyg688.com|xyg688.xyz|zz
 /^139\.45\.19[5-7]\.\d{1,3}/
 /^188\.42\.84\.\d{1,3}/
 /^23\.109\.73\.\d{3}/
+/^94\.242\.247\.(2[0-9]|3[0-2]):/
 /_xa/ads?
 /_xa/ads_
 /a/p?adid=
@@ -16362,6 +16363,8 @@ zzzyk.com###Tinfo
 ||7080555.com^
 ||70822.com/agfile/
 ||70950.com^
+||70b927c8.live^
+||70b927c8.live^$dnsrewrite=ad-block.dns.adguard.com
 ||70e.com^
 ||70r8fo5.com^
 ||70url.com/aiaike/bood.js$domain=yingwangtv.com
@@ -25674,6 +25677,7 @@ zzzyk.com###Tinfo
 ||analytics.fabricators.ltd^
 ||analytics.facebook.com^
 ||analytics.faceitanalytics.com^
+||analytics.fam.ir^
 ||analytics.fap.bar^
 ||analytics.fatmedia.io^
 ||analytics.favcy.com^
@@ -28164,6 +28168,7 @@ zzzyk.com###Tinfo
 ||appnext.com^
 ||appnext.hs.llnwd.net^
 ||appnow.sbs^
+||appocalypsis.com^
 ||appocean.media^
 ||appodeal.com^
 ||appodealx.com^
@@ -54257,6 +54262,7 @@ zzzyk.com###Tinfo
 ||falcon.pixnet.net/ad/
 ||falconcookie.de^
 ||falcoware.com^
+||falixa.com^
 ||falkag.de^
 ||falkag.net^
 ||falkwo.com^
@@ -61810,6 +61816,7 @@ zzzyk.com###Tinfo
 ||hahamx.cn/img/x.jpg
 ||hahamx.cn/upload/data/detail_
 ||hahamx.cn/upload/data/list_sidebar_
+||hahusa.top^
 ||haiariunsely.top^
 ||haig7anax.com^
 ||haihaime.net^
@@ -91698,6 +91705,7 @@ zzzyk.com###Tinfo
 ||omitbailey.com^
 ||omitcalculategalactic.com^
 ||omitpollenending.com^
+||omjqukadtolg.com^
 ||omjtca.emlakjet.com^
 ||omkitww.com^
 ||omkt.co^
@@ -95598,6 +95606,7 @@ zzzyk.com###Tinfo
 ||pigcomprisegruff.com^
 ||pigeoon.com^
 ||pigewang.com.cn^
+||piggiepepo.xyz^
 ||pigistles.com^
 ||pigletinerm.com^
 ||pigletsmunsee.top^
