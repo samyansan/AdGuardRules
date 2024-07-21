@@ -3,8 +3,8 @@
 ! Powerd by SamSan
 ! Description: Just a merged Adblock rule. Nothing more
 ! Expires: 6 hours (update frequency)
-! Version: 2024-07-21 20:12:59
-! Total count: 140891
+! Version: 2024-07-22 02:08:37
+! Total count: 140897
 
 ###ADtip
 ###AdBlockDialog
@@ -50019,6 +50019,8 @@ zzzyk.com###Tinfo
 ||e732bfae2a.com^
 ||e7393e33565ce805.com^
 ||e7393e33565ce805.com^$dnsrewrite=ad-block.dns.adguard.com
+||e75d10b9.live^
+||e75d10b9.live^$dnsrewrite=ad-block.dns.adguard.com
 ||e77lmzbqou0n-a.akamaihd.net^
 ||e7z9t4x6a0v5mk3zo1a0xj2z7c6g8sa6js5z7s2c3h9x0s5fh3a6sjwb8q7m.xyz^
 ||e8100325bc.com^
@@ -107484,6 +107486,7 @@ zzzyk.com###Tinfo
 ||sentry.divar.cloud^
 ||sentry.eks.hoyoverse.com^
 ||sentry.fidibo.net^
+||sentry.filmnet.ir^
 ||sentry.footballiapp.com^
 ||sentry.hamravesh.com^
 ||sentry.io^
@@ -118069,6 +118072,7 @@ zzzyk.com###Tinfo
 ||stripedbat.com^$third-party
 ||stripedburst.com^
 ||stripedcollar.net^
+||stripedcover.pro^
 ||stripedonerous.com^
 ||striperaised.com^
 ||striperewind.com^
@@ -121324,6 +121328,7 @@ zzzyk.com###Tinfo
 ||teeglimu.com^
 ||teelconch.com^
 ||teemcapablespinal.com^
+||teemingweekend.com^
 ||teemooge.net^
 ||teen.77rog.com^
 ||teen.zubie.com^
@@ -121681,6 +121686,7 @@ zzzyk.com###Tinfo
 ||test.takedwn.ws^
 ||test.thei.co^
 ||test.thomsonreuters.com^
+||test.torrentfreak.com^
 ||test.typoten.com^
 ||test.zeus-wifi.jp^
 ||test1productions.com^
