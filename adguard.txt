@@ -3,8 +3,8 @@
 ! Powerd by SamSan
 ! Description: Just a merged Adblock rule. Nothing more
 ! Expires: 6 hours (update frequency)
-! Version: 2024-07-21 08:39:11
-! Total count: 148892
+! Version: 2024-07-21 14:09:34
+! Total count: 148893
 
 ###ADtip
 ###AdBlockDialog
@@ -892,6 +892,7 @@
 ##.hzxld
 ##.iHead960x90
 ##.ibtad
+##.imagegg-container
 ##.imgBox > div[class^="ad"]
 ##.imgad
 ##.index-top-aassd
@@ -3384,7 +3385,7 @@ $third-party,xmlhttprequest,domain=subhd.tv|subhdtw.com|xyg688.com|xyg688.xyz|zz
 10086.cn##.advertisingOther_img
 100bt.com##.aolasidebar__ad1
 100ec.cn##.detail_top_ad
-100ec.cn,159i.com,1905.com,22vd.com,2345.cn,234fang.com,3gsc.com.cn,52youpiao.com,72g.com,8se.me,acg.bz,acg13.cn,acgbenzi.com,baiduyunpan.net,baike.com,bbs-mychat.com,cdyee.com,ce.cn,chinaqking.com,chinatimes.com,chinatruck.org,chinaz.com,cnforex.com,cnsoftnews.com,codepub.com,cq.xinhuanet.com,cxryun.cn,dav01.com,discuss.com.hk,djwma.com,dmzj.com,dmzj1.com,dngz.net,douban.com,dzwww.com,eastday.com,fengniao.com,focus.cn,fx112.com,gongkong.com,henan100.com,honglingjin.co.uk,house.jschina.com.cn,iciba.com,ifeng.com,ipeen.com.tw,isharebest.com,itavcn.com,jojf.cn,jrj.com.cn,kumi.cn,landian.vip,landiannews.com,lawtv.com.cn,lieyunwang.com,lncn.org,loveshang.com,ltn.com.tw,luo8.com,maxpda.com,mm111.net,moxing.net,mvcat.com,ncdiy.com,neotv.com.cn,newsmth.net,njdaily.cn,pc0359.cn,people.com.cn,pharmnet.com.cn,pixnet.net,pptv.com,ptbus.com,qncye.com,r3sub.com,sogou.com,sozi.cn,tmioe.com,toolfk.com,tv.sohu.com,u-car.com.tw,weather.com.cn,xchina.fun,xianbao.fun,yawin.cn,yb983.com,ydss.cn,yesky.com,yiche.com,yqxxs.com,zhihu.com,ziyuanyo.com##.ad
+100ec.cn,159i.com,1905.com,22vd.com,2345.cn,234fang.com,3gsc.com.cn,52youpiao.com,72g.com,8se.me,acg.bz,acg13.cn,acgbenzi.com,baiduyunpan.net,baike.com,bbs-mychat.com,cdyee.com,ce.cn,chinaqking.com,chinatimes.com,chinatruck.org,chinaz.com,cnforex.com,cnsoftnews.com,codepub.com,cq.xinhuanet.com,cxryun.cn,dav01.com,discuss.com.hk,djwma.com,dmzj.com,dmzj1.com,dngz.net,douban.com,dzwww.com,eastday.com,fengniao.com,focus.cn,fx112.com,gongkong.com,henan100.com,honglingjin.co.uk,house.jschina.com.cn,iciba.com,ifeng.com,ipeen.com.tw,isharebest.com,itavcn.com,jojf.cn,jrj.com.cn,kumi.cn,landiannews.com,lawtv.com.cn,lieyunwang.com,lncn.org,loveshang.com,ltn.com.tw,luo8.com,maxpda.com,mm111.net,moxing.net,mvcat.com,ncdiy.com,neotv.com.cn,newsmth.net,njdaily.cn,pc0359.cn,people.com.cn,pharmnet.com.cn,pixnet.net,pptv.com,ptbus.com,qncye.com,r3sub.com,sogou.com,sozi.cn,tmioe.com,toolfk.com,tv.sohu.com,u-car.com.tw,weather.com.cn,xchina.fun,xianbao.fun,yawin.cn,yb983.com,ydss.cn,yesky.com,yiche.com,yqxxs.com,zhihu.com,ziyuanyo.com##.ad
 100ksw.com###ad_move_sg
 101.ru##.showMessageAdBlock
 1010dy3.com##.text-center[style]
@@ -9338,12 +9339,9 @@ lalulalu.com###overture-side-bar-ads
 lalulalu.com###overture_main_banner
 lalulalu.com##.overture_banner
 lan-sha.com#?#.post-list > li.post-item:not(:has(> div.post-item-container a[href^="https://www.lan-sha.com/"][href$=".html"]))
-landian.vip##.content-gg
-landian.vip##.sidebar a[href^="http"]:not([href*="landian."])
 landiannews.com###block-2
-landiannews.com##.article-content > div[class]:first-child
 landiannews.com##.sidebar > section#block-4
-landiannews.com##.title > .more
+landiannews.com##a[href*="ourl.co"]
 landiannews.com##section[id^="media_image"]
 lanrentuku.com###advbox
 lanrentuku.com###divjdgg
@@ -12727,12 +12725,14 @@ wenku8.net#@##adtop
 wenmi114.com###xiezuo
 wenxuecity.com###adt
 wenxuecity.com###gg_multitext
+wenxuecity.com###gg_rightside
 wenxuecity.com###marquee
 wenxuecity.com##.otherposts > ul > li > a[target="_blank"]
 wenxuecity.com##.sidebar > .banners
 wenxuecity.com##.topbannerw
 wenxuecity.com##label[style*="darkgrey"]
 wenxuecity.com#%#//scriptlet("set-constant", "adsbygoogle", "noopFunc")
+wenxuecity.com#?#div[class]:-abp-has(>.adlab_border)
 wenxuecity.com#@#.otherposts
 wezhicms.com##.activity
 wezhicms.com#?#.card-main:-abp-has(.waimai-item-img)
@@ -15034,6 +15034,7 @@ zzzyk.com###Tinfo
 ||2529212.com^
 ||2540166.chalknation.com^
 ||254a.com^
+||25662zubo23739.com^
 ||256ppp.com^
 ||258104d2.live^
 ||258104d2.live^$dnsrewrite=ad-block.dns.adguard.com
@@ -15576,6 +15577,7 @@ zzzyk.com###Tinfo
 ||37see.com^
 ||37wan.com^
 ||37xs.net^
+||38.33.15.*.gif
 ||38.33.15.10^
 ||380.tw^
 ||380.tw^$popup,third-party
@@ -17284,6 +17286,7 @@ zzzyk.com###Tinfo
 ||88148.com/UpFile/a/2016040849191350.jpg
 ||8820.pandasuite.io^
 ||88210212.com^
+||88362zubo95838.com^
 ||884069349.ltd^
 ||88448.com/images/appkai980x100.gif
 ||8848skins.com^
@@ -31945,6 +31948,7 @@ zzzyk.com###Tinfo
 ||baihz.com^
 ||baijiangyurong.top^
 ||baijs010.xyz^
+||baijs011.xyz^
 ||baijs02.xyz^
 ||baijs03.xyz^
 ||baijs05.xyz^
@@ -39891,6 +39895,7 @@ zzzyk.com###Tinfo
 ||cizzwykcug.com^
 ||cj-cy.com^
 ||cj.qidian.com^
+||cj2550.com^
 ||cjbdme.conquer.org^
 ||cjbpqq.com^
 ||cjcbzqrwwi.com^
@@ -42959,6 +42964,7 @@ zzzyk.com###Tinfo
 ||cosmi.io^
 ||cosmicpartially.com^
 ||cosmismnatchez.com^
+||cosmo001.top^
 ||cosmosjackson.com^
 ||cosmosjackson.com^$third-party
 ||cosseterrits.com^
@@ -63203,6 +63209,7 @@ zzzyk.com###Tinfo
 ||google-js-01.xyz^
 ||google-js-02.xyz^
 ||google-js-08.xyz^
+||google-js-09.xyz^
 ||google-pagerank.net^
 ||google-shopping-v2.sapoapps.vn^
 ||google-shopping.sapoapps.vn^
@@ -78345,16 +78352,7 @@ zzzyk.com###Tinfo
 ||lanaisgoll.com^
 ||lanapengar.expressen.se^
 ||lanatesourock.uno^
-||lancdn.com/landian/public/recm/54181RECM.png
 ||lancdn.com/tmp3/GG_Notice.png
-||lancdn.com^*/Alipay_HB.
-||lancdn.com^*/Alipay_RC.
-||lancdn.com^*/Apple_
-||lancdn.com^*/LinuxProbe_
-||lancdn.com^*/cp-lz-
-||lancdn.com^*/hnc_
-||lancdn.com^*/uneed
-||lancdn.com^*/wisecare
 ||lanceforthwith.com^
 ||land.rk.com^
 ||landchief.com^
@@ -102629,6 +102627,7 @@ zzzyk.com###Tinfo
 ||ppvmhhpxuomjwo.xyz^
 ||ppvpmrt.xyz^
 ||ppwxgpr.cn^
+||ppxscy1.cn^
 ||ppyflc.uniformnext.com^
 ||ppyibei.com^
 ||pq.stat.ku6.com^
@@ -115158,7 +115157,7 @@ zzzyk.com###Tinfo
 ||sinaimg.cn/tech/zcapp2018/zcapp.js
 ||sinaimg.cn/unipro/
 ||sinaimg.cn/wap/project/blog_to_news_banner/
-||sinaimg.cn^$domain=04stream.tv|11luba.com|18board.com|18p2p.com|46bk.com|500xxxx.com|522dy.com|63ef.com|7mav2.com|7mshipin.org|94xxmm.com|99a21.com|abminbuy.com|acglover.me|aotu101.com|aotu103.com|blz105.com|blz20.com|blz24.com|caibaojian.com|cangjige.net|ccxx99.com|cnmysoft.com|ems183.cn|fdzone.org|kccdk.com|kiees.cn|kisssub.org|landiannews.com|lifan.moe|llj22.com|pianyuan.org|rarbt.cc|sbme.me|se533.com|supfree.net|thztv.cc|tiantianzhibo.com|viidii.info|vx666.com|yaoshe1.com
+||sinaimg.cn^$domain=04stream.tv|11luba.com|18board.com|18p2p.com|46bk.com|500xxxx.com|522dy.com|63ef.com|7mav2.com|7mshipin.org|94xxmm.com|99a21.com|abminbuy.com|acglover.me|aotu101.com|aotu103.com|blz105.com|blz20.com|blz24.com|caibaojian.com|cangjige.net|ccxx99.com|cnmysoft.com|ems183.cn|fdzone.org|kccdk.com|kiees.cn|kisssub.org|lifan.moe|llj22.com|pianyuan.org|rarbt.cc|sbme.me|se533.com|supfree.net|thztv.cc|tiantianzhibo.com|viidii.info|vx666.com|yaoshe1.com
 ||sinaimg.cn^$domain=172.86.179.138|208.94.244.100|208.94.244.98|a88.us|ac168.info|ac88.info|aisex.com|cnnice.biz|go543.com
 ||sinaimg.cn^$domain=2c2.website|2p8.space|adultgao.com|caopop.com|caoporn.com|caouoo.com|caox.cc|h3e.pw|h3y.pw|k88.club|me88.pw|p5p.space|se88.space|t2p.space|tb001.xyz|te88.pw|vwan.xyz|xhao1.com
 ||sinaimg.cn^$domain=88files.net
@@ -136495,6 +136494,7 @@ zzzyk.com###Tinfo
 ||uyohyy.xyz^
 ||uypsmaxzejvpqx.com^
 ||uyq3ruf.icu^
+||uyretut.top^
 ||uysdxmo.com^
 ||uyt79.top^
 ||uyueread.com^
@@ -148383,6 +148383,7 @@ zzzyk.com###Tinfo
 ||zqizn.com^
 ||zqkdzl.invia.sk^
 ||zqksqsjupnb.com^
+||zqkxlf.com^
 ||zqmblmebyeloq.top^
 ||zqmmtbwqymhrru.com^
 ||zqmwf.xyz^
