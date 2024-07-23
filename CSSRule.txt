@@ -334,7 +334,7 @@
 ###piao_div_3[style*="width:140px;"]
 ###piao_div_4[style*="width:140px;"]
 ###piao_div_5[style*="width:140px;"]
-###play[style="padding: 10px;"] > a[href="/0705.html"]
+###play[style="padding: 10px;"] > a[href*=".xmcdn.com"]
 ###player-bottom-ads
 ###playerAd
 ###playerAdvLayer
@@ -1510,8 +1510,6 @@
 ##a[href$=".xyz:8443"]
 ##a[href$="/hjdt9.com"]
 ##a[href$="/xha77.com"]
-##a[href*=".337771.xyz"]
-##a[href*=".337772.xyz"]
 ##a[href*=".68hantang.com"]
 ##a[href*=".asd245796.com:"]
 ##a[href*=".asd252466.com:"]
@@ -1527,9 +1525,7 @@
 ##a[href*=".com?intr="]
 ##a[href*=".com?s="]
 ##a[href*=".cvezsacxz.com/"]
-##a[href*=".dearcabbage.top"]
 ##a[href*=".downok.com"]
-##a[href*=".ds001qd3.cc"]
 ##a[href*=".erodatalabs.com/"]
 ##a[href*=".f2ocoin.com/"]
 ##a[href*=".hyenadata.com/"]
@@ -1545,7 +1541,6 @@
 ##a[href*=".mp388.com/"]
 ##a[href*=".n7.org.cn"]
 ##a[href*=".niujyl.com/"]
-##a[href*=".oidmwq2v.cn"]
 ##a[href*=".pcjx365.com/"]
 ##a[href*=".rookiego.com"]
 ##a[href*=".sng.link/"]
@@ -1553,8 +1548,6 @@
 ##a[href*=".sudun.com/"]
 ##a[href*=".taobao.com"] > .top1
 ##a[href*=".taobao.com"] > img[src*=".tucao."]
-##a[href*=".tdchat.in"]
-##a[href*=".umtrack.com/"]
 ##a[href*=".uu2123sd.vip"]
 ##a[href*=".wzfqitm.com/"]
 ##a[href*=".xacg.info/"]
@@ -1563,27 +1556,22 @@
 ##a[href*=".xyz:"] > img[src*=".qlogo.cn"]
 ##a[href*=".yezere.com/"]
 ##a[href*=".ysmdhk.com/"]
-##a[href*=".zcxnbj.com/"]
 ##a[href*=".zxzja.com/"]
 ##a[href*="/04816632.com/"]
 ##a[href*="/122.51.121.126:"]
 ##a[href*="/2e9c9aa9.com/"]
 ##a[href*="/333663.xyz"]
 ##a[href*="/33hth.cn"]
-##a[href*="/3400com-o15.com/"]
 ##a[href*="/445.ee/"]
-##a[href*="/9966699.vip"]
 ##a[href*="/?INTR="]
 ##a[href*="/?Intr="]
 ##a[href*="/?aff="][target="_blank"]
 ##a[href*="/?intr="]
 ##a[href*="/PageRegister?Agent="][target="_blank"]
 ##a[href*="/Register?a="]
-##a[href*="/abg0066.com"]
 ##a[href*="/ads/adscenter."]
 ##a[href*="/auth/register?code="] > img
 ##a[href*="/d27.tv"]
-##a[href*="/d6586.com:"]
 ##a[href*="/dsf188.cc"]
 ##a[href*="/dsf66.cc"]
 ##a[href*="/dsf71.cc"]
@@ -1598,11 +1586,7 @@
 ##a[href*="/l1y9.com"]
 ##a[href*="/mobads.php?"]
 ##a[href*="/mug749.vip"]
-##a[href*="/nb66nb.cc"]
 ##a[href*="/register/?i_code="] > img
-##a[href*="/sm003r.tv"]
-##a[href*="/sm033v.tv"]
-##a[href*="/st66st.cc"]
 ##a[href*="/tg.602.com/"]
 ##a[href*="/uu5566.cn.com/"]
 ##a[href*="/xchina.info/redirect/ad"]
@@ -1655,7 +1639,6 @@
 ##a[id][href*="/?register="]
 ##a[id][target="_blank"] > img[src*="help-ol.bj.bcebos.com"]
 ##a[onclick$="'clicked', 'ad');"]
-##a[onclick*=".337770.xyz"]
 ##a[onclick*="/dasp.php?a="]
 ##a[onclick*="open"] > img[src*=".dailygn.com/"]
 ##a[onclick^="_czc."] > .add
@@ -1795,7 +1778,6 @@
 ##div[onclick*=".open"][onclick*="leyu"]
 ##div[onclick*="/ky"][onclick*="open"]
 ##div[onclick*="?i_code="]
-##div[onclick*="ky01003.com"]
 ##div[onclick^="window.location.href"][onclick*=".bcebos."]
 ##div[role="listitem"] > div > div > .bannerliststyle
 ##div[style*="box-shadow: rgb(136, 136, 136) 0px 0px 12px; color: "]
@@ -3018,7 +3000,7 @@
 7down.com###btndowns
 7hcn.com##.pr > a[href^="http"]:not([href^="http://www.7hcn."])
 7hcn.com##.rCont
-7itv.com##body > div[style]
+7itv.com,fengchedmp.com,hdwan.net##body > div[style]
 7junshi.com##.breaknovel-ave
 7junshi.com##.videoads
 7junshi.com##div[style="position: fixed; right: 0px; bottom: 0;z-index:999;width: 300px;height: 250px;"]
@@ -3093,6 +3075,8 @@
 91porny.com##.mobile-jsv-bottom,.mb-3.p-0,.d-sm-none,.mb-0.p-0
 91porny.com##.row > div.colVideoList:has(> div.video-elem > a[target="_blank"])
 91porny.com##A.display.d-block[href^='http'],A.display.d-block[href^='http'] ~ *
+91porny.org,jsav2.com,x9av1.com,x9av7.com###main > div[id^="rd"]
+91porny.org,jsav2.com,x9av1.com,x9av7.com##.footer + .block
 91rb99.com##.top
 91wenmi.com###xiezuo
 91wenmi.com###xzsp
@@ -3335,6 +3319,8 @@ alypw.com##.adbkk
 alypw.com##.ceadd
 am730.com.hk##.adbox
 am730.com.hk#?#.newslist-row > li.newslist-item:has(> div.adbox)
+amap.com##.app-download-panel
+amap.com##.app_download_box
 amazon.cn#?#.s-result-item:-abp-has(> .s-item-container > h5 .s-sponsored-info-icon)
 amz123.com##.two-activity-style
 ananvod.com##.rbPicAll
@@ -5553,7 +5539,6 @@ feng.com##.ad-aside
 feng.com##.dd305
 feng.com##.header
 feng.com##div[class^="ad_90"]
-fengchedmp.com##body > div[style]
 fenghuo.in##.mimi
 fengniao.com###ad-head
 fengniao.com,zhiding.cn##div[id^="AD"]
@@ -6261,7 +6246,6 @@ hdchina.org##.sitead
 hdmoli.com###index_banner
 hdmoli.com#?#.row > div.myui-panel:has(div[style^="text-align:"] > a[href][target="_blank"] > img#index_banner)
 hdshare.cn,it168.com###adv
-hdwan.net##body > div[style]
 hdzone.org##a[style*="fixed"]
 he-games.com###he_banner_ad
 he-games.com###he_bottom_ad
@@ -7161,8 +7145,8 @@ jable.tv##div[class^="root-"]
 jable.tv#?#div.col-6.col-sm-4.col-lg-12:has(> div.video-img-box > div.img-box > a[href*="?banner="])
 jaitoutcompris.com###antiBlock
 jandan.net###random-ads
-jandan.net###sidebar > UL:nth-child(2)
 jandan.net###sidebar > div#box
+jandan.net###sidebar > ul:nth-child(2)
 jandan.net##.goods2-list
 jandan.net##.post[style="padding-left:150px;width:336px;height:280px;"]
 jandan.net##a[href*="/money.php?"]
@@ -7404,8 +7388,6 @@ js0573.com###adv2
 js0573.com###gotopl
 js0573.com###gotopr
 js0573.com##.gg_bnr
-jsav2.com,91porny.org,x9av1.com,x9av7.com###main > div[id^="rd"]
-jsav2.com,91porny.org,x9av1.com,x9av7.com##.footer + .block
 jsav2.com,91porny.org,x9av1.com,x9av7.com#?#.card:-abp-has(>.card-image>a[href^="http"])
 jsbooks.com.cn#@#.left-ads
 jsjiami.com##.asd > li > a.shaky
@@ -10743,6 +10725,13 @@ wanqu.co##.left-nav-panel:first-child
 wantgoo.com###FixModal
 wantgoo.com##.adsbox
 wantgoo.com#@#.shareBtns
+wap.gamersky.com##.countHitSql.countHit.gsTgAppConCommentBtn
+wap.gamersky.com##.gsTgWapConBdshareTopBox
+wap.gamersky.com##.ymw-app-open
+wap.gamersky.com##.ymw-footer
+wap.gamersky.com##.ymw-header2021.ymwBootDownload
+wap.gamersky.com##.ymw-rel-list.ymw-aside-box
+wap.gamersky.com##section.ymw-rel-list
 wap.sogou.com###indexAppOneBtn
 wap.sogou.com###indexAppOneClose
 wap.sogou.com##.index-carousel
