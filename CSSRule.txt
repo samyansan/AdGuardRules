@@ -689,6 +689,8 @@
 ##.alert_windows > .q-card__actions > a
 ##.anniversary-wrap-2018
 ##.apd-footer
+##.apd-home
+##.apd-right
 ##.app-down-fix.body-fix
 ##.appdownload_ad + .hider
 ##.appguide-wrap[onclick*="bcebos.com"]
@@ -1533,6 +1535,7 @@
 ##a[href*=".impactyu.com/"]
 ##a[href*=".ipndyn.com/"]
 ##a[href*=".kekexc.com/"]
+##a[href*=".labsda.com"]
 ##a[href*=".las88889999.com:"]
 ##a[href*=".mamsou.com/"]
 ##a[href*=".mbrnf.com/"]
@@ -4815,6 +4818,7 @@ daniao.org,geekpark.net,speedtest.cn##.sponsor
 danlan.org##.ad98090
 danyang.com###global-hd > div[align="center"]
 danzhaowang.com##.qxzx_scho
+daohang.qq.com##.banner-adv-new
 daohang.qq.com,hao.qq.com,sogou.com##div[id^="AD_"]
 daohangtx.com,jojf.cn##.indexgg
 dapengjiaoyu.com##.toUnfold
@@ -7474,8 +7478,10 @@ kdslife.com###tao
 kdslife.com###youhui
 kdslife.com##a[href*="kds.2144.cn"]
 kdslife.com,pchome.net##.weixin
+ke.com##.app-down
 ke.com##.app_content
 ke.com##.app_daoliu_layer
+ke.com##.download
 ke.qq.com##.bottom-bar
 kehuan.net.cn##.bread_728x90
 kekenet.com###bottomlink
@@ -8796,6 +8802,7 @@ oh100.com##.mySwiperBox
 oilchem.net##.LzAdv
 okanime.tv##.jconfirm
 olehdtv.com##.container > div[class^="B1"]
+olehdtv.com,olevod.eu##.guangao
 olevod.com##.A4R
 olevod.com##.B1L
 olevod.com##.B1R
@@ -8807,7 +8814,6 @@ olevod.com##.swiper-wrapper > div.swiper-slide:has(> img[src^="https://static.ol
 olevod.com##div[class^="ad"][style="margin-top: 0.05rem;"]
 olevod.com##div[style*="%;float: left;"] > a[target="_blank"]
 olevod.com#$?#.swiper-wrapper > li.swiper-slide:has(> a[target="_blank"]:not([href^="/"])) { remove: true; }
-olevod.eu##.guangao
 olevod.eu##a.wbalist_thumb[target="_blank"]
 olevod.tv##a[href^="https://www.yywhale.com"]
 olgame.tw##.nex_floor_banner
@@ -10256,6 +10262,7 @@ theav.xyz,69xx.one,theporn.cc#$#.q-body--prevent-scroll { position: static !impo
 thecatcity.com##.article-page__ad-block
 thenewslens.com##div[class^="help-tnl-"]
 thenewslens.com##div[class^="help-tnl-container-"]
+thepaper.cn###QRcode
 thepaper.cn###head_ask_app_down
 thepaper.cn##.download
 thepaper.cn##[class^='index_footer_banner']
