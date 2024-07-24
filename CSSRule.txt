@@ -5009,34 +5009,19 @@ douyin.com###videoSideBar iframe
 douyin.com###videoSideBar:-abp-has(div:-abp-contains(/商品|商家|退款|店铺/))
 douyin.com#?##douyin-right-container > div[class] > div[class]:has(> ul[class] > li[class] > a[href][target="_blank"] + div:contains(广告))
 douyin.com#?#.xgplayer>div[class]:-abp-has(svg[height="16"][width="30"])
-douyu.com###FansFestival2003Tips
-douyu.com###douyu_room_normal_player_danmuDom > .ani-base-hover.DanmuEffectBC.ani-broadcast
-douyu.com###douyu_room_normal_player_proxy_box > .PlayerSuspendedBallAd
 douyu.com###js-fix-download
 douyu.com###js-live-room-recommend
-douyu.com###js-player-dialog
-douyu.com###js-player-guessgame
 douyu.com###js-room-activity
 douyu.com###sign_p_1
 douyu.com##.ActPayDialog
 douyu.com##.BargainingKit
-douyu.com##.Bottom
-douyu.com##.ChatEffect
-douyu.com##.ConfigBroadcast.ani-broadcast
-douyu.com##.FishpondTreasure
-douyu.com##.FudaiGiftToolBarTips
+douyu.com##.ClientJump
+douyu.com##.Download
 douyu.com##.Header-download-wrap
-douyu.com##.HeaderGif-left
-douyu.com##.HeaderGif-right
 douyu.com##.IconCardAdBoundsBox
 douyu.com##.PaladinPop
-douyu.com##.PcDiversion
 douyu.com##.PrivilegeGiftModalDialog
 douyu.com##.ScreenBannerAd
-douyu.com##.SuperFansGuideTips
-douyu.com##.TaskIcon
-douyu.com##.ToolbarActivityArea
-douyu.com##.ToolbarActivityArea > div:nth-of-type(1) > div:nth-of-type(1) > div.ActivityItem:nth-of-type(3)
 douyu.com##.XinghaiAd
 douyu.com##.adcontainer
 douyu.com##.bglink
@@ -5051,7 +5036,6 @@ douyu.com##.hot-sign-2
 douyu.com##.imageItem-wrap[style="width: 1200px; height: 120px;"]
 douyu.com##.imageItem-wrap[style="width: 287px; height: 559px;"]
 douyu.com##.index-common-1-rrh
-douyu.com##.is-active.UPlayerLotteryEnter
 douyu.com##.is-mask.MedalUserGuide
 douyu.com##.isLink[href^="https://igxe.cn/"]
 douyu.com##.layout-Slide-banner:not([href*="douyu"])
@@ -5066,15 +5050,10 @@ douyu.com##.video-info-download
 douyu.com##a[href*=".miaozhen.com"]
 douyu.com##a[href*=".youzan.com"]
 douyu.com##a[href^="http://tracking.ad-survey.com/"]
-douyu.com##div.Title-row:nth-of-type(3)
-douyu.com##div.is-normal.Title-col:nth-of-type(2)
 douyu.com##div[class*=LiveRoomDianzan]
 douyu.com##div[class^="ChargeTask"]
+douyu.com##div[class^="code_box"]
 douyu.com##div[id^="sign_p_"]
-douyu.com##li.RightNavigate-item:nth-of-type(1)
-douyu.com##li.RightNavigate-item:nth-of-type(1) > [href^="/client"]
-douyu.com##li.RightNavigate-item:nth-of-type(2)
-douyu.com##li.RightNavigate-item:nth-of-type(2) > [href^="/client"]
 douyu.com#?#.SharePanel:-abp-has(> .SharePanel-content > .SharePanel-contentTitle:-abp-contains(福利))
 douyu.com#?#.bc-wrapper:-abp-has(>.wm-view>div>.isLink[href*=".qualtrics.com/"])
 douyu.com#?#.wm-general:-abp-has(.link[href*=".tmall.com"])
@@ -7910,12 +7889,7 @@ m.douban.com##div.center [style*='padding: 4px;']
 m.douban.com##h2 > [href^="https://www.douban.com/doubanapp/card/get_app"]
 m.douban.com#?#a:contains(用App看更多)
 m.douban.com#?#div:matches-css(width:68px)
-m.douyu.com##.DownloadBtn
-m.douyu.com##.HomeHeader-openAppB
-m.douyu.com##.abtest-downloadDialog
-m.douyu.com##.btn-open-app
-m.douyu.com##.btn-open-app.open-btn-more
-m.douyu.com##.clarity-downDialog
+m.douyu.com##div[class*="OpenAppBtn"]
 m.egame.qq.com###gcOfficialWidgetWrapper
 m.egame.qq.com###installGameBar
 m.egame.qq.com###installbar
