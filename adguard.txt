@@ -3,8 +3,8 @@
 ! Powerd by SamSan
 ! Description: Just a merged Adblock rule. Nothing more
 ! Expires: 6 hours (update frequency)
-! Version: 2024-07-26 14:11:15
-! Total count: 140434
+! Version: 2024-07-26 20:13:22
+! Total count: 140438
 
 ###ADtip
 ###AdBlockDialog
@@ -11831,7 +11831,6 @@ speedtest.cn##div[class^="speed-activity"][class$="wrap-index"]
 speedtest.cn##div[class^="speed-twoads"]
 spele.nl##.adblocker
 splaybow.com###divPrevious:last-child
-sport-express.ru##.se-adv-notice
 sports.qq.com##.focus_con > .item > a[href^="http"]:not([href*=".qq."])
 sports.qq.com##.scr-login > .cnxh:has(> .videoDiv #hotvideo)
 sports.qq.com##.topBnaner
@@ -16447,6 +16446,8 @@ zzzyk.com###Tinfo
 ||7807091956.com^
 ||78359c0779.com^
 ||78387c2566.com^
+||7841ffda.xyz^
+||7841ffda.xyz^$dnsrewrite=ad-block.dns.adguard.com
 ||7868d5c036.com^
 ||788111.com^
 ||788aefb4ed.com^
@@ -22436,6 +22437,7 @@ zzzyk.com###Tinfo
 ||adserver1.
 ||adserverplus.com^
 ||adserverpub.com^
+||adservf.com^
 ||adservice*.*^
 ||adservice.com^
 ||adservice.google.
@@ -37816,6 +37818,7 @@ zzzyk.com###Tinfo
 ||chosenlove.com^$dnsrewrite=ad-block.dns.adguard.com
 ||chosensoccerwriter.com^
 ||choto.xyz^
+||chouchicky.com^
 ||choudairtu.net^
 ||choudairtu.net^$dnsrewrite=ad-block.dns.adguard.com
 ||chouftak.net^
@@ -138802,6 +138805,7 @@ zzzyk.com###Tinfo
 ||ywhws.cn^
 ||ywkiyt.candere.com^
 ||ywkkmze.cn^
+||ywmvppnlwwxkgt.com^
 ||ywojvu.kujten.com^
 ||ywopyohpihnkppc.xyz^
 ||ywrcqa.11alive.com^
