@@ -3,8 +3,8 @@
 ! Powerd by SamSan
 ! Description: Just a merged Adblock rule. Nothing more
 ! Expires: 6 hours (update frequency)
-! Version: 2024-07-26 08:35:36
-! Total count: 140431
+! Version: 2024-07-26 14:11:15
+! Total count: 140434
 
 ###ADtip
 ###AdBlockDialog
@@ -5645,6 +5645,7 @@ bing.com###TopApp
 bing.com###b_results > li[style*="padding-bottom: 8px;"][style*="235, 235, 235"]
 bing.com###bingBrand
 bing.com###bnp_container
+bing.com###id_mobile
 bing.com##.OpInNwWndw
 bing.com##.b_ad
 bing.com#?#li[class="b_algo"]:-abp-has(.b_attribution[data-partnertag]+p[class])
@@ -41767,6 +41768,7 @@ zzzyk.com###Tinfo
 ||crew-qa.zubie.com^
 ||crew.spektare.tv^
 ||crew.zubie.com^
+||crewedbangup.com^
 ||crf999.cn^
 ||crfjxfoe.xyz^
 ||crfmbxqrf.xyz^
@@ -42567,6 +42569,7 @@ zzzyk.com###Tinfo
 ||cwc494e.cn^
 ||cwcdmm.zennioptical.com^
 ||cwchmb.com^
+||cwerilxf.top^
 ||cweriof.top^
 ||cwgucvm.icu^
 ||cwhrfkpniuvkn.xyz^
@@ -62313,6 +62316,7 @@ zzzyk.com###Tinfo
 ||hbbtv-track.prosieben.de^
 ||hbbtv-track.prosiebensat1puls4.com^
 ||hbbvykwoiqhjpah.xyz^
+||hbbynt.xyz^
 ||hbcrnvtpyfegpws.com^
 ||hbdt.luomi.com^
 ||hbeipcdntijpb.com^
@@ -125796,7 +125800,6 @@ zzzyk.com###Tinfo
 ||trafficmagnates.com^
 ||trafficmagnates.com^$dnsrewrite=ad-block.dns.adguard.com
 ||trafficman.io^
-||trafficmanager.net^
 ||trafficmaxx.de^
 ||trafficmediaareus.com^
 ||trafficmoon.com^
