@@ -5826,7 +5826,6 @@ gametower.com.tw###tableAD
 gamicsoft.com##.mobileAd-slider
 gamicsoft.com##A[onclick*="'Advertisement"]
 gamicsoft.com##A[onclick*="'Advertisement"] + .absolute
-gaming.co.ua##body > div[id][class][style*="z-index"][style*="9999"],body > div[id][class][style*="z-index"][style*="9999"] + div[class][style*="z-index"][style*="9999"]
 gamme.com.tw###bd
 gamme.com.tw##.ad_down
 gamme.com.tw##.adread
@@ -6670,6 +6669,7 @@ ifeng.com##div[class^="fixSlideBox"]
 ifeng.com##div[class^="games_ad_"]
 ifeng.com##div[class^="h"] > div[class$="-main"]
 ifeng.com##div[class^="hot_box"]
+ifeng.com##div[class^="index_link"]:contains(app)
 ifeng.com##div[class^="index_topBox_"]
 ifeng.com##div[class^="index_top_box_"]
 ifeng.com##div[class^="layout-"] > div#subNav + div
@@ -6688,6 +6688,7 @@ ifeng.com##div[class^="topAd-"]
 ifeng.com##div[class^="topBox-"]
 ifeng.com##div[id^="couplet3_"]
 ifeng.com##div[id^="padhide_"]
+ifeng.com##header:contains(立即打开)
 ifeng.com##section[class^="fixSlide-"]
 ifeng.com#?#.box_list:-abp-has(.tuig)
 ifeng.com#?#div[class^="index_yaowen_center"] div[class^="index_news_list_"]:has(a[target="_blank"] + img[src^="https://x0.ifengimg.com/feprod/"])
@@ -6982,7 +6983,6 @@ ishare.iask.sina.com.cn##.loginRedPacket-dialog
 ishare.ifeng.com##.callUpBox
 ishare.ifeng.com##div[class^="callup"]
 ishare.ifeng.com##div[class^="more_box"]
-ishare.ifeng.com##header
 ishare.ifeng.com##section[class^="allLook"]
 ishare.ifeng.com##section[class^="bottom"]
 ishare.ifeng.com##section[class^="relateVideo"]
@@ -10085,6 +10085,7 @@ suning.com###sn-sidebar-change-code
 suning.com###sn-sidebar-change-code > IMG.tab-tip-code-warp-img
 suning.com###sn-sidebar-change-redpacket
 suning.com##.c2c-recommend
+suning.com##.headDom
 suning.com##.ng-bar-node mb-suning touch-href
 suning.com##.ng-bar-node-box app-down-box
 suning.com##.sn-sidebar-tab-js.sn-sidebar-code.sn-sidebar-wider-tab.sn-sidebar-tab
