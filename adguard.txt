@@ -3,8 +3,8 @@
 ! Powerd by SamSan
 ! Description: Just a merged Adblock rule. Nothing more
 ! Expires: 6 hours (update frequency)
-! Version: 2024-07-29 14:11:11
-! Total count: 140555
+! Version: 2024-07-29 20:14:15
+! Total count: 140569
 
 ###ADtip
 ###AdBlockDialog
@@ -25395,6 +25395,7 @@ zzzyk.com###Tinfo
 ||analytics-ingress-global.bitmovin.com^
 ||analytics-ingress.bitmovin.com^
 ||analytics-lgs.corebridgefinancial.com^
+||analytics-logger.service.junctiontv.net^
 ||analytics-mkt.wemakeprice.com^
 ||analytics-nssl.bradyid.com^
 ||analytics-prd.aws.wehaa.net^
@@ -25420,6 +25421,7 @@ zzzyk.com###Tinfo
 ||analytics-tracking.meetup.com^
 ||analytics-union.sandai.net^
 ||analytics-union.xunlei.com^
+||analytics-v2.wetransfer.com^
 ||analytics-wcms.joins.net^
 ||analytics.*.sky.com^
 ||analytics.126.net^
@@ -25970,6 +25972,7 @@ zzzyk.com###Tinfo
 ||analytics.runpath.com^
 ||analytics.s3.amazonaws.com^
 ||analytics.saas-vn.network^
+||analytics.saikosoft.jp^
 ||analytics.salesanalytics.io^
 ||analytics.samsungknox.com^
 ||analytics.sanoma.fi^
@@ -30286,6 +30289,8 @@ zzzyk.com###Tinfo
 ||b0eb63.xyz^
 ||b0eb63.xyz^$dnsrewrite=ad-block.dns.adguard.com
 ||b0f1d2.com^
+||b0f2f18e.xyz^
+||b0f2f18e.xyz^$dnsrewrite=ad-block.dns.adguard.com
 ||b0oie4xjeb4ite.com^
 ||b0rbgroup.xyz^
 ||b0ufmrzl.icu^
@@ -38303,6 +38308,7 @@ zzzyk.com###Tinfo
 ||cleanmediaads.com^
 ||cleanmypc.click^
 ||cleanmypc.click^$dnsrewrite=ad-block.dns.adguard.com
+||cleannow.click^
 ||cleanplentifulnomad.com^
 ||cleantrafficrotate.com^
 ||clear-request.com^
@@ -50511,6 +50517,7 @@ zzzyk.com###Tinfo
 ||echocultdanger.com^
 ||echoeshamauls.com^
 ||echoinghaven.com^
+||echopixelwave.net^
 ||echskbpghlc.com^
 ||eciivxqtur.com^
 ||ecikmrm.icu^
@@ -60547,6 +60554,7 @@ zzzyk.com###Tinfo
 ||gosquared.com^
 ||gossipcase.com^
 ||gossipfinestanalogy.com^
+||gossipinvest.com^
 ||gossipprotectioncredentials.com^
 ||gossipsize.com^
 ||gossipylard.com^
@@ -73662,6 +73670,7 @@ zzzyk.com###Tinfo
 ||kuqekpfj.com^
 ||kuqgrelpiamw.com^
 ||kuqi.com^
+||kurjutodbxca.com^
 ||kurlipush.com^
 ||kursatarak.com^
 ||kurtgeigers.co^
@@ -102816,6 +102825,7 @@ zzzyk.com###Tinfo
 ||revelationneighbourly.com^
 ||revelationschemes.com^
 ||revengeremarksrank.com^
+||revengine-tracker.remp.dailymaverick.co.za^
 ||revenue.com^
 ||revenuebosom.com^
 ||revenueclamp.com^
@@ -108052,6 +108062,7 @@ zzzyk.com###Tinfo
 ||shbzegs.cn^
 ||shbzogs.cn^
 ||shbzokj.cn^
+||shbzpgs.cn^
 ||shbzqgs.cn^
 ||shbzqkj.cn^
 ||shdegtbokshipns.xyz^
@@ -116255,6 +116266,7 @@ zzzyk.com###Tinfo
 ||static.snapmobile.asia^
 ||static.step.dk^
 ||static.subiz.com^
+||static.target2sell.com^
 ||static.tellerium.com^$dnsrewrite=ad-block.dns.adguard.com
 ||static.terratraf.io^
 ||static.terrhq.ru^
@@ -125245,6 +125257,7 @@ zzzyk.com###Tinfo
 ||tracker-zlivestream.zapps.vn^
 ||tracker.520call.me^
 ||tracker.adbinead.com^
+||tracker.adsales.rakuten.co.jp^
 ||tracker.affiliate.iqbroker.com^
 ||tracker.affirm.com^
 ||tracker.ai.xiaomi.com^
@@ -132817,6 +132830,7 @@ zzzyk.com###Tinfo
 ||waframedia*.*^
 ||waframedia5.com^
 ||wafvertizing.crazygames.com^
+||wagaloo.co.in^
 ||wagecolorful.com^
 ||wagepulsate.com^
 ||wagerjoint.com^
