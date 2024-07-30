@@ -3,8 +3,8 @@
 ! Powerd by SamSan
 ! Description: Just a merged Adblock rule. Nothing more
 ! Expires: 6 hours (update frequency)
-! Version: 2024-07-30 14:10:57
-! Total count: 140584
+! Version: 2024-07-30 20:13:37
+! Total count: 140593
 
 ###ADtip
 ###AdBlockDialog
@@ -13998,6 +13998,7 @@ zzzyk.com###Tinfo
 ||123-counter.de^
 ||123-movies.bz^
 ||123-stream.org^
+||123-stream.org^$dnsrewrite=ad-block.dns.adguard.com
 ||123-tracker.com^
 ||123-vay.com^
 ||123.manga1001.top^
@@ -23485,6 +23486,7 @@ zzzyk.com###Tinfo
 ||affbuzzads.com^
 ||affclkr.com^
 ||affcpatrk.com^
+||affcpatrk.com^$dnsrewrite=ad-block.dns.adguard.com
 ||affec.tv^
 ||affectdeveloper.com^
 ||affectincentiveyelp.com^
@@ -30767,6 +30769,7 @@ zzzyk.com###Tinfo
 ||baletingo.com^
 ||bali6nora.com^
 ||baliadv.com^
+||balili2024.top^
 ||balimon.info^
 ||balkog.withmoment.co.kr^
 ||ballarduous.com^
@@ -48837,6 +48840,7 @@ zzzyk.com###Tinfo
 ||dsxwcas.com^
 ||dt.beyla.site^
 ||dt.vnecdn.com^
+||dt.xfyun.cn^
 ||dt.zxzhengxin.com^
 ||dt00.net^
 ||dt07.net^
@@ -76705,6 +76709,7 @@ zzzyk.com###Tinfo
 ||lixonj.xyz^
 ||lixsbdifa.com^
 ||lixuhwuwychupbd.com^
+||lixxqkaqaragxu.com^
 ||lizapaisan.com^
 ||lizardslaugh.com^
 ||lizardslaugh.com^$third-party
@@ -108074,6 +108079,7 @@ zzzyk.com###Tinfo
 ||shbkhuyenmai.com^
 ||shbzdkj.cn^
 ||shbzegs.cn^
+||shbzngs.cn^
 ||shbzogs.cn^
 ||shbzokj.cn^
 ||shbzpgs.cn^
@@ -121767,6 +121773,7 @@ zzzyk.com###Tinfo
 ||thatmonkeybites3.com^
 ||thatresha.com^
 ||thatshab.website^
+||thauckeesse.net^
 ||thaucmozsurvey.space^
 ||thaudray.com^
 ||thauftoa.net^
@@ -132680,6 +132687,8 @@ zzzyk.com###Tinfo
 ||w.yinyuehu.cn^
 ||w.zenback.jp^
 ||w0057.com^
+||w0079.com^
+||w0082.com^
 ||w00tmedia.net^
 ||w010w.com.cn^$subdocument
 ||w020.newmilfordspectrum.com^
