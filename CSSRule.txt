@@ -3065,7 +3065,7 @@
 91lai.com##.D_guanggaotu3
 91lai.com##.showimgs
 91porn.com##.preroll-blocker
-91porn.com##iframe[src$="/fans/ad.php"]
+91porna.com##.carousel-container-bottom
 91porna.com##.carousel-container:has(#carouselExampleInterval)
 91porna.com##.row > div.flex-container:has(> a[href][target="_blank"] > img)
 91porna.com##.row > div[class^="col"]:has(> .video-wrap > a.checkNum)
@@ -3213,8 +3213,6 @@ admaimai.com##.in16_w01 > div[class*="_ad0"]
 admin.rainbow-online.ru,gitjournal.tech,logist.uxxo.ru,meteoservice.ru,pawno-info.ru##body > div[id]:not([class])[style="display: block;"]
 admin5.com##.float_both_index
 admin5.com##.notice
-adrama.to###container > div[style*="margin-right: 2px;"][style*="width: 300px;"]
-adrama.to#?#.post_sidebar > div.side_box:has(div[id^="mynewads_"])
 aeahsck.cc##.stui-vodlist  > li:has(> div.stui-vodlist__box > a[href][target="_blank"])
 aeink.com##.widget_ui_adsf
 aeink.com##.widget_ui_textads
@@ -6477,6 +6475,7 @@ huya.com###huya-ab-fixed
 huya.com###player-download-guide-tip
 huya.com###template
 huya.com##.J_ad
+huya.com##.ab-content
 huya.com##.end-ab-banner
 huya.com##.end-ab-wrap
 huya.com##.huya-ab
@@ -7852,7 +7851,6 @@ m.bilibili.com##.m-home-float-openapp
 m.bilibili.com##.m-nav-openapp.open-app-btn
 m.bilibili.com##.m-video2-float-openapp
 m.bilibili.com##.nav-open-app-img
-m.bilibili.com##.v-switcher__content__wrap
 m.bilibili.com##.visible-open-app-btn.m-video-main-launchapp.launch-app-btn
 m.bilibili.com##.visible-open-app-btn.m-video-main-openapp.open-app-btn
 m.bilibili.com##div[class*="mplayer-control-btn mplayer-control-btn-callapp mplayer-control-btn-speed"]
