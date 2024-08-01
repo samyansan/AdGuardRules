@@ -3,8 +3,8 @@
 ! Powerd by SamSan
 ! Description: Just a merged Adblock rule. Nothing more
 ! Expires: 6 hours (update frequency)
-! Version: 2024-08-01 14:11:04
-! Total count: 140702
+! Version: 2024-08-01 20:13:49
+! Total count: 140705
 
 ###ADtip
 ###AdBlockDialog
@@ -5591,6 +5591,7 @@ bilibili.com##.desktop-download-tip
 bilibili.com##.download-client-trigger.download-entry
 bilibili.com##.eva-banner
 bilibili.com##.extension-tips
+bilibili.com##.float-btn:contains(打开App)
 bilibili.com##.floor-single-card:has(.floor-skeleton):not(:has(> div.bili-video-card__skeleton))
 bilibili.com##.gg-floor-module
 bilibili.com##.index-promote
@@ -5602,6 +5603,7 @@ bilibili.com##.index__openApp__src-videoPage-related2Col-videoItem-
 bilibili.com##.mobile.nav-item
 bilibili.com##.online + .adpos
 bilibili.com##.open-app-bar
+bilibili.com##.open-btn
 bilibili.com##.operate-card[data-target-url*=".miaozhen."]
 bilibili.com##.operate-card[data-target-url*="doubleclick."]
 bilibili.com##.title > span > a[href^="http"]:not([href*=".bilibili."])
@@ -9598,15 +9600,15 @@ m.baidu.com##.water-container.tab-news-content
 m.baidu.com##DIV#se-recommend-word-list-container.se-recommend-word-list-container
 m.baidu.com##a[href*="m.lecai.com"]
 m.baidu.com#@##results > div[class]:not(.result):not(.result-op):not(.sp-rslt-bar):not(.s-group-result):not(.hint-unsafe)
-m.bilibili.com##.home-float-openapp.open-app-btn
-m.bilibili.com##.m-comment-openapp.open-app-btn
-m.bilibili.com##.m-float-openapp.open-app-btn
+m.bilibili.com##.bottom-tab:contains(App)
+m.bilibili.com##.container:contains(打开App)
+m.bilibili.com##.launch-app-btn > a:contains(App)
+m.bilibili.com##.launch-app-btn:contains(打开APP)
 m.bilibili.com##.m-home-float-openapp
-m.bilibili.com##.m-nav-openapp.open-app-btn
+m.bilibili.com##.m-video2-awaken-btn
 m.bilibili.com##.m-video2-float-openapp
+m.bilibili.com##.natural-margin.visible-open-app-btn.m-video-main-launchapp.launch-app-btn
 m.bilibili.com##.nav-open-app-img
-m.bilibili.com##.visible-open-app-btn.m-video-main-launchapp.launch-app-btn
-m.bilibili.com##.visible-open-app-btn.m-video-main-openapp.open-app-btn
 m.bilibili.com##div[class*="mplayer-control-btn mplayer-control-btn-callapp mplayer-control-btn-speed"]
 m.bilibili.com##div[class*="mplayer-widescreen-callapp"]
 m.bilibili.com##div[class*="openapp"]
@@ -20463,6 +20465,7 @@ zzzyk.com###Tinfo
 ||ad.kissasian.es^
 ||ad.kisscartoon.nz^
 ||ad.kisscartoon.sh^
+||ad.kisstvshow.es^
 ||ad.kisstvshow.ru^
 ||ad.kmib.co.kr^
 ||ad.kubiccomps.icu^
@@ -36704,7 +36707,6 @@ zzzyk.com###Tinfo
 ||cdn.b2.ai^
 ||cdn.batmobi.net^
 ||cdn.bescore.com^
-||cdn.biddercore.io^
 ||cdn.c-i.as^
 ||cdn.cdnhipter.xyz^
 ||cdn.cohesionapps.com^
@@ -55657,6 +55659,7 @@ zzzyk.com###Tinfo
 ||fl6n.com/adtop/
 ||fla4n6ne7r8ydcohcojnnor.com^
 ||flabbyyolkinfection.com^
+||flag.lab.amplitude.com^
 ||flag.lab.eu.amplitude.com^
 ||flagads.net^
 ||flagads.net^$dnsrewrite=ad-block.dns.adguard.com
@@ -68555,7 +68558,6 @@ zzzyk.com###Tinfo
 ||instancesflushedslander.com^
 ||instant-adblock.xyz^
 ||instant-adblock.xyz^$dnsrewrite=ad-block.dns.adguard.com
-||instant.page^
 ||instantbannercreator.com^
 ||instantcash.ru^
 ||instantdollarz.com^
@@ -85718,6 +85720,7 @@ zzzyk.com###Tinfo
 ||mlkklg.suncamp.de^
 ||mlkpbktmqrsry.com^
 ||mllatydz.com^
+||mlldrlujqg.com^
 ||mllqfiucttnuzn.com^
 ||mlm-tracking-service.meinestadt.de^
 ||mlmswk.janpara.co.jp^
@@ -92283,6 +92286,7 @@ zzzyk.com###Tinfo
 ||opbllqzsmfoxq.com^
 ||opchikoritar.com^
 ||opclauncheran.com^
+||opclck.com^
 ||opdavplcufic.com^
 ||opdowvamjv.com^
 ||ope.tanx.com^
@@ -96999,7 +97003,6 @@ zzzyk.com###Tinfo
 ||popin.cc^
 ||popina.ir^
 ||popinads.com^
-||popitunder.com^
 ||popland.info^
 ||poplarcolonistgreatest.com^
 ||popmajor.com^
@@ -102911,6 +102914,7 @@ zzzyk.com###Tinfo
 ||rev2pub.com^
 ||rev4rtb.com^
 ||revampcdn.com^
+||revboostprocdnadsprod.azureedge.net^
 ||revcatch.com^
 ||revcontent.com^
 ||revdepo.com^
@@ -107177,7 +107181,6 @@ zzzyk.com###Tinfo
 ||selectivesummer.com^$third-party
 ||selectjeeps.acutx.org^
 ||selectmedia.asia^
-||selectofmychoices.com^
 ||selectornews.com^
 ||selectr.net^
 ||selectroduced.com^
