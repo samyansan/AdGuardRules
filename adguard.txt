@@ -3,8 +3,8 @@
 ! Powerd by SamSan
 ! Description: Just a merged Adblock rule. Nothing more
 ! Expires: 6 hours (update frequency)
-! Version: 2024-08-03 14:10:28
-! Total count: 140783
+! Version: 2024-08-03 20:12:00
+! Total count: 140787
 
 ###ADtip
 ###AdBlockDialog
@@ -87503,6 +87503,7 @@ zzzyk.com###Tinfo
 ||mwtraf.mobi^
 ||mwxema.galerieslafayette.com^
 ||mwxopip.com^
+||mwzbp.ccbangong.com^
 ||mwzbp.iask.com.cn^
 ||mx.carfax.com^
 ||mx.carte-gr.total.fr^
@@ -115172,6 +115173,7 @@ zzzyk.com###Tinfo
 ||srvpub.com^
 ||srvr.dmvs-apac.com^
 ||srvtrck.com^
+||srvtrck.com^$dnsrewrite=ad-block.dns.adguard.com
 ||srvtrkxx1.com^
 ||srvtrkxx2.com^
 ||srwfwllymprt.com^
@@ -120934,6 +120936,8 @@ zzzyk.com###Tinfo
 ||tatehj.nylaarp.com^
 ||tatersbilobed.com^
 ||tatpek.com^
+||tatrck.com^
+||tatrck.com^$dnsrewrite=ad-block.dns.adguard.com
 ||tatsumi-sys.jp^
 ||tattepush.com^
 ||tattle.api.osano.com^
