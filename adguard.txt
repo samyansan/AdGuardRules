@@ -3,8 +3,8 @@
 ! Powerd by SamSan
 ! Description: Just a merged Adblock rule. Nothing more
 ! Expires: 6 hours (update frequency)
-! Version: 2024-08-04 20:12:14
-! Total count: 140816
+! Version: 2024-08-05 02:08:53
+! Total count: 140821
 
 ###ADtip
 ###AdBlockDialog
@@ -16977,6 +16977,8 @@ zzzyk.com###Tinfo
 ||930.dragonparking.com^
 ||930cn.top^
 ||933m.com/1.js
+||9354ee72.xyz^
+||9354ee72.xyz^$dnsrewrite=ad-block.dns.adguard.com
 ||9377.com^
 ||937744.com^
 ||937785.com^
@@ -30475,6 +30477,8 @@ zzzyk.com###Tinfo
 ||b9f4882bac.com^
 ||ba-content.de^
 ||ba.fqzds.com^
+||ba0bf98c.xyz^
+||ba0bf98c.xyz^$dnsrewrite=ad-block.dns.adguard.com
 ||ba46b70722.com^
 ||ba488608ee.com^
 ||ba83df6e74.com^
@@ -124250,6 +124254,7 @@ zzzyk.com###Tinfo
 ||tr.cypruspremiervacations.com^
 ||tr.datanyze.com^
 ||tr.datatrics.com^
+||tr.dec-connect.decsuite.com^
 ||tr.demo.np6.com^
 ||tr.designoutlet-contact.fr^
 ||tr.devis-companeo.be^
