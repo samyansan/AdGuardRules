@@ -3,8 +3,8 @@
 ! Powerd by SamSan
 ! Description: Just a merged Adblock rule. Nothing more
 ! Expires: 6 hours (update frequency)
-! Version: 2024-08-05 08:37:57
-! Total count: 140859
+! Version: 2024-08-05 14:11:35
+! Total count: 140861
 
 ###ADtip
 ###AdBlockDialog
@@ -106808,6 +106808,8 @@ zzzyk.com###Tinfo
 ||searchplow.com^
 ||searchrecterm.kuwo.cn^$app=cn.kuwo.player
 ||searchrespectivelypotency.com^
+||searchresultsadblocker.com^
+||searchresultsadblocker.com^$dnsrewrite=ad-block.dns.adguard.com
 ||searchsecurer.com^
 ||searchswapper.com^
 ||searchtds.ru^
