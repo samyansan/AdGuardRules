@@ -5,14 +5,10 @@ curl -o i-1.txt https://raw.githubusercontent.com/TG-Twilight/AWAvenue-Ads-Rule/
 curl -o i-2.txt https://raw.githubusercontent.com/francis-zhao/quarklist/master/dist/quarklist.txt
 curl -o i-3.txt https://raw.githubusercontent.com/Noyllopa/NoAppDownload/master/NoAppDownload.txt
 curl -o i-4.txt https://www.kbsml.com/wp-content/uploads/adblock/adguard/adg-kall-dns.txt
-curl -o i-5.txt https://raw.githubusercontent.com/damengzhu/banad/main/jiekouAD.txt
-curl -o i-6.txt https://raw.githubusercontent.com/uniartisan/adblock_list/master/adblock.txt
-curl -o i-7.txt https://raw.githubusercontent.com/Cats-Team/AdRules/main/mod/rules/dns-rules.txt
-curl -o i-8.txt https://raw.githubusercontent.com/Cats-Team/AdRules/main/mod/rules/adblock-rules.txt
-curl -o i-9.txt https://easylist-downloads.adblockplus.org/antiadblockfilters.txt
-curl -o i-10.txt https://adguardteam.github.io/HostlistsRegistry/assets/filter_59.txt
-curl -o i-11.txt https://adguardteam.github.io/HostlistsRegistry/assets/filter_1.txt
-curl -o i-12.txt https://adguardteam.github.io/HostlistsRegistry/assets/filter_21.txt
+curl -o i-5.txt https://raw.githubusercontent.com/uniartisan/adblock_list/master/adblock.txt
+curl -o i-6.txt https://raw.githubusercontent.com/Cats-Team/AdRules/main/mod/rules/dns-rules.txt
+curl -o i-7.txt https://raw.githubusercontent.com/Cats-Team/AdRules/main/mod/rules/adblock-rules.txt
+curl -o i-8.txt https://adguardteam.github.io/HostlistsRegistry/assets/filter_59.txt
 
 # 合并规则并去除重复项
 cat i*.txt > i-mergd.txt
