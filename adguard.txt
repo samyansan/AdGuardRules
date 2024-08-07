@@ -3,8 +3,8 @@
 ! Powerd by SamSan
 ! Description: Just a merged Adblock rule. Nothing more
 ! Expires: 6 hours (update frequency)
-! Version: 2024-08-07 08:36:38
-! Total count: 26562
+! Version: 2024-08-07 14:11:14
+! Total count: 26571
 
 ###ADtip
 ###Ad_windows
@@ -205,6 +205,7 @@
 ###imgad
 ###imgs5[height="60px"]
 ###index_aside_ad
+###index_banner[src*=".meituan.net"]
 ###index_content_ad
 ###j-new-ad
 ###js-ad-map
@@ -3704,7 +3705,7 @@ $third-party,xmlhttprequest,websocket,domain=qiyoudy2.com|qiyoudy4.com
 85wp.com###a3_diy2
 85wp.com##.top-ad-img
 8684.cn,8684.com##div[id*="adid"]
-8684.cn,8684.com,iyxdm.net,kugou.com,solarzoom.com,yesky.com##div[class^="adv"]
+8684.cn,8684.com,iyxdm.org,kugou.com,solarzoom.com,yesky.com##div[class^="adv"]
 880sy.com##.foot_gg
 880sy.com##.fot_btom
 88448.com###ad_forum_banner
@@ -4238,7 +4239,6 @@ av.movie##.adss-160x600
 av.movie##.pop-up-a
 av.movie##.video-banner
 av1868.com###totalStationAD
-av1868.com,edc1014070.pixnet.net###banner
 avbebe.com###content > div.single-post > div[align="center"]
 avbebe.com###wrapper > div[align="center"]
 avbebe.com##.sidebar > .xoxo > li[id^="execphp-"]
@@ -5745,6 +5745,7 @@ douyu.com##.imageItem-wrap[style="width: 287px; height: 559px;"]
 douyu.com##.index-common-1-rrh
 douyu.com##.is-mask.MedalUserGuide
 douyu.com##.isLink[href^="https://igxe.cn/"]
+douyu.com##.layout-Main > section.layout-Customize
 douyu.com##.layout-Slide-banner:not([href*="douyu"])
 douyu.com##.noble-up-guide
 douyu.com##.pendant-wrap
@@ -6036,7 +6037,7 @@ elecinfo.com##div[class$="-advert"]
 element-plus.gitee.io##.sidebar > .page-content
 element-plus.gitee.io##.toc-content > .m-t-16px
 element-plus.gitee.io##aside > .page-content
-element-plus.org##.page-content-main-a
+element-plus.org##.page-content-main-b
 element-plus.org##.toc-content > div[style="margin-top:16px;"]
 element-plus.org##aside > .page-content-main
 elle.com.hk##.tpc-container
@@ -7130,6 +7131,7 @@ hur.cn###ad810_2
 hur.cn###ad810_6
 hutool.cn##.hutool-top-ad
 huxiu.com##li:nth-of-type(1) > .header-top-list__link > .flip-wrap > .flip-up
+huya.com###J_adBnM
 huya.com###J_duyaHeaderRight > .clearfix.duya-header-control > .hy-nav-download.hy-nav-right
 huya.com###J_roomGg2 + a
 huya.com###J_roomGgTop
@@ -7161,6 +7163,7 @@ huya.com##a[class^="Ad--"]
 huya.com##div[class*="NavDownload"]
 huya.com#%#//scriptlet('set-constant', 'adInfo', 'emptyObj')
 huya.com#?#.item-pic:-abp-has(>.img-tips)
+huya.com,av1868.com,edc1014070.pixnet.net###banner
 hvhbbs.com##.block[data-widget-definition="SwiperWidget"]
 hvhbbs.com##.margin-add > style + div
 hxcpp13.com###player-bottom-ads
@@ -8092,6 +8095,7 @@ kdnet.net##.download-bar
 kdnet.net##a[href*=".tmall.com/?spm="] > img
 kdocs.cn##.business-list-wrap
 kdslife.com###ad_swip
+kdslife.com###mainRightTopAd
 kdslife.com###tao
 kdslife.com###youhui
 kdslife.com##a[href*="kds.2144.cn"]
@@ -10633,6 +10637,7 @@ suopao.org##.t5[style^="margin-top:8px;"]
 suopao.org##.tr3.t_one[onmouseout]
 super.sina.cn##.call_up_banner
 supercloudsms.com##.container > a[id]
+supercloudsms.com##.container > div > a[id]
 superlife.ca##.sidebar-ad-zone
 supertaste.tvbs.com.tw###ad_m_bottom
 supertaste.tvbs.com.tw###lightbox--ad
@@ -10884,6 +10889,7 @@ tmioe.com###custom_html-4
 tmioe.com##.__single_0
 tmioe.com##.ad_single_0
 tmioe.com##.entry-copyright
+tmioe.com##.singlegg
 tmioe.com##a[target="_blank"] > img[src*=".sinaimg.cn"]
 tmtpost.com##.open-app
 to8to.com##.ad-commom
@@ -17517,6 +17523,7 @@ zzzyk.com###Tinfo
 ||fds.api.moji.com^
 ||fdswrgg.cn^
 ||fdtlfl.xyz^
+||fdyacma.icu^
 ||fe30a5b4.xyz^$dnsrewrite=ad-block.dns.adguard.com
 ||feakio.top^
 ||feboni.info^$dnsrewrite=ad-block.dns.adguard.com
@@ -25342,6 +25349,7 @@ zzzyk.com###Tinfo
 ||widgets.pinterest.com^
 ||wifescamara.click^$dnsrewrite=ad-block.dns.adguard.com
 ||wifiapidd.51y5.net^
+||wiixqm.xyz^
 ||wildwist.com^
 ||williamlong.info/script/sidebar.js
 ||win-myprize.top^$dnsrewrite=ad-block.dns.adguard.com
@@ -25602,6 +25610,7 @@ zzzyk.com###Tinfo
 ||xflybplr.xyz^
 ||xfmlp.com^$dnsrewrite=ad-block.dns.adguard.com
 ||xfqrsjq.cn^
+||xfqynrp.cn^
 ||xfrahb.xyz^
 ||xfztgxt.com^
 ||xg6hb.xyz^
