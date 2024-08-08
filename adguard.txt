@@ -3,8 +3,8 @@
 ! Powerd by SamSan
 ! Description: Just a merged Adblock rule. Nothing more
 ! Expires: 6 hours (update frequency)
-! Version: 2024-08-08 08:36:25
-! Total count: 26573
+! Version: 2024-08-08 14:11:48
+! Total count: 26578
 
 ###ADtip
 ###Ad_windows
@@ -3753,8 +3753,9 @@ $third-party,xmlhttprequest,websocket,domain=qiyoudy2.com|qiyoudy4.com
 91porny.com##.container-fluid.p-0[class*="mb-"]
 91porny.com##.jsv-g1
 91porny.com##.row > div.colVideoList:has(> div.video-elem > a[target="_blank"])
-91porny.org,jsav2.com,x9av1.com,x9av7.com###main > div[id^="rd"]
-91porny.org,jsav2.com,x9av1.com,x9av7.com##.footer + .block
+91porny.org,jstv600.com,x9av7.com###main > div[id^="rd"]
+91porny.org,jstv600.com,x9av7.com##.footer + .block
+91porny.org,jstv600.com,x9av7.com#?#.card:-abp-has(>.card-image>a[href^="http"])
 91rb99.com##.top
 91wenmi.com###xiezuo
 91wenmi.com###xzsp
@@ -8016,7 +8017,6 @@ js0573.com###adv2
 js0573.com###gotopl
 js0573.com###gotopr
 js0573.com##.gg_bnr
-jsav2.com,91porny.org,x9av1.com,x9av7.com#?#.card:-abp-has(>.card-image>a[href^="http"])
 jsbooks.com.cn#@#.left-ads
 jsjiami.com##.asd > li > a.shaky
 jsjiami.com##.banner-container li._logo ~ li > a[target="_blank"]
@@ -15493,6 +15493,7 @@ zzzyk.com###Tinfo
 ||byretuv.top^
 ||byscy.cn^$third-party
 ||bytecdn.cn/ta/resource/v0/analytics.js
+||bytmfj.xyz^
 ||bytravel.cn/images/cus/
 ||bytravel.cn/images/t/usa_250_120.gif
 ||bytravel.cn/js/ad_
@@ -17237,6 +17238,7 @@ zzzyk.com###Tinfo
 ||eheuye.xyz^
 ||ehg-youtube.hitbox.com^
 ||ehhjfgs.xyz^
+||ehmhqcn.cn^
 ||ehrhrrx.xyz^
 ||eht116.com^
 ||ehxyz.com^
@@ -18994,6 +18996,7 @@ zzzyk.com###Tinfo
 ||igo99.cn/js/freetest.js
 ||ih336.com^*a.js
 ||ihcxue.xyz^
+||ihgluu.xyz^
 ||ihhmh.com/mg/show
 ||ihqfiimrbcf.com^$dnsrewrite=ad-block.dns.adguard.com
 ||ihwdun.xyz^
@@ -21598,6 +21601,7 @@ zzzyk.com###Tinfo
 ||nxhh.net/gw/gw.js
 ||nxing.cn/uploads/uploads/*-size1220x
 ||nxledn.xyz^
+||nxrajr.xyz^
 ||nxtpsh.com^$dnsrewrite=ad-block.dns.adguard.com
 ||nxtxxcm.xyz^
 ||nxxkxr.xyz^
@@ -26225,6 +26229,7 @@ zzzyk.com###Tinfo
 ||yvwuesh.icu^
 ||ywg.jobui.com^
 ||ywhws.cn^
+||ywokwlx.icu^
 ||yx1.managershare.com^
 ||yxad.com/baidu/
 ||yxad.com/yxad/
