@@ -3,8 +3,8 @@
 ! Powerd by SamSan
 ! Description: Just a merged Adblock rule. Nothing more
 ! Expires: 6 hours (update frequency)
-! Version: 2024-08-13 08:37:30
-! Total count: 26625
+! Version: 2024-08-13 14:11:41
+! Total count: 26634
 
 ###ADtip
 ###Ad_windows
@@ -1324,6 +1324,7 @@ $third-party,xmlhttprequest,websocket,domain=qiyoudy2.com|qiyoudy4.com
 -1316632262.cos.
 -1316899192.cos.
 -1321533417.cos.
+-1325890192.cos.
 -1688-wp-media/ads/
 -728-90.
 -728x90.
@@ -4698,7 +4699,6 @@ bilibili.com#$?#.bili-video-card > div[class]:only-child:matches-css(before, con
 bilibili.com#$?#.container > div.floor-single-card:has(> div.skeleton) { remove: true; }
 bilibili.com#$?#.ex-card-common:has(.gg-icon) { remove: true; }
 bilibili.com#$?#.van-slide > .item:has(.bypb-icon) { remove: true; }
-bilibili.com#$?#.vui_carousel > .vui_carousel__slides > div[class^="vui_carousel__slide"]:has(> div[class]:only-child a[href^="//cm.bilibili.com/cm/api/"]) { remove: true; }
 bilibili.com#%#//scriptlet('spoof-css', '.__adblockhidden > a', 'display', 'block')
 bilibili.com#?#.eva-extension-body > .bili-video-card:-abp-has(.bili-video-card__info--ad)
 bilibili.com#?#.van-popover__reference:contains(下载)
@@ -14895,6 +14895,7 @@ zzzyk.com###Tinfo
 ||baijs04.shop^
 ||baijs05.shop^
 ||baijs05.xyz^
+||baijs06.shop^
 ||baijs06.xyz^
 ||baijs07.xyz^
 ||baijs08.xyz^
@@ -16885,6 +16886,7 @@ zzzyk.com###Tinfo
 ||doujs04.shop^
 ||doujs05.shop^
 ||doujs05.xyz^
+||doujs06.shop^
 ||doujs06.xyz^
 ||doujs07.xyz^
 ||doujs08.xyz^
@@ -16963,6 +16965,7 @@ zzzyk.com###Tinfo
 ||dsceopm.cn^
 ||dsfffmb.mobi^$dnsrewrite=ad-block.dns.adguard.com
 ||dshangyan.com/pc/advertising/
+||dshjbn.xyz^
 ||dsjhcgvhjsvc.com^
 ||dsjkbcjsjkbvs.com^
 ||dskjbvzvs.com^
@@ -19711,6 +19714,7 @@ zzzyk.com###Tinfo
 ||jrmianban.com/img/images/g-g/
 ||jrpolj.xyz^
 ||jrtlisa.top^
+||jrutvnca.top^
 ||jrzj.com/images/bgright_ad.jpg
 ||jrzj.com/img_index/*adv
 ||jrzj.com/img_index/guanggao
@@ -21736,6 +21740,7 @@ zzzyk.com###Tinfo
 ||okwan.cn^
 ||okwkaa.xyz^
 ||ol-img.com/channel/tuku/js/tukuPopup.js
+||olehdtv.com/index.php/index/userss|
 ||olelive.com/v1/pub/index/anchor/check/pc/e?
 ||olenation.org^$dnsrewrite=ad-block.dns.adguard.com
 ||olgame.tw/home/attachment/
@@ -22072,7 +22077,7 @@ zzzyk.com###Tinfo
 ||pfhj89w.com^
 ||pfjfjid.xyz^
 ||pfjtgxc.cn^
-||pfkgl.top^
+||pfkgl.top/images/*.gif
 ||pfp.sina.com.cn^
 ||pfp.sina.com.cn^$script,subdocument
 ||pfp.sina.net/ea/ad/
@@ -22437,6 +22442,7 @@ zzzyk.com###Tinfo
 ||pwhtip.icu^
 ||pwuxnr.cn^
 ||pwxlbsie.icu^
+||pxqqytk.icu^
 ||pxrs6.cn^
 ||pxtjfmv.xyz^
 ||pxx.tnklrs.cn^$third-party
@@ -23337,6 +23343,7 @@ zzzyk.com###Tinfo
 ||shbzegs.cn^
 ||shbzikj.cn^
 ||shbzjgs.cn^
+||shbzjkj.cn^
 ||shbzkkj.cn^
 ||shbzlkj.cn^
 ||shbzngs.cn^
@@ -23788,6 +23795,7 @@ zzzyk.com###Tinfo
 ||static.jfrft.com/js/main_video.js^$script,redirect=noopjs,domain=dilidili.wang,important
 ||static.ku6.com^
 ||static.meijiacun.com^
+||static.olelive.com/upload/site/*/*.gif
 ||static.rongkao.com^
 ||static.tellerium.com^$dnsrewrite=ad-block.dns.adguard.com
 ||static.tohomh123.com/js/funasd.js
@@ -25987,6 +25995,7 @@ zzzyk.com###Tinfo
 ||yclxrj.top^$third-party
 ||ycmgeb.icu^
 ||ycqbgm.xyz^
+||ycwuoq.xyz^
 ||ydazjxso.xyz^
 ||yddbysa.xyz^
 ||yddjmpjo.xyz^
