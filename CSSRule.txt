@@ -2058,7 +2058,6 @@
 3h3.com,downxia.com##.gaosu_down_div
 3jy.com##.Rad
 3jy.com,maolihui.com##.lad
-3rxing.org###fullDD
 3yan.cn##img[style*="300px"]
 40407.com###nei_fmt
 40407.com###tcdgg
@@ -9821,6 +9820,7 @@ wenxuecity.com###marquee
 wenxuecity.com##.otherposts > ul > li > a[target="_blank"]
 wenxuecity.com##.sidebar > .banners
 wenxuecity.com##.topbannerw
+wenxuecity.com##DIV[class^="Inarticle_"]
 wenxuecity.com##label[style*="darkgrey"]
 wenxuecity.com#?#div[class]:-abp-has(>.adlab_border)
 wenxuecity.com#@#.otherposts
