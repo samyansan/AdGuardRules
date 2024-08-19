@@ -3,8 +3,8 @@
 ! Powerd by SamSan
 ! Description: Just a merged Adblock rule. Nothing more
 ! Expires: 6 hours (update frequency)
-! Version: 2024-08-19 14:11:35
-! Total count: 26693
+! Version: 2024-08-19 20:14:11
+! Total count: 26694
 
 ###ADtip
 ###Ad_windows
@@ -8461,6 +8461,7 @@ lzep.cn##.aside
 m.07073.com##.main_content_tit + div
 m.07073.com##.new_heads
 m.07073.com##.new_heads_bg
+m.163.com##.floatMenu-backflow
 m.163.com##.floatMenu-logo
 m.163.com##footer > span
 m.56.com##a[data-statkey="newad_banner"]
