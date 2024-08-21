@@ -3,8 +3,8 @@
 ! Powerd by SamSan
 ! Description: Just a merged Adblock rule. Nothing more
 ! Expires: 6 hours (update frequency)
-! Version: 2024-08-21 08:36:22
-! Total count: 26701
+! Version: 2024-08-21 14:10:54
+! Total count: 26711
 
 ###ADtip
 ###Ad_windows
@@ -4700,7 +4700,6 @@ bilibili.com#$?#.bili-video-card > div[class]:only-child:matches-css(before, con
 bilibili.com#$?#.container > div.floor-single-card:has(> div.skeleton) { remove: true; }
 bilibili.com#$?#.ex-card-common:has(.gg-icon) { remove: true; }
 bilibili.com#$?#.van-slide > .item:has(.bypb-icon) { remove: true; }
-bilibili.com#%#//scriptlet('spoof-css', '.__adblockhidden > a', 'display', 'block')
 bilibili.com#?#.eva-extension-body > .bili-video-card:-abp-has(.bili-video-card__info--ad)
 bilibili.com#?#.van-popover__reference:contains(下载)
 bilibili.com#?#.video-card-common:-abp-has(>.card-pic>a[href*="cm.bilibili.com"][data-target-url])
@@ -8233,6 +8232,7 @@ laohu8.com#@#.tweet-article
 laoliublog.cn,ruyo.net,winandmac.com,zhujiceping.com,zouaw.com##.widget_custom_html
 laosiji.com#@#.sns-wrapper
 laowang.vip###frameYl5IOf
+laowangblog.com##img[src^="https://laowangblog.com/"][src*="-ad"]
 laozuo.org##.s_ad125
 las.ac.cn###img
 lawtv.com.cn##div[style=" width:664px; height:260px;  margin-top:10px;"]
@@ -14909,6 +14909,7 @@ zzzyk.com###Tinfo
 ||baijs06.xyz^
 ||baijs07.shop^
 ||baijs07.xyz^
+||baijs08.shop^
 ||baijs08.xyz^
 ||baike.com/iframeheightforad.
 ||baike.com/newtop/news.html
@@ -16481,6 +16482,7 @@ zzzyk.com###Tinfo
 ||da.mgtv.com^
 ||da28c69e.xyz^$dnsrewrite=ad-block.dns.adguard.com
 ||dabai28.com/img/*.gif
+||dabajd.xyz^
 ||dabaoku.com^$object,script,subdocument
 ||dabin69.com/data/attachment/portal/
 ||dada8828.com/js/aaa/
@@ -16756,6 +16758,7 @@ zzzyk.com###Tinfo
 ||djxzk.top^
 ||dk45h.icu^
 ||dkeyn.com^
+||dkhffh.xyz^
 ||dkjwbv.xyz^
 ||dkvakldvnsv.com^
 ||dkyd6.xyz^
@@ -16908,6 +16911,7 @@ zzzyk.com###Tinfo
 ||doujs06.xyz^
 ||doujs07.shop^
 ||doujs07.xyz^
+||doujs08.shop^
 ||doujs08.xyz^
 ||doujs09.xyz^
 ||doumob.com^
@@ -18563,6 +18567,7 @@ zzzyk.com###Tinfo
 ||heukmsactivator.com^$dnsrewrite=ad-block.dns.adguard.com
 ||hevctt.xyz^
 ||heweop.com^$dnsrewrite=ad-block.dns.adguard.com
+||hewrutu.top^
 ||hexagon-analytics.com^
 ||hexcvb.xyz^
 ||hexun.*/hxpage/index.html
@@ -19895,6 +19900,7 @@ zzzyk.com###Tinfo
 ||jyfw.cn/nav/cf_
 ||jygiizv.icu^
 ||jyisloa.top^
+||jyjrbz.xyz^
 ||jynthelon.com^
 ||jypvzd.xyz^
 ||jyqkijp.icu^
@@ -20053,6 +20059,7 @@ zzzyk.com###Tinfo
 ||kjrspnbf.xyz^
 ||kjubky.xyz^
 ||kjvaqbyebqarl.top^
+||kjxhd.cn^
 ||kkacrgx.icu^
 ||kkbbjtfp.xyz^
 ||kkddlt2f.site^$third-party
@@ -20483,6 +20490,7 @@ zzzyk.com###Tinfo
 ||ljpbtjq.xyz^
 ||ljzcawea.icu^
 ||lkdybkwi.xyz^
+||lkdyft.xyz^
 ||lkenflknkd.com^
 ||lkmhn.com^
 ||lknhrnd.com^
@@ -21094,6 +21102,7 @@ zzzyk.com###Tinfo
 ||mixer.sina.cn^
 ||mixer.video.iqiyi.com/jp/mixin/resources/
 ||mixpanel.com^
+||miycoc.xyz^
 ||mjappzvz.xyz^
 ||mjmobi.com^
 ||mkbbjtfp.xyz^
@@ -26344,6 +26353,7 @@ zzzyk.com###Tinfo
 ||yutiqf.icu^
 ||yuwangshe.net/astyle/wap.
 ||yuwenbin.host^
+||yuwqsk.xyz^
 ||yv8zs.online^
 ||yvbjctqs.xyz^
 ||yvnxetmq.xyz^
