@@ -3,8 +3,8 @@
 ! Powerd by SamSan
 ! Description: Just a merged Adblock rule. Nothing more
 ! Expires: 6 hours (update frequency)
-! Version: 2024-08-22 08:37:19
-! Total count: 26712
+! Version: 2024-08-22 14:10:54
+! Total count: 26729
 
 ###ADtip
 ###Ad_windows
@@ -5205,6 +5205,7 @@ cmhello.com##.gpost-above
 cmsky.com##.textwidget a[href^="http"]:not([href*="cmsky"])
 cn-healthcare.com##.fh_ad_wrap
 cn-healthcare.com##.fh_advent_wrap
+cn.bing.com##.b_bza_pole
 cn.bing.com##.bnp_rich_div_visible.bottom
 cn.bing.com##.bnp_rich_div_visible.top
 cn.bing.com#?##b_results > li:-abp-has(.b_adProvider)
@@ -6630,6 +6631,7 @@ goodcome.com.tw###jad-top
 goodcome.com.tw##.Phase2_BigAdbox
 goodcome.com.tw,sporttery.cn###mask
 googleads.g.doubleclick.net###mys-wrapper
+goosedaily.com##.lightboxbnr
 gotrip.hk##.oath-lrec-player
 gotrip.hk#?#._more_content_ > div._page_:has(> div.oath-lrec-player)
 gotrip.hk,nmplus.hk,weekendhk.com##.ai_widget
@@ -12922,6 +12924,7 @@ zzzyk.com###Tinfo
 ||555bbb555www.com^
 ||555bbb777www.com^
 ||555ppp777ppp.com^
+||55726zubo56686.com^
 ||5588.tv/js/piaofuImg.js
 ||5598tp.com^$domain=9xav.cc
 ||55cc9d.xyz^$dnsrewrite=ad-block.dns.adguard.com
@@ -13058,6 +13061,7 @@ zzzyk.com###Tinfo
 ||67.21.92.*.gif
 ||6789.net^$third-party
 ||67trackdomain.com^$dnsrewrite=ad-block.dns.adguard.com
+||6820tp1.com^
 ||68287zubo85737.com^
 ||68646f.xyz^$dnsrewrite=ad-block.dns.adguard.com
 ||691f42ad.xyz^$dnsrewrite=ad-block.dns.adguard.com
@@ -13584,6 +13588,7 @@ zzzyk.com###Tinfo
 ||abcd789.com^
 ||abcdcfasda.gushiwen.cn^
 ||abcj.dooccn.com^
+||abcqq36q.vip^
 ||abczxw.com/skin/bbb/pc/js/bd.js
 ||abdd*.com/js/abc/
 ||abdluv.xyz^
@@ -18999,6 +19004,7 @@ zzzyk.com###Tinfo
 ||iephrenhq.com^
 ||ietlwso.top^
 ||ievvo.xyz^
+||iewruto.top^
 ||iewtwo.xyz^
 ||ieymhkx.icu^
 ||ifacelog.iqiyi.com^
@@ -19200,6 +19206,7 @@ zzzyk.com###Tinfo
 ||imgopen.vip^
 ||imgoss2255.top^
 ||imgoss511.top^
+||imgoss820.top^
 ||imgroom.net/images/*.gif
 ||imgs.cc/images/ad_
 ||imgs.cc/img/8Pl6FJY.gif
@@ -20038,6 +20045,7 @@ zzzyk.com###Tinfo
 ||kgimg.com/public/root//images/hardware.jpg
 ||kgmobilestat.kugou.com^
 ||kgqcse.xyz^
+||kgubus.xyz^
 ||khcsvdc.icu^
 ||khrtac.xiangha.com^
 ||khzyojb.cn^
@@ -21376,6 +21384,7 @@ zzzyk.com###Tinfo
 ||my0538.com^*/thumb_1000_70_
 ||my0832.com/xyz/xx/
 ||my4700.com/js/*.js
+||myabcd.cc^
 ||mybgrea97.shop^
 ||mybjx.net/theme/default/js/common/bjx_service_
 ||mybjx.net/theme/default/js/common/duilianchn.js
@@ -22492,6 +22501,7 @@ zzzyk.com###Tinfo
 ||pwbuhb.xyz^
 ||pwcegau.icu^
 ||pwddhc.xyz^
+||pwfqjp.xyz^
 ||pwhkfd.xyz^
 ||pwhtip.icu^
 ||pwuxnr.cn^
@@ -22875,6 +22885,7 @@ zzzyk.com###Tinfo
 ||re.m.taobao.com^
 ||re.taobao.com^
 ||re.taotaosou.com^
+||reacdf311.cn^
 ||reachmax.cn^
 ||reader.meizu.com^
 ||reader.res.meizu.com^
@@ -22986,6 +22997,7 @@ zzzyk.com###Tinfo
 ||rkanr.com/data/cpcache/cp*.js
 ||rkgbqn.icu^
 ||rktddv.xyz^
+||rkwxfi.xyz^
 ||rkxy.com.cn/js/text_
 ||rlcdn.com^
 ||rlhtnnm.xyz^
@@ -23187,6 +23199,7 @@ zzzyk.com###Tinfo
 ||sass.hk/plus/mytag_js.php?aid=
 ||satroki.tech/api/JdUnion
 ||sauwoaptain.com^$dnsrewrite=ad-block.dns.adguard.com
+||sauyv.top^
 ||saveu5-normal-lq.zijieapi.com^
 ||savinist.com^$dnsrewrite=ad-block.dns.adguard.com
 ||savionl.com^
@@ -24438,6 +24451,7 @@ zzzyk.com###Tinfo
 ||toutiaoyule.com/n/dspshow.
 ||tozwrqnq.xyz^
 ||tp.sgcn.com^
+||tp1902abd.com^
 ||tp4sul.jwzd.com.cn^
 ||tphcrjth.xyz^
 ||tptgvh.xyz^
@@ -24556,6 +24570,7 @@ zzzyk.com###Tinfo
 ||tubecontext.com^$dnsrewrite=ad-block.dns.adguard.com
 ||tubecup.net^$dnsrewrite=ad-block.dns.adguard.com
 ||tudxhzj.cn^
+||tufzdj.xyz^
 ||tui.cnzz.net^$third-party
 ||tui.gtimg.com//res/
 ||tui.weibo.com^
@@ -25392,6 +25407,7 @@ zzzyk.com###Tinfo
 ||wdxxx.top^
 ||we.tm^
 ||we560.com/js/*.js
+||weacdf211.cn^
 ||weagehn.icu^
 ||weather-analytics-events.apple.com^
 ||weather-community-drcn.weather.dbankcloud.cn^
@@ -26320,6 +26336,7 @@ zzzyk.com###Tinfo
 ||ytcxflak.xyz^
 ||ytelc.com^$third-party
 ||ytezym.xyz^
+||ytghtq.xyz^
 ||ytjzqde.xyz^
 ||ytoeyxz.icu^
 ||ytqeavc.icu^

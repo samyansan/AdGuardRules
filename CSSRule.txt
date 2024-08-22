@@ -3784,6 +3784,7 @@ cmhello.com##.gpost-above
 cmsky.com##.textwidget a[href^="http"]:not([href*="cmsky"])
 cn-healthcare.com##.fh_ad_wrap
 cn-healthcare.com##.fh_advent_wrap
+cn.bing.com##.b_bza_pole
 cn.bing.com##.bnp_rich_div_visible.bottom
 cn.bing.com##.bnp_rich_div_visible.top
 cn.bing.com#?##b_results > li:-abp-has(.b_adProvider)
@@ -5183,6 +5184,7 @@ goodcome.com.tw###jad-top
 goodcome.com.tw##.Phase2_BigAdbox
 goodcome.com.tw,sporttery.cn###mask
 googleads.g.doubleclick.net###mys-wrapper
+goosedaily.com##.lightboxbnr
 gotrip.hk##.oath-lrec-player
 gotrip.hk#?#._more_content_ > div._page_:has(> div.oath-lrec-player)
 gotrip.hk,nmplus.hk,weekendhk.com##.ai_widget
