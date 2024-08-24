@@ -3,8 +3,8 @@
 ! Powerd by SamSan
 ! Description: Just a merged Adblock rule. Nothing more
 ! Expires: 6 hours (update frequency)
-! Version: 2024-08-24 08:35:40
-! Total count: 26739
+! Version: 2024-08-24 14:10:01
+! Total count: 26749
 
 ###ADtip
 ###Ad_windows
@@ -2761,6 +2761,7 @@ $third-party,xmlhttprequest,websocket,domain=qiyoudy2.com|qiyoudy4.com
 123pan.com,meidebi.com,weicaixun.com#@#.share-list
 125.la##.forumlist_ad
 126.com,163.com##.gWel-promt
+131400.best,vikacg.com,vikacg.xyz##a[href^="http"] > img[src*="/assets/main/"]
 131458.com###header_gg
 131458.com##.divGuanggao
 131458.com##.ulfooter_top
@@ -11173,7 +11174,6 @@ view.inews.qq.com##div[class^="normal_buttonWrap"]
 view.inews.qq.com##div[class^="slider-top-bar_newSliderWrapper"]
 view.inews.qq.com##div[class^="slider-top-bar_sliderWrapper"]
 view.inews.qq.com#?#div[class^="_"]:-abp-has(>div[data-action-id]>div>.react-swipeable-view-container)
-vikacg.com,vikacg.xyz##a[href^="http"] > img[src*="/assets/main/"]
 vip.com##.sidebarcom-qrcode
 vip.com##.wp-phone
 vipthz.com###fwin_content_imc_attachad [style="WIDTH: 100%; padding-left:10px;"] > div > a[href][target="_blank"] > img
@@ -11798,6 +11798,7 @@ yigujin.cn##a[href^="http"]:not([href$=".html"]) > img[src*="/tp/"]
 yii666.com##.widget-asst > p > a[href^="http"]:not([href*="yii666.com"])
 yimenapp.com,sssam.com##.widget_html_ad
 yimuhe.com###maincontent3 > div[style^="height"]
+ying35.com#?#table:-abp-has(a[href*="/fei-ad"])
 yingav.com##.spots
 yisu.com##.coupon-get-link
 yixingjia.com###wp > table[width="960"]
@@ -12571,6 +12572,7 @@ zzzyk.com###Tinfo
 ||250sy.cc/gg/
 ||2529.com^$third-party
 ||25662zubo23739.com^
+||256856.com/fei-ad/
 ||258104d2.live^$dnsrewrite=ad-block.dns.adguard.com
 ||258zw.com^$third-party
 ||268de.com/js/
@@ -13616,8 +13618,10 @@ zzzyk.com###Tinfo
 ||ac1.pingpingw.com^
 ||acc.3gbizhi.com^
 ||accecmtrk.com^$dnsrewrite=ad-block.dns.adguard.com
+||acdrewrf711.cn^
 ||acedirect.net^$dnsrewrite=ad-block.dns.adguard.com
 ||acemof.top^
+||acewdf118.cn^
 ||acf705ad.xyz^$dnsrewrite=ad-block.dns.adguard.com
 ||acfun.cn/appSpreadContents/danmuad/
 ||acg.youku.com/webfile/*.jpg
@@ -14919,6 +14923,7 @@ zzzyk.com###Tinfo
 ||baijs07.xyz^
 ||baijs08.shop^
 ||baijs08.xyz^
+||baijs09.shop^
 ||baike.com/iframeheightforad.
 ||baike.com/newtop/news.html
 ||baishuku.com/news/$script
@@ -15370,6 +15375,7 @@ zzzyk.com###Tinfo
 ||bocenamesingle.xyz^
 ||boeristhmic.top^$dnsrewrite=ad-block.dns.adguard.com
 ||bogtrmjz.xyz^
+||bojyvp.xyz^
 ||bole.shangshufang.ksosoft.com^
 ||bolecdn.com/button/txt.js
 ||boledrouth.top^$dnsrewrite=ad-block.dns.adguard.com
@@ -16922,6 +16928,7 @@ zzzyk.com###Tinfo
 ||doujs07.xyz^
 ||doujs08.shop^
 ||doujs08.xyz^
+||doujs09.shop^
 ||doujs09.xyz^
 ||doumob.com^
 ||doupocangqiong1.com/js/ptwap.js
@@ -19361,6 +19368,7 @@ zzzyk.com###Tinfo
 ||irc.qubiankeji.com^
 ||irmbyu.xyz^
 ||ironsrc.com^
+||irqaci.xyz^
 ||irs01.com^
 ||irs01.net^
 ||irs09.com^
@@ -20025,6 +20033,7 @@ zzzyk.com###Tinfo
 ||kepler.jd.com^
 ||ketlwsd.top^
 ||kewaishu.org/m-
+||kewrutd.top^
 ||key8.com/cache/www/banner_
 ||keydot.net^
 ||keydot.net^$third-party
@@ -21583,6 +21592,7 @@ zzzyk.com###Tinfo
 ||nfuwow.com/static/nfuwow/source/front/new/images/
 ||nfydd.com/template/wap1/js/dd.js
 ||ngnxyub.cn^
+||nhbprf.xyz^
 ||nhcdn.cn^
 ||nhjkm.com^
 ||nicelinks.site/ad-block-
