@@ -3,8 +3,8 @@
 ! Powerd by SamSan
 ! Description: Just a merged Adblock rule. Nothing more
 ! Expires: 6 hours (update frequency)
-! Version: 2024-08-24 14:10:01
-! Total count: 26749
+! Version: 2024-08-24 20:12:29
+! Total count: 26753
 
 ###ADtip
 ###Ad_windows
@@ -12339,6 +12339,7 @@ zzzyk.com###Tinfo
 ||156.233.32.123^$third-party
 ||156fd4.xyz^$dnsrewrite=ad-block.dns.adguard.com
 ||156xsw.com/css/js/tools.
+||15752525.xyz^$dnsrewrite=ad-block.dns.adguard.com
 ||158zm.com/head.js
 ||158zm.com/top.js
 ||159i.com/nd/b_slest.php
@@ -12933,6 +12934,7 @@ zzzyk.com###Tinfo
 ||5598tp.com^$domain=9xav.cc
 ||55cc9d.xyz^$dnsrewrite=ad-block.dns.adguard.com
 ||55sky.com/js/diecuo/
+||56514411.xyz^$dnsrewrite=ad-block.dns.adguard.com
 ||5698tp.com^
 ||56ads.com/js/main.js
 ||56img.com^*/baidu-promotion.js
@@ -13250,6 +13252,7 @@ zzzyk.com###Tinfo
 ||88tm6.cc^
 ||88ys.cc/js/abcd.js
 ||8961.jianbihua.com^
+||89871256.xyz^$dnsrewrite=ad-block.dns.adguard.com
 ||89hdn.cn^
 ||89mtdab.xyz^
 ||8acc5c.site^$dnsrewrite=ad-block.dns.adguard.com
@@ -13356,6 +13359,7 @@ zzzyk.com###Tinfo
 ||9814b49f.xyz^$dnsrewrite=ad-block.dns.adguard.com
 ||98158.com^
 ||9831tb.com^
+||98383163.xyz^$dnsrewrite=ad-block.dns.adguard.com
 ||98765.pw^
 ||988aiai.com/static/js/common.js
 ||98wjse.top^
