@@ -3,8 +3,8 @@
 ! Powerd by SamSan
 ! Description: Just a merged Adblock rule. Nothing more
 ! Expires: 6 hours (update frequency)
-! Version: 2024-08-27 08:37:25
-! Total count: 26771
+! Version: 2024-08-27 14:11:37
+! Total count: 26778
 
 ###ADtip
 ###Ad_windows
@@ -1049,6 +1049,7 @@
 ##a[href*=".asd252466.com:"]
 ##a[href*=".asd257642.com:"]
 ##a[href*=".bilibilitool.site"]
+##a[href*=".bjty7.vip"]
 ##a[href*=".bright.cn/?utm_"]
 ##a[href*=".bsy3.xyz"]
 ##a[href*=".bvftxy.com/"]
@@ -16533,6 +16534,7 @@ zzzyk.com###Tinfo
 ||daima.ysdui.com^
 ||daima.yuzhulin.com^
 ||dairouzy.net^$dnsrewrite=ad-block.dns.adguard.com
+||dairzih.com^
 ||daitchest.com^$dnsrewrite=ad-block.dns.adguard.com
 ||daiwofei2019.top^
 ||daiyanbao.com/flash/md
@@ -18373,6 +18375,7 @@ zzzyk.com###Tinfo
 ||guess.h.qhimg.com^
 ||gug.ku6cdn.com^
 ||guhai.com.cn/AD/
+||guifudi.com^
 ||guifun.com/psptool/ad/
 ||guilin-ly.com^*.gif
 ||guitarchina.com/1/*.gif
@@ -23800,6 +23803,7 @@ zzzyk.com###Tinfo
 ||spsfupq.cn^
 ||sqevnrb.com^
 ||sqgnqc.xyz^
+||sqszcg.top^
 ||sravga.xyz^
 ||srd.simba.taobao.com^
 ||srldkqj.cn^
@@ -25448,6 +25452,7 @@ zzzyk.com###Tinfo
 ||we.tm^
 ||we560.com/js/*.js
 ||weacdf211.cn^
+||weacdf411.cn^
 ||weagehn.icu^
 ||weather-analytics-events.apple.com^
 ||weather-community-drcn.weather.dbankcloud.cn^
@@ -25509,6 +25514,7 @@ zzzyk.com###Tinfo
 ||wew.dushiwenxue.net^
 ||wewbnso.cn^
 ||wewearegogogo.com^$dnsrewrite=ad-block.dns.adguard.com
+||wewrute.top^
 ||wfiles.hcomic.net/indexSwiper/*_*x*_*_TC_gif.gif
 ||wfjslie.top^
 ||wfpjeul.cn^
@@ -25798,6 +25804,7 @@ zzzyk.com###Tinfo
 ||xehodv.xyz^
 ||xeikwh.icu^
 ||xekmhvbb.xyz^
+||xevzdl.xyz^
 ||xflybplr.xyz^
 ||xfmlp.com^$dnsrewrite=ad-block.dns.adguard.com
 ||xfqrsjq.cn^
