@@ -3,8 +3,8 @@
 ! Powerd by SamSan
 ! Description: Just a merged Adblock rule. Nothing more
 ! Expires: 6 hours (update frequency)
-! Version: 2024-08-28 08:37:24
-! Total count: 26779
+! Version: 2024-08-28 14:11:34
+! Total count: 26786
 
 ###ADtip
 ###Ad_windows
@@ -6042,7 +6042,7 @@ elecinfo.com##div[class$="-advert"]
 element-plus.gitee.io##.sidebar > .page-content
 element-plus.gitee.io##.toc-content > .m-t-16px
 element-plus.gitee.io##aside > .page-content
-element-plus.org##.page-content-main-b
+element-plus.org##.page-content-main-c
 element-plus.org##.toc-content > div[style="margin-top:16px;"]
 element-plus.org##aside > .page-content-main
 elle.com.hk##.tpc-container
@@ -10648,8 +10648,7 @@ sunofbeach.net##div[id$="-ad"]
 suopao.org##.t5[style^="margin-top:8px;"]
 suopao.org##.tr3.t_one[onmouseout]
 super.sina.cn##.call_up_banner
-supercloudsms.com##.container > a[id]
-supercloudsms.com##.container > div > a[id]
+supercloudsms.com##a[style="display: block;"]
 superlife.ca##.sidebar-ad-zone
 supertaste.tvbs.com.tw###ad_m_bottom
 supertaste.tvbs.com.tw###lightbox--ad
@@ -13628,8 +13627,10 @@ zzzyk.com###Tinfo
 ||ac1.pingpingw.com^
 ||acc.3gbizhi.com^
 ||accecmtrk.com^$dnsrewrite=ad-block.dns.adguard.com
+||acdf115.cn^
 ||acdref117.cn^
 ||acdrewrf711.cn^
+||acdwef114.cn^
 ||acedirect.net^$dnsrewrite=ad-block.dns.adguard.com
 ||acemof.top^
 ||acewdf118.cn^
@@ -18306,6 +18307,7 @@ zzzyk.com###Tinfo
 ||gscsahv012.com^
 ||gscsahv013.com^
 ||gscsahv014.com^
+||gsdedash9b.fun^
 ||gsdpw.com/file/script/A
 ||gsecurecontent.com^$dnsrewrite=ad-block.dns.adguard.com
 ||gsiawq.xyz^
@@ -19655,6 +19657,7 @@ zzzyk.com###Tinfo
 ||jiaopei.com^
 ||jiaoyou8.com^$domain=mitbbs.ca|mitbbs.com
 ||jiaoyu.baidu.com/tieba/
+||jias115.com^
 ||jiasule.com/static/js/http_error.js
 ||jiawen88.com^$third-party
 ||jiayu.net/comiis_ad/
@@ -19781,6 +19784,7 @@ zzzyk.com###Tinfo
 ||jqpejp.xyz^
 ||jqsex.com^
 ||jqtkzuco.xyz^
+||jqtnft.xyz^
 ||jquery.envi-met.com.cn^
 ||jqvajfvs.xyz^
 ||jrclick.jd.com^
@@ -20874,6 +20878,7 @@ zzzyk.com###Tinfo
 ||mail.pchome.com.tw/img/classifieds/300120.gif
 ||mail.qq.com/lview?
 ||main.jiukang.org^
+||maiysw.xyz^
 ||makaidong.com/img/
 ||makqsd.icu^
 ||malikiresids.com^$dnsrewrite=ad-block.dns.adguard.com
@@ -22608,6 +22613,7 @@ zzzyk.com###Tinfo
 ||qetskupch581.shop^
 ||qetskupyka61.shop^
 ||qeuckn.icu^
+||qewruty.top^
 ||qfaaokr.icu^
 ||qfjsliy.top^
 ||qgidskiy.top^
@@ -25281,6 +25287,7 @@ zzzyk.com###Tinfo
 ||vqbzpv.xyz^
 ||vqlwoy.xyz^
 ||vrdxznr.xyz^
+||vreqnait.com^
 ||vriddhipardee.top^$dnsrewrite=ad-block.dns.adguard.com
 ||vrivslffndepxqd.xyz^
 ||vrnblp.xyz^
