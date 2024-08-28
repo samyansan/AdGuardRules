@@ -3,8 +3,8 @@
 ! Powerd by SamSan
 ! Description: Just a merged Adblock rule. Nothing more
 ! Expires: 6 hours (update frequency)
-! Version: 2024-08-28 14:11:34
-! Total count: 26786
+! Version: 2024-08-28 20:15:05
+! Total count: 26793
 
 ###ADtip
 ###Ad_windows
@@ -14102,6 +14102,7 @@ zzzyk.com###Tinfo
 ||adzp.cn^
 ||ae.bdstatic.com^
 ||aeaw.cn^
+||aegis.qq.com^
 ||aerbgpn.xyz^
 ||aeucyo.xyz^
 ||aeyyck.xyz^
@@ -14494,6 +14495,7 @@ zzzyk.com###Tinfo
 ||aotu43.com/templates/defboot/js/duilian.js
 ||aourgk.xyz^
 ||aozoiekopoaka.shop^$dnsrewrite=ad-block.dns.adguard.com
+||ap.dongqiudi.com^
 ||apd-pcdnwxlogin.teg.tencent-cloud.net^
 ||apd-pcdnwxnat.teg.tencent-cloud.net^
 ||apd-pcdnwxstat.teg.tencent-cloud.net^
@@ -15158,6 +15160,7 @@ zzzyk.com###Tinfo
 ||beacon.qq.com^
 ||beacon.sina.com.cn^
 ||beacon.tingyun.com^
+||beaconcdn.qq.com^
 ||beacons.gvt2.com^
 ||beap-bc.yahoo.com^
 ||beareyes.com.cn/2/cat/js/*_centerl
@@ -15456,6 +15459,7 @@ zzzyk.com###Tinfo
 ||bshare.cn/bshare_view?Callback=
 ||bshare.cn^
 ||bslbahv.top^
+||bsrv.qq.com^
 ||bss.pandora.xiaomi.com^
 ||bsvkfwth.xyz^
 ||bt-tt.com/ad
@@ -22335,6 +22339,7 @@ zzzyk.com###Tinfo
 ||pmblrt.xyz^
 ||pmiskc.cn^
 ||pmnct63.shop^
+||pms.mb.qq.com^
 ||pmtrkp.icu^
 ||pnez8.rut6m.xyz^
 ||pnhp3x1.com^
@@ -22964,6 +22969,7 @@ zzzyk.com###Tinfo
 ||replays.net/j/pinglunshang.png
 ||reporo.net^$dnsrewrite=ad-block.dns.adguard.com
 ||report.qq.com^
+||report.tv.kohesport.qq.com^
 ||reportlog.dftoutiao.com^
 ||requirejs.cn/ts.png
 ||res.cngoldres.com/web/index/img/*_ad_
@@ -23869,6 +23875,7 @@ zzzyk.com###Tinfo
 ||stat.cnmo.com^
 ||stat.cqwb.com.cn^
 ||stat.cutv.com^
+||stat.dongqiudi.com^
 ||stat.download.xunlei.com^
 ||stat.ea3w.com^
 ||stat.funshion.com^
@@ -23927,7 +23934,6 @@ zzzyk.com###Tinfo
 ||static.zongheng.com^*/logger.min.js
 ||statics.woozooo.com/img/*.js$domain=lanzous.com
 ||statics.woozooo.com^
-||staticsns.cdn.bcebos.com^
 ||staticxx.facebook.com^
 ||statis.api.3g.youku.com^
 ||statis1.mama.cn^
@@ -25194,6 +25200,7 @@ zzzyk.com###Tinfo
 ||video-ad.sm.cn^
 ||video-dsp.pddpic.com^
 ||video-on-demand.link^$dnsrewrite=ad-block.dns.adguard.com
+||video.dispatch.tc.qq.com^
 ||video.itxueyuan.com/1672473525178992.mp4
 ||video.qq.com/checktime?
 ||video231.oss-cn-beijing.aliyuncs.com^
