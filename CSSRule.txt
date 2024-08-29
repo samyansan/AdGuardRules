@@ -3091,9 +3091,11 @@ baihe.com##.scrollULeft
 baihe.com##.scrollUpf
 baijiahao.baidu.com##.contentPadding.bottomTTSStruct
 baijiahao.baidu.com##.headDeflectorContainer
+baijiahao.baidu.com##.newHeadDeflectorContainer
 baijiahao.baidu.com##.openImg
 baijiahao.baidu.com##.related-news
 baijiahao.baidu.com##.wxUnfoldText
+baijiahao.baidu.com##div[id="bdrainrwDragButton"]
 baijiahao.baidu.com##div[style^="left: calc"]
 baijiahao.baidu.com##span[class*="cm-variable"]
 baijiahao.baidu.com#?#.layer-item:contains(百度)
@@ -9984,7 +9986,9 @@ xc6b.com##a[href="http://61.160.236.52"]
 xcar.com.cn###eMeng
 xcar.com.cn###show_car
 xcar.com.cn##div[class^="adset"]
+xchina.co##.outer-banner
 xchina.co##.push-top
+xchina.co##div:has(> div:only-child > .media img[src*="/ad/"])
 xchina.co##div[style*="width: 300px;"][style*="height: 455px;"]
 xchina.fun##a[href*="/redirect/ad-"]
 xchina.fun##div[adid]
@@ -10163,12 +10167,6 @@ yaociyuan.bid##.board a[target="_blank"] > img
 yaociyuan.bid##.content a[target="_blank"] > img
 yaociyuan.bid##.w-ad
 yaofangwang.com##.bad
-yasehub.com##.aasdwa
-yasehub.com##.container > div[class] > div#list_asiall > div a[target="_blank"] > img
-yasehub.com##.container > fieldset[style*="text-align: center; border: 1px solid"]
-yasehub.com##.video-thumb > .video-thumb-image[style^="background-image: url('https://static2.yaseok.com/uploads/"]
-yasehub.com##div[style*="position: absolute;"][style*="text-align: center;"][style*="align-items: center;"]
-yasehub.com#?#.video-list > ul > li.video-item:has(> div[class] > .video-thumb > .video-thumb-image[style^="background-image: url('https://static2.yaseok.com/uploads/"])
 yasem5.com###cdaas-rand
 yasem5.com##a[href*="yasem5.com/go"][target="_blank"]
 yatu.tv###a_d1
