@@ -3,8 +3,8 @@
 ! Powerd by SamSan
 ! Description: Just a merged Adblock rule. Nothing more
 ! Expires: 6 hours (update frequency)
-! Version: 2024-08-31 08:38:00
-! Total count: 26818
+! Version: 2024-08-31 14:10:12
+! Total count: 26837
 
 ###ADtip
 ###Ad_windows
@@ -150,6 +150,7 @@
 ###dbgg
 ###dgf_pc
 ###diads
+###dip[href*=".tmall.com"]
 ###div_top_ads
 ###downdiv > .downcode
 ###doyoo_mon_mask
@@ -870,6 +871,7 @@
 ##.player-tt-rmm
 ##.player_ggw
 ##.playtop.col-pd
+##.playtopad
 ##.plc > .a_p
 ##.pop[style="right: 10px;"]
 ##.popup + .shortcuts-m-overlay
@@ -3709,7 +3711,7 @@ $third-party,xmlhttprequest,websocket,domain=qiyoudy2.com|qiyoudy4.com
 85wp.com###a3_diy2
 85wp.com##.top-ad-img
 8684.cn,8684.com##div[id*="adid"]
-8684.cn,8684.com,iyxdm.org,kugou.com,solarzoom.com,yesky.com##div[class^="adv"]
+8684.cn,8684.com,iyxdm.org,iyxdm.one,kugou.com,solarzoom.com,yesky.com##div[class^="adv"]
 880sy.com##.foot_gg
 880sy.com##.fot_btom
 88448.com###ad_forum_banner
@@ -6055,6 +6057,10 @@ emome.net##.source_advertising
 emumax.com##.tbanner
 en8848.com.cn##.list_adv
 en8848.com.cn#@#.adcenter
+enews.tw##.divADFrame
+enews.tw##.gadRightP
+enews.tw##.newsCardForLeftAdGadCode
+enews.tw##div[id^="adFrame"]
 engadget.com#?#.Py\(40px\):-abp-has(> article > .D\(f\) > .Pos\(r\)[data-ylk*=":AD;"])
 enjoymore.fun##a[href*="urlto.pw"]
 enorth.com.cn##div[class^="guanggao"]
@@ -11276,6 +11282,7 @@ wealth.com.tw#?##root div[class]:matches-css(position: relative) > div[class]:ma
 wealth.com.tw#?##root div[class]:matches-css(row-gap: 13px) > div[class]:matches-css(row-gap: 6px):has(> div[class]:matches-css(width: 300px))
 wealth.com.tw#?#div[class]:-abp-has(>div[class]>div[class*="-ad-manager-"])
 wealth.com.tw#?#div[class]:has(> div[class] > div[class^="rytass-ad-manager-"]:only-child)
+wealwomen.com##div[data-cptid]
 weather.com.cn###adtop_r
 weather.com.cn###ytc
 weather.com.cn###zdl
@@ -15379,6 +15386,7 @@ zzzyk.com###Tinfo
 ||bmxvxl.xyz^
 ||bmyrihf.icu^
 ||bnalzlv.top^
+||bndxrr.xyz^
 ||bnextmedia.com.tw/feed/fetch.js
 ||bnextmedia.s3.hicloud.net.tw/dp_cp/cp_prebid
 ||bnextmedia.s3.hicloud.net.tw/dp_cp/mt_programmatic_ad.js
@@ -16740,6 +16748,7 @@ zzzyk.com###Tinfo
 ||diaocaixiaq.cn^
 ||diaoyu123.com/cpro/show.js
 ||diccsbhij.com^
+||dict.youdao.com/vip/privilege/show/V*?bannerType=fanyiTop$domain=fanyi.youdao.com
 ||dieka888.com/app_ad/
 ||difhil.icu^
 ||difmnd.xyz^
@@ -18022,6 +18031,7 @@ zzzyk.com###Tinfo
 ||gdyjs.com^
 ||gdz0cqs.icu^
 ||ged46.xyz^
+||gedashb112.fun^
 ||gedu.org/js/meiqia_pc_groupmarket.
 ||geekbang.org/public/serving/
 ||geekpark.net/api/v1/ads
@@ -18131,6 +18141,7 @@ zzzyk.com###Tinfo
 ||gjhjjhgc.cn^
 ||gjipd.xyz^
 ||gjjskhdnm.top^
+||gjmedashb0.fun^
 ||gjwind.com/xxmh.gif
 ||gjwxy.cn^
 ||gk1.582582.com^
@@ -18858,6 +18869,7 @@ zzzyk.com###Tinfo
 ||httpool.com^
 ||httpwwwdcom.com/js/aaa/
 ||htubzpb.cn^
+||htxwzp.xyz^
 ||hty9m.cn^
 ||htyusiu.top^
 ||huaerdadi.com^$third-party
@@ -19038,6 +19050,7 @@ zzzyk.com###Tinfo
 ||ideng.com^$third-party
 ||idffhq.cn^
 ||idipsumo.top^
+||iditero.top^
 ||idm-su.baidu.com^
 ||idm.bce.baidu.com^
 ||idns.online^
@@ -20179,6 +20192,7 @@ zzzyk.com###Tinfo
 ||knpkxgfp.xyz^
 ||knuinws.icu^
 ||koafaimoor.net^$dnsrewrite=ad-block.dns.adguard.com
+||koauq.top^
 ||kochava.com^
 ||kocpc.com.tw/adsbyso.js
 ||kogtrmjz.xyz^
@@ -21817,6 +21831,7 @@ zzzyk.com###Tinfo
 ||oehcxmhk.xyz^
 ||oektiu.xyz^
 ||oepce.xyz^
+||oewrutk.top^
 ||oeya.com^$domain=myptt.cc
 ||ofd.meng-an.cn^$third-party
 ||ofdnkro.xyz^
@@ -23649,6 +23664,7 @@ zzzyk.com###Tinfo
 ||sjks88.com/templets/default/js/mydata4.js
 ||skads.gxsky.com^$script
 ||skated.co^$dnsrewrite=ad-block.dns.adguard.com
+||skaumbp.icu^
 ||skdaj.cn^
 ||skdisplay.jd.com^
 ||skdncksklsv.com^
@@ -25747,6 +25763,7 @@ zzzyk.com###Tinfo
 ||wxfdmri.xyz^
 ||wximg.wxs.qq.com^
 ||wxl0gfw.icu^
+||wxsicu.xyz^
 ||wxsignin.top^
 ||wxsmw.wxs.qq.com^
 ||wxsnsad.tc.qq.com^
@@ -25927,6 +25944,7 @@ zzzyk.com###Tinfo
 ||xiu8.com/baidu-tieba/*&forum_name=
 ||xiumb8.com/js/lm_
 ||xiurenji.cc/heji/
+||xiuska.top^
 ||xiuxiu.android.dl.meitu.com^
 ||xiuxiu.mobile.meitudata.com^
 ||xiwusn9982.top^
@@ -26732,6 +26750,7 @@ zzzyk.com###Tinfo
 ||zrblog.net/gg/
 ||zrblog.net/zanzhu/virpus.gif
 ||zrdga.cn^
+||zrkksps.icu^
 ||zrljzgs.xyz^
 ||zs.rzijjeb.cn^
 ||zsjjob.com/user/member/google.htm

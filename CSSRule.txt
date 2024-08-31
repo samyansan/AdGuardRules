@@ -142,6 +142,7 @@
 ###dbgg
 ###dgf_pc
 ###diads
+###dip[href*=".tmall.com"]
 ###div_top_ads
 ###downdiv > .downcode
 ###doyoo_mon_mask
@@ -862,6 +863,7 @@
 ##.player-tt-rmm
 ##.player_ggw
 ##.playtop.col-pd
+##.playtopad
 ##.plc > .a_p
 ##.pop[style="right: 10px;"]
 ##.popup + .shortcuts-m-overlay
@@ -2429,7 +2431,7 @@
 85wp.com###a3_diy2
 85wp.com##.top-ad-img
 8684.cn,8684.com##div[id*="adid"]
-8684.cn,8684.com,iyxdm.org,kugou.com,solarzoom.com,yesky.com##div[class^="adv"]
+8684.cn,8684.com,iyxdm.org,iyxdm.one,kugou.com,solarzoom.com,yesky.com##div[class^="adv"]
 880sy.com##.foot_gg
 880sy.com##.fot_btom
 88448.com###ad_forum_banner
@@ -4616,6 +4618,10 @@ emome.net##.source_advertising
 emumax.com##.tbanner
 en8848.com.cn##.list_adv
 en8848.com.cn#@#.adcenter
+enews.tw##.divADFrame
+enews.tw##.gadRightP
+enews.tw##.newsCardForLeftAdGadCode
+enews.tw##div[id^="adFrame"]
 engadget.com#?#.Py\(40px\):-abp-has(> article > .D\(f\) > .Pos\(r\)[data-ylk*=":AD;"])
 enjoymore.fun##a[href*="urlto.pw"]
 enorth.com.cn##div[class^="guanggao"]
@@ -9711,6 +9717,7 @@ wealth.com.tw#?##root div[class]:matches-css(position: relative) > div[class]:ma
 wealth.com.tw#?##root div[class]:matches-css(row-gap: 13px) > div[class]:matches-css(row-gap: 6px):has(> div[class]:matches-css(width: 300px))
 wealth.com.tw#?#div[class]:-abp-has(>div[class]>div[class*="-ad-manager-"])
 wealth.com.tw#?#div[class]:has(> div[class] > div[class^="rytass-ad-manager-"]:only-child)
+wealwomen.com##div[data-cptid]
 weather.com.cn###adtop_r
 weather.com.cn###ytc
 weather.com.cn###zdl
