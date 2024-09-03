@@ -3,8 +3,8 @@
 ! Powerd by SamSan
 ! Description: Just a merged Adblock rule. Nothing more
 ! Expires: 6 hours (update frequency)
-! Version: 2024-09-03 14:11:28
-! Total count: 26917
+! Version: 2024-09-03 20:14:26
+! Total count: 26919
 
 ###ADtip
 ###Ad_windows
@@ -13276,6 +13276,7 @@ zzzyk.com###Tinfo
 ||88p2p.com^$popup
 ||88tm6.cc^
 ||88ys.cc/js/abcd.js
+||89407765.xyz^$dnsrewrite=ad-block.dns.adguard.com
 ||8961.jianbihua.com^
 ||89871256.xyz^$dnsrewrite=ad-block.dns.adguard.com
 ||89hdn.cn^
@@ -16323,6 +16324,7 @@ zzzyk.com###Tinfo
 ||cp.qbaobei.com^
 ||cp121.com/js2/
 ||cp2.eastmoney.com^
+||cpacrack.com^$dnsrewrite=ad-block.dns.adguard.com
 ||cpbl-elta.cdn.hinet.net/web/images/ad_
 ||cpc.sogou.com^
 ||cpddgcr.xyz^
