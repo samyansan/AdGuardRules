@@ -2735,6 +2735,8 @@ anjuke.com##.adver-content
 anjuke.com##.list-item > .jx-sign
 anjuke.com##div[class$="-poster"]
 anjuke.com,sunofbeach.net##div[class$="-ad"]
+anny3805201314.pixnet.net###pilot
+anny3805201314.pixnet.net##.header_web_to_app__container
 anoneko.com,dmhy.org,ye1213.com##div[id$="_ad"] > a:first-child > img
 anquan.org##.aside_profile_activity > div:first-child
 anquan.org##.gj_download
@@ -4100,6 +4102,7 @@ dailynews.sina.com##.TopNav + table
 dajie.com##.envelop_layer
 dajie.com##.register_layer
 dalipan.com##.hongbao-wrap
+damon624.pixnet.net##aside[data-advertisement="true"]
 dan-teng.top##.nav
 dangdang.com###fix_erweima
 dangdang.com##.bottom_fixed
@@ -7781,20 +7784,9 @@ newxue.com##.left336280
 newyx.net,yxbao.com##.gs
 nextapple.com###lrec01
 nextapple.com##div[class^="na-ad-"]
-nfmovies.com##.container > div.row > div.hy-layout > div.clearfix > a[href][target="_blank"] > img
 nfmovies.com##[onclick^="openurl()"]
-nfmovies.com##a[href][onclick^="openurl()"] img[src^="/static/"]
-nfmovies.com##div[id^="sponsorAdDiv"]
-nfmovies.com#$##adleft { position: absolute!important; left: -3000px!important; }
-nfmovies.com#$##adright { position: absolute!important; left: -3000px!important; }
-nfmovies.com#$#a[onclick*="openurl"][target="_blank"] img[src^="/static/"] { position: absolute!important; top: -9999px!important; left: -9999px!important; bottom: unset!important; }
-nfmovies.com#$#img[src^="/pic/tu/"] { visibility: hidden!important; }
-nfmovies.com#$?#body > .hidden-xs > div[id]:has(> img[src^="/static/"][onclick*="open"]) { position: absolute!important; top: -9999px!important; left: -9999px!important; bottom: unset!important; }
-nfmovies.com#$?#div[id^="aaaDiv"] { remove: true; }
 nfmovies.com#?#div[id]:-abp-has(>img[onclick="openurl()"])
-nfmovies.com#@##adleft
 nfmovies.com#@##adright
-nfmovies.com#@?#div[id]:-abp-has(>img[onclick="openurl()"])
 nfstar.net##a[target="_blank"] > .img-responsive
 nfstar.net#?#.myui-panel-bg:-abp-has(strong:-abp-contains(广告))
 nfuwow.com###dl-left-first
@@ -9288,12 +9280,15 @@ tieba.baidu.com##.j_post_list_item[data-info^="\7b \"un\":\"\\u623f\\u4ea7\\u5c0
 tieba.baidu.com##.j_post_list_item[data-info^="\7b \"un\":\"\\u623f\\u4ea7\\u5feb\\u8baf\\u5927\\u7ba1\\u5bb6\""]
 tieba.baidu.com##.j_post_list_item[data-info^="\7b \"un\":\"\\u623f\\u4ea7\\u901f\\u8baf\""]
 tieba.baidu.com##.j_post_list_item[data-info^="\7b \"un\":\"\\u8d34\\u5427\\u89e6\\u70b9\\u63a8\\u5e7f\""]
+tieba.baidu.com##.load-more.wake-app
 tieba.baidu.com##.more-btn-desc
 tieba.baidu.com##.more-image-desc
 tieba.baidu.com##.nav-bar-bottom
 tieba.baidu.com##.only-lz
 tieba.baidu.com##.open-app-guide
 tieba.baidu.com##.open-style
+tieba.baidu.com##.operate-btn
+tieba.baidu.com##.operation-chat.wake-app
 tieba.baidu.com##.post-cut-guide
 tieba.baidu.com##.post-page-entry-btn
 tieba.baidu.com##.post_client_down
@@ -9945,7 +9940,6 @@ wuyong.fun##.riplus_ads_wrap
 wuyong.fun#?#.sidebar-innter > section[id^="b2-widget-html-"]:has(.adsbygoogle)
 wuzhuiso.com###mohe-hotnews_right
 wuzhuiso.com###side > div.download-browser:last-child
-wuzhuiso.com##.download-app
 www.163.com##.float-bar
 www.17173.com##.pn-tg
 www.baidu.com##.guide-info

@@ -3,7 +3,7 @@
 ! Powerd by SamSan
 ! Description: Just a merged Adblock rule. Nothing more
 ! Expires: 6 hours (update frequency)
-! Version: 2024-09-05 08:38:25
+! Version: 2024-09-05 14:11:33
 ! Total count: 26911
 
 ###ADtip
@@ -1691,7 +1691,6 @@ $third-party,xmlhttprequest,websocket,domain=qiyoudy2.com|qiyoudy4.com
 /ab_res/m/common.js
 /ab_res/pc/fixed/fixed.js
 /acmsd/*
-/ad*_mobile_banner.png$domain=nfmovies.com
 /ad-specs.
 /ad.gif|
 /ad.php?
@@ -4143,6 +4142,8 @@ anjuke.com##.adver-content
 anjuke.com##.list-item > .jx-sign
 anjuke.com##div[class$="-poster"]
 anjuke.com,sunofbeach.net##div[class$="-ad"]
+anny3805201314.pixnet.net###pilot
+anny3805201314.pixnet.net##.header_web_to_app__container
 anoneko.com,dmhy.org,ye1213.com##div[id$="_ad"] > a:first-child > img
 anquan.org##.aside_profile_activity > div:first-child
 anquan.org##.gj_download
@@ -5528,6 +5529,7 @@ dailynews.sina.com##.TopNav + table
 dajie.com##.envelop_layer
 dajie.com##.register_layer
 dalipan.com##.hongbao-wrap
+damon624.pixnet.net##aside[data-advertisement="true"]
 dan-teng.top##.nav
 dangdang.com###fix_erweima
 dangdang.com##.bottom_fixed
@@ -9288,22 +9290,9 @@ newxue.com##.left336280
 newyx.net,yxbao.com##.gs
 nextapple.com###lrec01
 nextapple.com##div[class^="na-ad-"]
-nfmovies.com##.container > div.row > div.hy-layout > div.clearfix > a[href][target="_blank"] > img
 nfmovies.com##[onclick^="openurl()"]
-nfmovies.com##a[href][onclick^="openurl()"] img[src^="/static/"]
-nfmovies.com##div[id^="sponsorAdDiv"]
-nfmovies.com#$##adleft { position: absolute!important; left: -3000px!important; }
-nfmovies.com#$##adright { position: absolute!important; left: -3000px!important; }
-nfmovies.com#$#a[onclick*="openurl"][target="_blank"] img[src^="/static/"] { position: absolute!important; top: -9999px!important; left: -9999px!important; bottom: unset!important; }
-nfmovies.com#$#img[src^="/pic/tu/"] { visibility: hidden!important; }
-nfmovies.com#$?#body > .hidden-xs > div[id]:has(> img[src^="/static/"][onclick*="open"]) { position: absolute!important; top: -9999px!important; left: -9999px!important; bottom: unset!important; }
-nfmovies.com#$?#div[id^="aaaDiv"] { remove: true; }
-nfmovies.com#%#//scriptlet("adjust-setInterval", "timerAdCountdownCount", "", "0.02")
-nfmovies.com#%#//scriptlet("prevent-setTimeout", "/document\.getElementById[\s\S]*?\.style\.display\.indexOf/")
 nfmovies.com#?#div[id]:-abp-has(>img[onclick="openurl()"])
-nfmovies.com#@##adleft
 nfmovies.com#@##adright
-nfmovies.com#@?#div[id]:-abp-has(>img[onclick="openurl()"])
 nfstar.net##a[target="_blank"] > .img-responsive
 nfstar.net#?#.myui-panel-bg:-abp-has(strong:-abp-contains(广告))
 nfuwow.com###dl-left-first
@@ -10842,12 +10831,15 @@ tieba.baidu.com##.j_post_list_item[data-info^="\7b \"un\":\"\\u623f\\u4ea7\\u5c0
 tieba.baidu.com##.j_post_list_item[data-info^="\7b \"un\":\"\\u623f\\u4ea7\\u5feb\\u8baf\\u5927\\u7ba1\\u5bb6\""]
 tieba.baidu.com##.j_post_list_item[data-info^="\7b \"un\":\"\\u623f\\u4ea7\\u901f\\u8baf\""]
 tieba.baidu.com##.j_post_list_item[data-info^="\7b \"un\":\"\\u8d34\\u5427\\u89e6\\u70b9\\u63a8\\u5e7f\""]
+tieba.baidu.com##.load-more.wake-app
 tieba.baidu.com##.more-btn-desc
 tieba.baidu.com##.more-image-desc
 tieba.baidu.com##.nav-bar-bottom
 tieba.baidu.com##.only-lz
 tieba.baidu.com##.open-app-guide
 tieba.baidu.com##.open-style
+tieba.baidu.com##.operate-btn
+tieba.baidu.com##.operation-chat.wake-app
 tieba.baidu.com##.post-cut-guide
 tieba.baidu.com##.post-page-entry-btn
 tieba.baidu.com##.post_client_down
@@ -11514,7 +11506,6 @@ wuyong.fun##.riplus_ads_wrap
 wuyong.fun#?#.sidebar-innter > section[id^="b2-widget-html-"]:has(.adsbygoogle)
 wuzhuiso.com###mohe-hotnews_right
 wuzhuiso.com###side > div.download-browser:last-child
-wuzhuiso.com##.download-app
 www.163.com##.float-bar
 www.17173.com##.pn-tg
 www.baidu.com##.guide-info
@@ -15356,6 +15347,7 @@ zzzyk.com###Tinfo
 ||bjwj2y.com/JS/LsJS.aspx
 ||bjxfnn.xyz^
 ||bjxiaohua.com^
+||bjxty88.com/js/foot.js
 ||bkbbjtfp.xyz^
 ||bkill.com/css/js/*top
 ||bkill.com/css/js/abcbl.js
@@ -16293,6 +16285,7 @@ zzzyk.com###Tinfo
 ||cornpic.com/images/*.gif
 ||corp.meitu.com^
 ||cosmo001.top^
+||cosouy.xyz^
 ||costarg.com^
 ||coticoffee.com^$dnsrewrite=ad-block.dns.adguard.com
 ||couchcoaster.jp^
@@ -18039,6 +18032,7 @@ zzzyk.com###Tinfo
 ||gcomwx.icu^
 ||gcssem.xyz^
 ||gcumgu.xyz^
+||gcvcdashb2.fun^
 ||gcvgedashb3.fun^
 ||gcw*.2liang.cn^
 ||gcwwsv.icu^
@@ -18068,6 +18062,7 @@ zzzyk.com###Tinfo
 ||gdz0cqs.icu^
 ||ge3shbdf1.fun^
 ||ged46.xyz^
+||gedafdshb7.fun^
 ||gedashb112.fun^
 ||gedu.org/js/meiqia_pc_groupmarket.
 ||geekbang.org/public/serving/
@@ -18346,6 +18341,7 @@ zzzyk.com###Tinfo
 ||gpmzkg.xyz^
 ||gpxz.com/js2/
 ||gqleov.icu^
+||gqwwshbdd1.fun^
 ||grand.ele.me^
 ||greenet.cn^*_popu_$popup
 ||greenxf.com/js/2019/
@@ -19316,6 +19312,7 @@ zzzyk.com###Tinfo
 ||imgme.me/images/*.gif
 ||imgmega.com/i/*.gif$domain=18avtube.com|mm-cg.com
 ||imgopen.vip^
+||imgoss1380.top^
 ||imgoss2255.top^
 ||imgoss511.top^
 ||imgoss820.top^
@@ -19467,6 +19464,7 @@ zzzyk.com###Tinfo
 ||ir.mail.yeah.net^
 ||irayedo.cn^
 ||irc.qubiankeji.com^
+||irgxwk.xyz^
 ||irmbyu.xyz^
 ||ironsrc.com^
 ||irqaci.xyz^
@@ -20888,7 +20886,6 @@ zzzyk.com###Tinfo
 ||m.manhua123.net/js/com1.js
 ||m.mianbao99.com/js/detail.js
 ||m.nanyangqiaoxiang.cn^$third-party
-||m.nfydd.com/template/wap1/js/dd.js
 ||m.ourlj.com^
 ||m.pianba.tv/ad/
 ||m.q1xs.com/17mb/script/wap.js
@@ -21699,9 +21696,7 @@ zzzyk.com###Tinfo
 ||nfmovies.com/pic/tu/a200304_1170x87.png
 ||nfmovies.com/pic/tu/ad
 ||nfmovies.com/pic/tu/banner
-||nfmovies.com/pic/tu/banner-*.jpg
 ||nfmovies.com/static/*.jpg
-||nfmovies.com/static/*.jpg$image,redirect=1x1-transparent.gif
 ||nfmovies.com/static/210203.png
 ||nfptyfk.xyz^
 ||nfuwow.com/static/nfuwow/source/front/new/images/
@@ -22331,6 +22326,7 @@ zzzyk.com###Tinfo
 ||pic.fengniao.com^
 ||pic.gongkong.com/UploadPic/gongkong/
 ||pic.pimg.tw/cwyuni/*.gif?v=$domain=cwyuni.tw
+||pic.pimg.tw/promo01/
 ||pic.shedsgs.cn/upload_*/upload/*.gif$domain=91porna.com
 ||pic.yupoo.com/showflash/
 ||pic1.dianshu119.com^
@@ -23100,6 +23096,7 @@ zzzyk.com###Tinfo
 ||rgdcrt.xyz^
 ||rghbvp.xyz^
 ||rghqrj.xyz^
+||rgmmeff.icu^
 ||rhzvlcu.xyz^
 ||riaway.com/statics/idea.jpg
 ||richh.cn^
@@ -25093,6 +25090,7 @@ zzzyk.com###Tinfo
 ||urqwzbu.cn^
 ||urtlist.top^
 ||urueuah.cn^
+||urutvnct.top^
 ||us.l.qq.com/exapp^
 ||us.l.qq.com^
 ||usejj.makepolo.cn^
@@ -25279,6 +25277,7 @@ zzzyk.com###Tinfo
 ||vfphbh.xyz^
 ||vftvbx.xyz^
 ||vfvad.top^
+||vfvrld.xyz^
 ||vfxrpl.xyz^
 ||vg876yuj.click^$dnsrewrite=ad-block.dns.adguard.com
 ||vgao.xyz/images/*.gif
@@ -26657,6 +26656,7 @@ zzzyk.com###Tinfo
 ||zdw.w8.com.cn/p.ht?
 ||zdwykjd.icu^
 ||ze5.com^$third-party
+||zeddjv.xyz^
 ||zedo.com^
 ||zekzoh.icu^
 ||zemanta.com^
