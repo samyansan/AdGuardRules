@@ -3,8 +3,8 @@
 ! Powerd by SamSan
 ! Description: Just a merged Adblock rule. Nothing more
 ! Expires: 6 hours (update frequency)
-! Version: 2024-09-08 14:10:31
-! Total count: 26944
+! Version: 2024-09-08 20:13:10
+! Total count: 26950
 
 ###ADtip
 ###Ad_windows
@@ -12278,6 +12278,7 @@ zzzyk.com###Tinfo
 ||10523745.xyz^$dnsrewrite=ad-block.dns.adguard.com
 ||107.167.16.*.gif
 ||107.167.22.*.gif
+||10753990.xyz^$dnsrewrite=ad-block.dns.adguard.com
 ||10fang.com/static/skin/tfy/layer/layer.js
 ||11.96131.com.cn^
 ||11.golang8.com^
@@ -13217,6 +13218,7 @@ zzzyk.com###Tinfo
 ||83133.com/api/
 ||835images1.com^
 ||83887336.xyz^$dnsrewrite=ad-block.dns.adguard.com
+||84631949.xyz^$dnsrewrite=ad-block.dns.adguard.com
 ||85566.net/js/loadjs/jquery
 ||8585go.com/recommend
 ||85tube.com/player/html.php?aid=*_html&video_id=*&*&referer
@@ -13843,6 +13845,7 @@ zzzyk.com###Tinfo
 ||adfurikun.jp^
 ||adfuture.cn^
 ||adgeo.corp.163.com^
+||adglare.net^$dnsrewrite=ad-block.dns.adguard.com
 ||adguanggao.eee114.com^
 ||adhigh.net^
 ||adhoc4.net^$dnsrewrite=ad-block.dns.adguard.com
@@ -13968,6 +13971,7 @@ zzzyk.com###Tinfo
 ||ads.music.126.net^
 ||ads.oppomobile.com^
 ||ads.pinterest.com^
+||ads.servebom.com^
 ||ads.service.kugou.com^
 ||ads.sina.com^
 ||ads.sohu.com^
@@ -20975,7 +20979,6 @@ zzzyk.com###Tinfo
 ||mafuzcxr.xyz^
 ||magazinenews1.xyz^$dnsrewrite=ad-block.dns.adguard.com
 ||magedu.com/wp-content/uploads/*/xwzx
-||magev6.if.qidian.com^
 ||magicwindow.cn^
 ||magnetdog.net^$popup
 ||mahoupao.com/api.php?mod=ad&
@@ -22084,6 +22087,7 @@ zzzyk.com###Tinfo
 ||ourusababy.com/bsj.js
 ||outbrain.com^$domain=wenxuecity.com
 ||outbrain.com^$third-party
+||outlookads.live.com^
 ||ouyaoxiazai.com/static/img/cqthree.gif
 ||ovardu.com^$dnsrewrite=ad-block.dns.adguard.com
 ||ovbgeum.cn^
@@ -25561,6 +25565,8 @@ zzzyk.com###Tinfo
 ||watchmygf.com^$dnsrewrite=ad-block.dns.adguard.com
 ||watchmygf.net^$dnsrewrite=ad-block.dns.adguard.com
 ||watchtopapps.com^$dnsrewrite=ad-block.dns.adguard.com
+||watson.microsoft.com^
+||watson.telemetry.microsoft.com^
 ||wax.weibo.com.cn^
 ||waxin0gjue.cn^
 ||waymom.xyz^
