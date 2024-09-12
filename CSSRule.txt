@@ -5719,7 +5719,9 @@ huya.com##.tt[style*="1200px"]
 huya.com##.wrap-income.chat-wrap-panel
 huya.com##a[class^="Ad--"]
 huya.com##div[class*="NavDownload"]
+huya.com#$##banner > a ~ .banner-close { display: none !important; }
 huya.com#?#.item-pic:-abp-has(>.img-tips)
+huya.com#@##banner
 huya.com,av1868.com,edc1014070.pixnet.net###banner
 hvhbbs.com##.block[data-widget-definition="SwiperWidget"]
 hvhbbs.com##.margin-add > style + div

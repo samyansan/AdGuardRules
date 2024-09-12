@@ -3,8 +3,8 @@
 ! Powerd by SamSan
 ! Description: Just a merged Adblock rule. Nothing more
 ! Expires: 6 hours (update frequency)
-! Version: 2024-09-12 08:38:52
-! Total count: 26400
+! Version: 2024-09-12 14:11:52
+! Total count: 26411
 
 ###ADtip
 ###Ad_windows
@@ -7176,8 +7176,11 @@ huya.com##.tt[style*="1200px"]
 huya.com##.wrap-income.chat-wrap-panel
 huya.com##a[class^="Ad--"]
 huya.com##div[class*="NavDownload"]
+huya.com#$##banner > a ~ .banner-close { display: none !important; }
+huya.com#%#//scriptlet('remove-attr', 'style', '#banner[style*="background-image:url"]')
 huya.com#%#//scriptlet('set-constant', 'adInfo', 'emptyObj')
 huya.com#?#.item-pic:-abp-has(>.img-tips)
+huya.com#@##banner
 huya.com,av1868.com,edc1014070.pixnet.net###banner
 hvhbbs.com##.block[data-widget-definition="SwiperWidget"]
 hvhbbs.com##.margin-add > style + div
@@ -12592,6 +12595,7 @@ zzzyk.com###Tinfo
 ||28hse.com/adsman/www/images/
 ||28kys.com/92kviptupian/
 ||28kys.com/cpstupian/
+||28t1ya.cn^
 ||295c.site^$dnsrewrite=ad-block.dns.adguard.com
 ||29spp.com/js/tj.js
 ||2aeabdd4-3280-4f03-bc92-1890494f28be.xyz^$dnsrewrite=ad-block.dns.adguard.com
@@ -17258,6 +17262,7 @@ zzzyk.com###Tinfo
 ||efs604.top^
 ||efully.info^$dnsrewrite=ad-block.dns.adguard.com
 ||egadfe.xyz^
+||egesdashb8.fun^
 ||egidskiw.top^
 ||egywbps748.shop^
 ||egywbpu286.shop^
@@ -18891,6 +18896,7 @@ zzzyk.com###Tinfo
 ||iddhui.com^
 ||ideng.com^$third-party
 ||idffhq.cn^
+||idickeo.top^
 ||idipsumo.top^
 ||iditero.top^
 ||idm-su.baidu.com^
@@ -19033,7 +19039,7 @@ zzzyk.com###Tinfo
 ||imall.cntv.cn^
 ||imasdk.googleapis.com/js/sdkloader/ima3.js$script,redirect=google-ima3,domain=hoy.tv
 ||imasdk.googleapis.com/js/sdkloader/ima3.js$script,redirect=google-ima3,domain=line.me
-||imasdk.googleapis.com/js/sdkloader/ima3.js$script,redirect=google-ima3,domain=now.com,important
+||imasdk.googleapis.com/js/sdkloader/ima3.js$script,redirect=google-ima3,domain=news.now.com,important
 ||imasdk.googleapis.com/js/sdkloader/ima3.js$script,redirect=google-ima3,important,domain=linetv.tw
 ||imawwq.xyz^
 ||imedown.info/03.jpg
@@ -19349,6 +19355,7 @@ zzzyk.com###Tinfo
 ||iuou.ysw365.com^
 ||iupian.com/mstyle/js/topinfo.js
 ||iuqasw.xyz^
+||iuuwuk.xyz^
 ||iuytfvhl.top^
 ||ivbgpax.cn^
 ||iviewui.com/v1/*?name=
@@ -19761,6 +19768,7 @@ zzzyk.com###Tinfo
 ||jxdown.com/statics/js/all.js
 ||jxdown.com^$third-party
 ||jxeyhgw.cn^
+||jxjpnd.xyz^
 ||jxlog.istreamsche.com^
 ||jxnews.com.cn/assets/js/dspshow.js
 ||jxnews.com.cn/first/js/home/index_ad
@@ -24750,6 +24758,7 @@ zzzyk.com###Tinfo
 ||uyunad.com^
 ||uyuwkbt.top^
 ||uywoynr.cn^
+||uyyquln.icu^
 ||uzelzfnj.xyz^
 ||uznizrhd.xyz^
 ||uzrxoxd.xyz^
@@ -24825,6 +24834,7 @@ zzzyk.com###Tinfo
 ||vdianying.cc/img/youhuiquan250.gif
 ||vdianying.cc/wp-content/plugins/wp-adblock-dedect/
 ||vdoqomz.icu^
+||vdsdsf2.fun^
 ||vdvcjlp.cn^
 ||ve0ke.icu^
 ||veaiyl.icu^
@@ -24837,6 +24847,7 @@ zzzyk.com###Tinfo
 ||vexilorath.com^
 ||vezizey.xyz^$dnsrewrite=ad-block.dns.adguard.com
 ||vfchm.cyou^
+||vfdvdg67.fun^
 ||vfgajrk.cn^
 ||vfgte.com^$dnsrewrite=ad-block.dns.adguard.com
 ||vflorp.xyz^
