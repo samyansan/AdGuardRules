@@ -3,7 +3,7 @@
 ! Powerd by SamSan
 ! Description: Just a merged Adblock rule. Nothing more
 ! Expires: 6 hours (update frequency)
-! Version: 2024-09-14 14:10:42
+! Version: 2024-09-14 20:13:03
 ! Total count: 26434
 
 ###ADtip
@@ -1567,12 +1567,12 @@ $third-party,xmlhttprequest,websocket,domain=qiyoudy2.com|qiyoudy4.com
 .xyz:8009/11?x=
 .xyz:9002/*?x=$websocket,script,third-party
 .zone/ads/
-/*.*.shouji.sogou.com/
-/*.[a-zA-Z0-9.-]skwai.com/
-/*.a.market.xiaomi.com/
-/*.data.hicloud.com/
-/*.log.aliyuncs.com/
-/*.shouji.sogou.com/
+/*\.*\.shouji\.sogou\.com/
+/*\.[a-zA-Z0-9.-]skwai\.com/
+/*\.a\.market\.xiaomi\.com/
+/*\.data\.hicloud\.com/
+/*\.log\.aliyuncs\.com/
+/*\.shouji\.sogou\.com/
 //*.emgrt.com^$third-party
 //m.manhua123.net/js/com2.js
 /0mbjs/2800av*.js
@@ -1664,14 +1664,14 @@ $third-party,xmlhttprequest,websocket,domain=qiyoudy2.com|qiyoudy4.com
 /Static/Home/GongGao/img/kaiyuan.gif
 /V.aspx?Bln=$script,third-party
 /View/img/b72890.jpg
-/[a-zA-Z0-9.-]*-ad-[a-zA-Z0-9.-]*.byteimg.com/
-/[a-zA-Z0-9.-]*-ad.sm.cn/
-/[a-zA-Z0-9.-]*-ad.video.yximgs.com/
-/[a-zA-Z0-9.-]*-ad.wtzw.com/
-/[a-zA-Z0-9.-]*-be-pack-sign.pglstatp-toutiao.com/
-/[a-zA-Z0-9.-]*-lm.adkwai.com/
-/[a-zA-Z0-9.-]*-normal-[a-zA-Z0-9.-]*.zijieapi.com/
-/[a-zA-Z0-9.-]*-normal.zijieapi.com/
+/[a-zA-Z0-9.-]*-ad-[a-zA-Z0-9.-]*\.byteimg\.com/
+/[a-zA-Z0-9.-]*-ad\.sm\.cn/
+/[a-zA-Z0-9.-]*-ad\.video\.yximgs\.com/
+/[a-zA-Z0-9.-]*-ad\.wtzw\.com/
+/[a-zA-Z0-9.-]*-be-pack-sign\.pglstatp-toutiao\.com/
+/[a-zA-Z0-9.-]*-lm\.adkwai\.com/
+/[a-zA-Z0-9.-]*-normal-[a-zA-Z0-9.-]*\.zijieapi\.com/
+/[a-zA-Z0-9.-]*-normal\.zijieapi\.com/
 /\.(cc|com|top|xyz)\/i\/v$/$third-party,xmlhttprequest
 /\.(com|cn|top|xyz)\/(j|K)\/[0-9]{6}$/$script,third-party
 /\.(cyou|ink)\/[a-z]{4}_[0-9]{5}_[a-z]{5}js\?/$script,third-party
@@ -1892,7 +1892,7 @@ $third-party,xmlhttprequest,websocket,domain=qiyoudy2.com|qiyoudy4.com
 /chinaadclient.
 /cjs/cprt.js$domain=dailygh.com|xgcartoon.com
 /clicktotal/ClickTotal.js
-/cloudinject[a-zA-Z0-9.-]*-dev.*.[a-zA-Z0-9.-]*-[a-zA-Z0-9.-]*-[a-zA-Z0-9.-]*.amazonaws.com/
+/cloudinject[a-zA-Z0-9.-]*-dev\.*\.[a-zA-Z0-9.-]*-[a-zA-Z0-9.-]*-[a-zA-Z0-9.-]*\.amazonaws\.com/
 /clys.js?2020
 /cm-pop-up-banners-
 /cms-gg.js
