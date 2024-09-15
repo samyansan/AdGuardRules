@@ -3,8 +3,8 @@
 ! Powerd by SamSan
 ! Description: Just a merged Adblock rule. Nothing more
 ! Expires: 6 hours (update frequency)
-! Version: 2024-09-15 14:11:03
-! Total count: 26438
+! Version: 2024-09-15 20:13:20
+! Total count: 26439
 
 ###ADtip
 ###Ad_windows
@@ -12368,6 +12368,7 @@ zzzyk.com###Tinfo
 ||163.com/special/*_netease
 ||163.com/wap/special/article_cooper_piapia/
 ||163.com^*/boboData
+||16327739.xyz^$dnsrewrite=ad-block.dns.adguard.com
 ||163disk.com/static/aimgs/d
 ||163disk.com/static/images/51
 ||163disk.com/static/www/
