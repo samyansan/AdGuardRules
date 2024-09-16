@@ -3,8 +3,8 @@
 ! Powerd by SamSan
 ! Description: Just a merged Adblock rule. Nothing more
 ! Expires: 6 hours (update frequency)
-! Version: 2024-09-16 08:41:48
-! Total count: 26439
+! Version: 2024-09-16 14:12:36
+! Total count: 26448
 
 ###ADtip
 ###Ad_windows
@@ -1106,6 +1106,7 @@
 ##a[href*="/Register?a="]
 ##a[href*="/ads/adscenter."]
 ##a[href*="/auth/register?code="] > img
+##a[href*="/bjty96.vip"]
 ##a[href*="/d27.tv"]
 ##a[href*="/dsf188.cc"]
 ##a[href*="/dsf66.cc"]
@@ -2235,6 +2236,7 @@ $third-party,xmlhttprequest,websocket,domain=qiyoudy2.com|qiyoudy4.com
 /moneymaker/js/player/zanting.js
 /moneymaker/js/tmpp.js
 /moneymaker/js/videoplayer.js
+/mpc/*$domain=52xkdy.com|fydy8.com
 /mshow.aspx?AID=
 /msow.aspx?AID=
 /mydisplay.$domain=400gb.com|bego.cc|ctfile.com|pipipan.com
@@ -12908,7 +12910,6 @@ zzzyk.com###Tinfo
 ||52tian.net^*/xuanfu.js
 ||52waha.com/static/js/func_bbs.js
 ||52wmb.com/2014js/cn_
-||52xkdy.com/2020content/
 ||52z.com/images/52zgg/
 ||52zpi.com/gg/
 ||52zy.com/other/js/
@@ -15201,6 +15202,7 @@ zzzyk.com###Tinfo
 ||bestvogue.com/fans/
 ||betemolgar.com^$dnsrewrite=ad-block.dns.adguard.com
 ||bettentacruela.com^$dnsrewrite=ad-block.dns.adguard.com
+||betterdirectit.com^$dnsrewrite=ad-block.dns.adguard.com
 ||betteredu.net/js/pop_tuiguang_
 ||bewr1.com^
 ||bewrutv.top^
@@ -15402,6 +15404,7 @@ zzzyk.com###Tinfo
 ||bosw.net/js/bos/*960
 ||botcm.com/zhanqun/
 ||bowoprf.icu^
+||bowvses.icu^
 ||boxiti.net^$dnsrewrite=ad-block.dns.adguard.com
 ||boxshows.com^
 ||boylov.xyz^*/img/20*.gif
@@ -16985,6 +16988,8 @@ zzzyk.com###Tinfo
 ||dsbqvj.xyz^
 ||dsbudkwq.xyz^
 ||dsceopm.cn^
+||dsda21.fun^
+||dsdsa33.fun^
 ||dsdsg44.fun^
 ||dsfffmb.mobi^$dnsrewrite=ad-block.dns.adguard.com
 ||dshangyan.com/pc/advertising/
@@ -19129,6 +19134,7 @@ zzzyk.com###Tinfo
 ||imglnkd.com^$domain=xiuren.org
 ||imgme.me/images/*.gif
 ||imgmega.com/i/*.gif$domain=18avtube.com|mm-cg.com
+||imgmin133.top^
 ||imgopen.vip^
 ||imgoss1380.top^
 ||imgoss2255.top^
@@ -20786,6 +20792,7 @@ zzzyk.com###Tinfo
 ||mdipsumx.top^
 ||mdiygc.xyz^
 ||mdjdpyrt.xyz^
+||mdmuky.xyz^
 ||mdoshbx.top^
 ||mdotm.com^
 ||mdsahkln.xyz^
@@ -21424,6 +21431,7 @@ zzzyk.com###Tinfo
 ||nhbprf.xyz^
 ||nhcdn.cn^
 ||nhjn788.fun^
+||nhjnw78.fun^
 ||nicelinks.site/ad-block-
 ||nichibenren.or.jp^
 ||nicorette.co.kr^
@@ -22095,7 +22103,6 @@ zzzyk.com###Tinfo
 ||pkyjuc.cn^
 ||pl.youku.com^
 ||pl520.com^$third-party
-||plane-pusherbidder.org^$dnsrewrite=ad-block.dns.adguard.com
 ||play6111.com/js/
 ||playgirl.com^$dnsrewrite=ad-block.dns.adguard.com
 ||playhydrax.com^$dnsrewrite=ad-block.dns.adguard.com
@@ -22663,6 +22670,7 @@ zzzyk.com###Tinfo
 ||rayli.com.cn^$third-party
 ||rbfxoex.xyz^
 ||rbhunp.xyz^
+||rbkmzhc.icu^
 ||rbrmhz.xyz^
 ||rbtfit.com^$dnsrewrite=ad-block.dns.adguard.com
 ||rc.ie13.com^
@@ -24644,6 +24652,7 @@ zzzyk.com###Tinfo
 ||unpkg.com/hjadu/
 ||unpkg.com/sejie
 ||unpkg.com^$badfilter
+||unseaminoax.click^$dnsrewrite=ad-block.dns.adguard.com
 ||untitled.dwstatic.com^
 ||uofmnbkm.com^$dnsrewrite=ad-block.dns.adguard.com
 ||uogtrmjz.xyz^
@@ -24936,7 +24945,6 @@ zzzyk.com###Tinfo
 ||virginiasibyl.com^
 ||virnews.club^$dnsrewrite=ad-block.dns.adguard.com
 ||virusinfo-cloudscan-cn.heytapmobi.com^
-||virusscanner.to^$dnsrewrite=ad-block.dns.adguard.com
 ||visit-japan.jp/parts/visitjapan_f35_170_170.jpg
 ||vista.tuwan.com/s.js
 ||vixajghi.xyz^
@@ -26396,6 +26404,7 @@ zzzyk.com###Tinfo
 ||zyfnbl.xyz^
 ||zylizz.xyz^
 ||zymo.mps.weibo.com^
+||zyrnbh.xyz^
 ||zyzo.cn^
 ||zz.bdstatic.com^
 ||zzad.com^$third-party
