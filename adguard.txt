@@ -3,8 +3,8 @@
 ! Powerd by SamSan
 ! Description: Just a merged Adblock rule. Nothing more
 ! Expires: 6 hours (update frequency)
-! Version: 2024-09-18 08:38:52
-! Total count: 26483
+! Version: 2024-09-18 14:12:22
+! Total count: 26501
 
 ###ADtip
 ###Ad_windows
@@ -4702,6 +4702,7 @@ bilibili.com##div[style*="height:"][data-loc-id]
 bilibili.com##span[style*="height:"][data-loc-id]
 bilibili.com#$#.bili-video-card:has(.bili-video-card__info--ad) > .bili-video-card__skeleton { visibility: visible !important; }
 bilibili.com#$#.bili-video-card:has(.bili-video-card__info--creative-ad) > .bili-video-card__skeleton { visibility: visible !important; }
+bilibili.com#$?#.container > div.feed-card:not(:has(> div > *)) { remove: true; }
 bilibili.com#$?#.container > div.floor-single-card:has(> div.skeleton) { remove: true; }
 bilibili.com#$?#.ex-card-common:has(.gg-icon) { remove: true; }
 bilibili.com#$?#.van-slide > .item:has(.bypb-icon) { remove: true; }
@@ -5618,6 +5619,7 @@ dict.cn##.search-right-ad5
 dict.cn##.search-right-ad7
 didispace.com##.widget-wrap > p[style="text-align: left;padding-bottom: 20px;line-height: 30px;"]
 digitimes.com.tw##.dt-ad-block
+digitimes.com.tw##.edm-frame:has(> .adtext)
 digitimes.com.tw##a[href*="/webad/"]
 dilidili.wang#$#body > article[class][style*="position: fixed;top: 0;z-index: 9999;display:block !important;"] { position: absolute!important; left: -3000px!important; }
 dilidili3.com#?#.body > div.body-wrap:has(> div.mod-box > div.mod-title > h3:contains(友情链接))
@@ -10003,6 +10005,7 @@ r3sub.com##div[class] > a[href^="show.php?id="]
 r3sub.com##div[class] > a[href^="show.php?id="][target="_blank"] > img
 r3sub.com##source + img
 raenonx.cc##.main_ads-content + div
+raenonx.cc##div[style="display: flex; justify-content: center; align-items: center; position: relative;"] > iframe
 read.qidian.com##.operation-wrap
 readmoo.com#@#.navbar-social
 reaff.com,yangmaodang.org##.entry-content > p[style="text-indent:0"]
@@ -11238,6 +11241,8 @@ wanmeikk.me##a[href="http://qq.wanmeikk.me/index"]
 wanqu.co##.left-nav-panel:first-child
 wantgoo.com###FixModal
 wantgoo.com##.adsbox
+wantgoo.com##.fab-ad
+wantgoo.com##div[type="adv"]
 wantgoo.com#@#.shareBtns
 wap.gamersky.com##.countHitSql.countHit.gsTgAppConCommentBtn
 wap.gamersky.com##.gsTgWapConBdshareTopBox
@@ -15784,6 +15789,7 @@ zzzyk.com###Tinfo
 ||cdolhlwq.xyz^
 ||cdoshbf.top^
 ||cdrvkdni.xyz^
+||cdscs990.fun^
 ||cdsget.51y5.net^
 ||cdttxdqe.xyz^
 ||cduno.cn^
@@ -16687,6 +16693,7 @@ zzzyk.com###Tinfo
 ||dfxvkgz.xyz^
 ||dgaxrjj0jwpwp.cloudfront.net^
 ||dgkship.icu^
+||dgrgr34.fun^
 ||dhgfhedxx.xyz^
 ||dhgxl8qk9zgzr.cloudfront.net/js/log.js
 ||dhl.135320.com^
@@ -17017,6 +17024,7 @@ zzzyk.com###Tinfo
 ||dsp5stero.com^$dnsrewrite=ad-block.dns.adguard.com
 ||dspmnt.autohome.com.cn^
 ||dssdfsf.cn^
+||dsukqsx.icu^
 ||dswcrlf.cn^
 ||dtjpihv.xyz^
 ||dtnhjzl.xyz^
@@ -17754,6 +17762,7 @@ zzzyk.com###Tinfo
 ||freelovehere.com^$dnsrewrite=ad-block.dns.adguard.com
 ||freetrckr.com^$dnsrewrite=ad-block.dns.adguard.com
 ||freshpops.net^$dnsrewrite=ad-block.dns.adguard.com
+||frgf99.fun^
 ||friendfinder.com^$dnsrewrite=ad-block.dns.adguard.com
 ||frjelsoieapoas.shop^$dnsrewrite=ad-block.dns.adguard.com
 ||frntzz.xyz^
@@ -18749,6 +18758,7 @@ zzzyk.com###Tinfo
 ||hspdiom.cn^
 ||hsutav.icu^
 ||hsvchnsvncvvd.com^
+||hsvmtn.xyz^
 ||hsyipos.com/template/mxone/html_tplmx/vod/*.gif
 ||hsylieu.top^
 ||htqyy.com/kiees/
@@ -19036,6 +19046,7 @@ zzzyk.com###Tinfo
 ||iiwoqm.xyz^
 ||ijeujkdhnvb.top^
 ||ijinshan.com/images/gk/game
+||ijksec.xyz^
 ||ijmxco.xyz^
 ||ijvla.cn^
 ||ik123.com/js/dd.js
@@ -19823,6 +19834,7 @@ zzzyk.com###Tinfo
 ||jy05.shop^
 ||jy06.shop^
 ||jy07.shop^
+||jy08.shop^
 ||jy135.com/js/pubuliu.
 ||jy135.com^$third-party
 ||jy147a.com^
@@ -20054,6 +20066,7 @@ zzzyk.com###Tinfo
 ||koyi.pub/wp-content/plugins/dh-anti-adblocker/
 ||koyso.com/static/js/abc.
 ||koyso.com/z-
+||koytqo.xyz^
 ||koyuod.xyz^
 ||kozhyf.icu^
 ||kozoysnsx.com^$dnsrewrite=ad-block.dns.adguard.com
@@ -22400,6 +22413,7 @@ zzzyk.com###Tinfo
 ||qd.x4399.com^
 ||qdaily.com/mount_details/pc/
 ||qdcxia.xyz^
+||qdickey.top^
 ||qdipsumy.top^
 ||qdjimo.com/html/js/
 ||qdoshby.top^
@@ -25326,6 +25340,7 @@ zzzyk.com###Tinfo
 ||wjoxqd.com^
 ||wjwod.cyou^
 ||wkanc.51y5.net^
+||wkitere.top^
 ||wkjyxcheng.top^
 ||wkrcbszi.xyz^
 ||wkrhel.icu^
@@ -25396,6 +25411,7 @@ zzzyk.com###Tinfo
 ||wqzmed.cn^
 ||wr.yiyouliao.com^
 ||wrating.com^
+||wrsikq.xyz^
 ||wrtjojn.xyz^
 ||wrutvnce.top^
 ||ws-keyboard.shouji.sogou.com^
@@ -25457,6 +25473,7 @@ zzzyk.com###Tinfo
 ||wxa.wxs.qq.com^
 ||wxfdmri.xyz^
 ||wximg.wxs.qq.com^
+||wxmhau.xyz^
 ||wxmmji.xyz^
 ||wxsicu.xyz^
 ||wxsmw.wxs.qq.com^
@@ -26238,6 +26255,7 @@ zzzyk.com###Tinfo
 ||zcdsp.com^
 ||zcfhi.cn.com^
 ||zcpsc.top^
+||zcypmsp.icu^
 ||zdcj.net/html/weibo
 ||zdcj.net^*/ad
 ||zdf3q.xyz^
