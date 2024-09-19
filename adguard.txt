@@ -3,8 +3,8 @@
 ! Powerd by SamSan
 ! Description: Just a merged Adblock rule. Nothing more
 ! Expires: 6 hours (update frequency)
-! Version: 2024-09-19 08:39:32
-! Total count: 26502
+! Version: 2024-09-19 14:12:28
+! Total count: 26518
 
 ###ADtip
 ###Ad_windows
@@ -1137,6 +1137,7 @@
 ##a[href*="?invite_code="] > img[src*=".com"]
 ##a[href*="?register="] > img[src*=".douyinpic.com"]
 ##a[href*="?register="] > img[width="100%"]
+##a[href*="bjty"] > img[src*="imgsrc.baidu.com"]
 ##a[href*="kdocs.cn"] > img[src*=".ax1x.com/"]
 ##a[href*="kdocs.cn"] > img[src*="sstv."]
 ##a[href*="xchina.click/prepare."]
@@ -1306,7 +1307,7 @@ $script,third-party,denyallow=myqcloud.com|bytecdntp.com|pddpic.com|googletagman
 $script,third-party,domain=52movieba.com|audio699.com|kan-tv.com|m.supfree.net|movieffm.net|xiaoxintv.com|xiaoxintv.net
 $script,third-party,domain=cilimao.co|cilimao.one
 $script,third-party,domain=colamanga.com
-$script,third-party,domain=torkitty.com|torrentkitty.app|torrentkitty.asia|torrentkitty.cam|torrentkitty.ink|torrentkitty.io|torrentkitty.live|torrentkitty.lol|torrentkitty.net|torrentkitty.se|torrentkitty.tv|torrkitty.com
+$script,third-party,domain=torrentkitty.one|torkitty.com|torrentkitty.app|torrentkitty.asia|torrentkitty.cam|torrentkitty.ink|torrentkitty.io|torrentkitty.live|torrentkitty.lol|torrentkitty.net|torrentkitty.se|torrentkitty.tv|torrkitty.com
 $script,third-party,websocket,domain=52codes.net
 $third-party,xmlhttprequest,domain=subhd.tv|subhdtw.com|xyg688.com|xyg688.xyz|zzzzz688.com
 $third-party,xmlhttprequest,websocket,domain=qiyoudy2.com|qiyoudy4.com
@@ -2914,7 +2915,7 @@ $third-party,xmlhttprequest,websocket,domain=qiyoudy2.com|qiyoudy4.com
 18-comicfrieren.xyz,18comic.org,18comic.vip##.modal-backdrop
 18-comicfrieren.xyz,18comic.org,18comic.vip##.row[style="display: flex;flex-wrap: wrap;"]
 18-comicfrieren.xyz,18comic.org,18comic.vip##a[href*="//"]:not([href*="comic."]) > [style*="back"]
-18-comicfrieren.xyz,18comic.org,18comic.vip##a[href*="//"]:not([href*="comic."]) > div[style^="display: block;"]
+18-comicfrieren.xyz,18comic.org,18comic.vip##a[href*="//"]:not([href*="comic."]) > div[style]
 18-comicfrieren.xyz,18comic.org,18comic.vip##a[href*="//"]:not([href*="comic."]) > img
 18-comicfrieren.xyz,18comic.org,18comic.vip##a[href*="//"]:not([href*="comic."]) > img + [style]
 18-comicfrieren.xyz,18comic.org,18comic.vip##style + div[style="cursor: pointer; position: relative;"]
@@ -15794,6 +15795,7 @@ zzzyk.com###Tinfo
 ||cdsget.51y5.net^
 ||cdttxdqe.xyz^
 ||cduno.cn^
+||cdunwi.xyz^
 ||cdxyb.cn^$third-party
 ||cdybwjpa.xyz^
 ||cdyee.com/external/5070.files/ad/
@@ -16367,6 +16369,7 @@ zzzyk.com###Tinfo
 ||cs.snssdk.com^
 ||csaimall.com^$popup,third-party
 ||csbew.com^
+||csdcfvgf4.fun^
 ||csdn.net/ggmm/
 ||csdn.net/msg.popup.js
 ||csdnimg.cn/check-adblock/
@@ -17005,6 +17008,7 @@ zzzyk.com###Tinfo
 ||dsaewew21.fun^
 ||dsbqvj.xyz^
 ||dsbudkwq.xyz^
+||dscds111.fun^
 ||dsceopm.cn^
 ||dsda21.fun^
 ||dsdsa33.fun^
@@ -17745,6 +17749,7 @@ zzzyk.com###Tinfo
 ||fq03.shop^
 ||fq04.shop^
 ||fq05.shop^
+||fq06.shop^
 ||fq67.top^
 ||fqbjzj.xyz^
 ||fqfclmlo.xyz^
@@ -20853,6 +20858,7 @@ zzzyk.com###Tinfo
 ||mefiafd.top^
 ||megacot.com^$dnsrewrite=ad-block.dns.adguard.com
 ||megajoy.com^
+||megydyk.icu^
 ||meiguixs.net/images/*.js
 ||meiju22.com/new/Public/gg.js
 ||meiju8.cc/js/jquery.p.min.js
@@ -21753,6 +21759,7 @@ zzzyk.com###Tinfo
 ||opwofty.cn^
 ||opwoga.xyz^
 ||oq6ry.com^
+||oqaejin.icu^
 ||oqnkur.icu^
 ||oqvucp.icu^
 ||oqxep.cn^
@@ -21979,6 +21986,7 @@ zzzyk.com###Tinfo
 ||pcstore.com.tw/adm/psearch_payad_
 ||pcstore.com.tw/css/myacc_init.js
 ||pcvideoyf.titan.mgtv.com/pb/*.mp4
+||pcxnrd.xyz^
 ||pd-news.com^$dnsrewrite=ad-block.dns.adguard.com
 ||pd.sogou.com^
 ||pdfbook.cn/wp-content/uploads/2017/11/049.jpg
@@ -22523,6 +22531,7 @@ zzzyk.com###Tinfo
 ||qjrhacxxk.xyz^$dnsrewrite=ad-block.dns.adguard.com
 ||qk6.org/file/script/
 ||qkikkg.xyz^
+||qkitery.top^
 ||qksapp.net/gif/
 ||qkscga.xyz^
 ||ql.uzuzuz.com^
@@ -22593,6 +22602,7 @@ zzzyk.com###Tinfo
 ||qrmozsc.icu^
 ||qrovwu.xyz^
 ||qrttfmo.cn^
+||qrwcss.xyz^
 ||qsfbmol.cn^
 ||qsptv.com/tpl/newstyle/js/extension.js
 ||qsyliey.top^
@@ -22627,6 +22637,7 @@ zzzyk.com###Tinfo
 ||qusfybj.cn^
 ||qusrow.xyz^
 ||quwkke.xyz^
+||quyuancn.com^$third-party
 ||quzmtpxw.xyz^
 ||quzpvtt.xyz^
 ||qvftejz.cn^
@@ -23196,6 +23207,7 @@ zzzyk.com###Tinfo
 ||sf2.net/a/index.
 ||sf3-fe-tos.pglstatp-toutiao.com^
 ||sf3-ttcdn-tos.pstatp.com^
+||sfesdef6.fun^
 ||sfjslib.top^
 ||sfkldbkldgdgh.com^
 ||sfnmt.com/dq/
@@ -23835,6 +23847,7 @@ zzzyk.com###Tinfo
 ||syuwkbb.top^
 ||syzjxz2018.cn^
 ||sz88.oss-cn-shenzhen.aliyuncs.com^
+||szapaqi.cn^
 ||szbhb.cn^
 ||szbpf.cn^
 ||szbxm.cn^
@@ -24156,6 +24169,7 @@ zzzyk.com###Tinfo
 ||tk.baidu.com^
 ||tk6if76q.ab1n.net^$dnsrewrite=ad-block.dns.adguard.com
 ||tkbbjtfp.xyz^
+||tkiteri.top^
 ||tklivechat.com/widgets/$third-party
 ||tkweb.baidu.com^
 ||tl86tv.com/52
@@ -25349,6 +25363,7 @@ zzzyk.com###Tinfo
 ||wkywrc.cn^
 ||wkzsmj.icu^
 ||wl.hd.sohu.com^
+||wlkukrv.icu^
 ||wlog.kuaishou.com^
 ||wlrjy.com/assets/images/*.gif
 ||wlrjy.com/assets/images/tuidc.png
@@ -26349,6 +26364,7 @@ zzzyk.com###Tinfo
 ||zjjlhvo.xyz^
 ||zjliloveyou.ixiunv.com^
 ||zjplnz.xyz^
+||zjsnhl.xyz^
 ||zjst.net/3.gif
 ||zjtu.tv/add.
 ||zjxc.com/source/plugin/e6_xc_ad/
