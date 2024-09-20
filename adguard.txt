@@ -3,8 +3,8 @@
 ! Powerd by SamSan
 ! Description: Just a merged Adblock rule. Nothing more
 ! Expires: 6 hours (update frequency)
-! Version: 2024-09-20 08:39:34
-! Total count: 26519
+! Version: 2024-09-20 14:12:04
+! Total count: 26538
 
 ###ADtip
 ###Ad_windows
@@ -1686,7 +1686,7 @@ $third-party,xmlhttprequest,websocket,domain=qiyoudy2.com|qiyoudy4.com
 /ab_my/pc_pf.js
 /ab_res/m/common.js
 /ab_res/pc/fixed/fixed.js
-/acmsd/*
+/acmsd/*$script
 /ad-specs.
 /ad.gif|
 /ad.php?
@@ -7023,6 +7023,7 @@ hl.cn###xf_right
 hlgnet.com##.co_ad
 hlgnet.com##.co_ad3
 hlgnet.com,sina.com##.tad
+hmanga.world#%#//scriptlet('prevent-fetch', 'method:HEAD')
 hmitalk.com##div[class*="-pubadban "]
 hmitalk.com##div[data-adid]
 hmoe.one#?#.widget_text > .inn-sidebar__widget:has(> .poi-panel__header > .poi-panel__header__title:contains(赞助商))
@@ -9250,6 +9251,9 @@ news.baidu.com##.swipe-backflow-container
 news.baidu.com#?#.index-list-item:-abp-has(.tip-time:-abp-contains(广告))
 news.china.com.cn##.Wrapper > div[style]
 news.cn2che.com##.banner01
+news.cnyes.com##.content-main > div:empty
+news.cnyes.com##.content-main > div:has(> div[id^="div-gpt-"])
+news.cnyes.com##article > div:has(> div[id^="div-gpt-"])
 news.ebc.net.tw###marquee-box
 news.ebc.net.tw##.fncnews-content > div.raw-style > div > p > a[href]
 news.ebc.net.tw##.inline_text.has_marker
@@ -13150,6 +13154,7 @@ zzzyk.com###Tinfo
 ||77xsw.la/novel/js/pagebottom.js
 ||77xsw.la/novel/js/pagetop.js
 ||7841ffda.xyz^$dnsrewrite=ad-block.dns.adguard.com
+||786yfvedhcbxjk.top^
 ||78b78ff8.xyz^$dnsrewrite=ad-block.dns.adguard.com
 ||78dm.net.cn/acg_201*_250
 ||78dm.net.cn/acg_201*_650
@@ -15233,6 +15238,7 @@ zzzyk.com###Tinfo
 ||bflybplr.xyz^
 ||bfpgf.com/wp-content/uploads/2015/08/360dxs.jpg
 ||bfshan.cn^
+||bgbg00.fun^
 ||bgbqfqwi.xyz^
 ||bgdgpbpm.xyz^
 ||bgeg1.fun^
@@ -15341,6 +15347,7 @@ zzzyk.com###Tinfo
 ||black77854.com^$dnsrewrite=ad-block.dns.adguard.com
 ||blciqbk.icu^
 ||blehcourt.com^$dnsrewrite=ad-block.dns.adguard.com
+||blinxmi.icu^
 ||blismedia.com^
 ||blntzf.xyz^
 ||block-ad.com^$dnsrewrite=ad-block.dns.adguard.com
@@ -16565,6 +16572,7 @@ zzzyk.com###Tinfo
 ||daqiso.com/ggbl/
 ||darren01.oss-cn-beijing.aliyuncs.com^
 ||das.*.youku.com^
+||dasda64.fun^
 ||dasdujaosjdioad.com^
 ||daslethv.com^
 ||dasljfoq.top^
@@ -17819,6 +17827,7 @@ zzzyk.com###Tinfo
 ||fwcnex.icu^
 ||fwffa.cn^
 ||fwhhcpj.xyz^
+||fwsfwef2.fun^
 ||fwsir.com/static/cpt/
 ||fwwang.cn/templets/fw/js/art
 ||fx110.*/Pub/Ghz/GetModel
@@ -19015,6 +19024,7 @@ zzzyk.com###Tinfo
 ||ifengimg.com^*couplet$script
 ||ifeve.com/wp-content/uploads/*/WechatIMG
 ||ifeve.com/wp-content/uploads/*/cachekit
+||iffobi.xyz^
 ||ifjslio.top^
 ||ifkdy.com/_nuxt/44e01dcef4aa1a21d9a6.js
 ||ifkdy.com/ifkdy/weixin/isFollowMe
@@ -19208,6 +19218,7 @@ zzzyk.com###Tinfo
 ||impservice*.youdao.com^
 ||imrworldwide.com^
 ||imtmp.net^
+||imusye.xyz^
 ||imwxsu.xyz^
 ||imxsvpxe.xyz^
 ||imzahrwl.xyz^$dnsrewrite=ad-block.dns.adguard.com
@@ -19474,6 +19485,7 @@ zzzyk.com###Tinfo
 ||japanhotties.jp^$dnsrewrite=ad-block.dns.adguard.com
 ||jasdz1.cn^
 ||jatfugios.com^
+||jauql.top^
 ||jav-7mmtv.top^$dnsrewrite=ad-block.dns.adguard.com
 ||jav101.com/img5bbb0096f242f.gif
 ||javazhijia.com/skin/
@@ -21034,6 +21046,7 @@ zzzyk.com###Tinfo
 ||mm.jbzj.com^
 ||mm.nwell.net^
 ||mm.paizi.net^
+||mm.wxc.cc^
 ||mm111.net/api.php?mod=ad&
 ||mm387.com/images/*.gif
 ||mm786.com^$popup,third-party
@@ -21674,6 +21687,7 @@ zzzyk.com###Tinfo
 ||okagcw.xyz^
 ||okbmf.com/imgad/
 ||okbmf.com^*950_120
+||okiterk.top^
 ||okkkk.com^
 ||okmwfq.xyz^
 ||okooo.com/I/?method=system.data.ad&
@@ -22131,6 +22145,7 @@ zzzyk.com###Tinfo
 ||pixiu.shangshufang.ksosoft.com^
 ||pixoctopus.pixnet.net^
 ||pixon.ads-pixiv.net^
+||pjaihds.icu^
 ||pjcijbv.icu^
 ||pjcn.org^$third-party
 ||pjdthz.xyz^
@@ -22172,6 +22187,7 @@ zzzyk.com###Tinfo
 ||pmnct63.shop^
 ||pms.mb.qq.com^
 ||pmtrkp.icu^
+||pmzlnt.xyz^
 ||pnez8.rut6m.xyz^
 ||pniao99.com/statics/js/stat.js
 ||pnouting.com^$dnsrewrite=ad-block.dns.adguard.com
@@ -24643,6 +24659,7 @@ zzzyk.com###Tinfo
 ||ukbbjtfp.xyz^
 ||ukeiae.com^
 ||ukgfniu.cn^
+||ukitert.top^
 ||ukkkmg.xyz^
 ||ukoffzeh.com^$dnsrewrite=ad-block.dns.adguard.com
 ||ulic.baidu.com^
@@ -25088,6 +25105,7 @@ zzzyk.com###Tinfo
 ||vuyibsm.icu^
 ||vv1.pyhfxdm.cn^
 ||vv84.bj.bcebos.com^
+||vvadz.cc^
 ||vvttpn.xyz^
 ||vvv.ieduw.com^
 ||vvvkp.com/template/ttk/img/
@@ -25419,6 +25437,7 @@ zzzyk.com###Tinfo
 ||wpa.b.qq.com/cgi/wpa.php?
 ||wpdaxue.com/img/*/txy-
 ||wples.com/pc/common.js
+||wpsbaq.xyz^
 ||wpsweb-dc.wps.cn^
 ||wpuiuwh.icu^
 ||wqcfg.cn^

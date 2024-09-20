@@ -7742,6 +7742,9 @@ news.baidu.com##.swipe-backflow-container
 news.baidu.com#?#.index-list-item:-abp-has(.tip-time:-abp-contains(广告))
 news.china.com.cn##.Wrapper > div[style]
 news.cn2che.com##.banner01
+news.cnyes.com##.content-main > div:empty
+news.cnyes.com##.content-main > div:has(> div[id^="div-gpt-"])
+news.cnyes.com##article > div:has(> div[id^="div-gpt-"])
 news.ebc.net.tw###marquee-box
 news.ebc.net.tw##.fncnews-content > div.raw-style > div > p > a[href]
 news.ebc.net.tw##.inline_text.has_marker
