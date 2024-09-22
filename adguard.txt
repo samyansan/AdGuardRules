@@ -3,8 +3,8 @@
 ! Powerd by SamSan
 ! Description: Just a merged Adblock rule. Nothing more
 ! Expires: 6 hours (update frequency)
-! Version: 2024-09-22 08:44:07
-! Total count: 26558
+! Version: 2024-09-22 14:10:37
+! Total count: 26575
 
 ###ADtip
 ###Ad_windows
@@ -1925,6 +1925,7 @@ $third-party,xmlhttprequest,websocket,domain=qiyoudy2.com|qiyoudy4.com
 /css/ads.
 /css/gg.js
 /css_js/*$domain=aiyangedu.com|duanmeiwen.com|jy135.com|oh100.com|qunzou.com|ruiwen.com|unjs.com|yjbys.com|yuwenmi.com
+/cuid/*$domain=colamanga.com
 /d/*-*-*.ap|$script,third-party
 /data/ads/*
 /data/attachment/ad/*
@@ -5313,6 +5314,8 @@ cnxz.cn##[class*="-ad"]
 cnyes.com###full_ad-popup
 cnyes.com###full_ad-screen
 cnyes.com##a[data-proj-ga-category="FloatingBTN"]
+cnyes.com#?#.content-main > div:-abp-has(>div[id^="div-gpt-ad"])
+cnyes.com#?#article > div:-abp-has(>div[id^="div-gpt-ad"])
 cnys.tv#%#//scriptlet('set-constant', 'config.group', '')
 cnys.tv#@#.player-news > .news-list
 cnys.tv,4kya.com###player_pause
@@ -11403,6 +11406,7 @@ wenxuecity.com###gg_multitext
 wenxuecity.com###gg_rightside
 wenxuecity.com###marquee
 wenxuecity.com##.otherposts > ul > li > a[target="_blank"]
+wenxuecity.com##.rightbannerw
 wenxuecity.com##.sidebar > .banners
 wenxuecity.com##.topbannerw
 wenxuecity.com##DIV[class^="Inarticle_"]
@@ -14851,6 +14855,7 @@ zzzyk.com###Tinfo
 ||badad.googleplex.com^
 ||badding.oss-ap-southeast-1.aliyuncs.com^
 ||badmintoncn.com/cbo_include/js/cboaaa.js
+||baggvon.icu^
 ||bahamut.com.tw/js/ad.js
 ||baichuan.baidu.com^
 ||baidu-jxf.co^$popup
@@ -16267,6 +16272,7 @@ zzzyk.com###Tinfo
 ||cornpic.com/images/*.gif
 ||corp.meitu.com^
 ||cosmo001.top^
+||cosmo100.top^
 ||cosouy.xyz^
 ||costarg.com^
 ||coticoffee.com^$dnsrewrite=ad-block.dns.adguard.com
@@ -16394,6 +16400,7 @@ zzzyk.com###Tinfo
 ||csdnimg.cn/public/common/indexSuperise/1.1.1/indexSuperise.js
 ||csdnimg.cn^*#/preview/
 ||csdsa22.fun^
+||csfds000.fun^
 ||cshlal.icu^
 ||csi.gstatic.com^
 ||csjplatform.com^
@@ -16440,6 +16447,7 @@ zzzyk.com###Tinfo
 ||cvnxetmq.xyz^
 ||cvtbdap.xyz^
 ||cvudqzoa.xyz^
+||cwaterf.top^
 ||cwerilxf.top^
 ||cweriof.top^
 ||cwgucvm.icu^
@@ -17648,6 +17656,7 @@ zzzyk.com###Tinfo
 ||ffdafx.xyz^
 ||fgadsqdma.top^
 ||fgcxdr.cn^
+||fgdkfr.xyz^
 ||fghghh.cn^
 ||fghhbp.xyz^
 ||fgttbz.xyz^
@@ -18889,6 +18898,7 @@ zzzyk.com###Tinfo
 ||hydra.alibaba.com^
 ||hydrax.net^$dnsrewrite=ad-block.dns.adguard.com
 ||hye.comp.360os.com^
+||hyhy2.fun^
 ||hyislou.top^
 ||hylaxngo.xyz^
 ||hynahyqq.xyz^
@@ -19867,6 +19877,7 @@ zzzyk.com###Tinfo
 ||jy06.shop^
 ||jy07.shop^
 ||jy08.shop^
+||jy09.shop^
 ||jy135.com/js/pubuliu.
 ||jy135.com^$third-party
 ||jy147a.com^
@@ -20198,6 +20209,7 @@ zzzyk.com###Tinfo
 ||kxmusic.cn/tc/js/script.js
 ||kxmusic.top/tc/js/script.js
 ||kxxfdwt.cn^
+||ky595images.com^
 ||ky891.oss-*.aliyuncs.com^
 ||kyaywy.xyz^
 ||kycxhgrp.xyz^
@@ -21045,6 +21057,7 @@ zzzyk.com###Tinfo
 ||mjmobi.com^
 ||mkbbjtfp.xyz^
 ||mkd88.cc/16.32.jpg
+||mkiterx.top^
 ||mkscy6.cn^
 ||mlcbgw.xyz^
 ||mldzwmt.xyz^
@@ -22978,6 +22991,7 @@ zzzyk.com###Tinfo
 ||ruten.com.tw^*/ahd_
 ||ruyig.com/730x76.png
 ||rvbiocn.cn^
+||rvnaxwqe.icu^
 ||rvtfwryz.icu^
 ||rvvji.online^
 ||rxfygd.cn^
@@ -24578,6 +24592,7 @@ zzzyk.com###Tinfo
 ||uaiosio.top^
 ||uaiqp.top^
 ||uakxkb.icu^
+||uaoaig.xyz^
 ||uapi.ads.heytapmobi.com^
 ||uat1.bfsspadserver.8le8le.com^
 ||uavejnys.xyz^
@@ -24938,6 +24953,7 @@ zzzyk.com###Tinfo
 ||vbiakpu.icu^
 ||vbutycp.cn^
 ||vbzrkme.xyz^
+||vcdfsf99.fun^
 ||vcjczwnc.xyz^
 ||vcnpnf.xyz^
 ||vcugbgu.cn^
@@ -25771,6 +25787,7 @@ zzzyk.com###Tinfo
 ||xnnews.com.cn/adgl/
 ||xnnews.com.cn/tpl/material/
 ||xnpuw.cn^
+||xnqboqc.icu^
 ||xogtrmjz.xyz^
 ||xoilactv123.gdn^$dnsrewrite=ad-block.dns.adguard.com
 ||xoilactvcj.cc^$dnsrewrite=ad-block.dns.adguard.com
@@ -25869,6 +25886,7 @@ zzzyk.com###Tinfo
 ||xxsmad1.com^
 ||xxsmad2.com^
 ||xxsmad3.com^
+||xxsmad4.com^
 ||xxxjmp.com^$dnsrewrite=ad-block.dns.adguard.com
 ||xxxmatch.com^$dnsrewrite=ad-block.dns.adguard.com
 ||xxxuhx.xyz^
@@ -26528,7 +26546,6 @@ zzzyk.com###Tinfo
 ||zztongyun.com/static/js/sh.
 ||zztongyun.com/static/js/sh.min.js
 ||zztxfj.xyz^
-||zztxfj.xyz^[uniartisan's Adblock List]
 ||zzy1.quyaoya.com^
 ||zzz4.com/JS_AD/
 ||zzzyk.com/js/
