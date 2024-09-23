@@ -5462,6 +5462,7 @@ hcomic.net##.main-container > .swiper
 hcomic.net##div[class^="horizontalBanner_"]
 hcomic.net##div[class^="multiBanner_bannerBox"]
 hdchina.org##.sitead
+hdhive.online#?#.mt-4:-abp-has(>.text-lg)
 hdmoli.com#?#.row > div.myui-panel:has(div[style^="text-align:"] > a[href][target="_blank"] > img#index_banner)
 hdshare.cn,it168.com###adv
 hdzone.org##a[style*="fixed"]
