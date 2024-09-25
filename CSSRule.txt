@@ -2094,7 +2094,6 @@
 4399.com#$#body { background-image: none !important; }
 4399.com,sxrtv.com,yundaex.com###ad1
 4399.com,sxrtv.com,zgsyz.com###ad2
-4399pk.com,downkr.com,cardu.com.tw,cw.com.tw,hk.on.cc,share.acgnx.se##.banner
 493428493428c.monster##div[style^="width:728px;height:90px;"]
 4c.cn##div[id^="mid_ad"]
 4c.cn##div[id^="top_ad"]
@@ -2429,8 +2428,8 @@
 85wp.com##.top-ad-img
 8684.cn,8684.com##div[id*="adid"]
 8684.cn,8684.com,iyxdm.org,iyxdm.one,kugou.com,solarzoom.com,yesky.com##div[class^="adv"]
-8724ck.cc##body > div[style] > a[href][target="_blank"]
-8724ck.cc,aeahsck.cc##.stui-vodlist  > li:has(> div.stui-vodlist__box > a[href][target="_blank"])
+8727ck.cc,8726ck.cc,8724ck.cc##.stui-vodlist > li:has(> div.stui-vodlist__box > a[href][target="_blank"])
+8727ck.cc,8726ck.cc,8724ck.cc##body > div[style] > a[href][target="_blank"]
 880sy.com##.foot_gg
 880sy.com##.fot_btom
 88448.com###ad_forum_banner
@@ -2961,6 +2960,8 @@ baidu.com##.c-result[data-tpl="adv_wenku_fc"]
 baidu.com##.cbg-Ads
 baidu.com##.chunwan-wrapper
 baidu.com##.commentEmbed-backHomeCard
+baidu.com##.container:has(>.bottom-section>.item_voice_room[data-yysid])
+baidu.com##.container_frs:has(>.voice_room_card_frs[data-url*="yylive"])
 baidu.com##.content-adv
 baidu.com##.corneradv
 baidu.com##.cpc-adv-container
@@ -4682,6 +4683,7 @@ epwk.com##.head_banner
 erji.com,erji.net##.black.y-style
 eroacg.com##.weimg1
 esdict.cn,eudic.net,frdic.com,godic.net###bodycontent > style + div[id] > :nth-child(n+2)
+eservice.7-11.com.tw,4399pk.com,downkr.com,cardu.com.tw,cw.com.tw,hk.on.cc,share.acgnx.se##.banner
 esnai.com##.tlgg
 esnai.com##table[width="960"] > tbody > tr > td[height="90"]
 esu.moe,esu.wiki###ASSPC
@@ -7770,6 +7772,7 @@ news.mydrivers.com##.baidu_left
 news.mydrivers.com##div[style="width:1000px;padding-top:16px;padding-bottom:12px;"]
 news.mydrivers.com#?#.news_info > p:has(> a[href^="https://dt.mydrivers.com/"])
 news.mydrivers.com#?#.news_info > p:has(> strong:contains(双11红包活动推荐))
+news.owlting.com##.profit-wrapper
 news.pchome.com.tw##div[class^="adnewlist"]
 news.qq.com###focus-bar
 news.qq.com##.download-banner-wrap

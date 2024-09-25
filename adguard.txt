@@ -3,8 +3,8 @@
 ! Powerd by SamSan
 ! Description: Just a merged Adblock rule. Nothing more
 ! Expires: 6 hours (update frequency)
-! Version: 2024-09-25 08:41:21
-! Total count: 26631
+! Version: 2024-09-25 14:12:32
+! Total count: 26650
 
 ###ADtip
 ###Ad_windows
@@ -1460,8 +1460,9 @@ $third-party,xmlhttprequest,websocket,domain=qiyoudy2.com|qiyoudy4.com
 .gif$third-party,domain=cl.wpio.xyz
 .gif$third-party,domain=m.7ktw.com
 .gif$third-party,domain=yasem5.com
+.gif|$domain=/87[0-9]{2}ck\.cc/
 .gif|$domain=7mshipin.org|viidii.info
-.gif|$domain=8724ck.cc|aeahsck.cc
+.gif|$domain=8727ck.cc|8726ck.cc|8724ck.cc
 .gif|$domain=99re.com
 .hk/ads/
 .html?$third-party,domain=m.800xs.net
@@ -3364,7 +3365,6 @@ $third-party,xmlhttprequest,websocket,domain=qiyoudy2.com|qiyoudy4.com
 4399.com#$#body { background-image: none !important; }
 4399.com,sxrtv.com,yundaex.com###ad1
 4399.com,sxrtv.com,zgsyz.com###ad2
-4399pk.com,downkr.com,cardu.com.tw,cw.com.tw,hk.on.cc,share.acgnx.se##.banner
 493428493428c.monster##div[style^="width:728px;height:90px;"]
 4c.cn##div[id^="mid_ad"]
 4c.cn##div[id^="top_ad"]
@@ -3710,8 +3710,8 @@ $third-party,xmlhttprequest,websocket,domain=qiyoudy2.com|qiyoudy4.com
 85wp.com##.top-ad-img
 8684.cn,8684.com##div[id*="adid"]
 8684.cn,8684.com,iyxdm.org,iyxdm.one,kugou.com,solarzoom.com,yesky.com##div[class^="adv"]
-8724ck.cc##body > div[style] > a[href][target="_blank"]
-8724ck.cc,aeahsck.cc##.stui-vodlist  > li:has(> div.stui-vodlist__box > a[href][target="_blank"])
+8727ck.cc,8726ck.cc,8724ck.cc##.stui-vodlist > li:has(> div.stui-vodlist__box > a[href][target="_blank"])
+8727ck.cc,8726ck.cc,8724ck.cc##body > div[style] > a[href][target="_blank"]
 880sy.com##.foot_gg
 880sy.com##.fot_btom
 88448.com###ad_forum_banner
@@ -4375,6 +4375,8 @@ baidu.com##.c-result[data-tpl="adv_wenku_fc"]
 baidu.com##.cbg-Ads
 baidu.com##.chunwan-wrapper
 baidu.com##.commentEmbed-backHomeCard
+baidu.com##.container:has(>.bottom-section>.item_voice_room[data-yysid])
+baidu.com##.container_frs:has(>.voice_room_card_frs[data-url*="yylive"])
 baidu.com##.content-adv
 baidu.com##.corneradv
 baidu.com##.cpc-adv-container
@@ -6122,6 +6124,7 @@ epwk.com##.head_banner
 erji.com,erji.net##.black.y-style
 eroacg.com##.weimg1
 esdict.cn,eudic.net,frdic.com,godic.net###bodycontent > style + div[id] > :nth-child(n+2)
+eservice.7-11.com.tw,4399pk.com,downkr.com,cardu.com.tw,cw.com.tw,hk.on.cc,share.acgnx.se##.banner
 esnai.com##.tlgg
 esnai.com##table[width="960"] > tbody > tr > td[height="90"]
 esu.moe,esu.wiki###ASSPC
@@ -9279,6 +9282,7 @@ news.mydrivers.com##.baidu_left
 news.mydrivers.com##div[style="width:1000px;padding-top:16px;padding-bottom:12px;"]
 news.mydrivers.com#?#.news_info > p:has(> a[href^="https://dt.mydrivers.com/"])
 news.mydrivers.com#?#.news_info > p:has(> strong:contains(双11红包活动推荐))
+news.owlting.com##.profit-wrapper
 news.pchome.com.tw##div[class^="adnewlist"]
 news.qq.com###focus-bar
 news.qq.com##.download-banner-wrap
@@ -17380,6 +17384,7 @@ zzzyk.com###Tinfo
 ||ejxo0.online^
 ||ekltes.xyz^
 ||ekod.info^$dnsrewrite=ad-block.dns.adguard.com
+||ekykse.xyz^
 ||ekzzed.icu^
 ||elas666.pics^
 ||elecfans.com/images/*/675x90.
@@ -17503,6 +17508,7 @@ zzzyk.com###Tinfo
 ||everyonepiano.cn/Public/*0x
 ||evgaow.xyz^
 ||evscnfj.cn^
+||ewaterw.top^
 ||ewerilxw.top^
 ||eweriow.top^
 ||ewjhic.cn^
@@ -17804,6 +17810,7 @@ zzzyk.com###Tinfo
 ||fptdxkm.com^
 ||fpvdrzx.xyz^
 ||fq01.shop^
+||fq010.shop^
 ||fq02.shop^
 ||fq03.shop^
 ||fq04.shop^
@@ -18177,6 +18184,7 @@ zzzyk.com###Tinfo
 ||gk1.582582.com^
 ||gk1.zjbiz.net^
 ||gk99.com/static/js/a-d-sys.js
+||gkcogyf.icu^
 ||gkeolwi.icu^
 ||gkktjf.top^
 ||gklox.cn^
@@ -18699,6 +18707,7 @@ zzzyk.com###Tinfo
 ||hjfile.cn/site/hj-lzs/
 ||hjfile.cn/site/js/pop_gift_plugin.js
 ||hjjshv.xyz^
+||hjkhxfh.360doc.cn^
 ||hjnjjcw.xyz^
 ||hjrcjz.xyz^
 ||hjshal.com^
@@ -18978,6 +18987,7 @@ zzzyk.com###Tinfo
 ||iadsdk.apple.com^
 ||iadworkbench.apple.com^
 ||iaindu.cn^
+||iaiqk.top^
 ||iaosua.com^
 ||iapolo.com/myjs/
 ||iask.ca/img/*.gif
@@ -19248,7 +19258,8 @@ zzzyk.com###Tinfo
 ||imgs.cc/img/8Pl6FJY.gif
 ||imgs.cc^$domain=fun1shot.com
 ||imgs.itxueyuan.com/advPicture/
-||imgsrc.baidu.com/*/pic/*.jpg$domain=8724ck.cc|aeahsck.cc
+||imgsrc.baidu.com/*/pic/*.jpg$domain=/87[0-9]{2}ck\.cc/
+||imgsrc.baidu.com/*/pic/*.jpg$domain=8727ck.cc|8726ck.cc|8724ck.cc
 ||imgsrc.baidu.com/tieba/pic/item/$image
 ||imgtg.com^*.gif
 ||imgtp.com/2023/02/18/KkRe64ff.png
@@ -19704,6 +19715,7 @@ zzzyk.com###Tinfo
 ||jisuxz.com/180226/downshare
 ||jitapu.com/inc/adv
 ||jitashe.org/template/jitashe/image/bc/3
+||jiujy5r3.fun^
 ||jiupaozi.com^
 ||jiusudie.com^
 ||jivvjl.xyz^
@@ -19910,6 +19922,7 @@ zzzyk.com###Tinfo
 ||jxwqu.cn^
 ||jy.zhongxues.com^
 ||jy01.shop^
+||jy010.shop^
 ||jy04.shop^
 ||jy05.shop^
 ||jy06.shop^
@@ -20005,6 +20018,7 @@ zzzyk.com###Tinfo
 ||kdicked.top^
 ||kdipsumd.top^
 ||kdjdpyrt.xyz^
+||kdopag.xyz^
 ||kdoshbd.top^
 ||kdou.com/ad_js.php?adid=
 ||kdpic.pchome.com.tw^
@@ -21583,6 +21597,7 @@ zzzyk.com###Tinfo
 ||nkbpft.xyz^
 ||nkdgnsfsk.com^
 ||nkfith.xyz^
+||nkjkvn.xyz^
 ||nlfbdgr.xyz^
 ||nlhpxj.xyz^
 ||nljrvdh.xyz^
@@ -22524,6 +22539,7 @@ zzzyk.com###Tinfo
 ||qedgcxi.cn^
 ||qeedaa.xyz^
 ||qejjhnq.cn^
+||qeryt111.fun^
 ||qescaen.com^
 ||qetlwsy.top^
 ||qetskupch581.shop^
@@ -23908,6 +23924,7 @@ zzzyk.com###Tinfo
 ||sw76r85eda3k.com/need/h5.
 ||swad332.fun^
 ||swarku.xyz^
+||swaterb.top^
 ||swerilxb.top^
 ||sweriob.top^
 ||swesomepop.com^$dnsrewrite=ad-block.dns.adguard.com
@@ -25179,6 +25196,7 @@ zzzyk.com###Tinfo
 ||vsping.com/website/ads?
 ||vsqovxf.icu^
 ||vszzzj.xyz^
+||vtbfgnf00.fun^
 ||vtlyrj.xyz^
 ||vtnmxx.xyz^
 ||vuetifyjs.com/notify.json
@@ -25894,6 +25912,7 @@ zzzyk.com###Tinfo
 ||xuehi.cn/reward/reward
 ||xuexi.hydcd.com^
 ||xuexila.com^*-xxl.js
+||xufyxhiu.icu^
 ||xuldtcip.icu^
 ||xulizui6.com^
 ||xunlei.com/api/stat/rt/js?
@@ -26276,6 +26295,7 @@ zzzyk.com###Tinfo
 ||yueipaoo.xyz^*.gif
 ||yui-nya.com/wp-content/uploads/2016/12/37011.jpg
 ||yui-nya.com/wp-content/uploads/2016/12/neta370-370.jpg
+||yukbsa.xyz^
 ||yule.sohu.com^
 ||yun.baidu.com/act/api/activityentry?
 ||yundaquan.com/data/attachment/portal/
@@ -26601,7 +26621,6 @@ zzzyk.com###Tinfo
 ||zztongyun.com/static/js/sh.
 ||zztongyun.com/static/js/sh.min.js
 ||zztxfj.xyz^
-||zztxfj.xyz^[uniartisan's Adblock List]
 ||zzy1.quyaoya.com^
 ||zzz4.com/JS_AD/
 ||zzzyk.com/js/
