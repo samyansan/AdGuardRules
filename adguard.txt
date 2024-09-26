@@ -3,8 +3,8 @@
 ! Powerd by SamSan
 ! Description: Just a merged Adblock rule. Nothing more
 ! Expires: 6 hours (update frequency)
-! Version: 2024-09-26 08:40:23
-! Total count: 26651
+! Version: 2024-09-26 14:12:30
+! Total count: 26672
 
 ###ADtip
 ###Ad_windows
@@ -4409,8 +4409,11 @@ baidu.com##.icon-bdad
 baidu.com##.img-adv-swap1
 baidu.com##.index-module_drawerHand__aRhcO
 baidu.com##.intro-adv
+baidu.com##.invoke-app-floating-tips
+baidu.com##.invoke-app-san-container
 baidu.com##.l-header-ad
 baidu.com##.landrightbanner
+baidu.com##.lianmeng-pause
 baidu.com##.link-banner
 baidu.com##.manual-spread
 baidu.com##.na-ec-waterfall
@@ -6882,6 +6885,7 @@ hao123.sh##.box-banner
 hao4k.cn##.lineC_right
 haoduoyun.cc#?#.ebookRight > div.tb_cell.mb10:has(> div.listcell > div.lc_head >h2:contains(课本赞助商))
 haojiyou.la##.iqshwad-div
+haokan.baidu.com##.page-top-rightinfo-popover
 haorooms.com##.right_guanggao
 haosou.com###haosou-banner-left
 haosou.com###so_feb
@@ -9031,12 +9035,17 @@ mrmad.com.tw#?#div[id^="mrmad-"]:-abp-has(>.adsbygoogle)
 mrmad.com.tw#?#div[id^="mrmad-"][style]:has(> .adsbygoogle)
 mscbsc.com##.bao1
 mse.360.cn##a[id^="banner"]
+msn.cn##.consumption-page > above-river-block
+msn.cn##.game-advertise-container
 msn.cn##.intra-article-ad-full
 msn.cn##.nativeadserversidecontentmodule
 msn.cn##.rc > a[href^="https://sp.booking.com/"]
+msn.cn##.views-right-rail-top-display
 msn.cn##[class^="articlePage_eoabContent"]
+msn.cn##casual-games-carousel-card
 msn.cn##cs-native-ad-card
 msn.cn##div[class^="nativeAd-DS-card"]
+msn.cn##gaming-discover-strip
 msn.cn#%#//scriptlet('hide-in-shadow-dom', '.recommended-sites-container')
 msn.cn#%#//scriptlet('hide-in-shadow-dom', 'msft-article-card:not([class="contentCard"])')
 msn.cn#%#//scriptlet('inject-css-in-shadow-dom', '#entry-point-hp-wc-header[style^="top:"] { top: 0 !important; }')
@@ -16504,6 +16513,7 @@ zzzyk.com###Tinfo
 ||cysgcm.xyz^
 ||cyuwkbf.top^
 ||czouthy.cn^
+||czpnpjrg.xyz^
 ||czresus.cn^
 ||czsp12.com/api/*=advert&
 ||czsp12.com/api/*=announce&
@@ -17836,6 +17846,7 @@ zzzyk.com###Tinfo
 ||freelovehere.com^$dnsrewrite=ad-block.dns.adguard.com
 ||freetrckr.com^$dnsrewrite=ad-block.dns.adguard.com
 ||freshpops.net^$dnsrewrite=ad-block.dns.adguard.com
+||frfve33.fun^
 ||frgf99.fun^
 ||frgre33.fun^
 ||friendfinder.com^$dnsrewrite=ad-block.dns.adguard.com
@@ -19000,6 +19011,7 @@ zzzyk.com###Tinfo
 ||iask.sina.com.cn/s-b/mxbg
 ||ibaglhc.icu^
 ||ibf.tw/js/jquery.blockUI.js
+||ibkoiw.xyz^
 ||ibqmey.xyz^
 ||ic.ksosoft.com^
 ||ic.snssdk.com^
@@ -20073,6 +20085,7 @@ zzzyk.com###Tinfo
 ||kggikf.icu^
 ||kgidskid.top^
 ||kgimg.com/public/root//images/hardware.jpg
+||kgipui.xyz^
 ||kgmobilestat.kugou.com^
 ||kgqcse.xyz^
 ||kgubus.xyz^
@@ -22636,6 +22649,7 @@ zzzyk.com###Tinfo
 ||qiyun.org/images/js/*.htm
 ||qizhihaotian.com^*.js
 ||qjrhacxxk.xyz^$dnsrewrite=ad-block.dns.adguard.com
+||qjwvwu.xyz^
 ||qk6.org/file/script/
 ||qkikkg.xyz^
 ||qkitery.top^
@@ -25064,6 +25078,7 @@ zzzyk.com###Tinfo
 ||vexilorath.com^
 ||vezizey.xyz^$dnsrewrite=ad-block.dns.adguard.com
 ||vfchm.cyou^
+||vfdvdfv77.fun^
 ||vfdvdg67.fun^
 ||vfgajrk.cn^
 ||vfgte.com^$dnsrewrite=ad-block.dns.adguard.com
@@ -25201,6 +25216,7 @@ zzzyk.com###Tinfo
 ||vtlyrj.xyz^
 ||vtnmxx.xyz^
 ||vuetifyjs.com/notify.json
+||vulitd.xyz^
 ||vungle.cn^
 ||vungle.com^
 ||vupload.duowan.com^
@@ -25411,6 +25427,7 @@ zzzyk.com###Tinfo
 ||wenxue.weimeifan.net^
 ||wenxue.youzhicn.com^
 ||werssf.com^
+||weryt111.fun^
 ||west.cn/vcp/getJScode/
 ||westca.com/server/
 ||weste.net/js/showpagead.js
@@ -25543,6 +25560,7 @@ zzzyk.com###Tinfo
 ||wpa.b.qq.com/cgi/wpa.php?
 ||wpdaxue.com/img/*/txy-
 ||wples.com/pc/common.js
+||wpmdeo.xyz^
 ||wpsbaq.xyz^
 ||wpsweb-dc.wps.cn^
 ||wpuiuwh.icu^
@@ -25803,6 +25821,7 @@ zzzyk.com###Tinfo
 ||xkbbjtfp.xyz^
 ||xkd*.com/layer/layer.js
 ||xkesqbp.icu^
+||xkgttas.icu^
 ||xkjmjj.com^
 ||xklofoz.cn^
 ||xklrsj.icu^
@@ -26410,6 +26429,7 @@ zzzyk.com###Tinfo
 ||zdjtxjp.xyz^
 ||zdnet.com.cn/js/pv.js
 ||zdqx.com/statics/v1/images/gif/
+||zdscdkc.icu^
 ||zdw.w8.com.cn/p.ht?
 ||ze5.com^$third-party
 ||zeddjv.xyz^
@@ -26518,6 +26538,7 @@ zzzyk.com###Tinfo
 ||zmfcnlvu.xyz^
 ||zmk.pw/zfb.png
 ||zmklhev.cn^
+||zmvopcio.icu^
 ||zn46.com/images/*0x
 ||zndsssp.dangbei.net^
 ||zndvfrl.xyz^
