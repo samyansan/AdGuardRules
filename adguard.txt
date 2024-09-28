@@ -3,8 +3,8 @@
 ! Powerd by SamSan
 ! Description: Just a merged Adblock rule. Nothing more
 ! Expires: 6 hours (update frequency)
-! Version: 2024-09-28 08:40:33
-! Total count: 26687
+! Version: 2024-09-28 14:10:34
+! Total count: 26702
 
 ###ADtip
 ###Ad_windows
@@ -858,6 +858,7 @@
 ##.pggb > .ng-star-inserted
 ##.pggc > .ng-star-inserted
 ##.pggd > .ng-star-inserted
+##.pggf > .ng-star-inserted
 ##.photo-two > a[onclick^="_czc."]
 ##.player + .sponsor
 ##.player-bottom-gg
@@ -14985,6 +14986,7 @@ zzzyk.com###Tinfo
 ||baifen.music.baidu.com^
 ||baifendian.com^
 ||baigamp.icu^
+||baigh8eosmgie01.site^
 ||baihuwang.com^$third-party
 ||baijs010.shop^
 ||baijs010.xyz^
@@ -16857,6 +16859,7 @@ zzzyk.com###Tinfo
 ||djs.baomihua.com^
 ||djxpnuo.xyz^
 ||dk45h.icu^
+||dkasdeerw.xyz^
 ||dkeyn.com^
 ||dkhffh.xyz^
 ||dkstrtss.xyz^
@@ -16972,6 +16975,7 @@ zzzyk.com###Tinfo
 ||donkstar1.online^$dnsrewrite=ad-block.dns.adguard.com
 ||donkstar2.online^$dnsrewrite=ad-block.dns.adguard.com
 ||doostozoa.net^$dnsrewrite=ad-block.dns.adguard.com
+||dopklb.xyz^
 ||dorogokupimnoutbuk.online^$dnsrewrite=ad-block.dns.adguard.com
 ||dorper.cn^
 ||dosya-indirici.online^$dnsrewrite=ad-block.dns.adguard.com
@@ -18159,6 +18163,7 @@ zzzyk.com###Tinfo
 ||gg88.bj.bcebos.com^
 ||ggcode.2345.com^
 ||ggdm1.nhaidu.net^
+||ggfdgd88.fun^
 ||ggg*.com/static/js/common.js
 ||gghhce96.shop^
 ||gghhct36.shop^
@@ -18784,6 +18789,7 @@ zzzyk.com###Tinfo
 ||holdhostel.space^$dnsrewrite=ad-block.dns.adguard.com
 ||holdntlc.com^
 ||home.mi.com/cgi-op/api/v1/recommendation/banner^
+||hongi7ie8owiie01.site^
 ||honglingjin.co.uk/wp-content/uploads/*-Homepage-Takeover-BG-
 ||hongyingbbs.com/jj/
 ||honknl.xyz^
@@ -19624,6 +19630,7 @@ zzzyk.com###Tinfo
 ||jddaw.com^
 ||jdfzfd.xyz^
 ||jdickea.top^
+||jdiekknmcb.com^
 ||jdipsuma.top^
 ||jditera.top^
 ||jdoshba.top^
@@ -19740,6 +19747,7 @@ zzzyk.com###Tinfo
 ||jisuxz.com/180226/downshare
 ||jitapu.com/inc/adv
 ||jitashe.org/template/jitashe/image/bc/3
+||jiuab8eig2oateh01.site^
 ||jiujy5r3.fun^
 ||jiupaozi.com^
 ||jiusudie.com^
@@ -20707,6 +20715,7 @@ zzzyk.com###Tinfo
 ||lutouwang.net/static/js/mv_ad
 ||lutrbr.xyz^
 ||luven.xyz^$dnsrewrite=ad-block.dns.adguard.com
+||luyarvx.icu^
 ||luyx8.com/tu/666.gif
 ||lv-play.com/web/adv/list
 ||lv.myapks.com^
@@ -21824,6 +21833,7 @@ zzzyk.com###Tinfo
 ||om.cn/api/ad-om/
 ||omgmta.play.aiseet.atianqi.com^
 ||omgmta1.qq.com^
+||omgnqu.xyz^
 ||omgt3.com^$dnsrewrite=ad-block.dns.adguard.com
 ||omguk.com^$dnsrewrite=ad-block.dns.adguard.com
 ||omkxes.xyz^
@@ -22267,8 +22277,6 @@ zzzyk.com###Tinfo
 ||pjy55d.com^
 ||pjzxdl.xyz^
 ||pkfuxvbk.xyz^
-||pki.net.cn/public/*/plugins/
-||pki.net.cn/public/1/assets/js/custom/tt.
 ||pkk1.zuimeiniwo.com^
 ||pklujb.xyz^
 ||pkvs.com/public/300/
@@ -22508,6 +22516,7 @@ zzzyk.com###Tinfo
 ||pwfqjp.xyz^
 ||pwhkfd.xyz^
 ||pwhtip.icu^
+||pwrgcxaj.icu^
 ||pwuxnr.cn^
 ||pwxlbsie.icu^
 ||pxqqytk.icu^
@@ -22564,6 +22573,7 @@ zzzyk.com###Tinfo
 ||qdzyspjx.com^
 ||qedgcxi.cn^
 ||qeedaa.xyz^
+||qeeocy.xyz^
 ||qejjhnq.cn^
 ||qeryt111.fun^
 ||qescaen.com^
@@ -22912,6 +22922,7 @@ zzzyk.com###Tinfo
 ||reportlog.dftoutiao.com^
 ||requirejs.cn/ts.png
 ||reqwevf3.fun^
+||reryt111.fun^
 ||res.cngoldres.com/web/index/img/*_ad_
 ||res.gwifi.com.cn^
 ||res.hubcloud.com.cn^
@@ -22957,6 +22968,7 @@ zzzyk.com###Tinfo
 ||riaway.com/statics/idea.jpg
 ||richh.cn^
 ||ridingintractable.com^$dnsrewrite=ad-block.dns.adguard.com
+||ridirre.com^
 ||riflesurfing.xyz^$dnsrewrite=ad-block.dns.adguard.com
 ||riftharp.com^$dnsrewrite=ad-block.dns.adguard.com
 ||rigel.baidustatic.com^
@@ -23987,6 +23999,8 @@ zzzyk.com###Tinfo
 ||syuwkbb.top^
 ||syzjxz2018.cn^
 ||sz88.oss-cn-shenzhen.aliyuncs.com^
+||szaction.cc/public/*/plugins/
+||szaction.cc/public/1/assets/js/custom/tt.
 ||szapaqi.cn^
 ||szbhb.cn^
 ||szbpf.cn^
@@ -25057,6 +25071,7 @@ zzzyk.com###Tinfo
 ||vcxv73.fun^
 ||vcxv787.fun^
 ||vda.17173.com^
+||vdfvdf33q.fun^
 ||vdggsd001.com^
 ||vdggsd002.com^
 ||vdggsd003.com^
@@ -25673,6 +25688,7 @@ zzzyk.com###Tinfo
 ||x.dmouy.cn^$third-party
 ||x.yaohuo.me^
 ||x08jd.top^
+||x0or8.icu^
 ||x1.52aoteman.com^
 ||x1.kantu.com^
 ||x1fyw.icu^
@@ -26657,7 +26673,6 @@ zzzyk.com###Tinfo
 ||zztongyun.com/static/js/sh.
 ||zztongyun.com/static/js/sh.min.js
 ||zztxfj.xyz^
-||zztxfj.xyz^[uniartisan's Adblock List]
 ||zzy1.quyaoya.com^
 ||zzz4.com/JS_AD/
 ||zzzyk.com/js/
