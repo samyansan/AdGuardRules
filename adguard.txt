@@ -3,8 +3,8 @@
 ! Powerd by SamSan
 ! Description: Just a merged Adblock rule. Nothing more
 ! Expires: 6 hours (update frequency)
-! Version: 2024-09-29 08:45:00
-! Total count: 26704
+! Version: 2024-09-29 14:11:08
+! Total count: 26714
 
 ###ADtip
 ###Ad_windows
@@ -214,6 +214,7 @@
 ###js_ads_banner_top
 ###js_ads_banner_top_slide
 ###kfpopupDiv
+###kp-mid-sport.fed-back-whits
 ###ks > .DaKuang
 ###ldgindexbuttom
 ###leftAD
@@ -1571,7 +1572,7 @@ $third-party,xmlhttprequest,websocket,domain=qiyoudy2.com|qiyoudy4.com
 .xyz:8009/11?x=
 .xyz:9002/*?x=$websocket,script,third-party
 .zone/ads/
-/.*\..*\.shouji\.sogou\.com/
+/.*\.*\.shouji\.sogou\.com/
 /.*\.[a-zA-Z0-9.-]skwai\.com/
 /.*\.a\.market\.xiaomi\.com/
 /.*\.data\.hicloud\.com/
@@ -14838,6 +14839,7 @@ zzzyk.com###Tinfo
 ||axonix.com^
 ||axutongxue.*/js/yes.
 ||axutongxue.net/js/ik474n.js
+||ayebsc.xyz^
 ||ayga.xyz^$dnsrewrite=ad-block.dns.adguard.com
 ||aymwiq.xyz^
 ||aynufyns.xyz^
@@ -15859,6 +15861,7 @@ zzzyk.com###Tinfo
 ||cdrvkdni.xyz^
 ||cdscs990.fun^
 ||cdsget.51y5.net^
+||cdszgg.xyz^
 ||cdttxdqe.xyz^
 ||cduno.cn^
 ||cdunwi.xyz^
@@ -15887,6 +15890,7 @@ zzzyk.com###Tinfo
 ||cfateu.xyz^
 ||cfb98a.xyz^$dnsrewrite=ad-block.dns.adguard.com
 ||cfdns.vip^
+||cfdvd779.fun^
 ||cfff.net^$third-party
 ||cfg.imtt.qq.com^
 ||cfjslif.top^
@@ -16625,6 +16629,7 @@ zzzyk.com###Tinfo
 ||dajiahao9.top^
 ||dajiazhao.com/login/reg.js
 ||dajkqqpz.top^
+||dajs001.shop^
 ||daksflkalq.top^
 ||daliantong.com.cn^$third-party
 ||dalipan.com/api/taobao
@@ -17450,6 +17455,7 @@ zzzyk.com###Tinfo
 ||eng24.com/js_new/copyright_float.
 ||engwsq.xyz^
 ||enifdlaw.top^
+||enokouv.icu^
 ||enread.com/img/185-50.gif
 ||ent1.12584.cn^
 ||ent1.qunchua.cn^
@@ -18654,6 +18660,7 @@ zzzyk.com###Tinfo
 ||heptix.net^$dnsrewrite=ad-block.dns.adguard.com
 ||herma-tor.com^$dnsrewrite=ad-block.dns.adguard.com
 ||herogame.com^$subdocument,domain=gamer.com.tw
+||heryt111.fun^
 ||hetapus.com^$dnsrewrite=ad-block.dns.adguard.com
 ||hetlwsu.top^
 ||heukmsactivator.com^$dnsrewrite=ad-block.dns.adguard.com
@@ -19506,6 +19513,7 @@ zzzyk.com###Tinfo
 ||itongcheng.cc/amm/
 ||itopdog.cn/itopdog/ad.js
 ||itopdog.cn/itopdog/d*.js
+||itqwesk.icu^
 ||itrdqbg.xyz^
 ||its-dori.tumblr.com^
 ||itsdata.map.baidu.com^
@@ -20096,6 +20104,7 @@ zzzyk.com###Tinfo
 ||kfjpren.xyz^
 ||kfjslid.top^
 ||kflybplr.xyz^
+||kfocken.icu^
 ||kfpicimage.xyz^
 ||kfpnqug.cn^
 ||kfqizu.cn^
@@ -24195,6 +24204,7 @@ zzzyk.com###Tinfo
 ||terren.cntv.cn^
 ||terrynow.com^$csp=script-src 'self' * 'unsafe-eval'
 ||tertracks.site^$dnsrewrite=ad-block.dns.adguard.com
+||teryt111.fun^
 ||teslaamg.obs.cn-east-3.myhuaweicloud.com^
 ||test.ad.xiaomi.com^
 ||test.e.ad.xiaomi.com^
@@ -26407,6 +26417,7 @@ zzzyk.com###Tinfo
 ||yzgbsg.xyz^
 ||yzgid.cn^
 ||yzihdppw.xyz^
+||yzldy.info^
 ||yzmcok.xyz^
 ||yzpsb.net/1.js
 ||yzpsb.net/js/jquery.
@@ -26674,7 +26685,6 @@ zzzyk.com###Tinfo
 ||zztongyun.com/static/js/sh.
 ||zztongyun.com/static/js/sh.min.js
 ||zztxfj.xyz^
-||zztxfj.xyz^[uniartisan's Adblock List]
 ||zzy1.quyaoya.com^
 ||zzz4.com/JS_AD/
 ||zzzyk.com/js/
