@@ -3,8 +3,8 @@
 ! Powerd by SamSan
 ! Description: Just a merged Adblock rule. Nothing more
 ! Expires: 6 hours (update frequency)
-! Version: 2024-10-02 08:40:51
-! Total count: 26736
+! Version: 2024-10-02 14:12:09
+! Total count: 26754
 
 ###ADtip
 ###Ad_windows
@@ -1303,7 +1303,7 @@ $popup,third-party,domain=76fengyun.com|avsdown.com|downdv.com|downdvs.com|downh
 $script,subdocument,third-party,domain=dlkoo.com
 $script,subdocument,third-party,websocket,xmlhttprequest,domain=bhshu.net|louzhong8.com|miwens.com
 $script,subdocument,~third-party,websocket,xmlhttprequest,domain=m.6666xsw.com|m.biqugee6.com|m.chenkuan.com|m.jmshuwu.net|wodexiaoshuoh.com
-$script,third-party,denyallow=authkong.com|rsc.cdn77.org|linkvertise.com|fastly.net|statically.io|sharecast.ws|b-cdn.net|bunnycdn.ru|bootstrapcdn.com|cdn.ampproject.org|cloudflare.com|cdn.staticfile.org|disqus.com|disquscdn.com|dmca.com|ebacdn.com|facebook.net|fastlylb.net|fbcdn.net|fluidplayer.com|fontawesome.com|github.io|google.com|googleapis.com|googletagmanager.com|gstatic.com|jquery.com|jsdelivr.net|jwpcdn.com|jwplatform.com|polyfill.io|recaptcha.net|shrink.pe|twitter.com|ulogin.ru|unpkg.com|userapi.com|vidazoo.com|vk.com|yastatic.net|ytimg.com|zencdn.net|youtube.com|cackle.me|googleoptimize.com|vuukle.com|chatango.com|twimg.com|google-analytics.com|hcaptcha.com|raincaptcha.com|media-imdb.com|blogger.com|hwcdn.net|instagram.com|wp.com|fastcomments.com|plyr.io|cloudflare.net|rabbitstream.net|x.com,_____,domain=wap.dmwenku.com|m.wfxs.tw|h.fkxs.net|wap.ishuquge.la|m.91zww.com|592mh.top|dubuxiaoshuo.com|clm410.buzz|bookbl.com|shuku99.com|qiyoudy2.com|1yydstxt178.com|rouman5.com|feijisu20.com|iqb5.org|wap.xkushu.com|spoilertop.com|booktxts.com|bixia33.com|rouwenwu19.com|91porny.com|yznnw.com|vodtw.la|ckplayer.vip|uuread.tw|fengchedmp.com|aeahsck.cc|xiaoshubao.net|69xx03608.xyz
+$script,third-party,denyallow=authkong.com|rsc.cdn77.org|linkvertise.com|fastly.net|statically.io|sharecast.ws|b-cdn.net|bunnycdn.ru|bootstrapcdn.com|cdn.ampproject.org|cloudflare.com|cdn.staticfile.org|disqus.com|disquscdn.com|dmca.com|ebacdn.com|facebook.net|fastlylb.net|fbcdn.net|fluidplayer.com|fontawesome.com|github.io|google.com|googleapis.com|googletagmanager.com|gstatic.com|jquery.com|jsdelivr.net|jwpcdn.com|jwplatform.com|polyfill.io|recaptcha.net|shrink.pe|twitter.com|ulogin.ru|unpkg.com|userapi.com|vidazoo.com|vk.com|yastatic.net|ytimg.com|zencdn.net|youtube.com|cackle.me|googleoptimize.com|vuukle.com|chatango.com|twimg.com|google-analytics.com|hcaptcha.com|raincaptcha.com|media-imdb.com|blogger.com|hwcdn.net|instagram.com|wp.com|fastcomments.com|plyr.io|cloudflare.net|rabbitstream.net|x.com,_____,domain=wap.dmwenku.com|m.wfxs.tw|h.fkxs.net|wap.ishuquge.la|m.91zww.com|592mh.top|dubuxiaoshuo.com|clm410.buzz|bookbl.com|shuku99.com|qiyoudy2.com|1yydstxt178.com|rouman5.com|feijisu20.com|iqb5.org|wap.xkushu.com|spoilertop.com|booktxts.com|bixia33.com|rouwenwu19.com|91porny.com|yznnw.com|vodtw.la|ckplayer.vip|uuread.tw|fengchedmp.com|aeahsck.cc|xiaoshubao.net|69xx03608.xyz|wap.yushuwu.cloud
 $script,third-party,denyallow=cdn.yinghuazy.xyz|authkong.com|rsc.cdn77.org|linkvertise.com|fastly.net|statically.io|sharecast.ws|b-cdn.net|bunnycdn.ru|bootstrapcdn.com|cdn.ampproject.org|cloudflare.com|cdn.staticfile.org|disqus.com|disquscdn.com|dmca.com|ebacdn.com|facebook.net|fastlylb.net|fbcdn.net|fluidplayer.com|fontawesome.com|github.io|google.com|googleapis.com|googletagmanager.com|gstatic.com|jquery.com|jsdelivr.net|jwpcdn.com|jwplatform.com|polyfill.io|recaptcha.net|shrink.pe|twitter.com|ulogin.ru|unpkg.com|userapi.com|vidazoo.com|vk.com|yastatic.net|ytimg.com|zencdn.net|youtube.com|cackle.me|googleoptimize.com|vuukle.com|chatango.com|twimg.com|google-analytics.com|hcaptcha.com|raincaptcha.com|media-imdb.com|blogger.com|hwcdn.net|instagram.com|wp.com|fastcomments.com|plyr.io|cloudflare.net|rabbitstream.net|x.com,_____,domain=mxdm.xyz
 $script,third-party,denyallow=myqcloud.com|bytecdntp.com|pddpic.com|googletagmanager.com,domain=yjys.me
 $script,third-party,domain=52movieba.com|audio699.com|kan-tv.com|m.supfree.net|movieffm.net|xiaoxintv.com|xiaoxintv.net
@@ -1313,6 +1313,7 @@ $script,third-party,domain=torrentkitty.one|torkitty.com|torrentkitty.app|torren
 $script,third-party,websocket,domain=52codes.net
 $third-party,xmlhttprequest,domain=subhd.tv|subhdtw.com|xyg688.com|xyg688.xyz|zzzzz688.com
 $third-party,xmlhttprequest,websocket,domain=qiyoudy2.com|qiyoudy4.com
+$websocket,domain=wap.yushuwu.cloud
 &ad_type=
 &adsrc=
 &xhtml?$script,third-party
@@ -11292,6 +11293,7 @@ wap.sogou.com###indexAppOneClose
 wap.sogou.com##.index-carousel
 wap.sogou.com##.index-tab
 wap.sougou.com###sug_wraper
+wap.yushuwu.cloud#%#//scriptlet('prevent-eval-if', 'WebSocket')
 wap.zol.com.cn###waitrep
 wapwenku.baidu.com,wk.baidu.com###bottomFixed
 wapwenku.baidu.com,wk.baidu.com##.tout
@@ -11900,6 +11902,8 @@ youxi.kugou.com###scrollUp
 yp868.com##iframe[src="/js/loading.html"]
 ypojie.com#?#.excerpt:-abp-has(>.focus[href^="http"]:not([href*="ypojie"]))
 ys168.com##div[style="position: fixed; width: 200px; top: 330px; right: 20px; font-size: 9pt; text-align: left;"]
+ysgc.fun,ysgc.tv##.myui-panel_bd > div > a[target="_blank"]
+ysgc.fun,ysgc.tv##.swiper-slide > a[target="_blank"]
 yshw1.com###diynews_ad1
 ysxs8.vip##.ysxs8_w960_1
 ytbbs.com###dd1
@@ -12427,6 +12431,7 @@ zzzyk.com###Tinfo
 ||1684sm.com/js/1684/
 ||1688.com/b2bxad?
 ||16888.com/ajax/loadcardata.php
+||1688by.com/static/default/js/loadLM.js
 ||168gamer.*.php?mod=js
 ||168gamer.*/list-
 ||168gamer.*/olist-
@@ -13087,6 +13092,7 @@ zzzyk.com###Tinfo
 ||614514.com^
 ||62422.cn/ggimg/
 ||62mao.com/52
+||62zd0.icu^
 ||63007.com:82/haodxi.js
 ||634369.xyz^$dnsrewrite=ad-block.dns.adguard.com
 ||63ef.com^*.js
@@ -14716,6 +14722,7 @@ zzzyk.com###Tinfo
 ||arthygeo.info^$dnsrewrite=ad-block.dns.adguard.com
 ||artistni.xyz^$dnsrewrite=ad-block.dns.adguard.com
 ||arwobaton.com^$dnsrewrite=ad-block.dns.adguard.com
+||aryici.xyz^
 ||as.aplus.pptv.com^
 ||as.baidu.cn^
 ||as.baidu.com^
@@ -14849,6 +14856,7 @@ zzzyk.com###Tinfo
 ||axonix.com^
 ||axutongxue.*/js/yes.
 ||axutongxue.net/js/ik474n.js
+||ayalcid.icu^
 ||ayebsc.xyz^
 ||ayga.xyz^$dnsrewrite=ad-block.dns.adguard.com
 ||aymwiq.xyz^
@@ -15894,6 +15902,7 @@ zzzyk.com###Tinfo
 ||cenyou.net/wp-content/uploads/1200-200.
 ||cergbtb36.shop^
 ||cergbwa97.shop^
+||ceryt111.fun^
 ||cetlwsf.top^
 ||cewrutf.top^
 ||cf959857.live^$dnsrewrite=ad-block.dns.adguard.com
@@ -19961,6 +19970,7 @@ zzzyk.com###Tinfo
 ||jwfesuk.cn^
 ||jwhdgt.icu^
 ||jwjzf.online^
+||jwursera.top^
 ||jxad.jx163.com^
 ||jxcn.cn/assets/images/downWeatherApp.png
 ||jxcn.cn/js/hotpic_
@@ -20237,6 +20247,7 @@ zzzyk.com###Tinfo
 ||kqjqripb.xyz^
 ||kqvvqv.icu^
 ||kqwerp.top^
+||krbulhb.com^
 ||kreisis.top^
 ||kritgu.xyz^
 ||krtlisd.top^
@@ -21346,6 +21357,7 @@ zzzyk.com###Tinfo
 ||mqsjzm.cn^
 ||mqsnce.xyz^
 ||mqwmgs.xyz^
+||mqwtgq.xyz^
 ||mqznjujv.xyz^
 ||mrs30w.com^
 ||mrthav.xyz^
@@ -21800,6 +21812,7 @@ zzzyk.com###Tinfo
 ||odipsumk.top^
 ||oehcxmhk.xyz^
 ||oektiu.xyz^
+||oeryt111.fun^
 ||oewrutk.top^
 ||oeya.com^$domain=myptt.cc
 ||ofd.meng-an.cn^$third-party
@@ -21832,6 +21845,7 @@ zzzyk.com###Tinfo
 ||ohopao.xyz^
 ||oimagea2.ydstatic.com^
 ||oiu09.cn^
+||oiuuuc.xyz^
 ||ojvpigx.xyz^
 ||ok8867s.com^
 ||okagcw.xyz^
@@ -24612,6 +24626,7 @@ zzzyk.com###Tinfo
 ||tuvixr.xyz^
 ||tuwan.com/events/courseiframe?
 ||tuwan.com/myad/
+||tuxpfiok.icu^
 ||tuyiyi.com/tuyiyi/m.js
 ||tv002.com/img/down1_ssp1.gif
 ||tv2box.com/img_1g/
@@ -25254,6 +25269,7 @@ zzzyk.com###Tinfo
 ||vpzohx.xyz^
 ||vqbzpv.xyz^
 ||vqlwoy.xyz^
+||vrdfxioe.icu^
 ||vrdxznr.xyz^
 ||vreqnait.com^
 ||vriddhipardee.top^$dnsrewrite=ad-block.dns.adguard.com
@@ -25564,6 +25580,7 @@ zzzyk.com###Tinfo
 ||wkywrc.cn^
 ||wkzsmj.icu^
 ||wl.hd.sohu.com^
+||wl.uqwjdhgv.top^
 ||wlkukrv.icu^
 ||wlog.kuaishou.com^
 ||wlrjy.com/assets/images/*.gif
@@ -26501,6 +26518,7 @@ zzzyk.com###Tinfo
 ||zekzoh.icu^
 ||zemanta.com^
 ||zeqvqb.icu^
+||zeryt111.fun^
 ||zeuqmpe.icu^
 ||zeus.ad.xiaomi.com^
 ||zfcoin.cn^
