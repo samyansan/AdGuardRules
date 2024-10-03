@@ -1059,10 +1059,13 @@
 ##a[href*=".com?intr="]
 ##a[href*=".cvezsacxz.com/"]
 ##a[href*=".downok.com"]
+##a[href*=".gaimin.gg/cn"]
+##a[href*=".hg63222.com"]
 ##a[href*=".hyenadata.com/"]
 ##a[href*=".imiwang.com/"]
 ##a[href*=".impactyu.com/"]
 ##a[href*=".ipndyn.com/"]
+##a[href*=".kaiyunty.live"]
 ##a[href*=".labsda.com"]
 ##a[href*=".mamsou.com/"]
 ##a[href*=".mbrnf.com/"]
@@ -1085,13 +1088,16 @@
 ##a[href*=".xwrfr.com/"]
 ##a[href*=".xxmh"][href*="?u="]
 ##a[href*=".xyz:"] > img[src*=".qlogo.cn"]
+##a[href*=".zhuijuwa.app"]
 ##a[href*=".zxzja.com/"]
+##a[href*=".zxzjys.com/"]
 ##a[href*="/04816632.com/"]
 ##a[href*="/122.51.121.126:"]
 ##a[href*="/2e9c9aa9.com/"]
 ##a[href*="/333663.xyz"]
 ##a[href*="/33hth.cn"]
 ##a[href*="/445.ee/"]
+##a[href*="/75333cc.com:"]
 ##a[href*="/?INTR="]
 ##a[href*="/?Intr="]
 ##a[href*="/?aff="][target="_blank"]
@@ -4538,14 +4544,19 @@ eastmoney.com###ListPage_r_Ad
 eastmoney.com###fp1
 eastmoney.com###fundtg-fb
 eastmoney.com###rightadvert
+eastmoney.com###search > .ads
 eastmoney.com###zwbtextlink
 eastmoney.com##.advertisement
 eastmoney.com##.fund-pop
+eastmoney.com##.head_adbox
 eastmoney.com##.popswipe
 eastmoney.com##div[data-url*="same.eastmoney.com"]
 eastmoney.com##div[id^="em_important_"]
 eastmoney.com##div[id^="flow-ad-"]
 eastmoney.com##div[style="width: 300px; height: 250px; margin-top: 10px;"]
+eastmoney.com##iframe[src*=".eastmoney.com/banner/"]
+eastmoney.com##iframe[src^="//fund.eastmoney.com/trade/hqb_hq.html"]
+eastmoney.com##iframe[src^="//same.eastmoney.com/"]
 easyai.tech##.sidebar-inner > .widget_media_image:nth-child(n+2)
 easyicon.net##.page_big_adv
 easylearn.baidu.com##.feedback-icon
@@ -6709,6 +6720,7 @@ kkpan.com,qqtn.com,smzy.com,yxdj.com.cn##.u-gs-btn
 kkw360.com##a[href^="https://sourl.cn/"]
 klyingshi.net##.row > div.url-card:has(> div.url-body span.badge-danger)
 km.com##.downloadApp
+kmeiju.com##.ad
 kmf.com##.g-kmf-906banner
 knowlet3389.blogspot.com,knowlet3389.blogspot.hk,knowlet3389.blogspot.jp,knowlet3389.blogspot.tw#@##gAds
 knowmore.cc##.ins
@@ -8464,9 +8476,6 @@ qudao.com###wechat
 qudong.com##.advert_bottom
 qunar.com##.flight_ad
 qunar.com##.list_promotion_bar
-quote.eastmoney.com##.head_adbox
-quote.eastmoney.com##iframe[src^="//fund.eastmoney.com/trade/hqb_hq.html"]
-quote.eastmoney.com##iframe[src^="//same.eastmoney.com/"]
 qxfun.com###beautiful-things
 qxfun.com###reward-me > figure:nth-child(n+2)
 qyer.com###zpui-head-ad
@@ -9865,14 +9874,16 @@ wenmi114.com###xiezuo
 wenxuecity.com###adt
 wenxuecity.com###gg_multitext
 wenxuecity.com###gg_rightside
+wenxuecity.com###gg_viewBottom
 wenxuecity.com###marquee
 wenxuecity.com##.otherposts > ul > li > a[target="_blank"]
 wenxuecity.com##.rightbannerw
+wenxuecity.com##.sharewechat + .otherposts
 wenxuecity.com##.sidebar > .banners
 wenxuecity.com##.topbannerw
 wenxuecity.com##DIV[class^="Inarticle_"]
 wenxuecity.com##label[style*="darkgrey"]
-wenxuecity.com#?#div[class]:-abp-has(>.adlab_border)
+wenxuecity.com#?#div:-abp-has(>label[class^="adlab"])
 wenxuecity.com#@#.otherposts
 wezhicms.com##.activity
 wezhicms.com#?#.card-main:-abp-has(.waimai-item-img)
