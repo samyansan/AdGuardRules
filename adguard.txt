@@ -3,8 +3,8 @@
 ! Powerd by SamSan
 ! Description: Just a merged Adblock rule. Nothing more
 ! Expires: 6 hours (update frequency)
-! Version: 2024-10-04 20:15:17
-! Total count: 26795
+! Version: 2024-10-05 02:11:14
+! Total count: 26798
 
 ###ADtip
 ###Ad_windows
@@ -13053,6 +13053,7 @@ zzzyk.com###Tinfo
 ||591hx.com/lunbo/
 ||591hx.com/zyrk_dy/gwjl.html
 ||595image.com^
+||59644010.xyz^$dnsrewrite=ad-block.dns.adguard.com
 ||5ab2f817.xyz^$dnsrewrite=ad-block.dns.adguard.com
 ||5afc476a.xyz^$dnsrewrite=ad-block.dns.adguard.com
 ||5axxw.com/extends/ad/
@@ -13228,6 +13229,7 @@ zzzyk.com###Tinfo
 ||78dm.net/acg_201*_1680
 ||78dm.net/channel/test?
 ||78land.com/js/fumeiti.js
+||79180284.xyz^$dnsrewrite=ad-block.dns.adguard.com
 ||79181531227.com^
 ||797sun.com/include/js/common_footer.
 ||7box.vip^
@@ -26766,6 +26768,7 @@ zzzyk.com###Tinfo
 ||zztongyun.com/static/js/sh.
 ||zztongyun.com/static/js/sh.min.js
 ||zztxfj.xyz^
+||zztxfj.xyz^[uniartisan's Adblock List]
 ||zzy1.quyaoya.com^
 ||zzz4.com/JS_AD/
 ||zzzyk.com/js/
