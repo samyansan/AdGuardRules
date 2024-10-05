@@ -3,8 +3,8 @@
 ! Powerd by SamSan
 ! Description: Just a merged Adblock rule. Nothing more
 ! Expires: 6 hours (update frequency)
-! Version: 2024-10-05 08:40:07
-! Total count: 26797
+! Version: 2024-10-05 14:10:46
+! Total count: 26817
 
 ###ADtip
 ###Ad_windows
@@ -1021,6 +1021,7 @@
 ##.wwads_abp
 ##.wzad
 ##.xstui-content__acc
+##.xzad-list
 ##.xzbox-gh
 ##.y.mtw[style="padding: 0px 10px;"]
 ##.ya-normal-box-done
@@ -3830,6 +3831,7 @@ $websocket,domain=wap.yushuwu.cloud
 9xav.cc#%#//scriptlet('remove-class', 'q-body--prevent-scroll', 'body')
 9xav.cc#?#div[class]:not([class*=" "]):has(> span[class*=" "] > a[href^="https://"][target="_blank"])
 9y01.xyz##.in-friends
+://*.*ryt111.fun/$script,third-party
 ://*.tv/ad/$domain=~moviedj.tv
 ://*.z*.xyz/$object,third-party
 ://*:*/chunyu.html?k=$csp=script-src
@@ -13703,6 +13705,7 @@ zzzyk.com###Tinfo
 ||abody.39.net^
 ||above.tw/blog/wp-content/plugins/popups/public/assets/js/public.js
 ||abqdgu.xyz^
+||absalomcsa.com^
 ||abtest-ch.snssdk.com^
 ||abucki.xyz^
 ||ac*.786ip.com^
@@ -15027,6 +15030,7 @@ zzzyk.com###Tinfo
 ||baifendian.com^
 ||baigamp.icu^
 ||baigh8eosmgie01.site^
+||baigh8eosmgie02.site^
 ||baihuwang.com^$third-party
 ||baijs010.shop^
 ||baijs010.xyz^
@@ -15272,6 +15276,7 @@ zzzyk.com###Tinfo
 ||bebreloomr.com^$dnsrewrite=ad-block.dns.adguard.com
 ||bebxhcip.icu^
 ||becode.xiao84.com^
+||bedzbu.xyz^
 ||beephone.com.tw/ad-middle.php
 ||beephone.com.tw/ad-yahoo.php
 ||beezwol.com^
@@ -16063,6 +16068,7 @@ zzzyk.com###Tinfo
 ||chokertraffic.com^$dnsrewrite=ad-block.dns.adguard.com
 ||chong-wu.net^
 ||chongdiantou.com/wp-content/uploads/2019/02/pzb.jpg
+||chooncv.icu^
 ||chosenlove.com^$dnsrewrite=ad-block.dns.adguard.com
 ||choudairtu.net^$dnsrewrite=ad-block.dns.adguard.com
 ||choujue.net/one/down.js
@@ -16608,6 +16614,7 @@ zzzyk.com###Tinfo
 ||d2.yingyongge.com/*?*&$subdocument
 ||d23d450d.xyz^$dnsrewrite=ad-block.dns.adguard.com
 ||d2kadvyeq051an.cloudfront.net^$third-party
+||d2tf0.icu^
 ||d2un76zvb5mgzx.cloudfront.net^
 ||d3.sina.com.cn^$object,script
 ||d37d9zbli5ytch.cloudfront.net^
@@ -17314,6 +17321,7 @@ zzzyk.com###Tinfo
 ||eap.big5.enorth.com.cn^
 ||eap.enorth.com.cn^
 ||eapect.icu^
+||eaqgsw.xyz^
 ||eaqlos.xyz^
 ||earlinessone.xyz^$dnsrewrite=ad-block.dns.adguard.com
 ||easou.com/brandImage/ad/
@@ -18625,6 +18633,7 @@ zzzyk.com###Tinfo
 ||happyhongkong.com/images/client/
 ||hapqncfg.xyz^
 ||hasdjksndjk.com^
+||hauqou.top^
 ||havttn.xyz^
 ||haxqxd.xyz^
 ||hb8g86k.mom/mz.js
@@ -18846,6 +18855,7 @@ zzzyk.com###Tinfo
 ||holdntlc.com^
 ||home.mi.com/cgi-op/api/v1/recommendation/banner^
 ||hongi7ie8owiie01.site^
+||hongi7ie8owiie02.site^
 ||honglingjin.co.uk/wp-content/uploads/*-Homepage-Takeover-BG-
 ||hongyingbbs.com/jj/
 ||honknl.xyz^
@@ -20744,6 +20754,7 @@ zzzyk.com###Tinfo
 ||louimg.com/i/2021/08/17/*.gif
 ||louimg.com/u/20191214/17512133.jpg
 ||love.furenkeji.com^
+||loveameng.top^
 ||lovek01.com/gif/97-
 ||loveofffer.com^$dnsrewrite=ad-block.dns.adguard.com
 ||loveshang.com/api.php?mod=ad&adid=custom_
@@ -21462,6 +21473,7 @@ zzzyk.com###Tinfo
 ||mvcat.com/script/ad.js
 ||mvcat.com/sitefiles/services/cms/adv/
 ||mvcat.com/wx/follow.js
+||mvcngm.xyz^
 ||mvevgi.xyz^
 ||mvirkw.xyz^
 ||mvmqos.xyz^
@@ -21769,6 +21781,7 @@ zzzyk.com###Tinfo
 ||ntimg.cn/original/images/www_ads.jpg
 ||ntiutox.icu^
 ||ntlzvrv.xyz^
+||ntpnfyga.icu^
 ||ntrftrk.com^$dnsrewrite=ad-block.dns.adguard.com
 ||ntrtifx.xyz^
 ||nubcdaqa.xyz^
@@ -22122,6 +22135,7 @@ zzzyk.com###Tinfo
 ||paid.outbrain.com^$dnsrewrite=ad-block.dns.adguard.com
 ||pajhvd.xyz^
 ||pajtll.xyz^
+||pakaujf.icu^
 ||palmnews.sina.cn^
 ||pamwrymm.live^$dnsrewrite=ad-block.dns.adguard.com
 ||pan.baidu.com/act/api/activityentry?
@@ -22504,6 +22518,7 @@ zzzyk.com###Tinfo
 ||proxy.advp.apple.com^
 ||prpmdp.xyz^
 ||prtadf.xyz^
+||prtfpl.xyz^
 ||prwave.info^$dnsrewrite=ad-block.dns.adguard.com
 ||przbzr.xyz^
 ||ps123.net/MyFile/
@@ -22811,6 +22826,7 @@ zzzyk.com###Tinfo
 ||qqjia.com/images/ad
 ||qqk19.com/data/content
 ||qqkkpos.com^
+||qqryt111.fun^
 ||qqtn.com/js/*0.js
 ||qqtn.com/js/downinfo-
 ||qqtn.com/js/html/down_
@@ -22876,6 +22892,7 @@ zzzyk.com###Tinfo
 ||qwnmfiti.xyz^
 ||qwoofao.top^
 ||qwsanan.top^
+||qwursery.top^
 ||qxvp6.site^
 ||qxxys.com^
 ||qxzlmzt.xyz^
@@ -23646,6 +23663,7 @@ zzzyk.com###Tinfo
 ||sjaaquj.cn^
 ||sjalipa.cn^
 ||sjbaiduadv1.redou.com^
+||sjezce.xyz^
 ||sjgsgy.xyz^
 ||sjkdbvjksbv.com^
 ||sjks88.com/templets/default/js/mydata4.js
@@ -24698,6 +24716,7 @@ zzzyk.com###Tinfo
 ||twqtf.boats^
 ||twrank.com^$third-party
 ||twunbbs.com/images/
+||twurseri.top^
 ||twzui6.com^
 ||tx-ad.a.yximgs.com^
 ||tx-kmpaudio.pull.yximgs.com^
@@ -26217,6 +26236,7 @@ zzzyk.com###Tinfo
 ||yezi.cn/_ad/
 ||yfaqgk.xyz^
 ||yfasjfk.icu^
+||yfoega.xyz^
 ||yfsstec96.xyz^
 ||yfzpxnb.xyz^
 ||yg006.com/attachment/js/
