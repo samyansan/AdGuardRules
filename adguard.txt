@@ -3,8 +3,8 @@
 ! Powerd by SamSan
 ! Description: Just a merged Adblock rule. Nothing more
 ! Expires: 6 hours (update frequency)
-! Version: 2024-10-07 08:42:47
-! Total count: 26822
+! Version: 2024-10-07 14:12:56
+! Total count: 26839
 
 ###ADtip
 ###Ad_windows
@@ -1082,6 +1082,7 @@
 ##a[href*=".mjjji.com/"]
 ##a[href*=".mp388.com/"]
 ##a[href*=".n7.org.cn"]
+##a[href*=".nhjhu25hd.com:"]
 ##a[href*=".niujyl.com/"]
 ##a[href*=".pcjx365.com/"]
 ##a[href*=".rookiego.com"]
@@ -3831,6 +3832,7 @@ $websocket,domain=wap.yushuwu.cloud
 9xav.cc#%#//scriptlet('remove-class', 'q-body--prevent-scroll', 'body')
 9xav.cc#?#div[class]:not([class*=" "]):has(> span[class*=" "] > a[href^="https://"][target="_blank"])
 9y01.xyz##.in-friends
+://*.*fgcdcjr000.fun/$script,third-party
 ://*.*ryt111.fun/$script,third-party
 ://*.tv/ad/$domain=~moviedj.tv
 ://*.z*.xyz/$object,third-party
@@ -8572,6 +8574,11 @@ m.dangdang.com###zdmad
 m.dangdang.com##.app_download
 m.dangdang.com##.container > a
 m.dangdang.com##.redrain-index-i
+m.dongchedi.com##.float-open-app-btn.float-open-app
+m.dongchedi.com##.mui-dialog__no-spacing.mui-dialog
+m.dongchedi.com##.open-app
+m.dongchedi.com##.tw-flex:contains(App内打开)
+m.dongchedi.com##div[style="width: 84px; height: 38px; background: rgb(255, 204, 50);"]
 m.douban.com###comment-list > div > .show-all
 m.douban.com##.TalionNav-static > .info
 m.douban.com##.download-app
@@ -12684,6 +12691,7 @@ zzzyk.com###Tinfo
 ||2d979880.xyz^$dnsrewrite=ad-block.dns.adguard.com
 ||2date.club^$dnsrewrite=ad-block.dns.adguard.com
 ||2edef809.xyz^$dnsrewrite=ad-block.dns.adguard.com
+||2efgcdcjr000.fun^
 ||2hpg0.fun^
 ||2jse6.icu^
 ||2kandy.com/js/123/
@@ -13166,6 +13174,7 @@ zzzyk.com###Tinfo
 ||6b70b1086b.com^
 ||6b856ee58e.com^
 ||6dad.com^
+||6efgcdcjr000.fun^
 ||6gcstb.xyz^
 ||6oja.cc^$domain=9xav.cc
 ||6pan.cc/ps/vip.jpg
@@ -15479,6 +15488,7 @@ zzzyk.com###Tinfo
 ||bmp1.ali213.net/js/
 ||bmp1.ali213.net/pubjs/index_sc_utf8.js
 ||bmp2.ali213.net/js/
+||bmqulua.icu^
 ||bmret.cn^
 ||bmtfka93.xyz^
 ||bmxvxl.xyz^
@@ -15647,6 +15657,7 @@ zzzyk.com###Tinfo
 ||bw66.cn/template/default_pc/bbs/
 ||bweriov.top^
 ||bwjfnj.xyz^
+||bwurserv.top^
 ||bwuwirv.cn^
 ||bxbyll.xyz^
 ||bxjhlhk.xyz^
@@ -16195,6 +16206,7 @@ zzzyk.com###Tinfo
 ||clkromtor.com^$dnsrewrite=ad-block.dns.adguard.com
 ||clkservice.youdao.com^
 ||clkwnl.xyz^
+||clmcam.xyz^
 ||clmkwi.xyz^
 ||clofferap.com^$dnsrewrite=ad-block.dns.adguard.com
 ||clog.miguvideo.com^
@@ -16754,6 +16766,7 @@ zzzyk.com###Tinfo
 ||ddkf.xyz^$dnsrewrite=ad-block.dns.adguard.com
 ||ddkh59.com^
 ||ddllhqj.xyz^
+||ddlmsoyo.icu^
 ||ddlvpmt.xyz^
 ||ddnzpr.xyz^
 ||ddomjhr.icu^
@@ -17389,6 +17402,7 @@ zzzyk.com###Tinfo
 ||ecpshapm.xyz^
 ||ectyet.top^
 ||ed2000k.com/ad/
+||edadmy.xyz^
 ||edghkc.xyz^
 ||edickew.top^
 ||edigitalsurvey.com^
@@ -19368,6 +19382,7 @@ zzzyk.com###Tinfo
 ||imgxr.com^$domain=xiuren.org
 ||imilroshoors.com^$dnsrewrite=ad-block.dns.adguard.com
 ||immob.cn^
+||imndl.icu^
 ||imnks.com/ad2023/$image
 ||imooc.com/open/courselistrandjs
 ||imp.optaim.com^
@@ -20177,6 +20192,7 @@ zzzyk.com###Tinfo
 ||kgmobilestat.kugou.com^
 ||kgqcse.xyz^
 ||kgubus.xyz^
+||kgymoc.xyz^
 ||khcsvdc.icu^
 ||khrtac.xiangha.com^
 ||khzyojb.cn^
@@ -20811,6 +20827,7 @@ zzzyk.com###Tinfo
 ||lwlwlw.com/js/FVgg.js
 ||lwprdv.xyz^
 ||lwrohd.xyz^
+||lwurserl.top^
 ||lxapk.com/wp-content/uploads/*.gif
 ||lxbjs.baidu.com^$third-party
 ||lxkzcss.xyz^$dnsrewrite=ad-block.dns.adguard.com
@@ -25994,6 +26011,7 @@ zzzyk.com###Tinfo
 ||xlviiirdr.com^
 ||xlviirdr.com^
 ||xlwrdnrw.xyz^
+||xlxehr.xyz^
 ||xlypzbzs.xyz^
 ||xmatch.com^$dnsrewrite=ad-block.dns.adguard.com
 ||xmcimg.com/js/m.js
@@ -26792,7 +26810,6 @@ zzzyk.com###Tinfo
 ||zztongyun.com/static/js/sh.
 ||zztongyun.com/static/js/sh.min.js
 ||zztxfj.xyz^
-||zztxfj.xyz^[uniartisan's Adblock List]
 ||zzy1.quyaoya.com^
 ||zzz4.com/JS_AD/
 ||zzzyk.com/js/

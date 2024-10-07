@@ -1074,6 +1074,7 @@
 ##a[href*=".mjjji.com/"]
 ##a[href*=".mp388.com/"]
 ##a[href*=".n7.org.cn"]
+##a[href*=".nhjhu25hd.com:"]
 ##a[href*=".niujyl.com/"]
 ##a[href*=".pcjx365.com/"]
 ##a[href*=".rookiego.com"]
@@ -7081,6 +7082,11 @@ m.dangdang.com###zdmad
 m.dangdang.com##.app_download
 m.dangdang.com##.container > a
 m.dangdang.com##.redrain-index-i
+m.dongchedi.com##.float-open-app-btn.float-open-app
+m.dongchedi.com##.mui-dialog__no-spacing.mui-dialog
+m.dongchedi.com##.open-app
+m.dongchedi.com##.tw-flex:contains(App内打开)
+m.dongchedi.com##div[style="width: 84px; height: 38px; background: rgb(255, 204, 50);"]
 m.douban.com###comment-list > div > .show-all
 m.douban.com##.TalionNav-static > .info
 m.douban.com##.download-app
