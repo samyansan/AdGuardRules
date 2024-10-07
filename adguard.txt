@@ -3,8 +3,8 @@
 ! Powerd by SamSan
 ! Description: Just a merged Adblock rule. Nothing more
 ! Expires: 6 hours (update frequency)
-! Version: 2024-10-07 14:12:56
-! Total count: 26839
+! Version: 2024-10-07 20:16:11
+! Total count: 26914
 
 ###ADtip
 ###Ad_windows
@@ -12359,6 +12359,7 @@ zzzyk.com###Tinfo
 ||115img.com/static/115tj.js
 ||115img.com/static/pc/d_
 ||115mm.com/js/
+||11778562.xyz^$dnsrewrite=ad-block.dns.adguard.com
 ||1188.com^$third-party
 ||119xiazai.com^$subdocument
 ||11c7a3.xyz^$dnsrewrite=ad-block.dns.adguard.com
@@ -14666,6 +14667,7 @@ zzzyk.com###Tinfo
 ||api5-normal-quic-lf.ixigua.com^
 ||apic.91bixin.net/api/thirdadv/
 ||apic.in/mmd.gif
+||apidns.kwd.inkuai.com^
 ||apiimg.com/huaer/xiahe.
 ||apilog-web.acfun.cn^
 ||apis301.com^
@@ -15578,6 +15580,7 @@ zzzyk.com###Tinfo
 ||brutebaalite.top^$dnsrewrite=ad-block.dns.adguard.com
 ||brutvncv.top^
 ||bs.baidu.com/app-ads%
+||bsccdn.net^
 ||bsdev.cn^
 ||bshare.cn/bshare_view?Callback=
 ||bshare.cn^
@@ -17001,6 +17004,12 @@ zzzyk.com###Tinfo
 ||dnpalh.xyz^
 ||dnpz123.com^$third-party
 ||dns.chuzushijian.cn^$third-party
+||dns.iqiyi.com^
+||dns.jd.com^
+||dns.qiyipic.iqiyi.com^
+||dns.weibo.cn^
+||dns.weixin.qq.com.cn^
+||dns.weixin.qq.com^
 ||dnvod.tv/listprovider/ajaxlist.async.ashx
 ||dnvodcdn.me/fast/*.mp4
 ||dnwx.com*/ad$image
@@ -17021,6 +17030,9 @@ zzzyk.com###Tinfo
 ||dodo8.com/template/*/images/g_js/
 ||dogfight360.com/Usbeam/*_ad/
 ||dogfight360.com/Usbeam/yuelun_ad/
+||doh.dns.apple.com^
+||doh.iqiyi.com^
+||doh.ptqy.gitv.tv^
 ||doii.cc/mmm/
 ||dokfrl.xyz^
 ||doko.moe^$domain=pantsu.cat
@@ -17047,6 +17059,7 @@ zzzyk.com###Tinfo
 ||dota2.uuu9.com^$subdocument
 ||dotcounter.douyutv.com^
 ||dotmore.com.tw^
+||dotserver.douyucdn.cn^
 ||dotuij.top^
 ||douban.com/?unit=dale_movie_trailer_after_play&
 ||douban.com/view/dale-online/dale_ad
@@ -17263,6 +17276,8 @@ zzzyk.com###Tinfo
 ||dyjqd.com/images/js/dyjqd.js
 ||dykshao.cn/image/$third-party
 ||dymmt.com/skin/mzitu/js/foot.
+||dyp2p-ali.douyucdn.cn^
+||dyp2p-hw.douyucdn.cn^
 ||dytkgl.icu^
 ||dytt.com/oj.js
 ||dytt.com/pc.js
@@ -18679,6 +18694,7 @@ zzzyk.com###Tinfo
 ||hdickeu.top^
 ||hdipsumu.top^
 ||hdjthzg.cn^
+||hdns.ksyun.com^
 ||hdoshbu.top^
 ||hdsky.me/adv/
 ||hdslb.com/bfs/ad/
@@ -18950,10 +18966,40 @@ zzzyk.com###Tinfo
 ||htrurb.xyz^
 ||httpcn.com/Images/banner
 ||httpcn.com/m/tg/
+||httpdns-api.aliyuncs.com^
+||httpdns-browser.platform.dbankcloud.cn^
+||httpdns-sc.aliyuncs.com^
+||httpdns-sdk.n.netease.com^
+||httpdns.alicdn.com^
+||httpdns.baidu.com^
+||httpdns.baidubce.com^
 ||httpdns.bcelive.com^
+||httpdns.bilivideo.com^
+||httpdns.browser.miui.com^
+||httpdns.c.cdnhwc2.com^
+||httpdns.cctv.com^
+||httpdns.danuoyi.tbcache.com^
+||httpdns.gslb.yy.com^
+||httpdns.huaweicloud.com^
 ||httpdns.kg.qq.com^
+||httpdns.kwd.inkuai.com^
+||httpdns.meituan.com^
+||httpdns.music.163.com^
+||httpdns.n.netease.com^
+||httpdns.n.shifen.com^
+||httpdns.ocloud.heytapmobi.com^
 ||httpdns.ocloud.oppomobile.com^
+||httpdns.platform.dbankcloud.cn^
+||httpdns.platform.dbankcloud.com^
+||httpdns.pro^
+||httpdns.push.heytapmobi.com^
+||httpdns.push.oppomobile.com^
+||httpdns.volcengineapi.com^
+||httpdns.yunxindns.com^
+||httpdns.zybang.com^
+||httpdns1.cc.cdnhwc5.com^
 ||httpool.com^
+||httpsdns.baidu.com^
 ||httpwwwdcom.com/js/aaa/
 ||htubzpb.cn^
 ||htxwzp.xyz^
@@ -20341,6 +20387,7 @@ zzzyk.com###Tinfo
 ||kuaileco.com/weishou/
 ||kuaishang.cn^$third-party
 ||kuaishang.com.cn^
+||kuaishou.httpdns.pro^
 ||kuaishouba.com/themes/default/images/*.gif
 ||kuaizhan.com^$domain=yuese46.com
 ||kuaizitech.com^$third-party
@@ -20350,6 +20397,7 @@ zzzyk.com###Tinfo
 ||kuazhi.com/zb_users/plugin/allshow/js/main.js
 ||kugoucdn.com^*?_t=$xmlhttprequest
 ||kuheju.com^$popup
+||kuiniuca.com^
 ||kuk8.com^$third-party
 ||kuke99.com/static/home/js/index/index.js
 ||kuku99.com^$third-party
@@ -20688,6 +20736,7 @@ zzzyk.com###Tinfo
 ||lofter.com/blogPhotoAd?
 ||lofter.com/mailEntry.do?blogad
 ||lofter.com/mailEntryMobile.do
+||lofter.httpdns.c.163.com^
 ||log-api-mn.huxiu.com^
 ||log-api.huxiu.com^
 ||log-api.pangolin-sdk-toutiao-b.com^
@@ -21034,6 +21083,8 @@ zzzyk.com###Tinfo
 ||mbvlmz.com^$dnsrewrite=ad-block.dns.adguard.com
 ||mc.mwgpg.cn^
 ||mc.weather.com.cn^
+||mcdn.bilivideo.cn^
+||mcdn.bilivideo.com^
 ||mcfstats.com^$dnsrewrite=ad-block.dns.adguard.com
 ||mcgi.v.qq.com^
 ||mcighme.icu^
@@ -21472,6 +21523,7 @@ zzzyk.com###Tinfo
 ||muoizbtl.xyz^
 ||murdyq.com^
 ||music.163.com^$domain=mvcat.com
+||music.httpdns.c.163.com^! ------加强屏蔽Start------ !
 ||muwqiga.icu^
 ||muxingkj.com^$third-party,image
 ||muycpg.xyz^
@@ -21956,6 +22008,7 @@ zzzyk.com###Tinfo
 ||onepush.query.yahoo.com^
 ||onetad.com^
 ||onetad.com^$third-party
+||onethingpcs.com^
 ||onetvb.com/assets/javascripts/
 ||onifdlak.top^
 ||onmantineer.com^$dnsrewrite=ad-block.dns.adguard.com
@@ -22116,9 +22169,23 @@ zzzyk.com###Tinfo
 ||p2-lm.adkwai.com^
 ||p2.hunantv.com^
 ||p2ijd.space^
+||p2p-ali.douyucdn.cn^
+||p2p.huya.com^
+||p2p.qq.com^
 ||p2p.v.yyclouds.com/crossdomain.xml
+||p2pchunk-hw.douyucdn.cn^
+||p2pchunk-table.douyucdn.cn^
+||p2pchunk-ws.douyucdn.cn^
+||p2perrorlog.douyucdn.cn^
 ||p2peye.com/ajax.php?mod=ad&
 ||p2peye.com/ajax.php?mod=advertisement&
+||p2plive-ali.douyucdn.cn^
+||p2plive-ws.douyucdn.cn^
+||p2plog.douyucdn.cn^
+||p2ptun.qq.com^
+||p2pupdate.gamedl.qq.com^
+||p2pupgrade.gamedl.qq.com^
+||p2pvod-ws.douyucdn.cn^
 ||p3-be-pack-sign.pglstatp-toutiao.com^
 ||p3-lm.adkwai.com^
 ||p3-tt.byteimg.com^
@@ -22211,6 +22278,7 @@ zzzyk.com###Tinfo
 ||pcbeta.com/data/cache/common_fbdbbsyuzhttpx.js
 ||pccoo.cn/js/dlv1.0.js
 ||pcd.autohome.com.cn^
+||pcdn.yximgs.com^
 ||pcfg.wps.cn^
 ||pcgames.com.cn*/index.js
 ||pcgames.com.cn/g/
@@ -22387,6 +22455,7 @@ zzzyk.com###Tinfo
 ||pkfuxvbk.xyz^
 ||pkk1.zuimeiniwo.com^
 ||pklujb.xyz^
+||pkoplink.com^
 ||pkvs.com/public/300/
 ||pkvs.com/public/as.js
 ||pkyjuc.cn^
@@ -23318,6 +23387,7 @@ zzzyk.com###Tinfo
 ||sax.sina.com.cn^
 ||saxd.sina.com.cn^
 ||saxn.sina.com.cn^
+||saxysec.com^
 ||sbbd1.qulishi.com^
 ||sbdvjsbjslkv.com^
 ||sbeacon.sina.com.cn^
@@ -23600,7 +23670,6 @@ zzzyk.com###Tinfo
 ||simba.6.cn^
 ||simba.m.taobao.com^
 ||simba.taobao.com^
-||similarweb.com^
 ||sina.cn*/view?
 ||sina.cn/check?
 ||sina.cn/cm/sinaads_
@@ -24030,6 +24099,9 @@ zzzyk.com###Tinfo
 ||stsesc.xyz^
 ||stt6.cfd^$dnsrewrite=ad-block.dns.adguard.com
 ||stulip.org/static/js/header.js
+||stun.douyucdn.cn^
+||stun.hitv.com^
+||stun1.douyucdn.cn^
 ||stusnais.com^
 ||stvwell.online^$dnsrewrite=ad-block.dns.adguard.com
 ||stylishar.com^
@@ -24122,6 +24194,7 @@ zzzyk.com###Tinfo
 ||szaction.cc/public/*/plugins/
 ||szaction.cc/public/1/assets/js/custom/tt.
 ||szapaqi.cn^
+||szbdyd.com^
 ||szbhb.cn^
 ||szbpf.cn^
 ||szbxm.cn^
@@ -24899,6 +24972,7 @@ zzzyk.com###Tinfo
 ||ugtbit.icu^
 ||ugvbsrbht.xyz^
 ||ugvip.com^
+||uhabo.com^
 ||uhjxitn.xyz^
 ||uhmcjdc.icu^
 ||uhuf56.fun^
@@ -26149,6 +26223,7 @@ zzzyk.com###Tinfo
 ||xxxx96xxxx.com^
 ||xy.com^
 ||xybnfn.xyz^
+||xycdn.com^
 ||xycxhgrp.xyz^
 ||xydzfldt.xyz^
 ||xygwh.cc/js/p
