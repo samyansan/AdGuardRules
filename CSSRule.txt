@@ -9880,9 +9880,6 @@ wenku8.net###adv300
 wenku8.net#@##adtop
 wenmi114.com###xiezuo
 wenxuecity.com###adt
-wenxuecity.com###gg_multitext
-wenxuecity.com###gg_rightside
-wenxuecity.com###gg_viewBottom
 wenxuecity.com###marquee
 wenxuecity.com##.otherposts > ul > li > a[target="_blank"]
 wenxuecity.com##.rightbannerw
@@ -9890,6 +9887,7 @@ wenxuecity.com##.sharewechat + .otherposts
 wenxuecity.com##.sidebar > .banners
 wenxuecity.com##.topbannerw
 wenxuecity.com##div[class^="Inarticle_"]
+wenxuecity.com##div[id*="gg_"]
 wenxuecity.com##label[style*="darkgrey"]
 wenxuecity.com#?#div:-abp-has(>label[class^="adlab"])
 wenxuecity.com#@#.otherposts

@@ -3,8 +3,8 @@
 ! Powerd by SamSan
 ! Description: Just a merged Adblock rule. Nothing more
 ! Expires: 6 hours (update frequency)
-! Version: 2024-10-08 08:40:37
-! Total count: 26914
+! Version: 2024-10-08 14:12:44
+! Total count: 26926
 
 ###ADtip
 ###Ad_windows
@@ -11452,9 +11452,6 @@ wenku8.net###adv300
 wenku8.net#@##adtop
 wenmi114.com###xiezuo
 wenxuecity.com###adt
-wenxuecity.com###gg_multitext
-wenxuecity.com###gg_rightside
-wenxuecity.com###gg_viewBottom
 wenxuecity.com###marquee
 wenxuecity.com##.otherposts > ul > li > a[target="_blank"]
 wenxuecity.com##.rightbannerw
@@ -11462,6 +11459,7 @@ wenxuecity.com##.sharewechat + .otherposts
 wenxuecity.com##.sidebar > .banners
 wenxuecity.com##.topbannerw
 wenxuecity.com##div[class^="Inarticle_"]
+wenxuecity.com##div[id*="gg_"]
 wenxuecity.com##label[style*="darkgrey"]
 wenxuecity.com#%#//scriptlet("set-constant", "adsbygoogle", "noopFunc")
 wenxuecity.com#?#div:-abp-has(>label[class^="adlab"])
@@ -12775,6 +12773,7 @@ zzzyk.com###Tinfo
 ||365rich.cn/ba.aspx
 ||365xuet.com/assets/web/js/main.jsr_
 ||367p.com^$dnsrewrite=ad-block.dns.adguard.com
+||36833185.xyz^$dnsrewrite=ad-block.dns.adguard.com
 ||369bgrec.top^
 ||36img.com/ad/
 ||36kr.com/pp/api/ap/plan?
@@ -18882,6 +18881,7 @@ zzzyk.com###Tinfo
 ||home.mi.com/cgi-op/api/v1/recommendation/banner^
 ||hongi7ie8owiie01.site^
 ||hongi7ie8owiie02.site^
+||hongi7ie8owiie03.site^
 ||honglingjin.co.uk/wp-content/uploads/*-Homepage-Takeover-BG-
 ||hongyingbbs.com/jj/
 ||honknl.xyz^
@@ -19076,6 +19076,7 @@ zzzyk.com###Tinfo
 ||hwpub-s01-drcn.cloud.dbankcloud.cn^
 ||hwpvbdj.xyz^
 ||hwuogmusthxfpk.xyz^
+||hwurseru.top^
 ||hwvwxerw.xyz^
 ||hxbt.alading123.com^
 ||hxjs.tool.hexun.com$domain=~quote.hexun.com
@@ -19123,6 +19124,7 @@ zzzyk.com###Tinfo
 ||i.snssdk.com^
 ||i0.letvimg.com^
 ||i100.cao-gao.xyz/aimgs/
+||i2wq4.icu^
 ||i3.letvimg.com^
 ||i322.com/ad_avshow/
 ||i3535.com^$third-party
@@ -21554,6 +21556,7 @@ zzzyk.com###Tinfo
 ||mwqetvn.icu^
 ||mwrf.net/images/js/*mrf.js
 ||mwrf.net/images/mrf/
+||mwurserx.top^
 ||mwzbp.iask.com.cn^
 ||mxcmwk.xyz^
 ||mxeq.cn^
@@ -21828,6 +21831,7 @@ zzzyk.com###Tinfo
 ||npnpxoz.xyz^
 ||npnzfri.xyz^
 ||nqbcf.cn/html/top
+||nqyrywn.icu^
 ||nrbqgf.cn^
 ||nroeoxk.icu^
 ||nrsfh.com/neirong/
@@ -21906,6 +21910,7 @@ zzzyk.com###Tinfo
 ||oadz.com^
 ||oafhif.icu^
 ||oaftaijo.net^$third-party
+||oaiqksi.top^
 ||oakmn.top^
 ||oapyrzde.xyz^
 ||oaqrui.xyz^
@@ -22116,6 +22121,7 @@ zzzyk.com###Tinfo
 ||owneriq.net^
 ||owurserk.top^
 ||owyame.xyz^
+||oxkqeu.xyz^
 ||oxkyaq.xyz^
 ||oxmvcg.xyz^
 ||oxoucm.xyz^
@@ -22878,6 +22884,7 @@ zzzyk.com###Tinfo
 ||qpic.ws/images/pk*.gif
 ||qpigoa.xyz^
 ||qpix.com/2021/05/20/Aqcp.gif
+||qpyrqg.xyz^
 ||qpzegye.cn^
 ||qq.com/Index/getAdsAndHotspot
 ||qq.com/PL_adT.htm
@@ -24949,6 +24956,7 @@ zzzyk.com###Tinfo
 ||uebohjhh.xyz^
 ||uedas.$domain=qdmm.com|qdwenxue.com|qidian.com
 ||uedas.qidian.com^
+||uegsjnk.com^
 ||uekmhvbb.xyz^
 ||uerbgnkas.com^
 ||uerzyr.cn^
@@ -24995,6 +25003,7 @@ zzzyk.com###Tinfo
 ||ukeiae.com^
 ||ukgfniu.cn^
 ||ukitert.top^
+||ukkiftx.icu^
 ||ukkkmg.xyz^
 ||ukoffzeh.com^$dnsrewrite=ad-block.dns.adguard.com
 ||ulic.baidu.com^
@@ -25813,6 +25822,7 @@ zzzyk.com###Tinfo
 ||wshufa.com^$third-party
 ||wsoqwm.xyz^
 ||wstx.com/api.php?mod=ad&
+||wswxsk.xyz^
 ||wsyfsg.xyz^
 ||wsyliee.top^
 ||wtradv.market.xiaomi.com^
@@ -26194,6 +26204,7 @@ zzzyk.com###Tinfo
 ||xvpqrydt.xyz^
 ||xvudqzoa.xyz^
 ||xvyugqj.icu^
+||xvzcfh.xyz^
 ||xvzfyra.xyz^
 ||xvzvqoq.xyz^
 ||xwbmjb.xyz^
@@ -26410,6 +26421,7 @@ zzzyk.com###Tinfo
 ||yizhibo.com/special/h5corner.html
 ||yjcf360.com/ad.
 ||yje912.cn^
+||yjwxegq.icu^
 ||yjxzvqy.xyz^
 ||yjyc-ask.com/res/ads/
 ||yk-ssp.ad.youku.com^
