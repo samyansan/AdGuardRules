@@ -1024,6 +1024,8 @@
 ##A[href*=".com/?Agent="]
 ##A[href="http://t.cn/A6hQCVsv"]
 ##A[href^="/e/public/ClickAd?adid="]
+##DIV[style=" max-width:990px; margin:0 auto;"] > A > IMG[height="120px"]
+##DIV[style=" max-width:990px; margin:0 auto;"] > A > IMG[height="60px"]
 ##[class][onclick="window.location.href='/api/goapp/'"]
 ##[class][onclick="window.location.href='https://www.suyuexs.com'"]
 ##[class][onclick="window.location.href='https://www.tsqcy.cn'"]
@@ -2376,6 +2378,7 @@
 6park.com##table[width][align="center"] > tbody > tr > td[bgcolor="#FFFFEE"]:has(> table[width="100%"] > tbody > tr > td > div.adv-6park)
 6park.com,club.6parkbbs.com##.adv-6park
 6parknews.com##.other_list_ad
+6parknews.com##div[style="width:990px;height:140px;margin-left:auto;margin-right:auto;text-align:center;"]
 6parknews.com#?##d_list > ul > li:-abp-has(a[href^="http"]:not([href*="6parknews"]))
 703804.com##.hotad
 7060.la##.tuiguang
@@ -4643,6 +4646,7 @@ elecinfo.com##div[class$="-advert"]
 element-plus.gitee.io##.sidebar > .page-content
 element-plus.gitee.io##.toc-content > .m-t-16px
 element-plus.gitee.io##aside > .page-content
+element-plus.org##.page-sidebar-top
 element-plus.org##.toc-content > div[style="margin-top:16px;"]
 element-plus.org##aside > .page-content-main
 element-plus.org##div[class^="page-content-"]
@@ -4793,8 +4797,6 @@ fanyi.sogou.com##.img-banner
 fanyi.sogou.com##.survey
 fanyi.youdao.com##.dict-download-guide
 fashion.qq.com##.rv-js-root
-fashionwaltz.com###single_reading
-fashionwaltz.com##.entry-content > div.copyright ~ div[style*="text-align:center;"]
 fastadmin.net###detail-recommend
 fastadmin.net##.article-section + div .img-responsive
 fastadmin.net##.hot-article + .panel-default
@@ -8849,7 +8851,6 @@ skinme.cc,yuntue.com##.huodong
 skyarea.cn#@#.post-share
 skydy.top##.swiper-slide[style="width: 1170px;"]
 skykiwi.com##div[style^="width:1200px;height:"]
-skyqzone.com###pop_art
 slashlook.com###AdvertisementBottom
 slashlook.com###AdvertismentInline
 slashlook.com#$##mdAdsAnnouncement { display: none!important; }
