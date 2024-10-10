@@ -3,8 +3,8 @@
 ! Powerd by SamSan
 ! Description: Just a merged Adblock rule. Nothing more
 ! Expires: 6 hours (update frequency)
-! Version: 2024-10-10 08:40:40
-! Total count: 26936
+! Version: 2024-10-10 14:12:30
+! Total count: 26955
 
 ###ADtip
 ###Ad_windows
@@ -9324,7 +9324,13 @@ news.mydrivers.com##div[style="width:1000px;padding-top:16px;padding-bottom:12px
 news.mydrivers.com#?#.news_info > p:has(> a[href^="https://dt.mydrivers.com/"])
 news.mydrivers.com#?#.news_info > p:has(> strong:contains(双11红包活动推荐))
 news.owlting.com##.profit-wrapper
+news.pchome.com.tw##.adfloat
 news.pchome.com.tw##div[class^="adnewlist"]
+news.pchome.com.tw##div[style="width:300px;height:250px"]
+news.pchome.com.tw##div[style="width:300px;height:450px"]
+news.pchome.com.tw##div[style="width:300px;height:600px"]
+news.pchome.com.tw##div[style="width:687px;height:145px"]
+news.pchome.com.tw##div[style="width:970px;height:250px"]
 news.qq.com###focus-bar
 news.qq.com##.download-banner-wrap
 news.qq.com##.download-content.mr28.download-wrapper
@@ -12251,6 +12257,7 @@ zzzyk.com###Tinfo
 ||0o0.ooo/2017/01/13/58787d42bbad6.jpg
 ||0op8kh.cn^
 ||0oqt9i.cn^
+||0pdsa.icu^
 ||0r3tyg.cn^
 ||0redire.com^$dnsrewrite=ad-block.dns.adguard.com
 ||0tq6ub.cn^
@@ -13130,6 +13137,7 @@ zzzyk.com###Tinfo
 ||6471e7f7.xyz^$dnsrewrite=ad-block.dns.adguard.com
 ||64ma.com/tv/images/web.png
 ||64p3am9x95ct.com^$dnsrewrite=ad-block.dns.adguard.com
+||65035033.xyz^$dnsrewrite=ad-block.dns.adguard.com
 ||6528fdyngk.xyz^
 ||656f1ba3.xyz^$dnsrewrite=ad-block.dns.adguard.com
 ||657475b7-0095-478d-90d4-96ce440604f9.online^$dnsrewrite=ad-block.dns.adguard.com
@@ -14672,6 +14680,7 @@ zzzyk.com###Tinfo
 ||apidns.kwd.inkuai.com^
 ||apiimg.com/huaer/xiahe.
 ||apilog-web.acfun.cn^
+||apis.pchome.com.tw/js/idlead.js
 ||apis301.com^
 ||apistat.gao7.com^
 ||apistat.wasu.cn^
@@ -17462,6 +17471,7 @@ zzzyk.com###Tinfo
 ||efalid.top^
 ||effectivemeasure.com^
 ||effectivemeasure.net^
+||efg.zle.com^
 ||efgh.5lu.com^
 ||efhis.cn^
 ||efjsliw.top^
@@ -18139,6 +18149,7 @@ zzzyk.com###Tinfo
 ||gbgedashb8.fun^
 ||gblxtlo.xyz^
 ||gbndash2.fun^
+||gbqgwes.icu^
 ||gbrrrxbodqdlq.com^$dnsrewrite=ad-block.dns.adguard.com
 ||gcapi.sy.kugou.com^
 ||gcbtgh26.xyz^
@@ -18662,6 +18673,7 @@ zzzyk.com###Tinfo
 ||happyhongkong.com/images/client/
 ||hapqncfg.xyz^
 ||hasdjksndjk.com^
+||hauqks.top^
 ||hauqou.top^
 ||havttn.xyz^
 ||haxqxd.xyz^
@@ -19855,6 +19867,7 @@ zzzyk.com###Tinfo
 ||jingalbundles.com^
 ||jingdianlaoge.com/static/js/360-displaywindow-advert.js
 ||jingdianlaoge.com/static/js/q.js
+||jingjs.top^
 ||jingujie.com/public/jgj_
 ||jingujie.com/public/js/*html.js
 ||jingwuhotel.com/static/xbiquge
@@ -20023,6 +20036,7 @@ zzzyk.com###Tinfo
 ||jsdelivr.net/npm/live2d-
 ||jsdelivr.vip^
 ||jsf.cnlinfo.net^
+||jsgapai.icu^
 ||jsgdvkjz.com^
 ||jsinfo.net^$third-party
 ||jsmjmp.com^$dnsrewrite=ad-block.dns.adguard.com
@@ -21296,6 +21310,7 @@ zzzyk.com###Tinfo
 ||miui-fxcse.avlyun.com^
 ||miwfkm.xyz^
 ||miwifi.com^*ads/
+||miwpkk.xyz^
 ||mixer.sina.cn^
 ||mixer.video.iqiyi.com/jp/mixin/resources/
 ||mixpanel.com^
@@ -21834,6 +21849,7 @@ zzzyk.com###Tinfo
 ||nowhern.com^
 ||nownews.com/assets/js/setAds.js
 ||npbtnl.xyz^
+||npdbxf.xyz^
 ||npjvgug.xyz^
 ||nplahh.xyz^
 ||npnpxoz.xyz^
@@ -21924,6 +21940,7 @@ zzzyk.com###Tinfo
 ||oaqrui.xyz^
 ||oascentral.sina.com.hk^
 ||oascentral.sina.com^
+||oauqyw.xyz^
 ||oauth-login-drcn.platform.dbankcloud.com^
 ||oawvsm.xyz^
 ||obdjzhq.xyz^
@@ -24956,6 +24973,7 @@ zzzyk.com###Tinfo
 ||udolgy.xyz^
 ||udoshbt.top^
 ||udsahkln.xyz^
+||udswai.xyz^
 ||udxhzqg.cn^
 ||udykkl.cn^
 ||ue.yeyoucdn.com^
@@ -25843,6 +25861,7 @@ zzzyk.com###Tinfo
 ||wudizuqiu.com/img/dasai8/ybbj.png
 ||wuepo.cn^
 ||wuhaolin.cn/c/ls
+||wuiqiq.xyz^
 ||wuisaq.top^
 ||wujinzy.com/images/ok.gif
 ||wujiupic.com^
