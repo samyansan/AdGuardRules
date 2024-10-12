@@ -3,8 +3,8 @@
 ! Powerd by SamSan
 ! Description: Just a merged Adblock rule. Nothing more
 ! Expires: 6 hours (update frequency)
-! Version: 2024-10-12 08:39:46
-! Total count: 26996
+! Version: 2024-10-12 14:10:51
+! Total count: 27024
 
 ###ADtip
 ###Ad_windows
@@ -1249,6 +1249,7 @@
 ##header + #main:nth-child(n+4) .container-fluid.mb-0.p-0
 ##header + #main:nth-child(n+4) .container-fluid.mb-3.p-0
 ##header + #main:nth-child(n+4) > div[id^="po-s"]:not(#po-shd)
+##header + main > div[class$=" block"][id="rd0"][data-v-app]
 ##iframe[src*=".xxmh"][src*="?u="]
 ##img#GGADIMG
 ##img#adv1
@@ -1695,6 +1696,7 @@ $websocket,domain=wap.yushuwu.cloud
 /\/theme\/js\/[a-z0-9]{5,}\.js\?v=/$domain=novipnoad.com
 /\/upload\/[a-z0-9]{7}\/[0-9]+-[0-9]?\/[a-z0-9]{32}\.gif/$domain=higu.tv
 /^(?!.*(authkong.com|rsc.cdn77.org|linkvertise.com|fastly.net|statically.io|sharecast.ws|b-cdn.net|bunnycdn.ru|bootstrapcdn.com|cdn.ampproject.org|cloudflare.com|cdn.staticfile.org|disqus.com|disquscdn.com|dmca.com|ebacdn.com|facebook.net|fastlylb.net|fbcdn.net|fluidplayer.com|fontawesome.com|github.io|google.com|googleapis.com|googletagmanager.com|gstatic.com|jquery.com|jsdelivr.net|jwpcdn.com|jwplatform.com|polyfill.io|recaptcha.net|shrink.pe|twitter.com|ulogin.ru|unpkg.com|userapi.com|vidazoo.com|(\/\/|\.)vk\.com|yandex.|yastatic.net|ytimg.com|zencdn.net|player|youtube.com|cackle.me|googleoptimize.com|vuukle.com|chatango.com|twimg.com|google-analytics.com|hcaptcha.com|raincaptcha.com|media-imdb.com|blogger.com|hwcdn.net|instagram.com|wp.com|imgsmail.ru|cloudflare.net|(\/\/|\.)x\.com)).*$/$third-party,script,_____,domain=manshuxs.com|yemancomic.com|qimiaoxiaoshuo.com|gaofuwu.org|nxpaaq.com|dengbi2.com|92hm.top|634.tv|myhaitang.cc|ckplayer.vip
+/^https:\/\/zz\d{4}bb\d{4}\.com/$third-party,image
 /a/p?adid=
 /aSer_$domain=9gui.net|miejw.com
 /ab_my/pc_pf.js
@@ -3897,6 +3899,7 @@ $websocket,domain=wap.yushuwu.cloud
 :81/c/i.php?id=$script
 :81/s/i.php?id=$script
 :818/nowscore/
+:8686/8888/*.gif$third-party,image
 :88/999pc/
 :88/lighttpd/default/
 :8888/js/cctv.js
@@ -9831,6 +9834,7 @@ ptbus.com##.weixin_ad
 ptbus.com,weather.com.cn###duilian
 ptthito.com##.scupio-f
 ptthito.com#?##main-content > div[style*="margin-top:"]:not([class]):has(> .adsbygoogle)
+pttweb.cc##.e7-min-ad-height
 pujia8.com###recommend
 pujia8.com##.ad740
 pupudy.com##.asst-post_header
@@ -13157,6 +13161,7 @@ zzzyk.com###Tinfo
 ||666bbb222www.com^
 ||666bbb333bbb.com^
 ||666bbb888www.com^
+||666hh999gg.com^
 ||666ppp222ppp.com^
 ||666ppp888ppp.com^
 ||6699fa.cn/imagestb/
@@ -13230,6 +13235,7 @@ zzzyk.com###Tinfo
 ||76xh.com/skin/zxf/js/*Out.js
 ||76xh.com/skin/zxf/js/ad
 ||775mz.com/js/jquery.js
+||776.jstatic.xyz^
 ||777aa888bb.com^
 ||777bb111ww.com^
 ||777bbb222bbb.com^
@@ -15979,6 +15985,7 @@ zzzyk.com###Tinfo
 ||cfrtdmb.xyz^
 ||cfugrnc.icu^
 ||cfzhushou.com^*/King_Chance_Layer.js
+||cg-pao-tu.nanyanglk.com^
 ||cgbswl.icu^
 ||cgczuu.xyz^
 ||cgidskif.top^
@@ -16403,8 +16410,10 @@ zzzyk.com###Tinfo
 ||coremetrics.com^
 ||cornpic.com/images/*.gif
 ||corp.meitu.com^
+||cos1999.top^
 ||cosmo001.top^
 ||cosmo100.top^
+||cosmo202.top^
 ||cosouy.xyz^
 ||costarg.com^
 ||coticoffee.com^$dnsrewrite=ad-block.dns.adguard.com
@@ -16647,6 +16656,7 @@ zzzyk.com###Tinfo
 ||d2.sina.com.cn^$object,script
 ||d2.yingyongge.com/*?*&$subdocument
 ||d23d450d.xyz^$dnsrewrite=ad-block.dns.adguard.com
+||d24fnxkxwarvg8.cloudfront.net^
 ||d2kadvyeq051an.cloudfront.net^$third-party
 ||d2tf0.icu^
 ||d2un76zvb5mgzx.cloudfront.net^
@@ -16705,7 +16715,7 @@ zzzyk.com###Tinfo
 ||daiwofei2019.top^
 ||daiyanbao.com/flash/md
 ||dajiadu8.com/17.js
-||dajiadu8.com/17mb/script/ad.js
+||dajiadu8.com/17mb/script/ad*.js
 ||dajiahao10.top^
 ||dajiahao17.top^
 ||dajiahao8.top^
@@ -17156,6 +17166,7 @@ zzzyk.com###Tinfo
 ||dp3.qq.com^
 ||dpe5t.space^
 ||dpedrt.xyz^
+||dpjzr.top^
 ||dpweupc.icu^
 ||dpzplb.xyz^
 ||dqhxmbx.cn^
@@ -17848,6 +17859,7 @@ zzzyk.com###Tinfo
 ||fidelius.cn^
 ||fijipic.xyz^
 ||files.jb51.net/image/
+||files.xtpag.top^
 ||files2.sogou.com^
 ||findyourhalf.top^$dnsrewrite=ad-block.dns.adguard.com
 ||fingkndk.com^
@@ -18959,6 +18971,7 @@ zzzyk.com###Tinfo
 ||howbuy.com/subject/js/jquery.blockUI.js
 ||howbuy.com/subject/js/layer/layer.js
 ||hoxdotye.icu^
+||hp8g6.icu^
 ||hpd.baidu.cn^
 ||hpd.baidu.com^
 ||hphvd.cn^
@@ -19383,8 +19396,10 @@ zzzyk.com###Tinfo
 ||img.*.com/images/*.gif$domain=czzy01.com
 ||img.0279.net^
 ||img.1234567.com.cn/trade/js/rightDA.js
+||img.175532.com^
 ||img.263y.com^
 ||img.3sjt.com^
+||img.911787.com^
 ||img.adnyg.com.w.kunlungr.com^
 ||img.adnyg.com^
 ||img.eol.cn/images/ed/$~image
@@ -19397,6 +19412,7 @@ zzzyk.com###Tinfo
 ||img.kuai.xunlei.com/js/statistics.js
 ||img.lancdn.com/*-top-banner-
 ||img.mikudm.net/img01/MP3/GG/20240415_CPS_960X75_general.gif
+||img.qxwoiv.com^
 ||img.scupio.com$domain=briian.com
 ||img.scupio.com/js/ad.js
 ||img.sex169.info^*.gif
@@ -20337,6 +20353,7 @@ zzzyk.com###Tinfo
 ||kmlpgjh.xyz^
 ||kmmgoogle.oss-ap-southeast-1.aliyuncs.com^
 ||kmplayer.cn/include/jscript/*-a.js
+||kmqianneng66.com^
 ||kmruv.cn^
 ||kms-full.com^$dnsrewrite=ad-block.dns.adguard.com
 ||kms-tool.com^$dnsrewrite=ad-block.dns.adguard.com
@@ -21658,6 +21675,7 @@ zzzyk.com###Tinfo
 ||mypianku.net/ajax/MyJs/
 ||myqcloud.com/ad/
 ||myqcloud.com/wp-content/uploads/huoxingyun.
+||myqmgm.xyz^
 ||myreadcloud.com^
 ||myreqdcompany.com^$dnsrewrite=ad-block.dns.adguard.com
 ||myretux.top^
@@ -21704,6 +21722,8 @@ zzzyk.com###Tinfo
 ||n2wqmr4lmaummar.xyz^
 ||n3567.com^
 ||n522rv1.cn^
+||n55cpw.vip^
+||n55ylc001.vip^
 ||n5725.com^
 ||n5n5s.icu^
 ||n6579.com^
@@ -23049,6 +23069,7 @@ zzzyk.com###Tinfo
 ||qwsanan.top^
 ||qwursery.top^
 ||qxvp6.site^
+||qxwoiv.com^
 ||qxxys.com^
 ||qxzlmzt.xyz^
 ||qy0.ru/data/game/
@@ -23271,6 +23292,7 @@ zzzyk.com###Tinfo
 ||rnkzhsi.cn^
 ||rnpkxgfp.xyz^
 ||rntdqwc.xyz^
+||rnwenpn.icu^
 ||rnzmynh.cn^
 ||roastoup.com^$dnsrewrite=ad-block.dns.adguard.com
 ||robudpw.cn^
@@ -23464,6 +23486,7 @@ zzzyk.com###Tinfo
 ||sbhduht.xyz^
 ||sbiloi.xyz^
 ||sbo8.com/static/theme/js/bottom.
+||sbovgy.xyz^
 ||sbpb1.chuiyue.com^
 ||sbpb1.qulishi.com^
 ||sc.shayugg.com^
@@ -23628,6 +23651,7 @@ zzzyk.com###Tinfo
 ||sgk.xyz/static/js/pc.js
 ||sglahyea.xyz^
 ||sgru.cn^
+||sgsosi.xyz^
 ||sgwsss.xyz^
 ||sh.sina.com.cn/iframe/522/
 ||sh.sina.com.cn/js/441/ZwyArticle_commo_23.js
@@ -24810,12 +24834,14 @@ zzzyk.com###Tinfo
 ||ttzw.tv/tz/h.js
 ||ttzw.tv/tz/true.js
 ||tu.zx110.org^
+||tu0379199038.cc^
 ||tu1500919341.cc^
 ||tu2.taohuaimg.com^$third-party
 ||tu2024020388.com^
 ||tu3168509469.cc^
 ||tu3921276844.cc^
 ||tu4038097360.cc^
+||tu5551976196.cc^
 ||tu6767109513.cc^
 ||tubecontext.com^$dnsrewrite=ad-block.dns.adguard.com
 ||tubecup.net^$dnsrewrite=ad-block.dns.adguard.com
@@ -25444,6 +25470,7 @@ zzzyk.com###Tinfo
 ||vista.tuwan.com/s.js
 ||vixajghi.xyz^
 ||vizoalygrenn.com^$dnsrewrite=ad-block.dns.adguard.com
+||vjharl.xyz^
 ||vjie.com^$third-party
 ||vjnxpj.xyz^
 ||vjpgm.space^
@@ -26207,6 +26234,7 @@ zzzyk.com###Tinfo
 ||xpffkbpq.xyz^
 ||xphcrjth.xyz^
 ||xpj08.oss-cn-beijing.aliyuncs.com^
+||xpjcg.oss-accelerate.aliyuncs.com^
 ||xpkxahje.xyz^
 ||xprdmnlo.xyz^
 ||xpwlctfk.xyz^

@@ -1241,6 +1241,7 @@
 ##header + #main:nth-child(n+4) .container-fluid.mb-0.p-0
 ##header + #main:nth-child(n+4) .container-fluid.mb-3.p-0
 ##header + #main:nth-child(n+4) > div[id^="po-s"]:not(#po-shd)
+##header + main > div[class$=" block"][id="rd0"][data-v-app]
 ##iframe[src*=".xxmh"][src*="?u="]
 ##img#GGADIMG
 ##img#adv1
@@ -8287,6 +8288,7 @@ ptbus.com##.weixin_ad
 ptbus.com,weather.com.cn###duilian
 ptthito.com##.scupio-f
 ptthito.com#?##main-content > div[style*="margin-top:"]:not([class]):has(> .adsbygoogle)
+pttweb.cc##.e7-min-ad-height
 pujia8.com###recommend
 pujia8.com##.ad740
 pupudy.com##.asst-post_header
