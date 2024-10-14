@@ -659,6 +659,7 @@
 ##.cui-pt-item[data-qhb]
 ##.d_banner_inner
 ##.dabc > .ng-star-inserted
+##.dabf > .ng-star-inserted
 ##.davwheat-ad
 ##.ddd.ng-star-inserted
 ##.dipiao
@@ -1283,7 +1284,7 @@
 ##table[style="border:#7D8C8E solid 1px;height: 30px;text-align: center;"]
 ##td[id^="td_"] > a[href^="/htmm/"]
 ##vg-pause-ads
-##vg-pause-d
+##vg-pause-f
 #@#.has-ad
 012.tw#@#.ad728
 020job.com##A[href^="/Click.aspx?AdPageID="]
@@ -6501,10 +6502,8 @@ jijidy.com###box
 jikexueyuan.com##.pewm2
 jikexueyuan.com##.pewm3
 jikipedia.com##.components-container
-jikipedia.com##.cursor.download-img
 jikipedia.com##.cursor.link.app-link
 jikipedia.com##.download-link
-jikipedia.com##[href="/app"]
 jiligame.com##img[onerror="zhurl($(this))"]
 jin10.com###J_wdgg_t
 jin10.com##.jin-popularize
@@ -7114,11 +7113,6 @@ m.douban.com##h2 > [href^="https://www.douban.com/doubanapp/card/get_app"]
 m.douban.com#?#a:contains(用App看更多)
 m.douban.com#?#div:matches-css(width:68px)
 m.douyu.com##div[class*="OpenAppBtn"]
-m.egame.qq.com###gcOfficialWidgetWrapper
-m.egame.qq.com###installGameBar
-m.egame.qq.com###installbar
-m.egame.qq.com##.ui-border-b.ui-tab-nav > li:nth-of-type(4)
-m.egame.qq.com##.widget-wrapper
 m.gome.com.cn##.m-downapp
 m.hao123.com##.tuizhan
 m.huxiu.com###qr_code_pc
