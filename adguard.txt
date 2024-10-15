@@ -3,8 +3,8 @@
 ! Powerd by SamSan
 ! Description: Just a merged Adblock rule. Nothing more
 ! Expires: 6 hours (update frequency)
-! Version: 2024-10-15 08:41:28
-! Total count: 27071
+! Version: 2024-10-15 14:12:31
+! Total count: 27086
 
 ###ADtip
 ###Ad_windows
@@ -1481,6 +1481,7 @@ $websocket,domain=wap.yushuwu.cloud
 .gif|$domain=8727ck.cc|8726ck.cc|8724ck.cc
 .gif|$domain=99re.com
 .hk/ads/
+.hongi7ie8owiie*.site^$script,third-party
 .html?$third-party,domain=m.800xs.net
 .html?ad_
 .html?android=hx*&_$csp=script-src
@@ -11232,8 +11233,9 @@ verystream.com#@#.adsbox
 vgtime.com##.vgart_top
 vgtime.com##.vgart_top > img
 vid.onlymu.site##.tips
+vidhub.me,vidhub.tv##.adwap
 vidhub.me,vidhub.tv##.promolnk
-vidhub.me,vidhub.tv##.promote-link
+vidhub.me,vidhub.tv##.promotelink
 view.inews.qq.com##div[class^="article-recommend_wrapper"]
 view.inews.qq.com##div[class^="bottom-bar_buttonWrap"]
 view.inews.qq.com##div[class^="infinite-comment-list_subText"]
@@ -12109,6 +12111,7 @@ zol.com.cn##.supervalue
 zol.com.cn##.zol-eshop
 zol.com.cn##.zolapp
 zol.com.cn##div[style="width: 300px; height: 250px; position: fixed; right: 0px; bottom: 0px; z-index: 9999; display: block;"]
+zombit.info###single-popup
 zouaw.com##.cloudbox
 zqzq.com###wAdTop1
 zqzq.com###wAdTop2
@@ -12905,6 +12908,7 @@ zzzyk.com###Tinfo
 ||4a0e.xyz^$dnsrewrite=ad-block.dns.adguard.com
 ||4aae8f.site^$dnsrewrite=ad-block.dns.adguard.com
 ||4afa45f1.xyz^$dnsrewrite=ad-block.dns.adguard.com
+||4bfx0u.com^
 ||4btbtt.com/slade.js
 ||4e04f7.xyz^$dnsrewrite=ad-block.dns.adguard.com
 ||4e55.xyz^$dnsrewrite=ad-block.dns.adguard.com
@@ -15903,6 +15907,7 @@ zzzyk.com###Tinfo
 ||cdipsumf.top^
 ||cdmgac.xyz^
 ||cdmnlxtu.xyz^
+||cdmyeg.xyz^
 ||cdn-ad.wtzw.com^
 ||cdn-ads.oss-cn-shanghai.aliyuncs.com^
 ||cdn-data-cloud.com/history/
@@ -16583,6 +16588,7 @@ zzzyk.com###Tinfo
 ||cupid.iqiyi.com/mixer?
 ||cupid.iqiyi.com/show2?
 ||cupid.iqiyi.com^
+||curesdf.top^
 ||currentaccountadv.com^$dnsrewrite=ad-block.dns.adguard.com
 ||customer-security.online^
 ||cuvtnzv.cn^
@@ -17663,6 +17669,7 @@ zzzyk.com###Tinfo
 ||everesttech.net^
 ||everyonepiano.cn/Public/*0x
 ||evgaow.xyz^
+||evkzqs.xyz^
 ||evscnfj.cn^
 ||ewaterw.top^
 ||ewerilxw.top^
@@ -19029,6 +19036,7 @@ zzzyk.com###Tinfo
 ||hsvmtn.xyz^
 ||hsyipos.com/template/mxone/html_tplmx/vod/*.gif
 ||hsylieu.top^
+||hthvc.icu^
 ||htqyy.com/kiees/
 ||htrurb.xyz^
 ||httpcn.com/Images/banner
@@ -19145,6 +19153,7 @@ zzzyk.com###Tinfo
 ||hwuogmusthxfpk.xyz^
 ||hwurseru.top^
 ||hwvwxerw.xyz^
+||hwymoyv.icu^
 ||hxbt.alading123.com^
 ||hxjs.tool.hexun.com$domain=~quote.hexun.com
 ||hxqu.com^$third-party
@@ -20535,6 +20544,7 @@ zzzyk.com###Tinfo
 ||kytbxcl.cn^
 ||kyuwkbd.top^
 ||kyuxym.xyz^
+||kyyfsw.xyz^
 ||kzaawga.icu^
 ||kzcayec.icu^
 ||kzelzfnj.xyz^
@@ -20807,6 +20817,7 @@ zzzyk.com###Tinfo
 ||lnk0.com^
 ||lnk8.cn^
 ||lnlkmr.xyz^
+||lnnahh.xyz^
 ||lnnsvj.xyz^
 ||lnxkrd.xyz^
 ||lnzqw.net/js/
@@ -21404,6 +21415,7 @@ zzzyk.com###Tinfo
 ||mm.paizi.net^
 ||mm.wxc.cc^
 ||mm111.net/api.php?mod=ad&
+||mm1qj.icu^
 ||mm387.com/images/*.gif
 ||mm786.com^$popup,third-party
 ||mm7920.com:8888/upload/*.gif
@@ -22870,10 +22882,12 @@ zzzyk.com###Tinfo
 ||qdtjjxr.xyz^
 ||qdtzbbh.xyz^
 ||qdzyspjx.com^
+||qebgcdcjr000.fun^
 ||qedgcxi.cn^
 ||qeedaa.xyz^
 ||qeeocy.xyz^
 ||qejjhnq.cn^
+||qekgcdcjr000.fun^
 ||qeogcdcjr000.fun^
 ||qeryt111.fun^
 ||qescaen.com^
@@ -25732,6 +25746,7 @@ zzzyk.com###Tinfo
 ||wcd2l.icu^
 ||wckkl.online^
 ||wclsylk.cn^
+||wcsmvmf.icu^
 ||wdadad.cn^
 ||wdakda.cn^
 ||wdcigo.xyz^
