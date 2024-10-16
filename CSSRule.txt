@@ -9608,6 +9608,8 @@ v.baidu.com##a[href^="http://www.602.com/"]
 v.baidu.com##div[id^="adv_asp_"]
 v.baidu.com,v.duba.com##div[id*="categoryPageColumn"]
 v.ifeng.com##.keyword
+v.ifeng.com##div[class^="index_container"]
+v.ifeng.com##section[class^="index_hot"]
 v.pptv.com###video-download-game
 v.qq.com###iwan-gamependant-page
 v.qq.com###pc_client > .quick_link
