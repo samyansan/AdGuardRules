@@ -3,8 +3,8 @@
 ! Powerd by SamSan
 ! Description: Just a merged Adblock rule. Nothing more
 ! Expires: 6 hours (update frequency)
-! Version: 2024-10-17 08:41:08
-! Total count: 27099
+! Version: 2024-10-17 14:12:18
+! Total count: 27110
 
 ###ADtip
 ###Ad_windows
@@ -6795,6 +6795,7 @@ hamivideo.hinet.net###overlays-ad
 hamivideo.hinet.net#%#//scriptlet("set-constant", "myPlayer.adDisplay", "undefined")
 hanime1.me##.video-show-width > .single-show-list > .hidden-xs[style*="text-align:"]
 hanime1.me##div[style*="width: 310px; height: 282px;"]
+hanime1.me#%#//scriptlet("trusted-replace-node-text", "script", "popunder", "/window\.open\('(.*?)',.*?\);\n.*location.href = '.*';/", "location.assign('$1');")
 hanjutv2020.com##a[href*=".hujiang.com"]
 hanjutv2020.com##a[style="width: 1120px;height: 70px;overflow: hidden;display: block;"]
 hanyu.baidu.com###J_Suspens
@@ -13732,6 +13733,7 @@ zzzyk.com###Tinfo
 ||abdd*.com/js/abc/
 ||abdedenneer.com^$dnsrewrite=ad-block.dns.adguard.com
 ||abds.pingpingw.com^
+||abixkw.xyz^
 ||abjalrq.cn^
 ||ablecolony.com^$dnsrewrite=ad-block.dns.adguard.com
 ||abmedia.io/*/pum/
@@ -16000,6 +16002,7 @@ zzzyk.com###Tinfo
 ||cg-pao-tu.nanyanglk.com^
 ||cgbswl.icu^
 ||cgczuu.xyz^
+||cggyyi.xyz^
 ||cgidskif.top^
 ||cgqwgv.icu^
 ||cgskys.xyz^
@@ -17658,6 +17661,7 @@ zzzyk.com###Tinfo
 ||ethod.gzgmjcx.com^
 ||etjui.cn^
 ||etkht.cn^
+||etroytj33.fun^
 ||ettoday.net/ad/*_action.js
 ||ettoday.net/banners/
 ||ettoday.net/events/ad-tab/
@@ -19600,6 +19604,7 @@ zzzyk.com###Tinfo
 ||ioswhi.com^
 ||iot-eu-logser.realme.com^
 ||iot-logser.realme.com^
+||ioykmxa.icu^
 ||ip.sb/assets/images/*_ads.
 ||ip.tianqiapi.com^
 ||ip.ws.126.net^$domain=~fxingw.com
@@ -20147,6 +20152,7 @@ zzzyk.com###Tinfo
 ||junmediadirect1.com^$dnsrewrite=ad-block.dns.adguard.com
 ||junshizhanlue.com^$third-party
 ||juqingw.com/js/tad
+||juresda.top^
 ||jusha.com^
 ||jusha.com^$third-party
 ||justapp.top^
@@ -20507,6 +20513,7 @@ zzzyk.com###Tinfo
 ||kukuplay.com/upload/*.swf
 ||kunpeng-sc.csdnimg.cn/?timestamp=$subdocument,domain=blog.csdn.net
 ||kuoizbtl.xyz^
+||kuresdd.top^
 ||kuwo.cn/static/swf/xctg.swf
 ||kuxfznnf.xyz^
 ||kuyun.com^$third-party
@@ -22887,6 +22894,7 @@ zzzyk.com###Tinfo
 ||qdickey.top^
 ||qdipsumy.top^
 ||qdjimo.com/html/js/
+||qdoeki.xyz^
 ||qdoshby.top^
 ||qdp.qidian.com^
 ||qdross.com/vip/
@@ -24121,6 +24129,7 @@ zzzyk.com###Tinfo
 ||ssh.*.com^*!$script,third-party
 ||ssjv1.com/dm/
 ||ssl-youtube.2cnt.net^
+||sslir.icu^
 ||ssnn.net^*-200-250.jpg
 ||ssp.21ic.com^
 ||ssp.hinet.net^
@@ -24606,6 +24615,7 @@ zzzyk.com###Tinfo
 ||thpte.cn^
 ||threrlak.com^
 ||thruudrad.com^
+||thrzbf.xyz^
 ||thubanoa.com^$dnsrewrite=ad-block.dns.adguard.com
 ||thztv.*/tool/
 ||tianji520.cn^$third-party
@@ -25992,6 +26002,7 @@ zzzyk.com###Tinfo
 ||wsyfsg.xyz^
 ||wsyliee.top^
 ||wtradv.market.xiaomi.com^
+||wtroytj33.fun^
 ||wttuuyd.cn^
 ||wtyusie.top^
 ||wubizigeng.com^
