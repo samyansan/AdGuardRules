@@ -3,8 +3,8 @@
 ! Powerd by SamSan
 ! Description: Just a merged Adblock rule. Nothing more
 ! Expires: 6 hours (update frequency)
-! Version: 2024-10-18 08:41:25
-! Total count: 27110
+! Version: 2024-10-18 14:12:35
+! Total count: 27125
 
 ###ADtip
 ###Ad_windows
@@ -1135,6 +1135,7 @@
 ##a[href*="/l1y9.com"]
 ##a[href*="/mobads.php?"]
 ##a[href*="/register/?i_code="] > img
+##a[href*="/souv5.com/"]
 ##a[href*="/tg.602.com/"]
 ##a[href*="/uu5566.cn.com/"]
 ##a[href*="/yfj8159.com"]
@@ -4924,7 +4925,7 @@ btime.com##.shop-guid
 btime.com##.top-bar
 btmovi.in##body > span[style]
 btmulu.com#?#.item:-abp-has(> a[target="_blank"])
-btnull.org###ly
+btnull.org,gying.net,gying.org,gying.si,gying.in,gyg.la,gyg.si###ly
 bttop.net###top_bottom + div[style="float:left;width:100%;"]
 btvsports.click#@##googleAD2
 btyingshi.com##.aside > .card:last-child
@@ -12556,6 +12557,7 @@ zzzyk.com###Tinfo
 ||1f6a725b.xyz^$dnsrewrite=ad-block.dns.adguard.com
 ||1f84e33459.com^
 ||1fzjy.xyz^
+||1iohncj.xyz^
 ||1iuybpo.com^
 ||1k2l3m4n5o.com^
 ||1ketang.com/Runtime/js/play
@@ -13207,6 +13209,7 @@ zzzyk.com###Tinfo
 ||6park.com/parks/$script
 ||6park.com^$subdocument,badfilter
 ||6pznpz.com^
+||6qyxeob.xyz^
 ||6slb0.cyou^
 ||6v4.cn^$third-party
 ||6vhao.tv/d/
@@ -15523,6 +15526,7 @@ zzzyk.com###Tinfo
 ||bmhept.xyz^
 ||bmjs.xzw.com^
 ||bmnbyn.icu^
+||bmougwx.icu^
 ||bmp.ali213.net/js/
 ||bmp.ovh/imgs/2020/09/3e4e11ecc19c4bd6.png
 ||bmp1.ali213.net/js/
@@ -17671,6 +17675,7 @@ zzzyk.com###Tinfo
 ||ettoday.net/style/video-ad/
 ||ettoday.net^*/ad/
 ||etyusiw.top^
+||euresdw.top^
 ||evbrkhz.xyz^
 ||event.tradplusad.com^
 ||eventfulknights.com^$dnsrewrite=ad-block.dns.adguard.com
@@ -20003,6 +20008,7 @@ zzzyk.com###Tinfo
 ||jmesxbe.icu^
 ||jmgehn.cn^
 ||jmhfw.com/index.php?/ajax/get_adv/
+||jmipzsn.icu^
 ||jmw.com.cn/m_v2/js/active.js
 ||jmydm.com/jspage/ftt.js
 ||jmylj.cn^
@@ -20445,6 +20451,7 @@ zzzyk.com###Tinfo
 ||kpbqlqv.cn^
 ||kphcrjth.xyz^
 ||kpmose.xyz^
+||kpmsoq.xyz^
 ||kppt.cc/zb_system/script/common.js
 ||kppt.cc/zhifu.jpg
 ||kpshx.douguo.com^
@@ -21117,6 +21124,7 @@ zzzyk.com###Tinfo
 ||magazinenews1.xyz^$dnsrewrite=ad-block.dns.adguard.com
 ||magedu.com/wp-content/uploads/*/xwzx
 ||magicwindow.cn^
+||magioe.xyz^
 ||magnetdog.net^$popup
 ||mahoupao.com/api.php?mod=ad&
 ||mahua.com/api/$subdocument
@@ -22229,6 +22237,7 @@ zzzyk.com###Tinfo
 ||oss-ap-southeast-1.aliyuncs.com/js/copy.js
 ||ossfloetteor.com^$dnsrewrite=ad-block.dns.adguard.com
 ||ostjpig.cn^
+||osujcq.xyz^
 ||osusjsga.com^
 ||oswowg.xyz^
 ||osyliek.top^
@@ -23414,6 +23423,7 @@ zzzyk.com###Tinfo
 ||rtbix.xyz^$dnsrewrite=ad-block.dns.adguard.com
 ||rtmonitor.kugou.com^
 ||rtpdn11.com^$dnsrewrite=ad-block.dns.adguard.com
+||rtroytj33.fun^
 ||rttnvz.xyz^
 ||ruanyifeng.com/9he/
 ||rubiconproject.com^
@@ -24319,6 +24329,7 @@ zzzyk.com###Tinfo
 ||supfree.net/xxx/
 ||supfree.net^$xmlhttprequest
 ||suptraf.com^$dnsrewrite=ad-block.dns.adguard.com
+||suresdb.top^
 ||suzoqz.icu^
 ||svhdbmp.cn^
 ||svncowt.cn^
@@ -24576,6 +24587,7 @@ zzzyk.com###Tinfo
 ||tfg2.com/images/upfile/banner/
 ||tflybplr.xyz^
 ||tgamtip.icu^
+||tgb1l.icu^
 ||tgccct.icu^
 ||tgel2ebtx.ru^$dnsrewrite=ad-block.dns.adguard.com
 ||tgidskii.top^
@@ -24906,6 +24918,7 @@ zzzyk.com###Tinfo
 ||ttdpxh.xyz^
 ||ttgbnmk.top^
 ||ttnwxhjv.xyz^
+||ttroytj33.fun^
 ||ttrruq749.shop^
 ||tttppp.oss-cn-guangzhou.aliyuncs.com^
 ||ttwwzqdx.xyz^
@@ -26318,6 +26331,8 @@ zzzyk.com###Tinfo
 ||xpe.cxaerp.com^
 ||xpffkbpq.xyz^
 ||xphcrjth.xyz^
+||xpicj6.cc^
+||xpicj8.cc^
 ||xpj08.oss-cn-beijing.aliyuncs.com^
 ||xpjcg.oss-accelerate.aliyuncs.com^
 ||xpkxahje.xyz^
