@@ -7211,13 +7211,10 @@ m.thepaper.cn##.moblink_btn-650-white
 m.thepaper.cn##a[data-statclick="downloadApp"]
 m.thepaper.cn##div[class^="index_footer_banner"]
 m.thepaper.cn##li.icon_openapp
-m.toutiao.com###root > div > div.bgwhite.android:nth-child(2) > div.article-container:nth-child(2) > div.fold-btn-container > div.fold-btn:last-child > div.fold-btn-btn:last-child
-m.toutiao.com###root > div > div.top-banner-container:first-child
-m.toutiao.com###root > div > div:last-child > div:first-child
-m.toutiao.com###root > div > div:nth-child(3)
-m.toutiao.com###root > div > div:nth-child(3) > div:first-child
 m.toutiao.com##.banner-top
-m.toutiao.com##.fold-btn-btn
+m.toutiao.com##.m-bottom-container
+m.toutiao.com##.m-index-tag
+m.toutiao.com##.open
 m.toutiao.com##.recommendation-container + div[class]
 m.tv.sohu.com##.btn-xz-app
 m.tv.sohu.com##.js-app-topbanner.actv-banner
