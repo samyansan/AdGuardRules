@@ -3,8 +3,8 @@
 ! Powerd by SamSan
 ! Description: Just a merged Adblock rule. Nothing more
 ! Expires: 6 hours (update frequency)
-! Version: 2024-10-19 08:40:39
-! Total count: 27114
+! Version: 2024-10-19 14:11:01
+! Total count: 27132
 
 ###ADtip
 ###Ad_windows
@@ -1345,6 +1345,7 @@ $websocket,domain=wap.yushuwu.cloud
 -bobo_recommend_
 .*gcdcjr000.fun/$script,third-party
 .*ryt111.fun/$script,third-party
+.*troytj33.fun/$script,third-party
 .189.gd^*.html?p=$popup,third-party
 .194007.com/4058.gif
 .728x90.
@@ -7771,6 +7772,7 @@ ithome.com###ilikeit-div
 ithome.com###lapin
 ithome.com###side_func
 ithome.com###wapddfda21
+ithome.com##.-hongbao-container
 ithome.com##.AdblockBanner
 ithome.com##.bx-recom2
 ithome.com##.con-recom
@@ -8837,6 +8839,8 @@ manhuadb.com#@#a.d-block
 manhuagui.com##.gg_728
 manhuagui.com##.gg_950
 manhuagui.com##.w250 > .mt10[style="width: 300px; height: 250px;"]
+manhuagui.com##body > div[class]:has(.sitemaji_banner)
+manhuagui.com##div[class]:has(> .adsbyexoclick)
 manhuagui.com##div[style^="width: 300px; height: 250px;"]
 manhuaren.com###lb-win
 manmanbuy.com##.app-activity-download
@@ -14253,6 +14257,7 @@ zzzyk.com###Tinfo
 ||aegis.qq.com^
 ||aerbgpn.xyz^
 ||aeryt111.fun^
+||aesxgy.xyz^
 ||aeucyo.xyz^
 ||aeyyck.xyz^
 ||af29.com/banner/
@@ -15503,6 +15508,7 @@ zzzyk.com###Tinfo
 ||black77854.com^$dnsrewrite=ad-block.dns.adguard.com
 ||blasedustin.shop^
 ||blciqbk.icu^
+||bld.mobi^
 ||blehcourt.com^$dnsrewrite=ad-block.dns.adguard.com
 ||blinxmi.icu^
 ||blismedia.com^
@@ -15586,6 +15592,7 @@ zzzyk.com###Tinfo
 ||boskodating.com^$dnsrewrite=ad-block.dns.adguard.com
 ||bosw.net/js/bos/*960
 ||botcm.com/zhanqun/
+||bovytl.xyz^
 ||bowoprf.icu^
 ||bowvses.icu^
 ||boxiti.net^$dnsrewrite=ad-block.dns.adguard.com
@@ -16038,6 +16045,7 @@ zzzyk.com###Tinfo
 ||chazidian.com/statics/images/wangke.jpg
 ||chbheroq.xyz^
 ||chdbits.co/pic/*-*.gif
+||checbox.cc^
 ||check-tl-ver-12-3.com^$dnsrewrite=ad-block.dns.adguard.com
 ||check-tl-ver-54-1.com^$dnsrewrite=ad-block.dns.adguard.com
 ||check-tl-ver-54-3.com^$dnsrewrite=ad-block.dns.adguard.com
@@ -19049,6 +19057,7 @@ zzzyk.com###Tinfo
 ||hsyipos.com/template/mxone/html_tplmx/vod/*.gif
 ||hsylieu.top^
 ||hthvc.icu^
+||htoetgk.icu^
 ||htqyy.com/kiees/
 ||htrurb.xyz^
 ||httpcn.com/Images/banner
@@ -20798,6 +20807,7 @@ zzzyk.com###Tinfo
 ||ljhbhy.cn^
 ||ljnrjt.xyz^
 ||ljpbtjq.xyz^
+||ljvc0.icu^
 ||ljzcawea.icu^
 ||lkdybkwi.xyz^
 ||lkdyft.xyz^
@@ -21297,6 +21307,8 @@ zzzyk.com###Tinfo
 ||meryt111.fun^
 ||merywf.xyz^
 ||mes-meilleurs-films.fr^$dnsrewrite=ad-block.dns.adguard.com
+||mesh.if.iqiyi.com/portal/lw/search/$removeparam=ad
+||mesh.if.iqiyi.com/portal/lw/search/$removeparam=adExt
 ||message.meitu.com^
 ||messenger-notify.xyz^$dnsrewrite=ad-block.dns.adguard.com
 ||mestrip.com/widgets/
@@ -23115,6 +23127,7 @@ zzzyk.com###Tinfo
 ||qunar.com/vataframe/b.html?
 ||qunlove.com^*.gif
 ||quqtone.cn^
+||quresdy.top^
 ||qusfybj.cn^
 ||qusrow.xyz^
 ||quwkke.xyz^
@@ -25137,6 +25150,7 @@ zzzyk.com###Tinfo
 ||ueumdkc.cn^
 ||ueuodgnrhb.com^$dnsrewrite=ad-block.dns.adguard.com
 ||uewrutt.top^
+||ufiidvv.icu^
 ||ufile.cc/crod.js
 ||ufile.cc/pps.js
 ||ufjslit.top^
@@ -25760,6 +25774,7 @@ zzzyk.com###Tinfo
 ||wbidder.online^$dnsrewrite=ad-block.dns.adguard.com
 ||wbidder3.com^$dnsrewrite=ad-block.dns.adguard.com
 ||wbkaqly.cn^
+||wbkdsg.xyz^
 ||wbnbocz.xyz^
 ||wbnlwyj.xyz^
 ||wbpctips.mobile.sina.cn^
@@ -26021,6 +26036,7 @@ zzzyk.com###Tinfo
 ||wuliao.juqingba.cn^
 ||wumii.cn/ext/relatedItemsWidget
 ||wumii.cn^
+||wuresde.top^
 ||wutsldsk.xyz^
 ||wuujae.com^$dnsrewrite=ad-block.dns.adguard.com
 ||wuxibus.com/Image/title
@@ -26080,6 +26096,7 @@ zzzyk.com###Tinfo
 ||x.yaohuo.me^
 ||x08jd.top^
 ||x0or8.icu^
+||x0y081e.xyz^
 ||x1.52aoteman.com^
 ||x1.kantu.com^
 ||x1fyw.icu^
@@ -26638,6 +26655,7 @@ zzzyk.com###Tinfo
 ||ymcdn.cn^
 ||ymcnsq.xyz^
 ||ymdxl.com^
+||ymewsu.xyz^
 ||ymhyw6.lol^
 ||ymlykj.com/nuxt/static/liveBanner.jpg
 ||ymmiyun.com^
@@ -26735,6 +26753,7 @@ zzzyk.com###Tinfo
 ||ytjzqde.xyz^
 ||ytoeyxz.icu^
 ||ytqeavc.icu^
+||ytroytj33.fun^
 ||ytru4.pro^$dnsrewrite=ad-block.dns.adguard.com
 ||ytse*.top/Static/Home/GongGao/img/
 ||ytvrtrya.xyz^
@@ -27084,7 +27103,6 @@ zzzyk.com###Tinfo
 ||zztongyun.com/static/js/sh.
 ||zztongyun.com/static/js/sh.min.js
 ||zztxfj.xyz^
-||zztxfj.xyz^[uniartisan's Adblock List]
 ||zzy1.quyaoya.com^
 ||zzz4.com/JS_AD/
 ||zzzyk.com/js/
