@@ -3,8 +3,8 @@
 ! Powerd by SamSan
 ! Description: Just a merged Adblock rule. Nothing more
 ! Expires: 6 hours (update frequency)
-! Version: 2024-10-19 20:14:26
-! Total count: 27129
+! Version: 2024-10-20 02:09:57
+! Total count: 27131
 
 ###ADtip
 ###Ad_windows
@@ -13162,6 +13162,7 @@ zzzyk.com###Tinfo
 ||6528fdyngk.xyz^
 ||656f1ba3.xyz^$dnsrewrite=ad-block.dns.adguard.com
 ||657475b7-0095-478d-90d4-96ce440604f9.online^$dnsrewrite=ad-block.dns.adguard.com
+||65894140.xyz^$dnsrewrite=ad-block.dns.adguard.com
 ||65spy7rgcu.com^$dnsrewrite=ad-block.dns.adguard.com
 ||66.fmx.cn/js/
 ||663008888.com^
@@ -27100,6 +27101,7 @@ zzzyk.com###Tinfo
 ||zztongyun.com/static/js/sh.
 ||zztongyun.com/static/js/sh.min.js
 ||zztxfj.xyz^
+||zztxfj.xyz^[uniartisan's Adblock List]
 ||zzy1.quyaoya.com^
 ||zzz4.com/JS_AD/
 ||zzzyk.com/js/
