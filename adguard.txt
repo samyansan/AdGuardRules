@@ -3,8 +3,8 @@
 ! Powerd by SamSan
 ! Description: Just a merged Adblock rule. Nothing more
 ! Expires: 6 hours (update frequency)
-! Version: 2024-10-20 08:45:18
-! Total count: 27131
+! Version: 2024-10-20 14:11:42
+! Total count: 27140
 
 ###ADtip
 ###Ad_windows
@@ -1033,8 +1033,6 @@
 ##A[href*=".com/?Agent="]
 ##A[href="http://t.cn/A6hQCVsv"]
 ##A[href^="/e/public/ClickAd?adid="]
-##DIV[style=" max-width:990px; margin:0 auto;"] > A > IMG[height="120px"]
-##DIV[style=" max-width:990px; margin:0 auto;"] > A > IMG[height="60px"]
 ##[class][onclick="window.location.href='/api/goapp/'"]
 ##[class][onclick="window.location.href='https://www.suyuexs.com'"]
 ##[class][onclick="window.location.href='https://www.tsqcy.cn'"]
@@ -1234,6 +1232,8 @@
 ##div[onclick^="window.location.href"][onclick*=".bcebos."]
 ##div[role="listitem"] > div > div > .bannerliststyle
 ##div[style*="jczunp.xyz"]
+##div[style=" max-width:990px; margin:0 auto;"] > a > img[height="120px"]
+##div[style=" max-width:990px; margin:0 auto;"] > a > img[height="60px"]
 ##div[style="display: flex;flex-wrap: wrap;margin-right: 5px;margin-left: 5px;"] + style + .container
 ##div[style="display:none;"] + script + #container.container
 ##div[style="margin:10px auto;width: 930px;height: 250px;"]
@@ -4926,7 +4926,7 @@ btime.com##.shop-guid
 btime.com##.top-bar
 btmovi.in##body > span[style]
 btmulu.com#?#.item:-abp-has(> a[target="_blank"])
-btnull.org,gying.net,gying.org,gying.si,gying.in,gyg.la,gyg.si###ly
+btnull.org,gyg.la,gyg.si,gying.in,gying.net,gying.org,gying.si###ly
 bttop.net###top_bottom + div[style="float:left;width:100%;"]
 btvsports.click#@##googleAD2
 btyingshi.com##.aside > .card:last-child
@@ -12254,6 +12254,7 @@ zzzyk.com###Tinfo
 ||0c0b6e3f.xyz^$dnsrewrite=ad-block.dns.adguard.com
 ||0d785fd7.xyz^$dnsrewrite=ad-block.dns.adguard.com
 ||0efghij.com^
+||0er7pc8.xyz^
 ||0ghijkl.com^
 ||0h3uds.com^
 ||0hq6k.site^
@@ -19238,6 +19239,7 @@ zzzyk.com###Tinfo
 ||iadworkbench.apple.com^
 ||iaindu.cn^
 ||iaiqk.top^
+||iairuo.xyz^
 ||iaosua.com^
 ||iapolo.com/myjs/
 ||iask.ca/img/*.gif
@@ -20219,6 +20221,7 @@ zzzyk.com###Tinfo
 ||jyrd.com/statics/*/js/baizhu/
 ||jyuskb.cn^
 ||jyuwkba.top^
+||jyxzrb.xyz^
 ||jz4u1.icu^
 ||jz5u.com/public/js/t$script
 ||jz5u.com/public/new/
@@ -20598,6 +20601,7 @@ zzzyk.com###Tinfo
 ||lahoo.ca/slider
 ||laixi.com/tp/20
 ||lajevt.xyz^
+||lalabaos1020.top^
 ||lamplynx.com^$dnsrewrite=ad-block.dns.adguard.com
 ||lancdn.com/tmp3/GG_Notice.png
 ||langxi.org/langxi/*900$image,object
@@ -21236,6 +21240,7 @@ zzzyk.com###Tinfo
 ||mdmuky.xyz^
 ||mdoshbx.top^
 ||mdotm.com^
+||mdqikg.xyz^
 ||mdsahkln.xyz^
 ||mdzwjra.cn^
 ||me360.com/swt/swt.js
@@ -21825,6 +21830,7 @@ zzzyk.com###Tinfo
 ||nddld.cn^
 ||ndthdte125.shop^
 ||ndthdtr586.shop^
+||ndysxhs.icu^
 ||needlive.com^$dnsrewrite=ad-block.dns.adguard.com
 ||needqnv.xyz^
 ||neess105.top^
@@ -22256,6 +22262,7 @@ zzzyk.com###Tinfo
 ||otxlhpm.xyz^
 ||ouhastay.net^$dnsrewrite=ad-block.dns.adguard.com
 ||oumnxiek.top^
+||ouplc.icu^
 ||ourusababy.com/bsj.js
 ||outbrain.com^$domain=wenxuecity.com
 ||outbrain.com^$third-party
@@ -24332,6 +24339,7 @@ zzzyk.com###Tinfo
 ||suptraf.com^$dnsrewrite=ad-block.dns.adguard.com
 ||suresdb.top^
 ||suzoqz.icu^
+||sv2fo.icu^
 ||svhdbmp.cn^
 ||svncowt.cn^
 ||sw76r85eda3k.com/need/h5.
@@ -24958,6 +24966,7 @@ zzzyk.com###Tinfo
 ||tupian9999.com^
 ||tupwiwm.com^
 ||tuqnwz.icu^
+||turesdi.top^
 ||turn.com^
 ||tutudao.net/js/gg*.js
 ||tuvixr.xyz^
@@ -25361,6 +25370,7 @@ zzzyk.com###Tinfo
 ||uumnxiet.top^
 ||uunfybw.cn^
 ||uuoizbtl.xyz^
+||uuresdt.top^
 ||uusjaq.top^
 ||uutytp.com^
 ||uuu9.com/photolog.html
@@ -27101,7 +27111,6 @@ zzzyk.com###Tinfo
 ||zztongyun.com/static/js/sh.
 ||zztongyun.com/static/js/sh.min.js
 ||zztxfj.xyz^
-||zztxfj.xyz^[uniartisan's Adblock List]
 ||zzy1.quyaoya.com^
 ||zzz4.com/JS_AD/
 ||zzzyk.com/js/

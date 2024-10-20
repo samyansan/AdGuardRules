@@ -1025,8 +1025,6 @@
 ##A[href*=".com/?Agent="]
 ##A[href="http://t.cn/A6hQCVsv"]
 ##A[href^="/e/public/ClickAd?adid="]
-##DIV[style=" max-width:990px; margin:0 auto;"] > A > IMG[height="120px"]
-##DIV[style=" max-width:990px; margin:0 auto;"] > A > IMG[height="60px"]
 ##[class][onclick="window.location.href='/api/goapp/'"]
 ##[class][onclick="window.location.href='https://www.suyuexs.com'"]
 ##[class][onclick="window.location.href='https://www.tsqcy.cn'"]
@@ -1226,6 +1224,8 @@
 ##div[onclick^="window.location.href"][onclick*=".bcebos."]
 ##div[role="listitem"] > div > div > .bannerliststyle
 ##div[style*="jczunp.xyz"]
+##div[style=" max-width:990px; margin:0 auto;"] > a > img[height="120px"]
+##div[style=" max-width:990px; margin:0 auto;"] > a > img[height="60px"]
 ##div[style="display: flex;flex-wrap: wrap;margin-right: 5px;margin-left: 5px;"] + style + .container
 ##div[style="display:none;"] + script + #container.container
 ##div[style="margin:10px auto;width: 930px;height: 250px;"]
@@ -3493,7 +3493,7 @@ btime.com##.shop-guid
 btime.com##.top-bar
 btmovi.in##body > span[style]
 btmulu.com#?#.item:-abp-has(> a[target="_blank"])
-btnull.org,gying.net,gying.org,gying.si,gying.in,gyg.la,gyg.si###ly
+btnull.org,gyg.la,gyg.si,gying.in,gying.net,gying.org,gying.si###ly
 bttop.net###top_bottom + div[style="float:left;width:100%;"]
 btvsports.click#@##googleAD2
 btyingshi.com##.aside > .card:last-child
