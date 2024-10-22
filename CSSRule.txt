@@ -4564,6 +4564,7 @@ eastmoney.com##div[data-url*="same.eastmoney.com"]
 eastmoney.com##div[id^="em_important_"]
 eastmoney.com##div[id^="flow-ad-"]
 eastmoney.com##div[style="width: 300px; height: 250px; margin-top: 10px;"]
+eastmoney.com##div[style^="position: fixed; z-index: 100000; top:"]
 eastmoney.com##iframe[src*=".eastmoney.com/banner/"]
 eastmoney.com##iframe[src^="//fund.eastmoney.com/trade/hqb_hq.html"]
 eastmoney.com##iframe[src^="//same.eastmoney.com/"]
@@ -7666,6 +7667,7 @@ mydowndown.com#?#.bs-component:-abp-has(>a[href*="97jez.com"])
 mydrivers.com###a_showhotnews_list_dia
 mydrivers.com###div_newsyjgg
 mydrivers.com###recommend
+mydrivers.com##.HSsRgYjfNn
 mydrivers.com##.ab
 mydrivers.com##.adds
 mydrivers.com##.baidu_box
@@ -7674,6 +7676,7 @@ mydrivers.com##.drivers_right > div[style="padding-top: 10px;"]
 mydrivers.com##.duilian2
 mydrivers.com##.fbh_float
 mydrivers.com##.good_ths
+mydrivers.com##.i1vbApifa5
 mydrivers.com##.jdong11
 mydrivers.com##.jdong11bg
 mydrivers.com##.main_right_div[style="padding-top: 10px;"]
@@ -9908,10 +9911,13 @@ whnews.cn###gd_l
 whnews.cn###gd_r
 whnyd.com##div[style*="height: 115px"]
 wholehk.com#?#div[id^="postmessage_"] > div[align="center"][style^="font-size:11px;"] > font:contains(Advertisement)
+wiki.mbalib.com###ad-fold
 wiki.mbalib.com###p-ad-bd
 wiki.mbalib.com##.ad-br
 wiki.mbalib.com##.app-ad
 wiki.mbalib.com##.download_app.news-banner-container
+wiki.mbalib.com##.tool-bar > a[target="_blank"]
+wiki.mbalib.com##div[id^="p-ad-"]
 win007.com##a[href^="http://www.edewin.com/"]
 win007.com##div[style="padding:6px 0; width:950px; height:45px"]
 win007.com##td[height="18"][bgcolor="#FFFFE8"]
