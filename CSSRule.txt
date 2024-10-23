@@ -96,6 +96,7 @@
 ###aside_cat_ad_bottom
 ###asx_text
 ###bannerAd
+###banner_links.banner-container
 ###bd-hl-content
 ###bfad
 ###bfad1
@@ -5690,6 +5691,7 @@ huanqiu.com##.itemAd
 huanqiu.com##.r-hqFashion
 huanqiu.com##.r-hqNext-ad
 huanqiu.com##.right-box > article-other-template
+huaren.live##.action-ad
 huaren.tv##.live-client_left
 huaren.tv##.live-client_right
 huaren.tv##a[style*="height:"]
@@ -5698,6 +5700,8 @@ huarenjie.com###LeftAd2
 huarenjie.com###RightAd2
 huarenjie.com###cftoutiao
 huarenjie.net##div[style*="top: 50px;"]
+huawei.com#@#.ad-section
+huawei.com#@#.ad-wrap:not(#google_ads_iframe_checktag)
 hubei.gov.cn#@##ad-side
 huize.com##.hz-bottom-reserve-link
 hujiang.com##.login-modal-mask
@@ -9667,9 +9671,10 @@ verystream.com#@#.adsbox
 vgtime.com##.vgart_top
 vgtime.com##.vgart_top > img
 vid.onlymu.site##.tips
-vidhub.me,vidhub.tv##.adwap
-vidhub.me,vidhub.tv##.promolnk
 vidhub.me,vidhub.tv##.promotelink
+vidhub1.cc,vidhub.me,vidhub.tv##.adwap
+vidhub1.cc,vidhub.me,vidhub.tv##.promolnk
+vidhub1.cc,vidhub.me,vidhub.tv##.promotelink
 view.inews.qq.com##div[class^="article-recommend_wrapper"]
 view.inews.qq.com##div[class^="bottom-bar_buttonWrap"]
 view.inews.qq.com##div[class^="infinite-comment-list_subText"]
