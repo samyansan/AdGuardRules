@@ -860,8 +860,8 @@
 ##.player-box > [style*="flex; justify"]
 ##.player-info > .recommend-two.recommend-list
 ##.player-news > .news-list
+##.player-rm > a[href*=".umtrack.com"]
 ##.player-rm > a[href*="/ad.html?url="]
-##.player-rm > a[target="_blank"]
 ##.player-rm-float
 ##.player-tt-rm.rm-list
 ##.player-tt-rmm
@@ -1867,7 +1867,6 @@
 2345.com##div[id^="J_micro_zhuanti-"]
 2345.com##div[id^="bd-search-ad"]
 2345.com#?#.pic:-abp-has(a[href^="http://g.wan."])
-2345.com,duanwenxue.com###topHf
 24en.com##.article_part_top
 24en.com##A[href*="/ClickAd?"]
 24h.pchome.com.tw,find.ruten.com.tw##.site_evt
@@ -4412,9 +4411,6 @@ drvsky.com###bz_position
 drvsky.com##.zhongdian
 dshangyan.com##.advHeader
 duangks.com###a_d_sidebar
-duanwenxue.com##.qgzdwx
-duanwenxue.com##.shuang11_gg
-duanwenxue.com##.shuang11_mb
 duba.com###J_BottomAdBan
 duba.com###J_BottomAdBan_bg
 duba.com###J_S11
@@ -6649,7 +6645,6 @@ juksy.com##.ad__wrap
 juksy.com##.js-adCoverPopup
 juksy.com##div[ad-uid]
 jumi.tv##a[href^="https://l.tapdb.net/"]
-junshidao.com###rb_wap
 juqingba.cn##.jqright1
 jurong.cn##.ad_190_60_5s
 jurong.cn,ld0766.com##.totalad
@@ -10295,6 +10290,8 @@ yicai.com##.gg_pop
 yicai.com##.gg_preview
 yiche.com##.focusad-box-s
 yiche.com##.focusbglink-s
+yiche.com##.h-gd-box
+yiche.com##.h-middle-gd-box
 yiche.com##.right-box > div[class^="ad"]
 yiche.com##div[class*="-adv"]
 yiche.com##div[class*="words-ad"]
