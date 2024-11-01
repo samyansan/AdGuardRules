@@ -7178,6 +7178,7 @@ m.lianjia.com##.fadeDown.download_topfixed.mod_download
 m.lianjia.com##.mod_app.mod_sub_tit.mod_tit
 m.lianjia.com##div.mod_download:nth-of-type(1) 
 m.mi.com##.download-app-go
+m.mobile01.com##.u-gapNextV--lg.u-height280
 m.mydrivers.com###content > .ab
 m.mydrivers.com###content > .bb
 m.mydrivers.com##div[style$="px 0px 0px 0px;text-align:center;"]
@@ -9699,6 +9700,8 @@ view.inews.qq.com##div[class^="slider-top-bar_sliderWrapper"]
 view.inews.qq.com#?#div[class^="_"]:-abp-has(>div[data-action-id]>div>.react-swipeable-view-container)
 vip.com##.sidebarcom-qrcode
 vip.com##.wp-phone
+vip.diaoyu18.com##.container > a[target="_blank"]
+vip.diaoyu18.com##.huadong > div[style="text-align: center;margin-bottom: 10px;"]
 vipthz.com###fwin_content_imc_attachad [style="WIDTH: 100%; padding-left:10px;"] > div > a[href][target="_blank"] > img
 vipthz.com###fwin_content_imc_attachad [style="WIDTH: 100%; padding-left:10px;"] > div > p > a[href][target="_blank"]
 virscan.org##div[class^="ad_"]
