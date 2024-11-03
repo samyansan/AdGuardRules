@@ -3,8 +3,8 @@
 ! Powerd by SamSan
 ! Description: Just a merged Adblock rule. Nothing more
 ! Expires: 6 hours (update frequency)
-! Version: 2024-11-03 08:45:08
-! Total count: 27270
+! Version: 2024-11-03 14:13:01
+! Total count: 27274
 
 ###ADtip
 ###Ad_windows
@@ -1322,7 +1322,6 @@ $script,third-party,denyallow=cdn.yinghuazy.xyz|authkong.com|rsc.cdn77.org|linkv
 $script,third-party,denyallow=fastlycdn.com|doodcdn.co|intensedebate.com|vixcloud.co|cdn.plyr.io|authkong.com|rsc.cdn77.org|linkvertise.com|fastly.net|statically.io|sharecast.ws|b-cdn.net|bunnycdn.ru|bootstrapcdn.com|cdn.ampproject.org|cloudflare.com|cdn.staticfile.org|disqus.com|disquscdn.com|dmca.com|ebacdn.com|facebook.net|fastlylb.net|fbcdn.net|fluidplayer.com|fontawesome.com|github.io|google.com|googleapis.com|googletagmanager.com|gstatic.com|jquery.com|jsdelivr.net|jwpcdn.com|jwplatform.com|polyfill.io|recaptcha.net|shrink.pe|twitter.com|ulogin.ru|unpkg.com|userapi.com|vidazoo.com|vk.com|yastatic.net|ytimg.com|zencdn.net|youtube.com|cackle.me|googleoptimize.com|vuukle.com|chatango.com|twimg.com|google-analytics.com|hcaptcha.com|raincaptcha.com|media-imdb.com|blogger.com|hwcdn.net|instagram.com|wp.com|fastcomments.com|plyr.io|cloudflare.net|rabbitstream.net|x.com,_____,domain=wap.dmwenku.com|m.wfxs.tw|h.fkxs.net|wap.ishuquge.la|m.91zww.com|592mh.top|dubuxiaoshuo.com|clm410.buzz|bookbl.com|shuku99.com|qiyoudy2.com|1yydstxt178.com|rouman5.com|feijisu20.com|iqb5.org|wap.xkushu.com|spoilertop.com|booktxts.com|bixia33.com|rouwenwu19.com|91porny.com|yznnw.com|vodtw.la|ckplayer.vip|uuread.tw|fengchedmp.com|aeahsck.cc|xiaoshubao.net|69xx03608.xyz|wap.yushuwu.cloud|twbook.cc
 $script,third-party,denyallow=myqcloud.com|bytecdntp.com|pddpic.com|googletagmanager.com,domain=yjys.me
 $script,third-party,domain=52movieba.com|audio699.com|kan-tv.com|m.supfree.net|movieffm.net|xiaoxintv.cc|xiaoxintv.com|xiaoxintv.net
-$script,third-party,domain=52movieba.com|audio699.com|kan-tv.com|m.supfree.net|movieffm.net|xiaoxintv.com|xiaoxintv.net
 $script,third-party,domain=cilimao.co|cilimao.one
 $script,third-party,domain=colamanga.com
 $script,third-party,domain=torkitty.com|torrentkitty.app|torrentkitty.asia|torrentkitty.cam|torrentkitty.ink|torrentkitty.io|torrentkitty.live|torrentkitty.lol|torrentkitty.net|torrentkitty.one|torrentkitty.se|torrentkitty.tv|torrkitty.com
@@ -2488,7 +2487,6 @@ $websocket,domain=wap.yushuwu.cloud
 /viewad.
 /vipgg/*
 /vjioew-1322507002.
-/vmind.qqvideo.tc.qq.com^
 /vs.aspx?action=c&vs1=$third-party
 /vtdd/*$script
 /vtdt/*$script
@@ -3971,7 +3969,6 @@ _naimabdd_
 _popAds.
 _rony.js$script,third-party
 _tm11_pmt_
-_vmind.qqvideo.tc.qq.com^
 _yad_jsonp_
 a-i-l-s-a.com,buscodepto.com##div[style^="position: fixed;"]
 a.9game.cn##.DownBox
@@ -15283,6 +15280,7 @@ zzzyk.com###Tinfo
 ||bdasd.wmxa.cn^
 ||bdawrsi.icu^
 ||bdcm.kandianla.com^
+||bdcmwcl.icu^
 ||bdcode.2345.com^
 ||bdcode.35d1.com^
 ||bdcode.qinglm.com^
@@ -16800,8 +16798,7 @@ zzzyk.com###Tinfo
 ||daitchest.com^$dnsrewrite=ad-block.dns.adguard.com
 ||daiwofei2019.top^
 ||daiyanbao.com/flash/md
-||dajiadu8.com/17.js
-||dajiadu8.com/17mb/script/ad*.js
+||dajiadu8.com/17mb/script/gg.
 ||dajiahao10.top^
 ||dajiahao17.top^
 ||dajiahao8.top^
@@ -17298,6 +17295,7 @@ zzzyk.com###Tinfo
 ||dsdsa33.fun^
 ||dsdsg44.fun^
 ||dsfffmb.mobi^$dnsrewrite=ad-block.dns.adguard.com
+||dsfh2.icu^
 ||dshangyan.com/pc/advertising/
 ||dshjbn.xyz^
 ||dsikpuv.icu^
@@ -19609,6 +19607,7 @@ zzzyk.com###Tinfo
 ||imilroshoors.com^$dnsrewrite=ad-block.dns.adguard.com
 ||immob.cn^
 ||imndl.icu^
+||imniel.com^
 ||imnks.com/ad2023/$image
 ||imooc.com/open/courselistrandjs
 ||imp.optaim.com^
@@ -20446,6 +20445,7 @@ zzzyk.com###Tinfo
 ||kiees.com^$image,subdocument,third-party
 ||kiiepofl.xyz^
 ||kikinote.net/iframe
+||kiolpia.icu^
 ||kiss88.top^$dnsrewrite=ad-block.dns.adguard.com
 ||kiuee8.com^
 ||kiwi8.top/media/plugins/jquery_confirm/
@@ -23140,6 +23140,7 @@ zzzyk.com###Tinfo
 ||qnqtgyq.icu^
 ||qnsb.com/news/index.php?m=poster&
 ||qnvod.net/qna/
+||qoubliy.top^
 ||qouvxliy.top^
 ||qpawkw.xyz^
 ||qpb*.sohu.com^
@@ -24758,6 +24759,7 @@ zzzyk.com###Tinfo
 ||thrzbf.xyz^
 ||thubanoa.com^$dnsrewrite=ad-block.dns.adguard.com
 ||thztv.*/tool/
+||ti4la.icu^
 ||tianji520.cn^$third-party
 ||tianmidian.com^
 ||tianmu.com/DA201
@@ -25439,6 +25441,7 @@ zzzyk.com###Tinfo
 ||urchin.com^
 ||uri6.com^
 ||urls.api.twitter.com^
+||urpkktc.icu^
 ||urqwzbu.cn^
 ||urtlist.top^
 ||urueuah.cn^
@@ -26118,6 +26121,7 @@ zzzyk.com###Tinfo
 ||wopvmmy.cn^
 ||worlderva.com^
 ||worthwhile-wash.com^$dnsrewrite=ad-block.dns.adguard.com
+||woublie.top^
 ||wouvxlie.top^
 ||wovensur.com^$dnsrewrite=ad-block.dns.adguard.com
 ||wowad.wow-classic.com^
