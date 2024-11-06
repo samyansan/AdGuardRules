@@ -4332,8 +4332,8 @@ douguo.com##.mbs
 douxie.com##.ndxBanner
 douxie.com##.ndxChdjBox
 douyin.com###videoSideBar iframe
-douyin.com###videoSideBar:-abp-has(div:-abp-contains(/商品|商家|退款|店铺/))
 douyin.com#?##douyin-right-container > div[class] > div[class]:has(> ul[class] > li[class] > a[href][target="_blank"] + div:contains(广告))
+douyin.com#?##videoSideBar:-abp-has(div:-abp-contains(/商品|商家|退款|店铺/))
 douyin.com#?#.xgplayer>div[class]:-abp-has(svg[height="16"][width="30"])
 douyu.com###js-fix-download
 douyu.com###js-live-room-recommend
@@ -5284,7 +5284,6 @@ gucheng.com##a[href*=".liaogu.com"]
 gucheng.com##img[data-mv-ad]
 gufengmh.com##.animated
 gugeys.cc##.am-g
-guidaye.com##table[height="280"]
 guilinlife.com##a[href*="adclicks&"]
 guilinlife.com#?#li:-abp-has(> div > .content-other > .content-type:-abp-contains(广告))
 guitarchina.com##img[width="420"][height="60"]
