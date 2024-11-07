@@ -3265,6 +3265,7 @@ bilibili.com##.ad-e1
 bilibili.com##.ad-f
 bilibili.com##.ad-report
 bilibili.com##.adblock-tips
+bilibili.com##.adcard-content
 bilibili.com##.app-download-link
 bilibili.com##.banner-card
 bilibili.com##.bili-app
@@ -6610,6 +6611,7 @@ jr.jd.com###app-jr
 jr.jd.com##.app.ui-sidebar-block
 jr22.xyz###hd + .wp
 jr22.xyz##a[href^="ad."]
+jr31.xyz##body > div.wp > div.wp > a[rel="nofollow"] > img
 jrj.com.cn###comment > a:first-child
 jrj.com.cn##.bd.pa10.bgn
 jrj.com.cn##.jrj-ad
@@ -7909,6 +7911,7 @@ nobugin.com##.td-a-rec
 nodejs.cn###biz_center
 nodejs.cn###biz_nav
 nodejs.cn###pagead
+nodeloc.com##.AfruxWidgets-sideNavAlt
 nongjitong.com##.ad_sms
 note.youdao.com##.top-btns
 novipnoad.com##.ad_single_title
