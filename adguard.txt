@@ -3,8 +3,8 @@
 ! Powerd by SamSan
 ! Description: Just a merged Adblock rule. Nothing more
 ! Expires: 6 hours (update frequency)
-! Version: 2024-11-09 08:39:41
-! Total count: 27381
+! Version: 2024-11-09 14:10:47
+! Total count: 27394
 
 ###ADtip
 ###Ad_windows
@@ -901,6 +901,7 @@
 ##.readerListADbox
 ##.readmidad
 ##.recommended-grids > .file[style="margin: 5px 2px 5px 2px;"]
+##.relative > div > img[sizes="100vh"][width="0"]
 ##.right > .content > .ads
 ##.right-ad
 ##.rightAD
@@ -13024,6 +13025,8 @@ zzzyk.com###Tinfo
 ||51hanhua.com/2013/
 ||51hir.cyou^
 ||51img1.com/v6/my/js/bdm.js
+||51jiajiao.top/public/*/plugins/
+||51jiajiao.top/public/1/assets/js/custom/tt.
 ||51la.net^$third-party
 ||51liucheng.com/js/dialogLogin.js
 ||51miz.com/index.php?m=Ad&
@@ -13131,6 +13134,7 @@ zzzyk.com###Tinfo
 ||58cdn.com.cn/resource/xxzl/xxfw/
 ||58e0.site^$dnsrewrite=ad-block.dns.adguard.com
 ||58file.com/down/xyk.
+||58shuz.com^
 ||58tg.com^$third-party
 ||59.36.101.209:888/link/*_280x192.
 ||591520.xyz^
@@ -13244,6 +13248,7 @@ zzzyk.com###Tinfo
 ||6820tp1.com^
 ||68287zubo85737.com^
 ||68646f.xyz^$dnsrewrite=ad-block.dns.adguard.com
+||68yscw.com^
 ||691f42ad.xyz^$dnsrewrite=ad-block.dns.adguard.com
 ||692881.com^
 ||693836.com^$popup
@@ -14978,6 +14983,7 @@ zzzyk.com###Tinfo
 ||avseesee.com/htmls/vlinks.html
 ||avseesee.com/twad
 ||avvfjhg.xyz^
+||avxonsp.icu^
 ||awareista.com^
 ||awaw.asia^
 ||awcdst.icu^
@@ -16933,6 +16939,7 @@ zzzyk.com###Tinfo
 ||de.pandora.xiaomi.com^
 ||de.soquair.com^
 ||de214f.xyz^$dnsrewrite=ad-block.dns.adguard.com
+||deafeningphone.com^
 ||dealgodsafe.live^$dnsrewrite=ad-block.dns.adguard.com
 ||dealmoon.com/build/js/www/home/activity-pop/index.
 ||dealmoon.com/hotdeals/hotdeals_scroller.php
@@ -17154,6 +17161,7 @@ zzzyk.com###Tinfo
 ||dmzj.com/public/js/app_banner.js
 ||dmzj1.com/js/ad/
 ||dn*.ixinwei.com^
+||dn4qoz.com^
 ||dnfnpff.xyz^
 ||dngz.net/x/
 ||dnn1300.top^
@@ -18627,6 +18635,7 @@ zzzyk.com###Tinfo
 ||gridsumdissector.cn^
 ||gridsumdissector.com^
 ||grihaith.com^
+||grirqaks.com^
 ||grobuveexeb.net^$dnsrewrite=ad-block.dns.adguard.com
 ||gromore.pangolin-sdk-toutiao.com^
 ||grondrens.com^
@@ -19873,6 +19882,7 @@ zzzyk.com###Tinfo
 ||its-dori.tumblr.com^
 ||itsdata.map.baidu.com^
 ||itsmore.cn^$third-party
+||ittaels.com^
 ||ituba.cc/uploads/allimg/201610/603/
 ||itv.hexun.com
 ||itv2-up.openspeech.cn^
@@ -20693,6 +20703,7 @@ zzzyk.com###Tinfo
 ||kxmusic.cn/tc/js/script.js
 ||kxmusic.top/tc/js/script.js
 ||kxxfdwt.cn^
+||kxygsjv.icu^
 ||ky595images.com^
 ||ky891.oss-*.aliyuncs.com^
 ||kyaywy.xyz^
@@ -22684,6 +22695,7 @@ zzzyk.com###Tinfo
 ||phcrjth.xyz^
 ||pheersie.com^$dnsrewrite=ad-block.dns.adguard.com
 ||pheniter.com^$dnsrewrite=ad-block.dns.adguard.com
+||pheqae.com^
 ||phgotof2.com^$dnsrewrite=ad-block.dns.adguard.com
 ||phjtxx.xyz^
 ||phk.nmkstcrt.xyz^
@@ -24587,8 +24599,6 @@ zzzyk.com###Tinfo
 ||syuwkbb.top^
 ||syzjxz2018.cn^
 ||sz88.oss-cn-shenzhen.aliyuncs.com^
-||szaction.cc/public/*/plugins/
-||szaction.cc/public/1/assets/js/custom/tt.
 ||szapaqi.cn^
 ||szbdyd.com^
 ||szbhb.cn^
@@ -25038,6 +25048,7 @@ zzzyk.com###Tinfo
 ||tpzatf.xyz^
 ||tq.cn/floatcard?
 ||tq121.com.cn/j/ad/
+||tqanmatx.icu^
 ||tqbrnd.xyz^
 ||tqjqripb.xyz^
 ||tqtqvb.xyz^
@@ -25097,6 +25108,7 @@ zzzyk.com###Tinfo
 ||trenhdg.com^$third-party
 ||trf6b.top^
 ||tribalfusion.com^
+||trimmoits.com^
 ||trip.com/partners/ad/
 ||trk72.com^$dnsrewrite=ad-block.dns.adguard.com
 ||trkbc.com^$dnsrewrite=ad-block.dns.adguard.com
@@ -26552,6 +26564,7 @@ zzzyk.com###Tinfo
 ||xn--gmq238c5fy.com^
 ||xn--mts60is5y5uk.com^
 ||xn--sssy7vrppusjyv0a.com^
+||xn--swt207gl1hzc.net^
 ||xn--w9q675dm1p7em.net^
 ||xn--wgvp78a61swpe6zdozj.cn^
 ||xn--xhq326aj6yqpw.com^
