@@ -3,8 +3,8 @@
 ! Powerd by SamSan
 ! Description: Just a merged Adblock rule. Nothing more
 ! Expires: 6 hours (update frequency)
-! Version: 2024-11-10 08:43:52
-! Total count: 27394
+! Version: 2024-11-10 14:10:51
+! Total count: 27403
 
 ###ADtip
 ###Ad_windows
@@ -6659,6 +6659,7 @@ ghoffice.com,ksbbs.com,kshot.com##[id^="ads_"]
 ghxi.com###respond + div
 ghxi.com##.ad_single_12
 ghxi.com##.entry-content > div[style^="position:"]
+ghxi.com##.widget_html_ad + div[style]
 ghxi.com##div[style^="padding:10px;position: fixed;bottom: 0;left: 0;right:0;z-index"]
 ghxi.com#$#.wpcom_ad_wrap { position: absolute !important; left: -3000px !important; }
 ghxi.com#@#.social-item
@@ -11010,7 +11011,8 @@ tmall.com##.mui-mbarp-qrcode-tip
 tmall.com##.sn-mobile
 tmall.com##div[style*="z-index: 99999; display: block;"]
 tmioe.com##.widget_image_img
-tmioe.com##.zpgimg
+tmioe.com##.ztimg
+tmioe.com##a[href*=".zps.im"]
 tmtpost.com##.open-app
 to8to.com##.ad-commom
 to8to.com##.ask_side_opa
@@ -12931,6 +12933,7 @@ zzzyk.com###Tinfo
 ||40wan.com/js/www2/
 ||4126fe80.xyz^$dnsrewrite=ad-block.dns.adguard.com
 ||415677.com^
+||41grk.icu^
 ||420909.cn^
 ||420db600.xyz^$dnsrewrite=ad-block.dns.adguard.com
 ||42869755.xyz^$dnsrewrite=ad-block.dns.adguard.com
@@ -17579,6 +17582,7 @@ zzzyk.com###Tinfo
 ||ectyet.top^
 ||ed2000k.com/ad/
 ||edadmy.xyz^
+||eddcc.icu^
 ||edghkc.xyz^
 ||edickew.top^
 ||edigitalsurvey.com^
@@ -17956,6 +17960,7 @@ zzzyk.com###Tinfo
 ||feijied.xyz^
 ||feijisu*.com/js/huimi-
 ||feitian001.com^
+||feittoill.com^
 ||feixin2.com^
 ||feizl.com/images/smdd/
 ||fekpcd.icu^
@@ -20323,6 +20328,7 @@ zzzyk.com###Tinfo
 ||jwerioa.top^
 ||jwfesuk.cn^
 ||jwhdgt.icu^
+||jwhjqjfl.icu^
 ||jwjzf.online^
 ||jwursera.top^
 ||jxad.jx163.com^
@@ -20447,6 +20453,7 @@ zzzyk.com###Tinfo
 ||kdslife.com/kds_2023/kafu.
 ||kdslife.com/ui/ad/
 ||kdw*.com/layer/layer.js
+||kdzgrvn.icu^
 ||kebi1.top^$third-party
 ||kebohjhh.xyz^
 ||kedou*.com/layer/layer.js
@@ -20788,6 +20795,7 @@ zzzyk.com###Tinfo
 ||lbqdaua.icu^
 ||lbx777.*/css/300.js
 ||lbx777.*/css/lbxgg02
+||lcd.aivote.com^
 ||lcefsf.icu^
 ||lckjqtx.xyz^
 ||lctcbtly.xyz^
@@ -23998,6 +24006,7 @@ zzzyk.com###Tinfo
 ||shenghuo.xiaomi.com^
 ||shenguangai.com/upload/img/1683711111.
 ||shequdaohang.com^$third-party
+||shestieh.com^
 ||shewang.net/images/*/900x
 ||shewang.net/images/*/CHD
 ||shewang.net/images/*/banner
