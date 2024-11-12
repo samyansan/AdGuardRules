@@ -3,8 +3,8 @@
 ! Powerd by SamSan
 ! Description: Just a merged Adblock rule. Nothing more
 ! Expires: 6 hours (update frequency)
-! Version: 2024-11-12 08:40:14
-! Total count: 36486
+! Version: 2024-11-12 14:12:16
+! Total count: 36498
 
 ###ADtip
 ###Ad_windows
@@ -1324,8 +1324,8 @@ $script,third-party,denyallow=fastlycdn.com|doodcdn.co|intensedebate.com|vixclou
 $script,third-party,denyallow=myqcloud.com|bytecdntp.com|pddpic.com|googletagmanager.com,domain=yjys.me
 $script,third-party,domain=cilimao.co|cilimao.one
 $script,third-party,domain=colamanga.com
-$script,third-party,domain=happymh.com|xiaoyakankan.com|52movieba.com|audio699.com|kan-tv.com|m.supfree.net|movieffm.net|xiaoxintv.cc|xiaoxintv.com|xiaoxintv.net
 $script,third-party,domain=torkitty.com|torrentkitty.app|torrentkitty.asia|torrentkitty.cam|torrentkitty.ink|torrentkitty.io|torrentkitty.live|torrentkitty.lol|torrentkitty.net|torrentkitty.one|torrentkitty.se|torrentkitty.tv|torrkitty.com
+$script,third-party,domain=xiaoyakankan.com|52movieba.com|audio699.com|kan-tv.com|m.supfree.net|movieffm.net|xiaoxintv.cc|xiaoxintv.com|xiaoxintv.net
 $script,third-party,websocket,domain=52codes.net
 $third-party,websocket,xmlhttprequest,domain=qiyoudy2.com|qiyoudy4.com
 $third-party,xmlhttprequest,domain=subhd.tv|subhdtw.com|xyg688.com|xyg688.xyz|zzzzz688.com
@@ -8497,8 +8497,6 @@ longzhu.com##.pop-up-button
 longzhu.com##.recommend-pop-up
 lookae.com##.zhongjian
 loveshang.com##div[class^="float-ad-"]
-lpl.qq.com,v.qq.com#%#//scriptlet('set-constant', 'CreativePlayerwebPlugin.AD_EVENT.AD_DESTROY', '')
-lpl.qq.com,v.qq.com#%#//scriptlet('set-constant', 'CreativePlayerwebPlugin.AD_EVENT.AD_LOAD_START', '')
 lqz.cn###ad_index
 lsj.ac##div[class="col-12"] > div[class="poster"]
 lspdfrcn.com###cancms_float_bar_fixed_bottom
@@ -10251,6 +10249,7 @@ segmentfault.com###first-ad
 segmentfault.com###gridAd
 segmentfault.com###hotArticles:nth-child(3)
 segmentfault.com#?##question-wrap > .row > .col-xl-auto:has(> #first-ad:first-child + #gridAd + #second-ad:last-child)
+sehuatang.net##DIV[class^="show-text"]
 senao.com.tw#@#.ad-wrap
 senfun.net##.player-recommend
 seqing.world,singlove.com,whichav.com,whichav.net,wokao.co##.qq
@@ -10674,6 +10673,8 @@ sports.qq.com##.topBnaner
 sports.qq.com##a[href="http://teramont.svw-volkswagen.com/"]
 sports.qq.com##a[href^="http://market.1hai.cn/"]
 sports.qq.com#@#.txp_ad_center
+sports.qq.com,lpl.qq.com,v.qq.com#%#//scriptlet('set-constant', 'CreativePlayerwebPlugin.AD_EVENT.AD_DESTROY', '')
+sports.qq.com,lpl.qq.com,v.qq.com#%#//scriptlet('set-constant', 'CreativePlayerwebPlugin.AD_EVENT.AD_LOAD_START', '')
 sports.sohu.com##.allsee-list > .bd-wrap
 sportsplanetmag.com##.adshow
 sportsv.net##.adv01
@@ -13173,6 +13174,7 @@ zzzyk.com###Tinfo
 ||36pn.com^
 ||36yoo.net^
 ||37066957.xyz^$dnsrewrite=ad-block.dns.adguard.com
+||370jj.icu^
 ||373nn.com/java/
 ||375553.com^
 ||376zf.com^
@@ -16131,6 +16133,8 @@ zzzyk.com###Tinfo
 ||anywlan.com/link/*.gif
 ||anyysz.com^
 ||aoakss.com^
+||aoao11111iis.top^
+||aoao11120iis.top^
 ||aobtwv.icu^
 ||aod-image-material.cdn.bcebos.com^
 ||aod-video-antusheng.cdn.bcebos.com^
@@ -17947,6 +17951,7 @@ zzzyk.com###Tinfo
 ||cbctp.top^
 ||cbcvou.xyz^
 ||cbdm.weathercn.com^
+||cbdqzbi.icu^
 ||cbfw.cn/gonggong/chibi/cf_
 ||cbgrqi.xyz^
 ||cbgyhe.cn^
@@ -18620,6 +18625,7 @@ zzzyk.com###Tinfo
 ||cnkang.com/showcodejsonp?
 ||cnki.com.cn/cnki/js/adimgdetail.js
 ||cnki.com.cn/cnki/js/adrightdetail.js
+||cnki.net/spot/app/get/ads?
 ||cnkok.com^
 ||cnlg.cn/attached/script/
 ||cnlongshou.com^
@@ -20455,6 +20461,7 @@ zzzyk.com###Tinfo
 ||eic.org.cn^*/analytics
 ||eidsign.com.cn^
 ||eiegkg.xyz^
+||eiphrut.com^
 ||eiqsky.xyz^
 ||eiuoom.xyz^
 ||eiv.baidu.cn^
@@ -23846,6 +23853,7 @@ zzzyk.com###Tinfo
 ||ipxjps.cn^
 ||ipyhf.icu^
 ||iqgessh.icu^
+||iqi4l.icu^
 ||iqilu.com/getZone.php
 ||iqilu.com/static_files/multiads/
 ||iqilu.com/static_files/richmedia/
@@ -29369,6 +29377,7 @@ zzzyk.com###Tinfo
 ||qqtn.com/skin/know/
 ||qqvlsr.icu^
 ||qqwwmm.com^
+||qqxi6.icu^
 ||qqxiazai.com/index.*adver&
 ||qqyjis.xyz^
 ||qqyy.com/js/commAdv
@@ -29866,6 +29875,7 @@ zzzyk.com###Tinfo
 ||rongnuo.top^
 ||rongxunet.top^
 ||roobetaffiliates.com^$dnsrewrite=ad-block.dns.adguard.com
+||roqairs.com^
 ||rotondelibya.com^
 ||rou.video/_next/static/chunks/pages/fuli-
 ||rou.video/js/exo.js
@@ -30698,6 +30708,7 @@ zzzyk.com###Tinfo
 ||sitescout.com^
 ||sitetag.us^
 ||sitv.com.cn/cookiead.php
+||sivxobpn.icu^
 ||sjaaquj.cn^
 ||sjaidu.com^
 ||sjalipa.cn^
@@ -35854,6 +35865,7 @@ zzzyk.com###Tinfo
 ||z1hihu.xmcimg.com^
 ||z2x5c8.com^$image,domain=hihbt.com
 ||z3p9f.xyz^
+||z3zex.icu^
 ||z4a.net/images/*/960-60.
 ||z4a.net^$domain=9xav.cc
 ||z4a.net^$domain=aotu43.com
