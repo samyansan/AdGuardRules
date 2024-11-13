@@ -3,8 +3,8 @@
 ! Powerd by SamSan
 ! Description: Just a merged Adblock rule. Nothing more
 ! Expires: 6 hours (update frequency)
-! Version: 2024-11-13 08:41:12
-! Total count: 27422
+! Version: 2024-11-13 14:12:18
+! Total count: 27433
 
 ###ADtip
 ###Ad_windows
@@ -1355,6 +1355,7 @@ $websocket,domain=wap.yushuwu.cloud
 .728x90.
 .adsense.
 .adserver.
+.aoao111*iis.top/$script,third-party
 .asp?wg&df=$script,third-party
 .asp?wsg&df=$script,third-party
 .baigh8eosmgie*.site^$script,third-party
@@ -9367,7 +9368,6 @@ news.qq.com##.download-banner-wrap
 news.qq.com##.download-content.mr28.download-wrapper
 news.qq.com##.godown.qqcom_fb-item
 news.qq.com##.time > a[style="position: absolute;top: -8px;left: 296px;"]
-news.qq.com,www.qq.com,v.qq.com,new.qq.com#%#//scriptlet('json-prune', 'ads')
 news.sohu.com##.god-first
 news.sohu.com,www.sohu.com#?#.list16 > ul > li:-abp-contains(广告)
 news.tvbs.com.tw##.sidebar_div:has(> div.nolazydiv)
@@ -10670,11 +10670,13 @@ splaybow.com###divPrevious:last-child
 sports.qq.com##.focus_con > .item > a[href^="http"]:not([href*=".qq."])
 sports.qq.com##.scr-login > .cnxh:has(> .videoDiv #hotvideo)
 sports.qq.com##.topBnaner
+sports.qq.com##.txp_ad[data-role="creative-player-pause-picture-container"]
 sports.qq.com##a[href="http://teramont.svw-volkswagen.com/"]
 sports.qq.com##a[href^="http://market.1hai.cn/"]
 sports.qq.com#@#.txp_ad_center
 sports.qq.com,lpl.qq.com,v.qq.com#%#//scriptlet('set-constant', 'CreativePlayerwebPlugin.AD_EVENT.AD_DESTROY', '')
 sports.qq.com,lpl.qq.com,v.qq.com#%#//scriptlet('set-constant', 'CreativePlayerwebPlugin.AD_EVENT.AD_LOAD_START', '')
+sports.qq.com,news.qq.com,www.qq.com,v.qq.com,new.qq.com#%#//scriptlet('json-prune', 'ads')
 sports.sohu.com##.allsee-list > .bd-wrap
 sportsplanetmag.com##.adshow
 sportsv.net##.adv01
@@ -10797,6 +10799,8 @@ t66y.com##.tpc_content.do_not_catch > span.f24
 t66y.com##a[href^="http://www.viidii.info/?https://po88_"]
 t66y.com##a[href^="http://www.viidii.info/?https://po88_"] ~ :nth-child(-n+115)
 t66y.com#%#//scriptlet('prevent-setTimeout', '/tpc.?[A-Z0-9].?tml/')
+t66y.com#%#//scriptlet('prevent-setTimeout', 'adhtml', '10006')
+t66y.com#%#//scriptlet('prevent-setTimeout', 'tpcHt0ml', '1006')
 t66y.com#%#AG_onLoad(function(){var a=document.querySelector(".tpc_content img");if(a){a=a.attributes;for(var b=0;b<a.length;b++)if(!a[b].name.startsWith("data-link")&&!a[b].name.match(/data-.?(h|i|s)|(a|o|f|b|c|d|v|\d)s?\d?z?t?-data/)&&!a[b].value.match(/:\/\/[\s\S]*?a\.?d?\/.?.?b(_)?l(0|o|)ck\.jpg/i)){var c=a[b].name;break}}$("img["+c+"]").each(function(){0<$(this).attr(c).indexOf("sinaimg")&&$(this).attr(c,$(this).attr(c).replace(/https:/,"http:"));$(this).attr("src",$(this).attr(c));$(this).css("cursor","pointer");$(this).click(function(){window.open($(this).attr("src"));return!1})})});
 tahua.net###frameJjnBIp
 taian.com##.ggtp
@@ -11160,7 +11164,6 @@ uc123.com##.s-left
 uc123.com##.s-right
 uc123.com##.side-hot
 ucptt.com##.hidden-sm
-ucptt.com#%#(function() { window.open_ = window.open; var w_open = window.open, regex = /tw\.jav321\.com/; window.open = function(a, b) { if (typeof a !== 'string' || !regex.test(a)) { w_open(a, b); } }; })();
 udn.com###ad-pall
 udn.com###ad_curtain
 udn.com###ads-billboard
@@ -13673,6 +13676,7 @@ zzzyk.com###Tinfo
 ||a.bxwblog.cn^
 ||a.ckm.iqiyi.com^
 ||a.cnki.net/a/
+||a.d/adblo_ck.jpg
 ||a.dangdang.com^
 ||a.dlads.cn^$third-party
 ||a.duanmeiwen.com^
@@ -14713,6 +14717,7 @@ zzzyk.com###Tinfo
 ||aoakss.com^
 ||aoao11111iis.top^
 ||aoao11120iis.top^
+||aoao11121iis.top^
 ||aobtwv.icu^
 ||aogk88.asia^
 ||aoiqa.top^
@@ -14991,6 +14996,7 @@ zzzyk.com###Tinfo
 ||avseesee.com/amandison.php
 ||avseesee.com/htmls/vlinks.html
 ||avseesee.com/twad
+||avspda.xyz^$third-party
 ||avvfjhg.xyz^
 ||avxonsp.icu^
 ||awareista.com^
@@ -18479,6 +18485,7 @@ zzzyk.com###Tinfo
 ||ggxwb.miguvideo.com^
 ||ghabnq.xyz^
 ||ghbdsbfd.com^
+||gheqien.com^
 ||ghgasdb365.shop^
 ||ghgasdt963.shop^
 ||ghghgf.51dongshi.com^
@@ -21039,6 +21046,7 @@ zzzyk.com###Tinfo
 ||location.ximalaya.com^
 ||locdrop.query.yahoo.com^
 ||locooler-ageneral.com^$dnsrewrite=ad-block.dns.adguard.com
+||locpikbb.icu^
 ||lofter.com/blogPhotoAd?
 ||lofter.com/mailEntry.do?blogad
 ||lofter.com/mailEntryMobile.do
@@ -21608,6 +21616,7 @@ zzzyk.com###Tinfo
 ||mixpanel.com^
 ||miycoc.xyz^
 ||mjappzvz.xyz^
+||mjbidlg.icu^
 ||mjmobi.com^
 ||mkbbjtfp.xyz^
 ||mkd88.cc/16.32.jpg
@@ -23574,6 +23583,7 @@ zzzyk.com###Tinfo
 ||rjlfolk.xyz^
 ||rjsos.com/channel/laomo_dibu.png
 ||rjwljrf.xyz^
+||rjwpwod.icu^
 ||rjzxw.com/include/
 ||rjzxw.com/temp/index.files/logo2.gif
 ||rk6h3.icu^
@@ -24529,6 +24539,7 @@ zzzyk.com###Tinfo
 ||stun.douyucdn.cn^
 ||stun.hitv.com^
 ||stun1.douyucdn.cn^
+||stunkrins.com^
 ||stusnais.com^
 ||stvwell.online^$dnsrewrite=ad-block.dns.adguard.com
 ||stylishar.com^
