@@ -3,8 +3,8 @@
 ! Powerd by SamSan
 ! Description: Just a merged Adblock rule. Nothing more
 ! Expires: 6 hours (update frequency)
-! Version: 2024-11-14 08:41:13
-! Total count: 27433
+! Version: 2024-11-14 14:12:47
+! Total count: 27444
 
 ###ADtip
 ###Ad_windows
@@ -1073,6 +1073,7 @@
 ##a[href*=".downok.com"]
 ##a[href*=".gaimin.gg/cn"]
 ##a[href*=".hg63222.com"]
+##a[href*=".huibo222.com/"]
 ##a[href*=".hyenadata.com/"]
 ##a[href*=".imiwang.com/"]
 ##a[href*=".impactyu.com/"]
@@ -1083,12 +1084,14 @@
 ##a[href*=".mbrnf.com/"]
 ##a[href*=".mhtimes.cn"]
 ##a[href*=".mjjji.com/"]
+##a[href*=".moo8923.net"]
 ##a[href*=".mp388.com/"]
 ##a[href*=".n7.org.cn"]
 ##a[href*=".nhjhu25hd.com"]
 ##a[href*=".niujyl.com/"]
 ##a[href*=".pcjx365.com/"]
 ##a[href*=".rookiego.com"]
+##a[href*=".skw036.cc"]
 ##a[href*=".sng.link/"]
 ##a[href*=".ssmh"][href*="?u="]
 ##a[href*=".sudun.com/"]
@@ -15779,6 +15782,7 @@ zzzyk.com###Tinfo
 ||bugtags.com^
 ||bugzmn.icu^
 ||builtrussism.top^$dnsrewrite=ad-block.dns.adguard.com
+||bujlmitd.icu^
 ||bujz.top^
 ||buluo.qq.com^
 ||bumimi.com/money/
@@ -16264,6 +16268,7 @@ zzzyk.com###Tinfo
 ||chubun.com/uploads/pic/img
 ||chunmiaosh.com^
 ||chunyuqiufeng.com^$third-party
+||chupl.icu^
 ||chusan.com/js/m*_
 ||chushoushijian.cn^
 ||chushoushijian.cn^$third-party
@@ -16732,6 +16737,7 @@ zzzyk.com###Tinfo
 ||cvudqzoa.xyz^
 ||cvujac.xyz^
 ||cwaterf.top^
+||cweisif.top^
 ||cwerilxf.top^
 ||cweriof.top^
 ||cwgucvm.icu^
@@ -19319,6 +19325,7 @@ zzzyk.com###Tinfo
 ||hw-ot-ad.a.yximgs.com^
 ||hw.zuimeitianqi.com^
 ||hwateru.top^
+||hweisiu.top^
 ||hwerilxu.top^
 ||hweriou.top^
 ||hwhacum.cn^
@@ -23084,6 +23091,7 @@ zzzyk.com###Tinfo
 ||pxtjfmv.xyz^
 ||pxx.tnklrs.cn^$third-party
 ||pxxnejx.xyz^
+||pxyjqea.icu^
 ||pxzrlf.xyz^
 ||py.cn/src/img/pyy/
 ||py.cn/static/images/advert/
@@ -26291,6 +26299,7 @@ zzzyk.com###Tinfo
 ||wqzmed.cn^
 ||wr.yiyouliao.com^
 ||wrating.com^
+||wrdamoe.icu^
 ||wrsikq.xyz^
 ||wrtjojn.xyz^
 ||wrutvnce.top^
@@ -26678,6 +26687,7 @@ zzzyk.com###Tinfo
 ||xunsu.cc/js/indexbottom.js
 ||xunyugong.xyz/sitejs/xunyugong.js
 ||xuoizbtl.xyz^
+||xuugnuits.com^
 ||xuxwvh.xyz^
 ||xuyanlong1.cn^
 ||xuzhi.net/uploadfile/poster/960x50.jpg
@@ -26754,6 +26764,7 @@ zzzyk.com###Tinfo
 ||y.gtimg.cn/music/common//upload/kg_ad^
 ||y.photoint.net^
 ||y.qq.com/music/common/upload/t_kg_activity_show^
+||y0mwy.icu^
 ||y1.junshitt.com^
 ||y1.spreton.com^
 ||y341i.xyz^
