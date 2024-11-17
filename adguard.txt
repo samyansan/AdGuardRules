@@ -3,8 +3,8 @@
 ! Powerd by SamSan
 ! Description: Just a merged Adblock rule. Nothing more
 ! Expires: 6 hours (update frequency)
-! Version: 2024-11-17 08:47:06
-! Total count: 27455
+! Version: 2024-11-17 14:11:47
+! Total count: 27468
 
 ###ADtip
 ###Ad_windows
@@ -1035,6 +1035,7 @@
 ##A[href*=".com/?Agent="]
 ##A[href="http://t.cn/A6hQCVsv"]
 ##A[href^="/e/public/ClickAd?adid="]
+##A[onclick^="diensfeifwejwdsfwemio"]
 ##[class][onclick="window.location.href='/api/goapp/'"]
 ##[class][onclick="window.location.href='https://www.suyuexs.com'"]
 ##[class][onclick="window.location.href='https://www.tsqcy.cn'"]
@@ -3003,6 +3004,7 @@ $websocket,domain=wap.yushuwu.cloud
 18comic.org,18comic.vip,18-comic.work#?#.col-xs-6 > div[data-show][style]:has(> p:only-child > a[target="_blank"] > img)
 18comic.org,18comic.vip,18-comic.work#@?#:-abp-has(>ins+script)
 18comic.org,18comic.vip,jmcomic1.city,jmcomic1.win#@?#:-abp-has(>script[src*=".realsrv.com"])
+18comic.vip##.container > div.row:has(> div[class^="col-"] > div[data-show])
 18comic.vip##.container > div[style^="padding:"]:has(> [data-group="content_page"])
 18comic.vip##.tab-content + .row:has(> div[class] > div[class] > .group-notice)
 18comic.vip#%#//scriptlet('prevent-setTimeout', 'float_right > div')
@@ -5366,6 +5368,7 @@ cnyes.com###full_ad-screen
 cnyes.com##a[data-proj-ga-category="FloatingBTN"]
 cnyes.com#?#.content-main > div:-abp-has(>div[id^="div-gpt-ad"])
 cnyes.com#?#article > div:-abp-has(>div[id^="div-gpt-ad"])
+cnys.tv###player_pause
 cnys.tv#%#//scriptlet('set-constant', 'config.group', '')
 cnys.tv#@#.player-news > .news-list
 cnys.tv,4kya.com###player_pause
@@ -17163,6 +17166,7 @@ zzzyk.com###Tinfo
 ||dm1.ddwk8.cn^
 ||dm1.zjydt.com^
 ||dmapp.youku.com^
+||dmevejjt.icu^
 ||dmg-dd.oss-accelerate.aliyuncs.com^
 ||dmm.aizhan.com^
 ||dmnqfn.xyz^
@@ -17819,6 +17823,7 @@ zzzyk.com###Tinfo
 ||evkzqs.xyz^
 ||evscnfj.cn^
 ||ewaterw.top^
+||eweisiw.top^
 ||ewerilxw.top^
 ||eweriow.top^
 ||ewjhic.cn^
@@ -18385,6 +18390,7 @@ zzzyk.com###Tinfo
 ||gdwudmv.icu^
 ||gdxxb.com^$third-party
 ||gdyjs.com^
+||ge189.com^
 ||ge3shbdf1.fun^
 ||ged46.xyz^
 ||gedafdshb7.fun^
@@ -21248,6 +21254,7 @@ zzzyk.com###Tinfo
 ||m.danmeixsw.com/js/mwap.js
 ||m.daomutxt.cc/dist/common.js
 ||m.daomutxt.cc/js/
+||m.ddyueshu.cc/*/$script
 ||m.ercos.cn^$third-party
 ||m.feisucn.com/assets/js/m.js
 ||m.game.weibo.cn^
@@ -21634,6 +21641,7 @@ zzzyk.com###Tinfo
 ||mldzwmt.xyz^
 ||mlegyu.xyz^
 ||mlgowell.com^
+||mlgowell.org^
 ||mlhdvjv.xyz^
 ||mlhtr.cn^
 ||mlicci.xyz^
@@ -25612,6 +25620,8 @@ zzzyk.com###Tinfo
 ||user-shield-check.com^$dnsrewrite=ad-block.dns.adguard.com
 ||user.042.cn/adver/adver.js
 ||userimg.qunar.com^
+||usgowell.com^
+||usgowell.org^
 ||ushaqi.com^
 ||usingde.com^
 ||uskecsx.icu^
@@ -26359,6 +26369,7 @@ zzzyk.com###Tinfo
 ||ww7814.win/pic
 ||ww9874.com/asset/playerInit.js
 ||wwads.cn^$third-party
+||wweisie.top^
 ||wwerioe.top^
 ||wwhsxwow.xyz^
 ||wwis-dubc1-vip60.adobe.com^
@@ -27128,6 +27139,7 @@ zzzyk.com###Tinfo
 ||yxgqgq.xyz^
 ||yximgs.com/bs2/adcarsku/sku1563a96c-38ca-4563-a4b5-522208113126.
 ||yximgs.com/bs2/adcarsku/sku9c0e68cc-2f12-4e47-a340-a7293ee88c88.
+||yxjcyxy.icu^
 ||yxkbgg.xyz^
 ||yxptcrss.xyz^
 ||yxrmbjw.icu^
@@ -27221,6 +27233,7 @@ zzzyk.com###Tinfo
 ||zfcoin.cn^
 ||zfp32.buzz^
 ||zfvtswv.xyz^
+||zfwgn.icu^
 ||zg.mmyuer.com^
 ||zghsep.icu^
 ||zglww.net/jsnew/pfkf.js

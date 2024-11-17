@@ -1027,6 +1027,7 @@
 ##A[href*=".com/?Agent="]
 ##A[href="http://t.cn/A6hQCVsv"]
 ##A[href^="/e/public/ClickAd?adid="]
+##A[onclick^="diensfeifwejwdsfwemio"]
 ##[class][onclick="window.location.href='/api/goapp/'"]
 ##[class][onclick="window.location.href='https://www.suyuexs.com'"]
 ##[class][onclick="window.location.href='https://www.tsqcy.cn'"]
@@ -1726,6 +1727,7 @@
 18comic.org,18comic.vip,18-comic.work#?#.col-xs-6 > div[data-show][style]:has(> p:only-child > a[target="_blank"] > img)
 18comic.org,18comic.vip,18-comic.work#@?#:-abp-has(>ins+script)
 18comic.org,18comic.vip,jmcomic1.city,jmcomic1.win#@?#:-abp-has(>script[src*=".realsrv.com"])
+18comic.vip##.container > div.row:has(> div[class^="col-"] > div[data-show])
 18comic.vip##.container > div[style^="padding:"]:has(> [data-group="content_page"])
 18comic.vip##.tab-content + .row:has(> div[class] > div[class] > .group-notice)
 18h.animezilla.com###manga-bottom
@@ -3932,6 +3934,7 @@ cnyes.com###full_ad-screen
 cnyes.com##a[data-proj-ga-category="FloatingBTN"]
 cnyes.com#?#.content-main > div:-abp-has(>div[id^="div-gpt-ad"])
 cnyes.com#?#article > div:-abp-has(>div[id^="div-gpt-ad"])
+cnys.tv###player_pause
 cnys.tv#@#.player-news > .news-list
 cnys.tv,4kya.com###player_pause
 co188.com##.suspen
