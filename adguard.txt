@@ -3,8 +3,8 @@
 ! Powerd by SamSan
 ! Description: Just a merged Adblock rule. Nothing more
 ! Expires: 6 hours (update frequency)
-! Version: 2024-11-18 08:45:10
-! Total count: 36544
+! Version: 2024-11-18 14:13:30
+! Total count: 36550
 
 ###ADtip
 ###Ad_windows
@@ -1328,7 +1328,7 @@ $script,third-party,denyallow=fastlycdn.com|doodcdn.co|intensedebate.com|vixclou
 $script,third-party,denyallow=myqcloud.com|bytecdntp.com|pddpic.com|googletagmanager.com,domain=yjys.me
 $script,third-party,domain=cilimao.co|cilimao.one
 $script,third-party,domain=colamanga.com
-$script,third-party,domain=torkitty.com|torrentkitty.app|torrentkitty.asia|torrentkitty.cam|torrentkitty.ink|torrentkitty.io|torrentkitty.live|torrentkitty.lol|torrentkitty.net|torrentkitty.one|torrentkitty.se|torrentkitty.tv|torrkitty.com
+$script,third-party,domain=torkitty.net|torkitty.com|torrentkitty.app|torrentkitty.asia|torrentkitty.cam|torrentkitty.ink|torrentkitty.io|torrentkitty.live|torrentkitty.lol|torrentkitty.net|torrentkitty.one|torrentkitty.se|torrentkitty.tv|torrkitty.com
 $script,third-party,domain=xiaoyakankan.com|52movieba.com|audio699.com|kan-tv.com|m.supfree.net|movieffm.net|xiaoxintv.cc|xiaoxintv.com|xiaoxintv.net
 $script,third-party,websocket,domain=52codes.net
 $third-party,websocket,xmlhttprequest,domain=qiyoudy2.com|qiyoudy4.com
@@ -1572,6 +1572,7 @@ $websocket,domain=wap.yushuwu.cloud
 .top^*-960x80-*.gif
 .tor*/js/jquery.bpopup.
 .tv/ads/
+.tv/gg/
 .tv/js/ads/
 .tv/style/vue.js?v=
 .tw/ads/
@@ -16134,6 +16135,7 @@ zzzyk.com###Tinfo
 ||anyview.wang^
 ||anywlan.com/link/*.gif
 ||anyysz.com^
+||ao1118kas.top^
 ||aoakss.com^
 ||aoao11111iis.top^
 ||aoao11120iis.top^
@@ -23480,6 +23482,7 @@ zzzyk.com###Tinfo
 ||ifjslio.top^
 ||ifkdy.com/_nuxt/44e01dcef4aa1a21d9a6.js
 ||ifkdy.com/ifkdy/weixin/isFollowMe
+||iflucav.icu^
 ||ifmccdn.icu^
 ||ifooday.cn/index.php?m=poster&
 ||ifs.tanx.com^
@@ -26769,6 +26772,7 @@ zzzyk.com###Tinfo
 ||mhqx.store^
 ||mhtky.cn^
 ||mhuos.com^
+||mhwy6.icu^
 ||mhzftye.xyz^
 ||mi.gdt.qq.com^
 ||miam4.cn^
@@ -29506,6 +29510,7 @@ zzzyk.com###Tinfo
 ||qwblog.cn/localfile/20200612230036.gif
 ||qwe0231141.bj.bcebos.com^
 ||qweewq2021.site^
+||qweisiy.top^
 ||qweoc88123.top^
 ||qwer0001.top^
 ||qwerioy.top^
@@ -31701,7 +31706,6 @@ zzzyk.com###Tinfo
 ||tangequan.co^
 ||tanggoushequ.xyz^
 ||tangram.e.qq.com^
-||tangrenjie.tv/gg/
 ||tangrenjie.tv/gg/$image
 ||tangxue.me^
 ||tangyaols.com^
@@ -32638,6 +32642,7 @@ zzzyk.com###Tinfo
 ||twamjb.cn^
 ||twavtv.com/js/jquery.colorbox
 ||tweezesmalanga.com^
+||tweisii.top^
 ||twerilxi.top^
 ||twerioi.top^
 ||twigwisp.com^$dnsrewrite=ad-block.dns.adguard.com
@@ -34192,6 +34197,7 @@ zzzyk.com###Tinfo
 ||wsdwbfs.cn^
 ||wsgayq.xyz^
 ||wsgblw.com^
+||wsgnihbh.icu^
 ||wshlcgj.com^
 ||wshufa.com^$third-party
 ||wskei.cn^
