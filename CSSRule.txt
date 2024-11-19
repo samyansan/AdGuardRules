@@ -4192,6 +4192,9 @@ dcfever.com##.trading_top_banner
 dcfever.com,gaodun.com##.advertisement
 dcloud.net.cn##.aw-ad-item
 ddav.org###adv-2
+ddcar.com.tw##.popup-adv
+ddcar.com.tw##.section-page-articles > .text-center[style="min-width: 970px; min-height: 250px;"]
+ddcar.com.tw##div[id^="div-adsense-"]
 dditblog.com###income_div
 ddl826.pixnet.net#?#.article-body > div.forward ~ div[style^="position:"][style*="important"]
 ddooo.com##.gadat_list
@@ -4662,7 +4665,7 @@ elecinfo.com##div[class$="-advert"]
 element-plus.gitee.io##.sidebar > .page-content
 element-plus.gitee.io##.toc-content > .m-t-16px
 element-plus.gitee.io##aside > .page-content
-element-plus.org##.page-sidebar-parent
+element-plus.org##.page-sidebar-layout
 elle.com.hk##.tpc-container
 elle.com.hk#?#article > div.block-default:has(> div.content-wrapper p > span:contains(Cosmart))
 emome.net##.source_advertising
@@ -6616,9 +6619,9 @@ jq22.com##.fdad
 jqzb.com.cn##.zk_xf
 jr.jd.com###app-jr
 jr.jd.com##.app.ui-sidebar-block
-jr31.xyz###hd + .wp
-jr31.xyz##a[href^="ad."]
 jr31.xyz##body > div.wp > div.wp > a[rel="nofollow"] > img
+jr34.xyz###hd + .wp
+jr34.xyz##a[href^="ad."]
 jrj.com.cn###comment > a:first-child
 jrj.com.cn##.bd.pa10.bgn
 jrj.com.cn##.jrj-ad
@@ -8634,6 +8637,7 @@ ruian.com##.ad_opera
 ruian.com##div[class^="gg_"]
 runningmanzx.com##.guangao
 runoob.com###sidebar-right-re
+runoob.com##.article-heading-ad
 runoob.com#?#.sidebar-box:-abp-has(.re-600160)
 ruten.com.tw###AdRelatedTitle
 ruten.com.tw###ad-467
