@@ -3,8 +3,8 @@
 ! Powerd by SamSan
 ! Description: Just a merged Adblock rule. Nothing more
 ! Expires: 6 hours (update frequency)
-! Version: 2024-11-21 08:43:15
-! Total count: 27499
+! Version: 2024-11-21 14:12:45
+! Total count: 27509
 
 ###ADtip
 ###Ad_windows
@@ -3006,7 +3006,6 @@ $websocket,domain=wap.yushuwu.cloud
 18comic.org,18comic.vip,18-comic.work#?#.col-xs-6 > div[data-show][style]:has(> p:only-child > a[target="_blank"] > img)
 18comic.org,18comic.vip,18-comic.work#@?#:-abp-has(>ins+script)
 18comic.org,18comic.vip,jmcomic1.city,jmcomic1.win#@?#:-abp-has(>script[src*=".realsrv.com"])
-18comic.vip##.container > div.row:has(> div[class^="col-"] > div[data-show])
 18comic.vip##.container > div[style^="padding:"]:has(> [data-group="content_page"])
 18comic.vip##.tab-content + .row:has(> div[class] > div[class] > .group-notice)
 18comic.vip#%#//scriptlet('prevent-setTimeout', 'float_right > div')
@@ -4775,6 +4774,8 @@ bing.com###b_results > li[style*="padding-bottom: 8px;"][style*="235, 235, 235"]
 bing.com###bingBrand
 bing.com###id_mobile
 bing.com##.OpInNwWndw
+bing.com##.b_algo:has(.rms_img[src*="/th?id=OADD2."][src$="21.2"])
+bing.com##.b_algo:has(.rms_img[src*="=AdsPlus"])
 bing.com#?#li[class="b_algo"]:-abp-has(.b_attribution[data-partnertag]+p[class])
 bingdou.com.cn,hoteastday.com##.float_ad
 bingfeng.tw###adbt
@@ -5266,8 +5267,6 @@ cmhello.com##.gpost-above
 cmsky.com##.textwidget a[href^="http"]:not([href*="cmsky"])
 cn-healthcare.com##.fh_ad_wrap
 cn-healthcare.com##.fh_advent_wrap
-cn.bing.com##.b_algo:has(.rms_img[src*="/th?id=OADD2."][src$="21.2"])
-cn.bing.com##.b_algo:has(.rms_img[src*="=AdsPlus"])
 cn.bing.com##.b_bza_pole
 cn.bing.com##.bnp_rich_div_visible.bottom
 cn.bing.com##.bnp_rich_div_visible.top
@@ -12602,6 +12601,7 @@ zzzyk.com###Tinfo
 ||1999019.com^
 ||1a1fb6.xyz^$dnsrewrite=ad-block.dns.adguard.com
 ||1bctkn.xyz^
+||1buo.icu^
 ||1buu1.penyouw.com^
 ||1c52e1e2.live^$dnsrewrite=ad-block.dns.adguard.com
 ||1cecn.icu^
@@ -12930,6 +12930,7 @@ zzzyk.com###Tinfo
 ||3q1lsj.cn^
 ||3questionsgetthegirl.com^$dnsrewrite=ad-block.dns.adguard.com
 ||3ri.cc^
+||3sas.icu^
 ||3uvz5.xyz^
 ||3wk.cc/images/*.gif
 ||3xx.vip^
@@ -14728,6 +14729,7 @@ zzzyk.com###Tinfo
 ||aoao11111iis.top^
 ||aoao11120iis.top^
 ||aoao11121iis.top^
+||aoao11201iis.top^
 ||aobtwv.icu^
 ||aogk88.asia^
 ||aoiqa.top^
@@ -16750,6 +16752,7 @@ zzzyk.com###Tinfo
 ||cvujac.xyz^
 ||cwaterf.top^
 ||cweisif.top^
+||cweizaf.top^
 ||cwerilxf.top^
 ||cweriof.top^
 ||cwgucvm.icu^
@@ -16860,6 +16863,7 @@ zzzyk.com###Tinfo
 ||dahe.cn/indiboy/ads/
 ||dai.siyuetian.net^
 ||dai18.mumu01.com^
+||daiitmk.cn^
 ||dailynews.sina.com/gb/ads/
 ||dailyreports.info^$dnsrewrite=ad-block.dns.adguard.com
 ||daima.aixiaola.com^
@@ -18019,6 +18023,7 @@ zzzyk.com###Tinfo
 ||fepmpify.xyz^
 ||feptbh.xyz^
 ||ferriesendless.com^
+||feubgzfx.icu^
 ||fexclick.baidu.com^
 ||ff.meikanguo.com^
 ||ff.psd8.com^
@@ -22189,6 +22194,7 @@ zzzyk.com###Tinfo
 ||nnvjbb.xyz^
 ||no1.168abc.net/upload/
 ||noafoaji.xyz^
+||nois5gj.xyz^
 ||noncepter.com^$dnsrewrite=ad-block.dns.adguard.com
 ||nongjitong.com/adm/
 ||nontraditionally.rest^$dnsrewrite=ad-block.dns.adguard.com
@@ -22379,6 +22385,7 @@ zzzyk.com###Tinfo
 ||olenation.org^$dnsrewrite=ad-block.dns.adguard.com
 ||olgame.tw/home/attachment/
 ||olgcpwc.icu^
+||olgrae.com^
 ||olkrzytv.com^$dnsrewrite=ad-block.dns.adguard.com
 ||olltcqg.xyz^
 ||olmnvbgufy.top^
@@ -23204,6 +23211,7 @@ zzzyk.com###Tinfo
 ||qhemphox.com^
 ||qheose.xyz^
 ||qheoy.cn^
+||qhestrad.com^
 ||qhimg.com,domain=~so.com
 ||qhimg.com/clk.gif?
 ||qhimg.com/js/iwt.js
@@ -24666,6 +24674,7 @@ zzzyk.com###Tinfo
 ||sxtnpzd.xyz^
 ||sycbbs.com^
 ||sydneygfpink.com^$dnsrewrite=ad-block.dns.adguard.com
+||syfgtby.cn^
 ||syh-imp.cdnjtzy.com^
 ||syislob.top^
 ||syiwgwsqwngrdw.xyz^
@@ -25911,6 +25920,7 @@ zzzyk.com###Tinfo
 ||vk923.com/img/
 ||vkandian.cn/footjs/
 ||vkandian.cn/peitu/
+||vkbxaixl.icu^
 ||vkdgdt.xyz^
 ||vkguvyg.cn^
 ||vlcdownloads.com^$dnsrewrite=ad-block.dns.adguard.com
