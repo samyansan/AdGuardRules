@@ -3,8 +3,8 @@
 ! Powerd by SamSan
 ! Description: Just a merged Adblock rule. Nothing more
 ! Expires: 6 hours (update frequency)
-! Version: 2024-11-22 08:44:04
-! Total count: 27508
+! Version: 2024-11-22 14:12:51
+! Total count: 27520
 
 ###ADtip
 ###Ad_windows
@@ -743,6 +743,7 @@
 ##.homepage > .wp-none1
 ##.hongbao_hd
 ##.horizontal-banner
+##.horizontal-banner + .post-content
 ##.house-ads
 ##.hp_textlink_ad
 ##.html5-ad-progress-list
@@ -1359,7 +1360,7 @@ $websocket,domain=wap.yushuwu.cloud
 .728x90.
 .adsense.
 .adserver.
-.aoao111*iis.top/$script,third-party
+.aoao11*iis.top/$script,third-party
 .asp?wg&df=$script,third-party
 .asp?wsg&df=$script,third-party
 .baigh8eosmgie*.site^$script,third-party
@@ -12617,6 +12618,7 @@ zzzyk.com###Tinfo
 ||1gmzo.icu^
 ||1iohncj.xyz^
 ||1iuybpo.com^
+||1jok.icu^
 ||1k2l3m4n5o.com^
 ||1ketang.com/Runtime/js/play
 ||1kfnsra.com^
@@ -12792,6 +12794,7 @@ zzzyk.com###Tinfo
 ||3158.cn/static/js/fixbtm/
 ||3158.cn^*_analyser.
 ||315che.com/tree/ad.js
+||31up.icu^
 ||31vcd.com^*.js
 ||32.huanqiu.com^
 ||321.jintang114.org^
@@ -14730,6 +14733,7 @@ zzzyk.com###Tinfo
 ||aoao11120iis.top^
 ||aoao11121iis.top^
 ||aoao11201iis.top^
+||aoao11211iis.top^
 ||aobtwv.icu^
 ||aogk88.asia^
 ||aoiqa.top^
@@ -19352,6 +19356,7 @@ zzzyk.com###Tinfo
 ||hw.zuimeitianqi.com^
 ||hwateru.top^
 ||hweisiu.top^
+||hweizau.top^
 ||hwerilxu.top^
 ||hweriou.top^
 ||hwhacum.cn^
@@ -19972,6 +19977,7 @@ zzzyk.com###Tinfo
 ||iwatero.top^
 ||iwatojc.cn^
 ||iweisio.top^
+||iweizao.top^
 ||iwerilxo.top^
 ||iwerioo.top^
 ||iwmigu.xyz^
@@ -20002,6 +20008,7 @@ zzzyk.com###Tinfo
 ||izqeyo.xyz^
 ||izqogb.cn^
 ||iztwp.com/images/
+||izuts.com^
 ||izwmfmu.icu^
 ||j.baminw.cn^
 ||j.br.baidu.com^
@@ -20382,6 +20389,7 @@ zzzyk.com###Tinfo
 ||juznlx.xyz^
 ||jwatera.top^
 ||jweisia.top^
+||jweizaa.top^
 ||jwerilxa.top^
 ||jwerioa.top^
 ||jwfesuk.cn^
@@ -21210,6 +21218,7 @@ zzzyk.com###Tinfo
 ||lutouwang.net/static/images/boss_gao_hb.jpeg
 ||lutouwang.net/static/js/mv_ad
 ||lutrbr.xyz^
+||luunels.com^
 ||luven.xyz^$dnsrewrite=ad-block.dns.adguard.com
 ||luyarvx.icu^
 ||luyx8.com/tu/666.gif
@@ -22472,6 +22481,7 @@ zzzyk.com###Tinfo
 ||opwoga.xyz^
 ||oq6ry.com^
 ||oqaejin.icu^
+||oqipegjz.icu^
 ||oqnkur.icu^
 ||oqvucp.icu^
 ||oqxep.cn^
@@ -22867,6 +22877,7 @@ zzzyk.com###Tinfo
 ||pixoctopus.pixnet.net^
 ||pixon.ads-pixiv.net^
 ||pjaihds.icu^
+||pjb9gv9.xyz^
 ||pjcijbv.icu^
 ||pjcn.org^$third-party
 ||pjdthz.xyz^
@@ -23163,6 +23174,7 @@ zzzyk.com###Tinfo
 ||qc1.cheshipin.com^
 ||qcepqj.icu^
 ||qchannel0d.cn^
+||qcixkb1.xyz^
 ||qcjycg.com/template/conch/asset/js/hl
 ||qcl777.com^
 ||qcohkm.xyz^
