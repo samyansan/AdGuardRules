@@ -3,8 +3,8 @@
 ! Powerd by SamSan
 ! Description: Just a merged Adblock rule. Nothing more
 ! Expires: 6 hours (update frequency)
-! Version: 2024-11-23 08:43:02
-! Total count: 27520
+! Version: 2024-11-23 14:11:40
+! Total count: 27538
 
 ###ADtip
 ###Ad_windows
@@ -1037,6 +1037,7 @@
 ##A[href="http://t.cn/A6hQCVsv"]
 ##A[href^="/e/public/ClickAd?adid="]
 ##A[onclick^="diensfeifwejwdsfwemio"]
+##IMG[onclick*="bucd.lol"]
 ##[class][onclick="window.location.href='/api/goapp/'"]
 ##[class][onclick="window.location.href='https://www.suyuexs.com'"]
 ##[class][onclick="window.location.href='https://www.tsqcy.cn'"]
@@ -1360,7 +1361,6 @@ $websocket,domain=wap.yushuwu.cloud
 .728x90.
 .adsense.
 .adserver.
-.aoao11*iis.top/$script,third-party
 .asp?wg&df=$script,third-party
 .asp?wsg&df=$script,third-party
 .baigh8eosmgie*.site^$script,third-party
@@ -2796,7 +2796,9 @@ $websocket,domain=wap.yushuwu.cloud
 123pan.com,meidebi.com,weicaixun.com#@#.share-list
 125.la##.forumlist_ad
 126.com,163.com##.gWel-promt
+131400.best,vikacg.com,vikacg.xyz##.post-card-list > a
 131400.best,vikacg.com,vikacg.xyz##a[href^="http"] > img[src*="/assets/main/"]
+131400.best,vikacg.com,vikacg.xyz##a[href^="http"] > img[src*="/assets/next/"]
 131458.com###header_gg
 131458.com##.divGuanggao
 131458.com##.ulfooter_top
@@ -3938,7 +3940,7 @@ $websocket,domain=wap.yushuwu.cloud
 =SOGOU_WAP_SETJSONADSLOT&
 =ad_top_slider&
 =ajaxGetAds&type=
-=fitacg.com/static/other
+=fitacg.com/static/othe
 =loginExtAD.
 =mumumoniqi-piaochuang-
 =window.awall.adblockwalltemplatefetchdef&
@@ -4229,6 +4231,7 @@ appinn.com###ranshownow
 appinn.com###sidebar > .widget:first-child
 appinn.com###sidebar a[rel*="sponsored"]
 appinn.com##.ads-m
+appinn.com##a[href*=".houdeyun.cn"]
 appinn.com,hexieshe.cn###media_image-2
 apple.com.cn##.adv-wrapper
 apple.com.cn#$##ac-globalnav { top: 0 !important; }
@@ -6119,6 +6122,7 @@ element-plus.gitee.io##.sidebar > .page-content
 element-plus.gitee.io##.toc-content > .m-t-16px
 element-plus.gitee.io##aside > .page-content
 element-plus.org##.page-sidebar-layout
+element-plus.org#?#div:-abp-has(>.sponsor-item)
 elle.com.hk##.tpc-container
 elle.com.hk#?#article > div.block-default:has(> div.content-wrapper p > span:contains(Cosmart))
 embedrise.com#%#//scriptlet('prevent-window-open')
@@ -6393,6 +6397,7 @@ firefoxchina.cn,hao123.com,muzhi.baidu.com##.bottom-banner
 firefoxchina.cn,taoyitu.com##.float-banner
 fishpi.cn##a[href*="guangdianhong.com"]
 fishpi.cn#?#.module:-abp-has(>.ad)
+fitacg.com##a[href*="ifift.com"]
 fjsen.com,nuomi.com#@#.right-ad
 flight.qunar.com##.l_rside > .b_fly_ban_b:nth-child(2)
 flighty.cn###searchBox + #sidebarBox
@@ -14726,9 +14731,13 @@ zzzyk.com###Tinfo
 ||anysdk.com^
 ||anyshare.icu^*.js
 ||anywlan.com/link/*.gif
+||ao11*kas.top/$script,third-party
 ||ao1118kas.top^
 ||ao1120kas.top^
+||ao1122kas.top^
+||ao1123kas.top^
 ||aoakss.com^
+||aoao11*iis.top/$script,third-party
 ||aoao11111iis.top^
 ||aoao11120iis.top^
 ||aoao11121iis.top^
@@ -16736,6 +16745,7 @@ zzzyk.com###Tinfo
 ||ctydsy.xyz^
 ||ctyusif.top^
 ||cuaeblh.icu^
+||cukuix.com^
 ||cupfox.app^$third-party
 ||cupid.iqiyi.com/mixer?
 ||cupid.iqiyi.com/show2?
@@ -17356,6 +17366,7 @@ zzzyk.com###Tinfo
 ||drcn-weather.cloud.huawei.com^
 ||drdwy.com^
 ||dreamteamaffiliates.com^$dnsrewrite=ad-block.dns.adguard.com
+||drenqils.com^
 ||dreuaxk.icu^
 ||drihmae.com^
 ||drjs123.com^
@@ -17718,6 +17729,7 @@ zzzyk.com###Tinfo
 ||elecfans.com/static/home_ad/
 ||elecfans.com/webapi/advertisement/
 ||elemea.xyz^
+||element-plus.org/images/sponsors/
 ||elisium.cn^
 ||eliwitensirg.net^$dnsrewrite=ad-block.dns.adguard.com
 ||ellingsen.cn^
@@ -19327,6 +19339,7 @@ zzzyk.com###Tinfo
 ||hujunhao.name^
 ||hulichuang.mobi^
 ||huo720.com/back/ad_
+||huo720.com/files/vidhub
 ||huo720.com/files/vidhub.
 ||huobaowang.com/meeting/js/hbchat.
 ||huoche.net/Images/pc/ad_
@@ -19361,6 +19374,7 @@ zzzyk.com###Tinfo
 ||hweriou.top^
 ||hwhacum.cn^
 ||hwnojj.xyz^
+||hwplypbn.icu^
 ||hwpub-s01-drcn.cloud.dbankcloud.cn^
 ||hwpvbdj.xyz^
 ||hwuogmusthxfpk.xyz^
@@ -20757,6 +20771,7 @@ zzzyk.com###Tinfo
 ||kvyyyde.cn^
 ||kwaterd.top^
 ||kweisid.top^
+||kweizad.top^
 ||kwerilxd.top^
 ||kweriod.top^
 ||kwflvcdn.000dn.com^
@@ -25286,6 +25301,7 @@ zzzyk.com###Tinfo
 ||tuijian.baidu.com^
 ||tuisong.baidu.cn^
 ||tuisong.baidu.com^
+||tukveks.com^
 ||tuky889900.com^
 ||tuoizbtl.xyz^
 ||tupian6666.com^
@@ -26251,6 +26267,7 @@ zzzyk.com###Tinfo
 ||whranc.cn^
 ||whrwlxg.icu^
 ||whsir.com/wp-content/themes/wh-blog/js/modal.js
+||wi1f.icu^
 ||widget.ezprice.com.tw^$third-party
 ||widget.weibo.com^
 ||widgets.outbrain.com^
@@ -27384,6 +27401,7 @@ zzzyk.com###Tinfo
 ||zmfcnlvu.xyz^
 ||zmk.pw/zfb.png
 ||zmklhev.cn^
+||zmrmbc.xyz^
 ||zmvopcio.icu^
 ||zn46.com/images/*0x
 ||zndsssp.dangbei.net^

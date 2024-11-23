@@ -1029,6 +1029,7 @@
 ##A[href="http://t.cn/A6hQCVsv"]
 ##A[href^="/e/public/ClickAd?adid="]
 ##A[onclick^="diensfeifwejwdsfwemio"]
+##IMG[onclick*="bucd.lol"]
 ##[class][onclick="window.location.href='/api/goapp/'"]
 ##[class][onclick="window.location.href='https://www.suyuexs.com'"]
 ##[class][onclick="window.location.href='https://www.tsqcy.cn'"]
@@ -1523,7 +1524,9 @@
 123pan.com,meidebi.com,weicaixun.com#@#.share-list
 125.la##.forumlist_ad
 126.com,163.com##.gWel-promt
+131400.best,vikacg.com,vikacg.xyz##.post-card-list > a
 131400.best,vikacg.com,vikacg.xyz##a[href^="http"] > img[src*="/assets/main/"]
+131400.best,vikacg.com,vikacg.xyz##a[href^="http"] > img[src*="/assets/next/"]
 131458.com###header_gg
 131458.com##.divGuanggao
 131458.com##.ulfooter_top
@@ -2806,6 +2809,7 @@ appinn.com###ranshownow
 appinn.com###sidebar > .widget:first-child
 appinn.com###sidebar a[rel*="sponsored"]
 appinn.com##.ads-m
+appinn.com##a[href*=".houdeyun.cn"]
 appinn.com,hexieshe.cn###media_image-2
 apple.com.cn##.adv-wrapper
 apple.com.cn#$##ac-globalnav { top: 0 !important; }
@@ -4667,6 +4671,7 @@ element-plus.gitee.io##.sidebar > .page-content
 element-plus.gitee.io##.toc-content > .m-t-16px
 element-plus.gitee.io##aside > .page-content
 element-plus.org##.page-sidebar-layout
+element-plus.org#?#div:-abp-has(>.sponsor-item)
 elle.com.hk##.tpc-container
 elle.com.hk#?#article > div.block-default:has(> div.content-wrapper p > span:contains(Cosmart))
 emome.net##.source_advertising
@@ -4938,6 +4943,7 @@ firefoxchina.cn,hao123.com,muzhi.baidu.com##.bottom-banner
 firefoxchina.cn,taoyitu.com##.float-banner
 fishpi.cn##a[href*="guangdianhong.com"]
 fishpi.cn#?#.module:-abp-has(>.ad)
+fitacg.com##a[href*="ifift.com"]
 fjsen.com,nuomi.com#@#.right-ad
 flight.qunar.com##.l_rside > .b_fly_ban_b:nth-child(2)
 flighty.cn###searchBox + #sidebarBox
