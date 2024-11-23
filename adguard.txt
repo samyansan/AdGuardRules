@@ -3,8 +3,8 @@
 ! Powerd by SamSan
 ! Description: Just a merged Adblock rule. Nothing more
 ! Expires: 6 hours (update frequency)
-! Version: 2024-11-23 14:11:40
-! Total count: 27538
+! Version: 2024-11-23 20:15:23
+! Total count: 27539
 
 ###ADtip
 ###Ad_windows
@@ -8771,8 +8771,9 @@ m.v.qq.com##.mod_open
 m.v.qq.com##.mod_rec
 m.v.qq.com##.mod_rec__animate.mod_rec
 m.v.qq.com##.mod_source
+m.v.qq.com##.old-open-banner > .open-app
 m.v.qq.com##.old-open.open-app
-m.v.qq.com##.open-app
+m.v.qq.com##.pull-app-btns
 m.v.qq.com##.site-top__open-app
 m.v.qq.com##.swiper-container-android.swiper-container-horizontal.mod_source_box_fixed.mod_source_box
 m.weather.com.cn##div[style^="position: fixed; width: 100%; bottom: 0px;"]
