@@ -1525,7 +1525,6 @@
 125.la##.forumlist_ad
 126.com,163.com##.gWel-promt
 131400.best,vikacg.com,vikacg.xyz##.post-card-list > a
-131400.best,vikacg.com,vikacg.xyz##a[href^="http"] > img[src*="/assets/main/"]
 131400.best,vikacg.com,vikacg.xyz##a[href^="http"] > img[src*="/assets/next/"]
 131458.com###header_gg
 131458.com##.divGuanggao
@@ -3836,6 +3835,7 @@ cmhello.com##.gpost-above
 cmsky.com##.textwidget a[href^="http"]:not([href*="cmsky"])
 cn-healthcare.com##.fh_ad_wrap
 cn-healthcare.com##.fh_advent_wrap
+cn.bing.com##.b_algo:has(p[class^="b_lineclamp2 b_algoSlug "])
 cn.bing.com##.b_bza_pole
 cn.bing.com##.bnp_rich_div_visible.bottom
 cn.bing.com##.bnp_rich_div_visible.top
