@@ -3269,7 +3269,6 @@ bilibili.com###app > DIV.bili-header-m.report-wrap-module:first-child > DIV.nav-
 bilibili.com###b_app_link
 bilibili.com###fixed_app_download
 bilibili.com###openAppBtn
-bilibili.com###slide_ad + .ad-report
 bilibili.com##.activity-slider[style="width: 1220px;"]
 bilibili.com##.ad-e1
 bilibili.com##.ad-f
@@ -8663,6 +8662,7 @@ rvlev.com,t66y.com#?#[class]:-abp-has(>a[onmouseover="this.style.background='#DE
 sac.net.cn###ad
 sac.net.cn###leftDiv
 sac.net.cn###rightDiv
+sailtool.com##body > div[style^="position:fixed;right:0;top:"]
 samsung.com###operationBanner
 samsung.com#?#.template-item:-abp-has(> .wrap-sub-title > div > .ad)
 sanhao.com###reg-bar

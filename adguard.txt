@@ -3,8 +3,8 @@
 ! Powerd by SamSan
 ! Description: Just a merged Adblock rule. Nothing more
 ! Expires: 6 hours (update frequency)
-! Version: 2024-11-27 08:44:18
-! Total count: 27560
+! Version: 2024-11-27 14:13:30
+! Total count: 27577
 
 ###ADtip
 ###Ad_windows
@@ -4699,7 +4699,6 @@ bilibili.com###app > DIV.bili-header-m.report-wrap-module:first-child > DIV.nav-
 bilibili.com###b_app_link
 bilibili.com###fixed_app_download
 bilibili.com###openAppBtn
-bilibili.com###slide_ad + .ad-report
 bilibili.com##.activity-slider[style="width: 1220px;"]
 bilibili.com##.ad-e1
 bilibili.com##.ad-f
@@ -10221,6 +10220,7 @@ rvlev.com,t66y.com#?#[class]:-abp-has(>a[onmouseover="this.style.background='#DE
 sac.net.cn###ad
 sac.net.cn###leftDiv
 sac.net.cn###rightDiv
+sailtool.com##body > div[style^="position:fixed;right:0;top:"]
 samsung.com###operationBanner
 samsung.com#?#.template-item:-abp-has(> .wrap-sub-title > div > .ad)
 sanhao.com###reg-bar
@@ -14158,6 +14158,7 @@ zzzyk.com###Tinfo
 ||ads-api.twitter.com^
 ||ads-img-qc.xhscdn.com^
 ||ads-jp.tiktok.com^
+||ads-marketing-vivofs.vivo.com.cn^
 ||ads-sg.tiktok.com^
 ||ads-twitter.com^
 ||ads-union.jd.com^
@@ -14651,6 +14652,7 @@ zzzyk.com###Tinfo
 ||amdc.alipay.com^
 ||amdc.m.taobao.com^
 ||amdcopen.m.taobao.com^
+||amdcopen.m.umeng.com^
 ||ameidj.xyz^
 ||amfhby.cn^
 ||amfi.gou.sogou.com^
@@ -14778,6 +14780,7 @@ zzzyk.com###Tinfo
 ||api-deal.kechenggezi.com^
 ||api-flow.meizu.com^
 ||api-game.meizu.com^
+||api-gd.hiaiabc.com^
 ||api-htp.beizi.biz^
 ||api-push.meizu.com^
 ||api-z.weidian.com^
@@ -15114,6 +15117,8 @@ zzzyk.com###Tinfo
 ||badmintoncn.com/cbo_include/js/cboaaa.js
 ||baggvon.icu^
 ||bahamut.com.tw/js/ad.js
+||baichuan-sdk.alicdn.com^
+||baichuan-sdk.taobao.com^
 ||baichuan.baidu.com^
 ||baidu-jxf.co^$popup
 ||baidu-taobao-av.com/js/
@@ -16478,6 +16483,8 @@ zzzyk.com###Tinfo
 ||cnki.com.cn/cnki/js/adrightdetail.js
 ||cnki.net/spot/app/get/ads?
 ||cnlg.cn/attached/script/
+||cnlogs.umeng.com^
+||cnlogs.umengcloud.com^
 ||cnmo.com/oddjs/
 ||cnmo.com/pv.js
 ||cnmoad.com/wp-content/uploads/*_banner.
@@ -17069,6 +17076,7 @@ zzzyk.com###Tinfo
 ||dgaxrjj0jwpwp.cloudfront.net^
 ||dgkship.icu^
 ||dgrgr34.fun^
+||dheirzeh.com^
 ||dhgfhedxx.xyz^
 ||dhgxl8qk9zgzr.cloudfront.net/js/log.js
 ||dhl.135320.com^
@@ -18292,6 +18300,7 @@ zzzyk.com###Tinfo
 ||fzpzrqou.icu^
 ||fztyrv.xyz^
 ||fzxiaoshuo.com/source/
+||g-adnet.hiaiabc.com^
 ||g-staic.ganjingworld.com^
 ||g-years.com/gy/
 ||g-years.com/tb/
@@ -19405,6 +19414,7 @@ zzzyk.com###Tinfo
 ||hy90.cn^
 ||hya.comp.360os.com^
 ||hybbs.com/i/$image,object
+||hybrid.miniapp.taobao.com^
 ||hydra.alibaba.com^
 ||hydrax.net^$dnsrewrite=ad-block.dns.adguard.com
 ||hye.comp.360os.com^
@@ -21262,6 +21272,7 @@ zzzyk.com###Tinfo
 ||lw54.com/js/
 ||lw881.com/public/js/gw.js
 ||lwdcnz.xyz^
+||lweizal.top^
 ||lweriol.top^
 ||lwlwlw.com/ggzx/
 ||lwlwlw.com/js/FVgg.js
@@ -21298,6 +21309,7 @@ zzzyk.com###Tinfo
 ||lzvjtxe.xyz^
 ||lzyysw.com/upload/
 ||lzzqfj.xyz^
+||m-adnet.hiaiabc.com^
 ||m.12306media.com^
 ||m.20mao.com/*/BOT.js
 ||m.20mao.com/*/Head.js
@@ -22570,6 +22582,7 @@ zzzyk.com###Tinfo
 ||ovykq.online^
 ||oweeiyw.icu^
 ||oweisik.top^
+||oweizak.top^
 ||oweriok.top^
 ||owkmmo.xyz^
 ||owneriq.net^
@@ -23617,6 +23630,7 @@ zzzyk.com###Tinfo
 ||res1.hubcloud.com.cn^
 ||res2.hubcloud.com.cn^
 ||res3.hubcloud.com.cn^
+||resolve.umeng.com^
 ||resource.baomihua.com^
 ||responsys.net^
 ||restions-planted.com^$dnsrewrite=ad-block.dns.adguard.com
@@ -24624,6 +24638,7 @@ zzzyk.com###Tinfo
 ||stragmik.com^
 ||streamall-search.com^$dnsrewrite=ad-block.dns.adguard.com
 ||streameventzone.com^$dnsrewrite=ad-block.dns.adguard.com
+||strenots.com^
 ||strip.chat/widgets/$domain=tktube.com
 ||strip.taobaocdn.com/tfscom/$subdocument
 ||strip.taobaocdn.com^
@@ -25770,6 +25785,7 @@ zzzyk.com###Tinfo
 ||uwsaqoi.icu^
 ||uwumr.cn^
 ||uwursert.top^
+||uxieks.com^
 ||uxip.meizu.com^
 ||uxlvk.cn^
 ||uxrdg.cn^
@@ -27489,6 +27505,7 @@ zzzyk.com###Tinfo
 ||ztzdvv.xyz^
 ||zuiacg.com/images/client/
 ||zukxd6fkxqn.com^$dnsrewrite=ad-block.dns.adguard.com
+||zumneojf.icu^
 ||zuofang05.com/template/mytheme/statics/image/1/
 ||zuowen.hydcd.com^
 ||zuoyebang.cc/static/question/question/resource/QRCode_
