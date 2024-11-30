@@ -3,8 +3,8 @@
 ! Powerd by SamSan
 ! Description: Just a merged Adblock rule. Nothing more
 ! Expires: 6 hours (update frequency)
-! Version: 2024-11-30 20:14:49
-! Total count: 27589
+! Version: 2024-12-01 02:10:55
+! Total count: 27597
 
 ###ADtip
 ###Ad_windows
@@ -13960,6 +13960,7 @@ zzzyk.com###Tinfo
 ||ad.cyapi.cn^
 ||ad.digitimes.com.tw/*_bigbutton.jpg
 ||ad.docer.wps.cn^
+||ad.doubleclick.net^
 ||ad.doubleclick.net^$~object-subrequest,third-party
 ||ad.duapps.com^
 ||ad.duomi.com^
@@ -14031,6 +14032,8 @@ zzzyk.com###Tinfo
 ||adbsys.icu^$dnsrewrite=ad-block.dns.adguard.com
 ||adbu.cn^
 ||adbxb.com^$third-party
+||adc.hpplay.cn^
+||adcdn.hpplay.cn^
 ||adcdn.tencentmusic.com^
 ||adchina.com^
 ||adclick.g.doubleclick.net^
@@ -14221,7 +14224,10 @@ zzzyk.com###Tinfo
 ||adsclick.qq.com^
 ||adsclick.yx.js.cn^
 ||adsco.re^
+||adse.test.ximalaya.com^
+||adse.wsa.ximalaya.com^
 ||adse.ximalaya.com^
+||adsebs.ximalaya.com^
 ||adsence.sogou.com^
 ||adsense.com^
 ||adsense.google.cn^
@@ -18669,6 +18675,7 @@ zzzyk.com###Tinfo
 ||google-js-09.xyz^
 ||googleadapis.com^
 ||googleads.g.doubleclick.net/pagead/ads$subdocument,redirect=noopframe,domain=rjno1.com,important
+||googleads.g.doubleclick.net^
 ||googleadservices-cn.com^
 ||googleadservices.com^
 ||googleadsserving.cn^
@@ -27378,6 +27385,7 @@ zzzyk.com###Tinfo
 ||zhibok8.com/js/scroll.js
 ||zhidian3g.cn^
 ||zhifuok.com/19xa.jpg
+||zhihu-web-analytics.zhihu.com^
 ||zhihu.com/api/*banners/
 ||zhihu.com/api/v4/brand/question/*/card
 ||zhihu.com/api/v4/commercial/ecommerce
