@@ -936,6 +936,8 @@
 ##.textAd
 ##.textad
 ##.textadlist
+##.tg-m.tg-site
+##.tg-pc.tg-site
 ##.theme_custom_slidebox-ad-below
 ##.title > .gg
 ##.tmall_ad_container
@@ -2227,7 +2229,6 @@
 5217kdy1.xyz##.alert-success + center
 5217kdy1.xyz##a[href$="/smsf.php"]
 5253.com###android-qr
-526bt.com,daniao.org,eroacg.com,laod.cn,myqqjd.com,ninpang.com##.tg-site
 526bt.com,guojitv.com###slider
 5278.cc###leftside_banner_top
 5278.cc###list_top_ad
@@ -3841,6 +3842,7 @@ cn.bing.com##.bnp_rich_div_visible.bottom
 cn.bing.com##.bnp_rich_div_visible.top
 cn.bing.com#?##b_results > li:-abp-has(.b_adProvider)
 cn.bing.com#?#.b_algo:-abp-has(p[class^="b_lineclamp2 b_algoSlug "])
+cn.bing.com#?#.sb_form_placeholder:-abp-has(>.ad-ghost-slug)
 cna.com.tw##.ad_336_2
 cna.com.tw#$#.fb_fanpage_inpage > .other_news_box_2 { padding: 0 0px!important; margin: 26px 0!important; }
 cna.com.tw,ettoday.net##.ad_970
