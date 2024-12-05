@@ -3,8 +3,8 @@
 ! Powerd by SamSan
 ! Description: Just a merged Adblock rule. Nothing more
 ! Expires: 6 hours (update frequency)
-! Version: 2024-12-05 08:45:28
-! Total count: 27635
+! Version: 2024-12-05 14:13:51
+! Total count: 27652
 
 ###ADtip
 ###Ad_windows
@@ -3422,6 +3422,8 @@ $websocket,domain=wap.yushuwu.cloud
 4gamers.com.tw#?#.aroma-news-detail-side > div[media-width]:has(div.aols-wrapper > a[target="_blank"][rel="noopener"])
 4gamers.com.tw#?#.container-fluid > .vue-portal-target:has(> div[style] > .aroma-news-detail-iframe-ads)
 4gtv.tv,80s.ai,ft.com,ftchinese.com,ftchinese.com.sz-dns.net,kartinfo.me,long7.qq.com,reh.tw,typecho.wiki#@#.adsbox
+4hu.tv##.couplet-left
+4hu.tv##.wrap > div.mod > div.row > dl:has(> dt > a[target="_blank"]:not([href^="/html/"]) > img)
 4spaces.org,fuliba.net,fuliba2023.net,uliba.net,ypojie.com##.widget_ui_orbui
 500.com###live_top_ad
 500.com##.tz_pai
@@ -12660,6 +12662,7 @@ zzzyk.com###Tinfo
 ||1winpost.com^$dnsrewrite=ad-block.dns.adguard.com
 ||1x5jlh.xyz^$popup
 ||1x6666.com/img/
+||1yj.icu^
 ||2.haoxue360.com^
 ||2.letvlive.com^
 ||2.win7china.com^
@@ -15370,6 +15373,7 @@ zzzyk.com###Tinfo
 ||bda1.ayule.net^
 ||bdad.123pan.cn^
 ||bdad.gaotie.net^
+||bdamcsv.top^
 ||bdapi-ads.realmemobile.com^
 ||bdapi-in-ads.realmemobile.com^
 ||bdapi.ads.oppomobile.com^
@@ -15842,6 +15846,7 @@ zzzyk.com###Tinfo
 ||bunth.net^$dnsrewrite=ad-block.dns.adguard.com
 ||buoizbtl.xyz^
 ||buresdv.top^
+||burniecrepes.com^
 ||business-api.tiktok.com^
 ||business.92wy.com^
 ||buvdkt.icu^
@@ -16883,6 +16888,7 @@ zzzyk.com###Tinfo
 ||d5.sina.com.cn^$image,domain=~www.sina.com.cn
 ||d5.sina.com.cn^$object,script
 ||d56p.com/love/
+||d5r.icu^
 ||d6.mobaders.com^
 ||d67p.com/love/
 ||d72gb9oukw3j.com^$dnsrewrite=ad-block.dns.adguard.com
@@ -17642,6 +17648,7 @@ zzzyk.com###Tinfo
 ||easyai.tech/wp-content/uploads/*-576x1024.
 ||easyicon.net/gg2019/
 ||easyliao.com^$third-party
+||eatnontf.icu^
 ||ebgwdon.cn^
 ||ebiotrade.com/jslibrary/js
 ||ebiotrade.com/netother/sy2013.ashx?type=quanping
@@ -18170,6 +18177,7 @@ zzzyk.com###Tinfo
 ||fmzifaqi.xyz^
 ||fnjoomqa.icu^
 ||fnkyyrgraizy.com^$dnsrewrite=ad-block.dns.adguard.com
+||fo0.icu^
 ||fobshanghai.com/bbsad/
 ||focuscat.com^
 ||fodrxl.xyz^
@@ -19614,6 +19622,9 @@ zzzyk.com###Tinfo
 ||ifs.tanx.com^
 ||ifunmac.com/wp-content/uploads/*/alipay-
 ||ifxqubw.icu^
+||ig65.vip^
+||ig66.vip^
+||ig67.vip^
 ||ig69.vip^
 ||igabcgnh.icu^
 ||igamepark.biz/ads_output.php
@@ -19820,6 +19831,7 @@ zzzyk.com###Tinfo
 ||inclk.com^$dnsrewrite=ad-block.dns.adguard.com
 ||incontro-veloce.com^$dnsrewrite=ad-block.dns.adguard.com
 ||indianfriendfinder.com^$dnsrewrite=ad-block.dns.adguard.com
+||infantilecombination.com^
 ||info.vip.iqiyi.com/promotion/
 ||info.wps.cn^
 ||infobabo.*/da.aspx
@@ -20645,6 +20657,7 @@ zzzyk.com###Tinfo
 ||kgymoc.xyz^
 ||khastreol.com^
 ||khcsvdc.icu^
+||khesuts.com^
 ||khrtac.xiangha.com^
 ||khzyojb.cn^
 ||kiees.cn/img/
@@ -20943,6 +20956,7 @@ zzzyk.com###Tinfo
 ||ld0766.com/*20*a/
 ||ld0766.com/index.php?m=call&id=10
 ||ld82ydd.com^$dnsrewrite=ad-block.dns.adguard.com
+||ldamcsl.top^
 ||ldb.cc/js/top.js
 ||ldgjwdohqbi.xyz^
 ||ldipsuml.top^
@@ -22337,6 +22351,7 @@ zzzyk.com###Tinfo
 ||nulltm.com/adv.js
 ||numbertrck.com^$dnsrewrite=ad-block.dns.adguard.com
 ||nutchaungong.com^$dnsrewrite=ad-block.dns.adguard.com
+||nuvaioqds.com^
 ||nuxwlc.cn^
 ||nvdtdsd.xyz^
 ||nvjqtz.xyz^
@@ -22477,6 +22492,7 @@ zzzyk.com###Tinfo
 ||olopruy.com^$dnsrewrite=ad-block.dns.adguard.com
 ||olp.snapdesexe.com^$dnsrewrite=ad-block.dns.adguard.com
 ||olpv.onlylady.com^
+||olqead.com^
 ||om.cn/api/ad-om/
 ||omgmta.play.aiseet.atianqi.com^
 ||omgmta1.qq.com^
@@ -27213,6 +27229,7 @@ zzzyk.com###Tinfo
 ||yrarhzuq.xyz^
 ||yrccils0spqnkc3.xyz^
 ||yretx.cn^
+||yrhxttwa.xyz^
 ||yrr56.com/mp4/pt_720.
 ||yrszy.com.cn^
 ||yrxmr.com^
@@ -27620,8 +27637,8 @@ zzzyk.com###Tinfo
 ~car.kdslife.com,enet.com.cn,fjsen.com,hupu.com,kdslife.com,~my.hupu.com,mysteel.com,news.cnyes.com,pchome.net,rznews.cn##div[class^="ad"]
 ~cbachina.sports.sohu.com,sohu.com##sohuadcode
 ~cityheaven.net###gg1
-~dongman8.com##.m_acmsd
-~dongman8.com##.pc_acmsd
+~daquandy.com##.m_acmsd
+~daquandy.com##.pc_acmsd
 ~fishmsg.net,~briian.com##.a_pt
 ~h5.dilidili.wang,dilidili.wang#$#a[href*=".11h5."] img { position: absolute!important; left: -3000px!important; }
 ~houdask.com###kfivtwin
