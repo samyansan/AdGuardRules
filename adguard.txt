@@ -3,8 +3,8 @@
 ! Powerd by SamSan
 ! Description: Just a merged Adblock rule. Nothing more
 ! Expires: 6 hours (update frequency)
-! Version: 2024-12-06 08:44:57
-! Total count: 27652
+! Version: 2024-12-06 14:13:32
+! Total count: 27667
 
 ###ADtip
 ###Ad_windows
@@ -4337,7 +4337,7 @@ axutongxue.net##body > article[style]
 axutongxue.net#%#//scriptlet('prevent-setTimeout', 'getCookie("')
 azofreeware.com###HTML7
 azofreeware.com,pttjoke.com###HTML3
-b0d8a0f6.com##DIV[id^="content_"]
+b0d8a0f6.com##div[id^="content_"]
 baby-kingdom.com##.right5
 babytree.com##.side-text-slider
 backchina.com##.eis_subnav_area
@@ -4786,6 +4786,9 @@ bing.com###id_mobile
 bing.com##.OpInNwWndw
 bing.com##.b_algo:has(.rms_img[src*="/th?id=OADD2."][src$="21.2"])
 bing.com##.b_algo:has(.rms_img[src*="=AdsPlus"])
+bing.com#?#.b_algo:-abp-has(.ad_esltitle)
+bing.com#?#.b_algo:-abp-has(.b_ads1line)
+bing.com#?#.b_algo:-abp-has(.tpmeta:not(.tpmeta:-abp-has(.b_attribution)))
 bing.com#?#li[class="b_algo"]:-abp-has(.b_attribution[data-partnertag]+p[class])
 bingdou.com.cn,hoteastday.com##.float_ad
 bingfeng.tw###adbt
@@ -5281,7 +5284,6 @@ cn.bing.com##.b_bza_pole
 cn.bing.com##.bnp_rich_div_visible.bottom
 cn.bing.com##.bnp_rich_div_visible.top
 cn.bing.com#?##b_results > li:-abp-has(.b_adProvider)
-cn.bing.com#?#.b_algo:-abp-has(.cico.siteicon.rms_img[src*="bing.com/th?id=O"])
 cn.bing.com#?#.sb_form_placeholder:-abp-has(>.ad-ghost-slug)
 cna.com.tw##.ad_336_2
 cna.com.tw#$#.fb_fanpage_inpage > .other_news_box_2 { padding: 0 0px!important; margin: 26px 0!important; }
@@ -5542,6 +5544,10 @@ ctanet.cn##a[href*="/GoTo.asp?ID="] > img
 ctee.com.tw##.qxd
 ctfile.com##.speedydown-info-box
 ctfile.com##a[href*=".henghost.com"]
+ctinews.com###taboola-slot
+ctinews.com##.ad-min-space
+ctinews.com##.bottom-0:has(> .ad-container)
+ctinews.com##.show-in-md:has(> .ad-container)
 ctrip.com###fl_wrap_default
 ctrip.com##.set-phone.set-list > .nav-myctrip.person-text
 ctwant.com##.l-ad__article
@@ -10822,6 +10828,7 @@ t66y.com##a[href^="http://www.viidii.info/?https://po88_"] ~ :nth-child(-n+115)
 t66y.com#%#//scriptlet('prevent-setTimeout', '/tpc.?[A-Z0-9].?tml/')
 t66y.com#%#//scriptlet('prevent-setTimeout', 'adhtml', '10006')
 t66y.com#%#//scriptlet('prevent-setTimeout', 'tpcHt0ml', '1006')
+t66y.com#%#//scriptlet('prevent-setTimeout', 'tpcHt1ml', '1006')
 tahua.net###frameJjnBIp
 taian.com##.ggtp
 taihainet.com##.top-info
@@ -13014,6 +13021,7 @@ zzzyk.com###Tinfo
 ||4gamers.com.tw/site/iframe-aols/
 ||4gtv.tv/4gTV_OTT.json
 ||4hw.com.cn/js/common.js
+||4i1.icu^
 ||4imk5.online^
 ||4ir17.icu^
 ||4jffu.cn^
@@ -16362,6 +16370,7 @@ zzzyk.com###Tinfo
 ||cjgymo.xyz^
 ||cjhq.baidu.cn^
 ||cjhq.baidu.com^
+||cjimtyf.top^
 ||cjjjs.com/image/banner/ali
 ||cjjjs.com/script/ad.js
 ||cjn.cn^*/ad/
@@ -19855,6 +19864,7 @@ zzzyk.com###Tinfo
 ||innity.com^
 ||inone517.com^
 ||inoreader.com/adv/$domain=inoreader.com
+||inphais.com^
 ||inping.com^$third-party
 ||insfengdata.com^
 ||instabug.com^
@@ -20657,6 +20667,7 @@ zzzyk.com###Tinfo
 ||kgymoc.xyz^
 ||khastreol.com^
 ||khcsvdc.icu^
+||khengrull.com^
 ||khesuts.com^
 ||khrtac.xiangha.com^
 ||khzyojb.cn^
@@ -21435,6 +21446,7 @@ zzzyk.com###Tinfo
 ||m549z.site^
 ||m6500.top^
 ||m6690.top^
+||m6d.icu^
 ||m6j37.xyz^
 ||m7i1k.fun^
 ||m8oxd.xyz^
@@ -21552,6 +21564,7 @@ zzzyk.com###Tinfo
 ||mcncc.com/yeyou/*.htm
 ||mcpuwpush.com^$dnsrewrite=ad-block.dns.adguard.com
 ||md.tvzhe.com^
+||mdamcsx.top^
 ||mdc.meitustat.com^
 ||mddcloud.*/oweApi/ad/
 ||mddsp.info^$dnsrewrite=ad-block.dns.adguard.com
@@ -23252,6 +23265,7 @@ zzzyk.com###Tinfo
 ||q2usj.icu^
 ||q4v3c.site^
 ||q6gub.website^
+||q8q.icu^
 ||qacdf511.cn^
 ||qange.com^
 ||qayqa.com:6868/jquery/
@@ -25606,6 +25620,7 @@ zzzyk.com###Tinfo
 ||ufjslit.top^
 ||uflybplr.xyz^
 ||uftcfo.xyz^
+||ugajiwft.icu^
 ||ugbler.icu^
 ||ugc.moji001.com^
 ||ugdtimg.com^
