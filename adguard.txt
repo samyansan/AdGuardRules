@@ -3,8 +3,8 @@
 ! Powerd by SamSan
 ! Description: Just a merged Adblock rule. Nothing more
 ! Expires: 6 hours (update frequency)
-! Version: 2024-12-08 08:50:37
-! Total count: 27684
+! Version: 2024-12-08 14:11:58
+! Total count: 27691
 
 ###ADtip
 ###Ad_windows
@@ -4789,7 +4789,6 @@ bing.com##.b_algo:has(.rms_img[src*="/th?id=OADD2."][src$="21.2"])
 bing.com##.b_algo:has(.rms_img[src*="=AdsPlus"])
 bing.com#?#.b_algo:-abp-has(.ad_esltitle)
 bing.com#?#.b_algo:-abp-has(.b_ads1line)
-bing.com#?#.b_algo:-abp-has(.tpmeta:not(.tpmeta:-abp-has(.b_attribution)))
 bing.com#?#.sb_form_placeholder:-abp-has(>.ad-ghost-slug)
 bing.com#?#li[class="b_algo"]:-abp-has(.b_attribution[data-partnertag]+p[class])
 bingdou.com.cn,hoteastday.com##.float_ad
@@ -13036,6 +13035,7 @@ zzzyk.com###Tinfo
 ||4paradigm.com^$domain=sina.com.cn
 ||4q87v.icu^
 ||4qdx69gg2d.com^$dnsrewrite=ad-block.dns.adguard.com
+||4sq.icu^
 ||4t6u.icu^
 ||4wfe3.icu^
 ||4wu3gf.cn^
@@ -14998,6 +14998,7 @@ zzzyk.com###Tinfo
 ||atorks.xyz^
 ||atpanel.com^$image
 ||att.ydss.cn/attachments/portal/
+||attelaoe.com^
 ||atwqyor.cn^
 ||aty.hd.sohu.com^
 ||aty.sohu.com/v?
@@ -17456,6 +17457,7 @@ zzzyk.com###Tinfo
 ||dsjhcgvhjsvc.com^
 ||dsjkbcjsjkbvs.com^
 ||dskjbvzvs.com^
+||dsoxgdjv.icu^
 ||dsp-impr2.youdao.com^
 ||dsp-x.jd.com^
 ||dsp.ali213.net^
@@ -20699,6 +20701,7 @@ zzzyk.com###Tinfo
 ||kjappzvz.xyz^
 ||kjdbcjkmc.com^
 ||kjeqga.xyz^
+||kjimtyd.top^
 ||kjipko.xyz^
 ||kjjjusb.xyz^
 ||kjnsgqe.icu^
@@ -20792,6 +20795,7 @@ zzzyk.com###Tinfo
 ||kqwerp.top^
 ||krbulhb.com^
 ||kreisis.top^
+||krinkred.com^
 ||kritgu.xyz^
 ||krtlisd.top^
 ||krutvncd.top^
@@ -24187,6 +24191,7 @@ zzzyk.com###Tinfo
 ||shanhaimiwenlu.com/sh
 ||shanvezhu.com^
 ||shanyu178.com/agg$script
+||shaorgs.cn^
 ||shaoxing.com.cn/gg
 ||shaoxing.com.cn^*gg.
 ||shaquevip.oss-cn-zhangjiakou.aliyuncs.com^
@@ -26014,6 +26019,7 @@ zzzyk.com###Tinfo
 ||vgjaxnuw.xyz^
 ||vgxbpf.xyz^
 ||vgzytn.xyz^
+||vh8.icu^
 ||vhgunzr.cn^
 ||vhotcvp.xyz^
 ||vhvwlb.xyz^
@@ -27510,6 +27516,7 @@ zzzyk.com###Tinfo
 ||zhy333.com^$third-party
 ||zhzyw.com/js/InsertJS.js
 ||zikao365.com/upload/js/pfgg/
+||zikeke7.com^
 ||zio8.icu^
 ||zipitnow.cfd^$dnsrewrite=ad-block.dns.adguard.com
 ||zisu.cn.com^
