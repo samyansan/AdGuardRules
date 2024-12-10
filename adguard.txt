@@ -3,8 +3,8 @@
 ! Powerd by SamSan
 ! Description: Just a merged Adblock rule. Nothing more
 ! Expires: 6 hours (update frequency)
-! Version: 2024-12-10 08:46:43
-! Total count: 27700
+! Version: 2024-12-10 14:13:40
+! Total count: 27707
 
 ###ADtip
 ###Ad_windows
@@ -7051,6 +7051,7 @@ hf365.com,sina.com.cn,sohu.com##.adA
 hfxbs.cc##body > a:not([href*="hfxbs.cc"]):not([href^="/"]) > img
 hg6384.com-www.6u7u.com##.advert
 hgamefree.info###text-7
+hgamefree.info#@#.gridlove-ad
 hgitv.com##.gg09
 hgitv.com##.index_gg
 hgitv.com##.index_gg01
@@ -12808,6 +12809,7 @@ zzzyk.com###Tinfo
 ||2s8s.com^
 ||2sfpy.icu^
 ||2u3v4w5x6y.com^
+||2wt.icu^
 ||2yjw.com/statics/js/jquery.min.
 ||2zzt.com/file/aliyun
 ||2zzt.com/images/
@@ -12957,6 +12959,7 @@ zzzyk.com###Tinfo
 ||3jia5.com^$third-party
 ||3k8.com/d/js/m/thea
 ||3ndra.icu^
+||3ni.icu^
 ||3p8801.co^
 ||3q1lsj.cn^
 ||3questionsgetthegirl.com^$dnsrewrite=ad-block.dns.adguard.com
@@ -22282,6 +22285,7 @@ zzzyk.com###Tinfo
 ||nicorette.co.kr^
 ||nightbesties.com^$dnsrewrite=ad-block.dns.adguard.com
 ||nigroopheert.com^$dnsrewrite=ad-block.dns.adguard.com
+||nilipuyn.com^
 ||nindsstudio.com^$dnsrewrite=ad-block.dns.adguard.com
 ||ninebox.cn^
 ||niticl.icu^
@@ -22867,6 +22871,7 @@ zzzyk.com###Tinfo
 ||pdnhcks.xyz^
 ||pdnwbwyf.icu^
 ||pdweoyw.cn^
+||peclevnl.icu^
 ||pefufv.xyz^
 ||peise.net/Skin/js/global.
 ||pelageforgers.com^
@@ -22904,6 +22909,7 @@ zzzyk.com###Tinfo
 ||pgieqr.top^
 ||pglstatp-toutiao.com^
 ||pgpufyzi.xyz^
+||phainoirs.com^
 ||pharmnet.com.cn/cnbanner/
 ||pharmnet.com.cn/js/float_div.js
 ||phb123.com/skin/js/tongji.js
@@ -23429,6 +23435,7 @@ zzzyk.com###Tinfo
 ||qiyukf.com^$third-party
 ||qiyun.org/images/js/*.htm
 ||qizhihaotian.com^*.js
+||qjimtyy.top^
 ||qjoges.xyz^
 ||qjrhacxxk.xyz^$dnsrewrite=ad-block.dns.adguard.com
 ||qjwvwu.xyz^
