@@ -3,8 +3,8 @@
 ! Powerd by SamSan
 ! Description: Just a merged Adblock rule. Nothing more
 ! Expires: 6 hours (update frequency)
-! Version: 2024-12-11 14:13:44
-! Total count: 27717
+! Version: 2024-12-11 20:17:21
+! Total count: 27735
 
 ###ADtip
 ###Ad_windows
@@ -1609,7 +1609,6 @@ $websocket,domain=wap.yushuwu.cloud
 .xyz:9002/*?x=$websocket,script,third-party
 .zone/ads/
 /.*\.*\.shouji\.sogou\.com/
-/.*\.[a-zA-Z0-9.-]skwai\.com/
 /.*\.a\.market\.xiaomi\.com/
 /.*\.data\.hicloud\.com/
 /.*\.log\.aliyuncs\.com/
@@ -1708,7 +1707,6 @@ $websocket,domain=wap.yushuwu.cloud
 /[a-zA-Z0-9.-]*-ad\.video\.yximgs\.com/
 /[a-zA-Z0-9.-]*-ad\.wtzw\.com/
 /[a-zA-Z0-9.-]*-be-pack-sign\.pglstatp-toutiao\.com/
-/[a-zA-Z0-9.-]*-lm\.adkwai\.com/
 /[a-zA-Z0-9.-]*-normal-[a-zA-Z0-9.-]*\.zijieapi\.com/
 /[a-zA-Z0-9.-]*-normal\.zijieapi\.com/
 /\.(cc|com|top|xyz)\/i\/v$/$third-party,xmlhttprequest
@@ -14071,6 +14069,7 @@ zzzyk.com###Tinfo
 ||adconfer.com^$third-party
 ||adcontrol.tudou.com^
 ||add.sina.com.cn^
+||addata.jd.com^
 ||addthis.com^
 ||adeng.hpplay.cn^
 ||ader.mobi^
@@ -14662,6 +14661,7 @@ zzzyk.com###Tinfo
 ||allyes.com^
 ||allyes.com^$third-party
 ||alog.umeng.com^
+||alogus.umeng.com^
 ||alpenridge.top^$dnsrewrite=ad-block.dns.adguard.com
 ||alpine-vpn.com^$dnsrewrite=ad-block.dns.adguard.com
 ||als.baidu.cn^
@@ -14846,6 +14846,7 @@ zzzyk.com###Tinfo
 ||api.psy-1.com/cosleep/newborn/vips/picks^
 ||api.solvemedia.com^$dnsrewrite=ad-block.dns.adguard.com
 ||api.statsig.com^
+||api.touch-moblie.com^
 ||api.tuisong.baidu.com^
 ||api.wapa.taobao.com^
 ||api.waptest.taobao.com^
@@ -14892,6 +14893,7 @@ zzzyk.com###Tinfo
 ||appboy.com^
 ||appc.baidu.cn^
 ||appc.baidu.com^
+||appcfg.v.qq.com^
 ||appcloud2.in.zhihu.com^
 ||appdownload.alicdn.com^
 ||appdriver.cn^
@@ -14974,6 +14976,7 @@ zzzyk.com###Tinfo
 ||asp300.*/2012js/
 ||asp300.*/2017js/
 ||asp300.com/2017images/kefu.js
+||aspect-upush.umeng.com^
 ||aspku.com/images/vz360.jpg
 ||aspku.com/z/
 ||asryrzpu.xyz^
@@ -16073,6 +16076,7 @@ zzzyk.com###Tinfo
 ||ccav5.com/static/js/floatImgAd.js
 ||ccb.com.cn/V5/images5/left0.gif
 ||ccb.com.cn/V5/images5/right0.gif
+||ccc-x.jd.com^
 ||ccccc66kkkkk.com^
 ||ccccc67kkkkk.com^
 ||ccccc78kkkkk.com^
@@ -18065,6 +18069,7 @@ zzzyk.com###Tinfo
 ||fca6f.icu^
 ||fcgxidqwcx.xyz^
 ||fclick.baidu.com^
+||fclog.baidu.com^
 ||fcm.baidu.com^
 ||fcw45.com/js/layer1.js^
 ||fczunn.xyz^
@@ -18083,6 +18088,7 @@ zzzyk.com###Tinfo
 ||feboni.info^$dnsrewrite=ad-block.dns.adguard.com
 ||febtzd.xyz^
 ||fedra.info^$dnsrewrite=ad-block.dns.adguard.com
+||feed-image.baidu.com^
 ||feed.baidu.com^
 ||feedback.whalecloud.com^
 ||feedou.com/nzq/style/pc/js/popbig.js
@@ -18280,6 +18286,7 @@ zzzyk.com###Tinfo
 ||friendfinder.com^$dnsrewrite=ad-block.dns.adguard.com
 ||frjelsoieapoas.shop^$dnsrewrite=ad-block.dns.adguard.com
 ||frntzz.xyz^
+||frontend-perf-service.e.kuaishou.com^
 ||frontendjs.com/api/ad
 ||frostykitten.com^$dnsrewrite=ad-block.dns.adguard.com
 ||frpiksdeygy.com^$dnsrewrite=ad-block.dns.adguard.com
@@ -18336,6 +18343,7 @@ zzzyk.com###Tinfo
 ||fx168.com/am.js
 ||fx678.com/htcount/count.js
 ||fxbcc.cyou^
+||fxgate.baidu.com^
 ||fxgkktj.icu^
 ||fxjnfn.xyz^
 ||fxjs.2541.com^
@@ -20620,6 +20628,7 @@ zzzyk.com###Tinfo
 ||kccdk.com/Content/img/*.gif
 ||kdamcsd.top^
 ||kdbumyha.com^$dnsrewrite=ad-block.dns.adguard.com
+||kde.qq.com^
 ||kdeh.cn^
 ||kdgjsf.com^
 ||kdh095.cn^
@@ -20738,6 +20747,7 @@ zzzyk.com###Tinfo
 ||kl.67it.com^
 ||klandmart.com/K-Landmart_0011.jpg
 ||klfbnklddfbkn.com^
+||klink.volceapplog.com^
 ||klkk66.fun^
 ||klmohbk.icu^
 ||kloojzn.icu^
@@ -21230,6 +21240,8 @@ zzzyk.com###Tinfo
 ||log-sdk.ksapisrv.com^
 ||log-upload-os.hoyoverse.com^
 ||log-upload.mihoyo.com^
+||log-verify.dutils.com^
+||log-verify.hiaiabc.com^
 ||log.ad.xiaomi.com^
 ||log.aispeech.com^
 ||log.amemv.com^
@@ -21330,6 +21342,7 @@ zzzyk.com###Tinfo
 ||lu228.com/ajs/
 ||lucky-bet.site^$dnsrewrite=ad-block.dns.adguard.com
 ||lufax.com^
+||luimg.baidu.com^
 ||lulgef.icu^
 ||lumnxiel.top^
 ||lumvkebr.icu^
@@ -22180,6 +22193,7 @@ zzzyk.com###Tinfo
 ||na1r.services.adobe.com^
 ||na2m-pr.licenses.adobe.com^
 ||naajie.com/float.js
+||nadvideo2.baidu.com^
 ||naetoris.pw^$dnsrewrite=ad-block.dns.adguard.com
 ||nahgvfhs.xyz^
 ||nahjzx.xyz^
@@ -22584,8 +22598,8 @@ zzzyk.com###Tinfo
 ||open.e.kuaishou.cn^
 ||open.e.kuaishou.com^
 ||open.kuaishouzt.com^
-||open.kwaishouzt.com^
 ||open.kwaizt.com^
+||open.snssdk.com^
 ||openapi-news.meizu.com^
 ||opengalaxyapps.monster^$dnsrewrite=ad-block.dns.adguard.com
 ||openinstall.io^$third-party
@@ -25817,6 +25831,7 @@ zzzyk.com###Tinfo
 ||uqwbcm.xyz^
 ||uqydcs.xyz^
 ||uqykeq.xyz^
+||uranus.jd.com^
 ||uranus.sogou.com^
 ||uranus.sohu.com^
 ||urbanproxy.eu^$dnsrewrite=ad-block.dns.adguard.com
@@ -26320,6 +26335,7 @@ zzzyk.com###Tinfo
 ||wcdfxj.xyz^
 ||wckkl.online^
 ||wclsylk.cn^
+||wcp.taobao.com^
 ||wcsmvmf.icu^
 ||wcwkcus.top^
 ||wdadad.cn^
@@ -26475,6 +26491,7 @@ zzzyk.com###Tinfo
 ||wkywrc.cn^
 ||wkzsmj.icu^
 ||wl.hd.sohu.com^
+||wl.jd.com^
 ||wl.uqwjdhgv.top^
 ||wlkukrv.icu^
 ||wlog.kuaishou.com^
@@ -26625,6 +26642,7 @@ zzzyk.com###Tinfo
 ||wxsicu.xyz^
 ||wxsmw.wxs.qq.com^
 ||wxsnsad.tc.qq.com^
+||wxsnsdy.tc.qq.com^
 ||wxsnsdy.wxs.qq.com^
 ||wxsnsdythumb.wxs.qq.com^
 ||wxymag.xyz^
