@@ -3,8 +3,8 @@
 ! Powerd by SamSan
 ! Description: Just a merged Adblock rule. Nothing more
 ! Expires: 6 hours (update frequency)
-! Version: 2024-12-13 08:46:09
-! Total count: 27749
+! Version: 2024-12-13 14:13:31
+! Total count: 27763
 
 ###ADtip
 ###Ad_windows
@@ -1215,6 +1215,7 @@
 ##body.page > .popup
 ##body[onload*="u()"] > #x
 ##body[ontouchstart] > #topBox
+##body[ontouchstart] > .wrap > div[id^="content_"][style="display: block;"]
 ##body[ontouchstart] > div[id^="content_"][style="display: block;"]
 ##button[onclick*=".xacg.info/"]
 ##center > a[target="_blank"] > img[style="padding- bottom:5px;width:960px;height:120px;"]
@@ -12263,6 +12264,7 @@ zzzyk.com###Tinfo
 |http://gg.$third-party,domain=~guagua.cn
 ||*.$image,redirect=1x1-transparent.gif,third-party,domain=rmdown.com
 ||*.$image,rewrite=abp-resource:1x1-transparent-gif,third-party,domain=rmdown.com
+||*.top^$domain=ltswu.org
 ||*/ad/$redirect=noopmp3-0.1s,domain=huaren.tv
 ||*/ad/$rewrite=abp-resource:blank-mp3,domain=huaren.tv
 ||*/vhot2.qqvideo.tc.qq.com^
@@ -16797,6 +16799,7 @@ zzzyk.com###Tinfo
 ||ctfile.com/iz.php?
 ||ctfile.com/popjump.php?$popup
 ||cthbini.xyz^
+||ctimiyf.top^
 ||ctkyom.xyz^
 ||ctlacnh.icu^
 ||ctlrarz.xyz^
@@ -16882,6 +16885,7 @@ zzzyk.com###Tinfo
 ||d.ziyuanm.com^
 ||d0.xcar.com.cn^
 ||d00.sina.com.cn^
+||d0m.icu^
 ||d1.1ppt.com^
 ||d1.3158.cn^
 ||d1.5h.com^
@@ -17045,6 +17049,7 @@ zzzyk.com###Tinfo
 ||ddaixdz.cn^
 ||ddapp.cn^
 ||ddbhm.pro^$dnsrewrite=ad-block.dns.adguard.com
+||dddstew6cw8.fun^
 ||ddgjjj.com^$third-party
 ||ddielv.cn^
 ||ddkf.xyz^$dnsrewrite=ad-block.dns.adguard.com
@@ -17132,6 +17137,7 @@ zzzyk.com###Tinfo
 ||dheirzeh.com^
 ||dhgfhedxx.xyz^
 ||dhgxl8qk9zgzr.cloudfront.net/js/log.js
+||dhkqqe.top^
 ||dhl.135320.com^
 ||dhukul.com^
 ||di2y21.top/jian/jiansshu.js
@@ -18171,6 +18177,7 @@ zzzyk.com###Tinfo
 ||fjlqqc.com/common/api/v1.0/slot-code/
 ||fjqcqdr.icu^
 ||fjsen.com:81/mysql/count/
+||fjuga.top
 ||fjxstt.xyz^
 ||fjzimaoqu.cn^$third-party
 ||fkesfg.com^
@@ -20357,6 +20364,7 @@ zzzyk.com###Tinfo
 ||jnifdlaa.top^
 ||jnlc.com/www/fund/newsmarket
 ||jnwsrqxrdqct.top^$dnsrewrite=ad-block.dns.adguard.com
+||jo4.icu^
 ||joastaca.com^$dnsrewrite=ad-block.dns.adguard.com
 ||jobsfe.funshion.com^
 ||jofknbpe.xyz^
@@ -21814,6 +21822,7 @@ zzzyk.com###Tinfo
 ||miycoc.xyz^
 ||mjappzvz.xyz^
 ||mjbidlg.icu^
+||mjimtyx.top^
 ||mjmobi.com^
 ||mkbbjtfp.xyz^
 ||mkd88.cc/16.32.jpg
@@ -22704,6 +22713,7 @@ zzzyk.com###Tinfo
 ||oweriok.top^
 ||owkmmo.xyz^
 ||owneriq.net^
+||owsrgljb.icu^
 ||owurserk.top^
 ||owyame.xyz^
 ||oxkqeu.xyz^
@@ -26502,6 +26512,7 @@ zzzyk.com###Tinfo
 ||wkybwa.xyz^
 ||wkywrc.cn^
 ||wkzsmj.icu^
+||wkzw.me^
 ||wl.hd.sohu.com^
 ||wl.jd.com^
 ||wl.uqwjdhgv.top^
@@ -26912,6 +26923,7 @@ zzzyk.com###Tinfo
 ||xnnews.com.cn/tpl/material/
 ||xnpuw.cn^
 ||xnqboqc.icu^
+||xoceonsl.com^
 ||xogtrmjz.xyz^
 ||xoilactv123.gdn^$dnsrewrite=ad-block.dns.adguard.com
 ||xoilactvcj.cc^$dnsrewrite=ad-block.dns.adguard.com
@@ -27328,6 +27340,7 @@ zzzyk.com###Tinfo
 ||yrhxttwa.xyz^
 ||yrr56.com/mp4/pt_720.
 ||yrszy.com.cn^
+||yruadj.top^
 ||yrxmr.com^
 ||ys2000.cdn.bcebos.com^
 ||ys630.com^$third-party
@@ -27577,6 +27590,7 @@ zzzyk.com###Tinfo
 ||zikeke7.com^
 ||zio8.icu^
 ||zipitnow.cfd^$dnsrewrite=ad-block.dns.adguard.com
+||ziqniduy.com^
 ||zisu.cn.com^
 ||ziyuanm.com/js/g11.js
 ||ziyzcu.buzz^

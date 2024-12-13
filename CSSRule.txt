@@ -1207,6 +1207,7 @@
 ##body.page > .popup
 ##body[onload*="u()"] > #x
 ##body[ontouchstart] > #topBox
+##body[ontouchstart] > .wrap > div[id^="content_"][style="display: block;"]
 ##body[ontouchstart] > div[id^="content_"][style="display: block;"]
 ##button[onclick*=".xacg.info/"]
 ##center > a[target="_blank"] > img[style="padding- bottom:5px;width:960px;height:120px;"]
