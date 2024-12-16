@@ -3,8 +3,8 @@
 ! Powerd by SamSan
 ! Description: Just a merged Adblock rule. Nothing more
 ! Expires: 6 hours (update frequency)
-! Version: 2024-12-16 08:48:25
-! Total count: 36856
+! Version: 2024-12-16 14:14:05
+! Total count: 36858
 
 ###ADtip
 ###Ad_windows
@@ -9093,7 +9093,7 @@ money18.on.cc#@#.ads-bg
 moneynet.com.tw##.ads-fixed-bottom
 moneyweekly.com.tw##div[id*="_ScupioHomeAD"]
 mongoing.com#?#.widget_custom_html:-abp-has(> .custom-html-widget > a[href^="http"]:not([href*="mongoing.com"]))
-mooc1.chaoxing.com#@#iframe[width="100%"][height="120"]
+mooc1.chaoxing.com#@#iframe[width="100%"][height="120"]:not([src*="bandcamp.com"])
 moonbbs.com##.dm-header-ad
 moorzon.com#%#//scriptlet("json-prune", "*", "nativeConfig")
 mop.com##.post-content[href*=".taobao.com"]
@@ -12087,10 +12087,6 @@ zhenbuka.com#%#//scriptlet("prevent-setTimeout", "ad_ids")
 zhenbuka3.com,zhenbuka2.com,bukaivip.com#%#//scriptlet("adjust-setTimeout", "CloseAd", "", "0.02")
 zhibo8.cc###m_adv
 zhibo8.cc###popautoapp
-zhibo8.cc##.ad_box_250
-zhibo8.cc##a[href*=".wanjiashe."]
-zhibo8.cc##div[class*="advert"]
-zhibo8.cc#@##ad_box
 zhicheng.com##.mad_top
 zhicheng.com##.normal-banner
 zhicheng.com##.sf_1
@@ -14529,6 +14525,7 @@ zzzyk.com###Tinfo
 ||a49ebd.xyz^$dnsrewrite=ad-block.dns.adguard.com
 ||a4bj6.xyz^
 ||a5d2d040.xyz^$dnsrewrite=ad-block.dns.adguard.com
+||a5t.icu^
 ||a5xiazai.com/z/
 ||a6.hujiang.com^$domain=~class.hujiang.com
 ||a63t9o1azf.com^$dnsrewrite=ad-block.dns.adguard.com
@@ -25508,6 +25505,7 @@ zzzyk.com###Tinfo
 ||kt51.com/wz.jpg
 ||ktauoy.xyz^
 ||ktdlsb.com^
+||ktimiyd.top^
 ||ktnwxhjv.xyz^
 ||ktoioo.xyz^
 ||kts.visitstats.com^$dnsrewrite=ad-block.dns.adguard.com
@@ -29564,6 +29562,7 @@ zzzyk.com###Tinfo
 ||qnvod.net/qna/
 ||qnvwjpr.icu^
 ||qo4nkz03dy.cn^
+||qonbibff.icu^
 ||qorosmall.com^
 ||qos.video.yimg.com^
 ||qoubliy.top^
@@ -30859,6 +30858,7 @@ zzzyk.com###Tinfo
 ||siawswa.info^
 ||sibehgtq.xyz^
 ||sicentlife.com^
+||siconoi.com^
 ||sidfiz.icu^
 ||sifuwei.com^
 ||sigjuw.xyz^
@@ -31537,6 +31537,7 @@ zzzyk.com###Tinfo
 ||sthouw.vip^
 ||sthyhj.cn^
 ||stickyadstv.com^
+||stimiyb.top^
 ||stkexcy.cn^
 ||stkx888.cn^
 ||stlpnom.xyz^
@@ -35161,6 +35162,7 @@ zzzyk.com###Tinfo
 ||xpe.cxaerp.com^
 ||xpffkbpq.xyz^
 ||xphcrjth.xyz^
+||xpicj0.icu^
 ||xpicj6.cc^
 ||xpicj8.cc^
 ||xpizjd4.cn^
@@ -36217,6 +36219,7 @@ zzzyk.com###Tinfo
 ||z4a.net^$domain=aotu43.com
 ||z4a.net^*/960x
 ||z77777777.com^
+||z8t.icu^
 ||z91f4.top^
 ||z9k7.icu^
 ||z9uvpwarkk1mnpf.xyz^
@@ -36390,7 +36393,6 @@ zzzyk.com###Tinfo
 ||zhexnuq.cn^
 ||zhiai.space^
 ||zhibo128x1.xyz^
-||zhibo8.cc/js/adv-slide-toggle.js
 ||zhiboiot.cn^
 ||zhibok8.com/images/*.gif
 ||zhibok8.com/js/di
