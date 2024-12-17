@@ -11,7 +11,6 @@
 ###QQ_Full
 ###SOHU_MAIN > .module-cmt-float-bar
 ###TopAdvert
-###Video-Shunt-Box + .container
 ###ZAML
 ###Zi_ad_a_H
 ###\31 280_adv
@@ -96,7 +95,6 @@
 ###asx_text
 ###bannerAd
 ###banner_links.banner-container
-###bd-hl-content
 ###bfad
 ###bfad1
 ###bfad2
@@ -127,12 +125,7 @@
 ###comic_reader + #adDisabledBtn
 ###comiis_xizi_gg02
 ###container > #main.site-main > div > div > a[href^="/"][href$="/"] > img
-###container > .item.title_normal
-###container > .item.title_top
 ###container > .sectionBanner
-###container > .wrapper > .fl
-###container > a.block
-###container.container > a.item
 ###content-ad
 ###cpro_container
 ###crazy_ad_float
@@ -183,7 +176,6 @@
 ###haoxinqing_me_img
 ###head_ad_area
 ###header + #topBox
-###header > a[target="_blank"] > img[style="width:100%;height:60px;margin-bottom:2px;"]
 ###header-top + .advertisement
 ###header_ad
 ###header_global_ad
@@ -194,7 +186,6 @@
 ###hfad
 ###hj-right-aside[style="float: right;"]
 ###homead
-###img-txt-wrapper > #title_desc_div
 ###imgad
 ###imgs5[height="60px"]
 ###index_aside_ad
@@ -374,7 +365,6 @@
 ###wp > .V-video-float
 ###wp > .V-videoFloat
 ###wrapper > .topad
-###wrapper > div[style="padding:3px;"] > #pic
 ###xinnxi
 ###xqad
 ###xqad1
@@ -642,7 +632,6 @@
 ##.container > .index-ad
 ##.container > .slide-baidu
 ##.container > .t-img-box:first-child
-##.container > a.mid-wrapper
 ##.container > a[href^="http"] > .ads
 ##.containeradvertising
 ##.content > #dhxhtml
@@ -663,7 +652,6 @@
 ##.davwheat-ad
 ##.ddd.ng-star-inserted
 ##.dipiao
-##.div-search-box.col-lg-offset-2.col-lg-8 > a[href^="http"][target="_blank"]
 ##.downcode[style^="position:fixed;z-index:1000;top:200px;"]
 ##.dplayer > .tips
 ##.duilian > .leftd
@@ -774,7 +762,6 @@
 ##.leftAd
 ##.leftadv
 ##.leftd + .rightd
-##.leftd1 + .rightd1
 ##.leo-container .ssr1
 ##.link > .image[src*=".qhimg.com/"]
 ##.listok > a > img[src*=".alicdn.com"][width="980"][height="80"]
@@ -900,7 +887,6 @@
 ##.rightAd
 ##.right_advert
 ##.rightadv
-##.rightd + .leftd1
 ##.room-ad-bottom
 ##.room-ad-top
 ##.room-ad-video-down
@@ -918,8 +904,6 @@
 ##.sidebar-ad
 ##.siteAnn1
 ##.slider-ad[adid]
-##.smcms-wrap > .group-box > a[target="_blank"] > img
-##.smcms-wrap > a[target="_blank"] > img
 ##.space-y-6 > .advertising
 ##.spon-img[src*=".alicdn."]
 ##.sponsor_image
@@ -1040,7 +1024,6 @@
 ##[class][onclick^="window.location.href"][onclick*=".pypyj.com"]
 ##[class][onclick^="window.location.href"][onclick*=".yueshuapp.com"]
 ##[style*="mi-img.com"][style*="calc"]
-##[style="display:none"] + iframe[scrolling="no"][src*="//"][src*="?"][src*="="][src*="&"][width][height][frameborder="0"]
 ##a#wrapper_left_bg
 ##a#wrapper_left_bg\ llll
 ##a#wrapper_right_bg
@@ -1202,7 +1185,6 @@
 ##a[target="_blank"][onclick*="广告点击"]
 ##body .has-ad
 ##body > div[style="display:none;"] + div[style="display:none;"] + div[id][class][style^="background-color:"]
-##body > div[style="width: 100% !important; margin: 0px !important; padding: 0px !important; display: flex !important; flex-flow: row wrap !important; background: rgb(255, 255, 255) !important; color: transparent !important; font-size: 0px !important; text-indent: -10000px !important; line-height: 0px !important;"]
 ##body.desktop[style^="-"] span[class*=" "] > a[href^="http"][rel="nofollow"][target="_blank"]
 ##body.page > .popup
 ##body[onload*="u()"] > #x
@@ -1215,16 +1197,12 @@
 ##center > p > a[target="_blank"] > img[width="728px"][height="90px"]
 ##div#ad_id
 ##div#xinxi
-##div:not(#video)[style^="width: 100%;"][style$="display: block;"] iframe[scrolling="no"][src*="//"][src*="?"][src*="="][src*="&"][width][height][frameborder="0"]
 ##div[align="center"] > a[href^="/url/"] > img[src*=".alicdn.com"]
 ##div[align="center"] > a[href^="/url/"] > img[src*=".qpic.cn"]
 ##div[bannerlist]
-##div[class][id][style] > .pic_container
 ##div[class^="is_"] > a > img[referrerpolicy="no-referrer"]
 ##div[class^="module-"] > a[href="/index/voddetail.html?id=1"]
 ##div[class^="ps_"][value="20"]
-##div[id][style="width: 100%;"] > div > div > iframe[scrolling="no"][src^="http"][src*="?"][src*="="][src*="&"][width][height][frameborder="0"]
-##div[id][style="width: 100%;"] > div > iframe[scrolling="no"][src^="http"][src*="?"][src*="="][src*="&"][width][height][frameborder="0"]
 ##div[id^="a-loading-"] > span
 ##div[id^="ad_thread"]
 ##div[id^="adv-"].adv
@@ -1239,19 +1217,10 @@
 ##div[style*="jczunp.xyz"]
 ##div[style=" max-width:990px; margin:0 auto;"] > a > img[height="120px"]
 ##div[style=" max-width:990px; margin:0 auto;"] > a > img[height="60px"]
-##div[style="display: flex;flex-wrap: wrap;margin-right: 5px;margin-left: 5px;"] + style + .container
-##div[style="display:none;"] + script + #container.container
 ##div[style="margin:10px auto;width: 930px;height: 250px;"]
-##div[style="position: fixed; top: 0px; overflow: hidden; z-index: 2147483647; background-color: rgba(0, 0, 0, 0.5); height: 110%;"]
 ##div[style="position: fixed;top: 60px;right:0;z-index:999;width:250px"]
-##div[style="width: 100%;"]:not([id]):not([class]) > iframe[scrolling="no"][src*="//"][src*="?"][src*="="][src*="&"][width][height][frameborder="0"]
 ##div[style^="line-height"][style*="http"][style$="fixed;"]
 ##div[style^="position"][onclick^="window.open"]
-##div[style^="width: 100%;"]:not([id]):not([class]) > iframe[scrolling="no"][src^="http"][src*="?"][src*="="][src*="&"][width][height][frameborder="0"]:not([allowfullscreen])
-##div[style^="width: 100%;"][style$="margin: 0px;"] iframe[scrolling="no"][src*="//"][src*="?"][src*="="][src*="&"][width][height][frameborder="0"]
-##div[style^="width: 100%;"][style$="opacity: 100;"] iframe[scrolling="no"][src*="//"][src*="?"][src*="="][src*="&"][width][height][frameborder="0"]
-##div[style^="width: 100%;"][style$="overflow: hidden;"] iframe[scrolling="no"][src*="//"][src*="?"][src*="="][src*="&"][width][height][frameborder="0"]
-##div[style^="width: 100%;"][style$="z-index: inherit;"] iframe[scrolling="no"][src*="//"][src*="?"][src*="="][src*="&"][width][height][frameborder="0"]
 ##dl#listwoBox
 ##header + #main:nth-child(n+4) .container-fluid.mb-0.p-0
 ##header + #main:nth-child(n+4) .container-fluid.mb-3.p-0
@@ -1280,10 +1249,7 @@
 ##img[src*=".sinaimg."][style="width:150px;height:300px"]
 ##script + #coupletBox
 ##script + #rbbox
-##script + #strl
-##script + #strl + div[style]
 ##script + .header_rmb
-##script + [id][style="width:100%;height:auto;min-height:120px;position:relative;display:block;"]
 ##script + a[href] > img[src*="lbsugc.cdn.bcebos.com"]
 ##script + a[target="_bank"] > img[src*=".c-ctrip.com"][style="width:100%;height:auto;"]
 ##script + div[id^="a-loading-"]
@@ -2143,7 +2109,7 @@
 4gtv.tv,80s.ai,ft.com,ftchinese.com,ftchinese.com.sz-dns.net,kartinfo.me,long7.qq.com,reh.tw,typecho.wiki#@#.adsbox
 4hu.tv##.couplet-left
 4hu.tv##.wrap > div.mod > div.row > dl:has(> dt > a[target="_blank"]:not([href^="/html/"]) > img)
-4spaces.org,fuliba.net,fuliba2023.net,uliba.net,ypojie.com##.widget_ui_orbui
+4spaces.org,fuliba.net,fuliba2023.net,fuliba2025.net,uliba.net,ypojie.com##.widget_ui_orbui
 500.com###live_top_ad
 500.com##.tz_pai
 500.com##a[href*="sanyol.cn"]
@@ -10655,7 +10621,6 @@ zzzyk.com###Tinfo
 ~h5.dilidili.wang,dilidili.wang#$#a[href*=".11h5."] img { position: absolute!important; left: -3000px!important; }
 ~houdask.com###kfivtwin
 ~hrtsea.com##.widget_ui_ads
-~hupu.com##div[id][style="width: 100%;"] > iframe[scrolling="no"][src^="http"][src*="?"][src*="="][src*="&"][width][height][frameborder="0"]
 ~ix8.la##div[class^="ADTOPLB_"]
 ~laifeng.youku.com,youku.com##a[href^="http://cps.laifeng.com/"]
 ~laifeng.youku.com,youku.com##a[href^="http://cps.laifeng.com/"] + .bg + img

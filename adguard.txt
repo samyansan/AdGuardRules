@@ -3,8 +3,8 @@
 ! Powerd by SamSan
 ! Description: Just a merged Adblock rule. Nothing more
 ! Expires: 6 hours (update frequency)
-! Version: 2024-12-17 08:45:25
-! Total count: 36859
+! Version: 2024-12-17 14:13:26
+! Total count: 36816
 
 ###ADtip
 ###Ad_windows
@@ -19,7 +19,6 @@
 ###QQ_Full
 ###SOHU_MAIN > .module-cmt-float-bar
 ###TopAdvert
-###Video-Shunt-Box + .container
 ###ZAML
 ###Zi_ad_a_H
 ###\31 280_adv
@@ -104,7 +103,6 @@
 ###asx_text
 ###bannerAd
 ###banner_links.banner-container
-###bd-hl-content
 ###bfad
 ###bfad1
 ###bfad2
@@ -135,12 +133,7 @@
 ###comic_reader + #adDisabledBtn
 ###comiis_xizi_gg02
 ###container > #main.site-main > div > div > a[href^="/"][href$="/"] > img
-###container > .item.title_normal
-###container > .item.title_top
 ###container > .sectionBanner
-###container > .wrapper > .fl
-###container > a.block
-###container.container > a.item
 ###content-ad
 ###cpro_container
 ###crazy_ad_float
@@ -191,7 +184,6 @@
 ###haoxinqing_me_img
 ###head_ad_area
 ###header + #topBox
-###header > a[target="_blank"] > img[style="width:100%;height:60px;margin-bottom:2px;"]
 ###header-top + .advertisement
 ###header_ad
 ###header_global_ad
@@ -202,7 +194,6 @@
 ###hfad
 ###hj-right-aside[style="float: right;"]
 ###homead
-###img-txt-wrapper > #title_desc_div
 ###imgad
 ###imgs5[height="60px"]
 ###index_aside_ad
@@ -382,7 +373,6 @@
 ###wp > .V-video-float
 ###wp > .V-videoFloat
 ###wrapper > .topad
-###wrapper > div[style="padding:3px;"] > #pic
 ###xinnxi
 ###xqad
 ###xqad1
@@ -650,7 +640,6 @@
 ##.container > .index-ad
 ##.container > .slide-baidu
 ##.container > .t-img-box:first-child
-##.container > a.mid-wrapper
 ##.container > a[href^="http"] > .ads
 ##.containeradvertising
 ##.content > #dhxhtml
@@ -671,7 +660,6 @@
 ##.davwheat-ad
 ##.ddd.ng-star-inserted
 ##.dipiao
-##.div-search-box.col-lg-offset-2.col-lg-8 > a[href^="http"][target="_blank"]
 ##.downcode[style^="position:fixed;z-index:1000;top:200px;"]
 ##.dplayer > .tips
 ##.duilian > .leftd
@@ -782,7 +770,6 @@
 ##.leftAd
 ##.leftadv
 ##.leftd + .rightd
-##.leftd1 + .rightd1
 ##.leo-container .ssr1
 ##.link > .image[src*=".qhimg.com/"]
 ##.listok > a > img[src*=".alicdn.com"][width="980"][height="80"]
@@ -908,7 +895,6 @@
 ##.rightAd
 ##.right_advert
 ##.rightadv
-##.rightd + .leftd1
 ##.room-ad-bottom
 ##.room-ad-top
 ##.room-ad-video-down
@@ -926,8 +912,6 @@
 ##.sidebar-ad
 ##.siteAnn1
 ##.slider-ad[adid]
-##.smcms-wrap > .group-box > a[target="_blank"] > img
-##.smcms-wrap > a[target="_blank"] > img
 ##.space-y-6 > .advertising
 ##.spon-img[src*=".alicdn."]
 ##.sponsor_image
@@ -1048,7 +1032,6 @@
 ##[class][onclick^="window.location.href"][onclick*=".pypyj.com"]
 ##[class][onclick^="window.location.href"][onclick*=".yueshuapp.com"]
 ##[style*="mi-img.com"][style*="calc"]
-##[style="display:none"] + iframe[scrolling="no"][src*="//"][src*="?"][src*="="][src*="&"][width][height][frameborder="0"]
 ##a#wrapper_left_bg
 ##a#wrapper_left_bg\ llll
 ##a#wrapper_right_bg
@@ -1210,7 +1193,6 @@
 ##a[target="_blank"][onclick*="广告点击"]
 ##body .has-ad
 ##body > div[style="display:none;"] + div[style="display:none;"] + div[id][class][style^="background-color:"]
-##body > div[style="width: 100% !important; margin: 0px !important; padding: 0px !important; display: flex !important; flex-flow: row wrap !important; background: rgb(255, 255, 255) !important; color: transparent !important; font-size: 0px !important; text-indent: -10000px !important; line-height: 0px !important;"]
 ##body.desktop[style^="-"] span[class*=" "] > a[href^="http"][rel="nofollow"][target="_blank"]
 ##body.page > .popup
 ##body[onload*="u()"] > #x
@@ -1223,16 +1205,12 @@
 ##center > p > a[target="_blank"] > img[width="728px"][height="90px"]
 ##div#ad_id
 ##div#xinxi
-##div:not(#video)[style^="width: 100%;"][style$="display: block;"] iframe[scrolling="no"][src*="//"][src*="?"][src*="="][src*="&"][width][height][frameborder="0"]
 ##div[align="center"] > a[href^="/url/"] > img[src*=".alicdn.com"]
 ##div[align="center"] > a[href^="/url/"] > img[src*=".qpic.cn"]
 ##div[bannerlist]
-##div[class][id][style] > .pic_container
 ##div[class^="is_"] > a > img[referrerpolicy="no-referrer"]
 ##div[class^="module-"] > a[href="/index/voddetail.html?id=1"]
 ##div[class^="ps_"][value="20"]
-##div[id][style="width: 100%;"] > div > div > iframe[scrolling="no"][src^="http"][src*="?"][src*="="][src*="&"][width][height][frameborder="0"]
-##div[id][style="width: 100%;"] > div > iframe[scrolling="no"][src^="http"][src*="?"][src*="="][src*="&"][width][height][frameborder="0"]
 ##div[id^="a-loading-"] > span
 ##div[id^="ad_thread"]
 ##div[id^="adv-"].adv
@@ -1247,19 +1225,10 @@
 ##div[style*="jczunp.xyz"]
 ##div[style=" max-width:990px; margin:0 auto;"] > a > img[height="120px"]
 ##div[style=" max-width:990px; margin:0 auto;"] > a > img[height="60px"]
-##div[style="display: flex;flex-wrap: wrap;margin-right: 5px;margin-left: 5px;"] + style + .container
-##div[style="display:none;"] + script + #container.container
 ##div[style="margin:10px auto;width: 930px;height: 250px;"]
-##div[style="position: fixed; top: 0px; overflow: hidden; z-index: 2147483647; background-color: rgba(0, 0, 0, 0.5); height: 110%;"]
 ##div[style="position: fixed;top: 60px;right:0;z-index:999;width:250px"]
-##div[style="width: 100%;"]:not([id]):not([class]) > iframe[scrolling="no"][src*="//"][src*="?"][src*="="][src*="&"][width][height][frameborder="0"]
 ##div[style^="line-height"][style*="http"][style$="fixed;"]
 ##div[style^="position"][onclick^="window.open"]
-##div[style^="width: 100%;"]:not([id]):not([class]) > iframe[scrolling="no"][src^="http"][src*="?"][src*="="][src*="&"][width][height][frameborder="0"]:not([allowfullscreen])
-##div[style^="width: 100%;"][style$="margin: 0px;"] iframe[scrolling="no"][src*="//"][src*="?"][src*="="][src*="&"][width][height][frameborder="0"]
-##div[style^="width: 100%;"][style$="opacity: 100;"] iframe[scrolling="no"][src*="//"][src*="?"][src*="="][src*="&"][width][height][frameborder="0"]
-##div[style^="width: 100%;"][style$="overflow: hidden;"] iframe[scrolling="no"][src*="//"][src*="?"][src*="="][src*="&"][width][height][frameborder="0"]
-##div[style^="width: 100%;"][style$="z-index: inherit;"] iframe[scrolling="no"][src*="//"][src*="?"][src*="="][src*="&"][width][height][frameborder="0"]
 ##dl#listwoBox
 ##header + #main:nth-child(n+4) .container-fluid.mb-0.p-0
 ##header + #main:nth-child(n+4) .container-fluid.mb-3.p-0
@@ -1288,10 +1257,7 @@
 ##img[src*=".sinaimg."][style="width:150px;height:300px"]
 ##script + #coupletBox
 ##script + #rbbox
-##script + #strl
-##script + #strl + div[style]
 ##script + .header_rmb
-##script + [id][style="width:100%;height:auto;min-height:120px;position:relative;display:block;"]
 ##script + a[href] > img[src*="lbsugc.cdn.bcebos.com"]
 ##script + a[target="_bank"] > img[src*=".c-ctrip.com"][style="width:100%;height:auto;"]
 ##script + div[id^="a-loading-"]
@@ -1482,8 +1448,6 @@ $websocket,domain=wap.yushuwu.cloud
 .com:12289/$script,third-party
 .com:91/Runtime/js/psCreat.js
 .com:9120/discor_list.js
-.cyou/*_*_an*js?$script,third-party
-.cyou/*_*_u*js?$script,third-party
 .dajiahao*.top/getCodeDomain/
 .eu/ads/
 .fun/*_*_rony.js
@@ -1655,7 +1619,6 @@ $websocket,domain=wap.yushuwu.cloud
 /993dy_new//gg123/*
 /99rejs/js/adv
 /99vjj/*$third-party
-/9CCMSPC/images/*.gif
 /://666(7|8)[0-9]{2}.xyz\//$image,third-party
 /A-Tian/Tian-*-good.js
 /A-duoduo/Add-
@@ -2241,7 +2204,6 @@ $websocket,domain=wap.yushuwu.cloud
 /lenovo/pc/piaofu2.js
 /lenovo/pc/top.js
 /letv-gug/*
-/link?c=$image
 /live173/640320_
 /live173_*/46860.
 /live800.
@@ -2292,7 +2254,6 @@ $websocket,domain=wap.yushuwu.cloud
 /nfhry32_78.js
 /nordvpn/autoptimize_
 /nowscore/ad/*
-/nqnhfd/*.js
 /ntes-ad-cloud.
 /o.js$domain=tptoon.com
 /ojborn.so?$script,third-party
@@ -2475,7 +2436,6 @@ $websocket,domain=wap.yushuwu.cloud
 /topads.
 /tops/fmt.js?v=
 /tourl.html?url=
-/tps/noexpire/*
 /tres/recommend/*$domain=ifeng.com
 /ttgg/*.js$script,third-party
 /tuiguang/*$domain=~jikexiu.com|~jikexiu.vip
@@ -2555,7 +2515,6 @@ $websocket,domain=wap.yushuwu.cloud
 /yinghua4567/*.js
 /yksmartbanner.
 /ylnew/*.js$image
-/ylqq/*.add
 /yryy/css/javamy.js
 /yryy/css/javatop.js
 /yryy/css/venmy.js
@@ -3427,7 +3386,7 @@ $websocket,domain=wap.yushuwu.cloud
 4gtv.tv,80s.ai,ft.com,ftchinese.com,ftchinese.com.sz-dns.net,kartinfo.me,long7.qq.com,reh.tw,typecho.wiki#@#.adsbox
 4hu.tv##.couplet-left
 4hu.tv##.wrap > div.mod > div.row > dl:has(> dt > a[target="_blank"]:not([href^="/html/"]) > img)
-4spaces.org,fuliba.net,fuliba2023.net,uliba.net,ypojie.com##.widget_ui_orbui
+4spaces.org,fuliba.net,fuliba2023.net,fuliba2025.net,uliba.net,ypojie.com##.widget_ui_orbui
 500.com###live_top_ad
 500.com##.tz_pai
 500.com##a[href*="sanyol.cn"]
@@ -12259,7 +12218,6 @@ zzzyk.com###Tinfo
 |http://*/js/ad.$domain=~coolpc.com.tw|~sac.net.cn
 |http://*/js/ad/
 |http://*/js/tc.js
-|http://*/ts.js$domain=172.86.179.138|208.94.244.100|208.94.244.98|a88.us|ac168.info|ac88.info|aisex.com|cnnice.biz|go543.com
 |http://ad.$domain=~ad.cnr.cn|~ckckk.com|~jxnews.com.cn
 |http://gg.$third-party,domain=~guagua.cn
 ||*.$image,redirect=1x1-transparent.gif,third-party,domain=rmdown.com
@@ -15813,7 +15771,6 @@ zzzyk.com###Tinfo
 ||alicdn.com/app/wxbpromotion/*/js/cpm/cpm_jq.js
 ||alicdn.com/g/mm/afp-cdn/JS/
 ||alicdn.com/img/ibank/*_!!2200581616124-
-||alicdn.com/img/ibank/*_!!2208043467212-
 ||alicdn.com/img/ibank/*_!!2210231227621-0-cib.
 ||alicdn.com/img/ibank/*_!!2212029770429-
 ||alicdn.com/img/ibank/*_!!3820217494-0-cib.
@@ -15869,7 +15826,6 @@ zzzyk.com###Tinfo
 ||alicdn.com/kf/Hd5708bb280a64af781d74222ad3d8005w.jpg
 ||alicdn.com/kf/Hd62261f1a7964c50824ac5982b1aa1bfk.gif
 ||alicdn.com/kf/U0732534bf37c454e84b8378ceaa5d7c2V.
-||alicdn.com/kf/U17649ef1f91e4b428152e709d33aed775.jpg
 ||alicdn.com/kf/U49aea8c7eb23472da22f6375984dfe3fa.
 ||alicdn.com/kf/U693ffd2a78ac452895488e4e5426554cA.jpg
 ||alicdn.com/kf/Ub1be4a53456c4dd2a7dbc839969ed856a.gif
@@ -17808,7 +17764,6 @@ zzzyk.com###Tinfo
 ||bvakl.ifeng.com^
 ||bvdenx.xyz^
 ||bvlang.com/ad/
-||bvmqkla.de/files/photo/$third-party
 ||bvnjeqa.xyz^
 ||bvpqrydt.xyz^
 ||bvrzwnq.xyz^
@@ -18490,6 +18445,7 @@ zzzyk.com###Tinfo
 ||chusan.com/js/m*_
 ||chushoushijian.cn^
 ||chushoushijian.cn^$third-party
+||chussuth.com^
 ||chutangpu.cn^
 ||chuxi888.top^
 ||chuzrra.cn^
@@ -19026,6 +18982,7 @@ zzzyk.com###Tinfo
 ||cr173.com/show/
 ||cr173.com/skina/
 ||cr173.com/skinb/
+||craegvin.com^
 ||crash.163.com^
 ||crasheye.cn^
 ||crashlytics.163.com^
@@ -23661,6 +23618,7 @@ zzzyk.com###Tinfo
 ||ihais.com^
 ||ihcxue.xyz^
 ||ihear123.com^
+||ihearsoh.com^
 ||ihgluu.xyz^
 ||ihhii.xyz^
 ||ihhmh.com/mg/show
@@ -23873,7 +23831,6 @@ zzzyk.com###Tinfo
 ||imgur.com/df53F09.jpg
 ||imgur.com/oPNxy4w.gif
 ||imgur.com/zNQ0lXP.gif
-||imgur.com^$domain=172.86.179.138|208.94.244.100|208.94.244.98|a88.us|ac168.info|ac88.info|aisex.com|cnnice.biz|go543.com
 ||imgur.com^$domain=histock.tw|wgun.net
 ||imgur.com^*.gif$domain=18p2p.com
 ||imgwdyey.com^
@@ -24835,7 +24792,6 @@ zzzyk.com###Tinfo
 ||jsdelivr.net/gh/*/960-100.
 ||jsdelivr.net/gh/*/960-80.gif
 ||jsdelivr.net/gh/*/960x100.gif
-||jsdelivr.net/gh/*/960x60.
 ||jsdelivr.net/gh/a901361/
 ||jsdelivr.net/gh/cdnjsdelivr001/182cdn*.js
 ||jsdelivr.net/gh/cloud-files-cdn/jsfiles/lieqi.
@@ -24943,6 +24899,7 @@ zzzyk.com###Tinfo
 ||justwkj.xyz^
 ||jutou5.com^
 ||juuhe.com^
+||juutckrt.icu^
 ||juvbzle.cn^
 ||juweixin.com/static/spk
 ||juxia.com/jxtp/indexbg.jpg
@@ -27461,6 +27418,7 @@ zzzyk.com###Tinfo
 ||mvng.cn^
 ||mvo.g45td.xyz^
 ||mvpqrydt.xyz^
+||mvwitz.xyz^
 ||mvxz.com/bar3.js
 ||mvxz.com/boximg/
 ||mvxz.com/img/
@@ -27617,6 +27575,7 @@ zzzyk.com###Tinfo
 ||n5ta9.site^
 ||n6579.com^
 ||n7181.com^
+||n7a.icu^
 ||n8kt7gf.cn^
 ||na06.cn^
 ||na1r.services.adobe.com^
@@ -27882,6 +27841,7 @@ zzzyk.com###Tinfo
 ||nlxgjwye.icu^
 ||nlyekvc.cn^
 ||nlyjs2015.com^
+||nm2.icu^
 ||nmctm.cn^
 ||nmetrics.samsung.com^
 ||nmgch.top^
@@ -30938,7 +30898,6 @@ zzzyk.com###Tinfo
 ||sinaimg.cn/unipro/
 ||sinaimg.cn/wap/project/blog_to_news_banner/
 ||sinaimg.cn^$domain=04stream.tv|11luba.com|18board.com|18p2p.com|46bk.com|500xxxx.com|522dy.com|63ef.com|7mav2.com|7mshipin.org|94xxmm.com|99a21.com|abminbuy.com|acglover.me|aotu101.com|aotu103.com|blz105.com|blz20.com|blz24.com|caibaojian.com|cangjige.net|ccxx99.com|cnmysoft.com|ems183.cn|fdzone.org|kccdk.com|kiees.cn|kisssub.org|lifan.moe|llj22.com|pianyuan.org|rarbt.cc|sbme.me|se533.com|supfree.net|thztv.cc|tiantianzhibo.com|viidii.info|vx666.com|yaoshe1.com
-||sinaimg.cn^$domain=172.86.179.138|208.94.244.100|208.94.244.98|a88.us|ac168.info|ac88.info|aisex.com|cnnice.biz|go543.com
 ||sinaimg.cn^$domain=2c2.website|2p8.space|adultgao.com|caopop.com|caoporn.com|caouoo.com|caox.cc|h3e.pw|h3y.pw|k88.club|me88.pw|p5p.space|se88.space|t2p.space|tb001.xyz|te88.pw|vwan.xyz|xhao1.com
 ||sinaimg.cn^$domain=88files.net
 ||sinaimg.cn^$domain=99re.com
@@ -32283,7 +32242,6 @@ zzzyk.com###Tinfo
 ||tingyusw.xyz^
 ||tinkshop.cn^
 ||tinnar.cn^
-||tinypic.com^$domain=172.86.179.138|208.94.244.100|208.94.244.98|a88.us|ac168.info|ac88.info|aisex.com|cnnice.biz|go543.com
 ||tinypic.com^$domain=fdzone.org|jandown.com|mimima.com
 ||tiqcdn.com^
 ||tiqu.io^
@@ -36850,7 +36808,6 @@ zzzyk.com###Tinfo
 ~h5.dilidili.wang,dilidili.wang#$#a[href*=".11h5."] img { position: absolute!important; left: -3000px!important; }
 ~houdask.com###kfivtwin
 ~hrtsea.com##.widget_ui_ads
-~hupu.com##div[id][style="width: 100%;"] > iframe[scrolling="no"][src^="http"][src*="?"][src*="="][src*="&"][width][height][frameborder="0"]
 ~ix8.la##div[class^="ADTOPLB_"]
 ~laifeng.youku.com,youku.com##a[href^="http://cps.laifeng.com/"]
 ~laifeng.youku.com,youku.com##a[href^="http://cps.laifeng.com/"] + .bg + img
