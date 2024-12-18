@@ -3274,7 +3274,6 @@ bilibili.com##.index__downLoadBtn__src-videoPage-commentArea-
 bilibili.com##.index__floatOpenBtn__src-videoPage-floatOpenBtn-
 bilibili.com##.index__openAppBtn__src-commonComponent-topArea-
 bilibili.com##.index__openApp__src-videoPage-related2Col-videoItem-
-bilibili.com##.is-rcmd > div:only-child
 bilibili.com##.mobile.nav-item
 bilibili.com##.online + .adpos
 bilibili.com##.open-app-bar
@@ -3305,6 +3304,7 @@ bilibili.com#$?#.container > div.floor-single-card:has(> div.skeleton) { remove:
 bilibili.com#$?#.ex-card-common:has(.gg-icon) { remove: true; }
 bilibili.com#$?#.van-slide > .item:has(.bypb-icon) { remove: true; }
 bilibili.com#?#.eva-extension-body > .bili-video-card:-abp-has(.bili-video-card__info--ad)
+bilibili.com#?#.is-rcmd:-abp-has(>div:not(div:-abp-has(div)))
 bilibili.com#?#.van-popover__reference:contains(下载)
 bilibili.com#?#.video-card-common:-abp-has(>.card-pic>a[href*="cm.bilibili.com"][data-target-url])
 bilibili.com#?#.video-page-special-card-small:-abp-has(>.card-box>.info>a[href^="http"]:not([href*=".bilibili.com/"]))
@@ -4009,6 +4009,7 @@ csai.cn##a[class^="gg"]
 csdn.net###Topic_Top
 csdn.net###asideCustom36733263
 csdn.net###asideCustom65392991
+csdn.net###asideWriteGuide
 csdn.net###csdn-toolbar > div.toolbar-advert:first-child > a.toolbar-advert-default:first-child
 csdn.net###footerRightAds
 csdn.net###kp_box_476
@@ -6739,7 +6740,6 @@ kknews.cc,read01.com##.axslot
 kkpan.com,qqtn.com,smzy.com,yxdj.com.cn##.u-gs-btn
 kkw360.com##a[href^="https://sourl.cn/"]
 klyingshi.net##.row > div.url-card:has(> div.url-body span.badge-danger)
-km.com##.downloadApp
 kmf.com##.g-kmf-906banner
 knowlet3389.blogspot.com,knowlet3389.blogspot.hk,knowlet3389.blogspot.jp,knowlet3389.blogspot.tw#@##gAds
 knowmore.cc##.ins
