@@ -512,6 +512,7 @@
 ##.ads-before-content
 ##.ads-content
 ##.ads-item
+##.ads.flex
 ##.ads02
 ##.ads03
 ##.ads1
@@ -821,6 +822,9 @@
 ##.newstyle > a > img[src*="img.com/i/"]
 ##.no-mobile[style="position: fixed;right:0px;bottom: 0px;"]
 ##.nordvpn-popup + .sidebar-vpn
+##.notice-ad-wrapper
+##.notice-ad-wrapper + .app-abk
+##.notice-ad-wrapper + .app-abk + .app-text
 ##.nr_all > .m_f_a.sw_sp
 ##.opt > a[target="_blank"] > img[src*=".360buyimg.com"]
 ##.orbui-post
@@ -902,6 +906,7 @@
 ##.side_ad
 ##.sidead
 ##.sidebar-ad
+##.single-ad-banner
 ##.siteAnn1
 ##.slider-ad[adid]
 ##.space-y-6 > .advertising
@@ -956,6 +961,7 @@
 ##.ui-ad
 ##.uk-width-1-1.adbox
 ##.vg-overlay-pause
+##.video-ad-item
 ##.video-holder > a[target="_blank"] > img[src*=".360buyimg.com"]
 ##.video-info-aux + div[style^="border-radius: 5px;"]
 ##.video-item-ads
@@ -1006,6 +1012,7 @@
 ##.xzbox-gh
 ##.y.mtw[style="padding: 0px 10px;"]
 ##.ya-normal-box-done
+##.yt-ad-com
 ##.yueduad1
 ##.zhanzhang_tuijian_btn
 ##.zhedangceng_ggg
@@ -2186,6 +2193,7 @@
 5278.cc###rightside_banner_top
 5278.cc##.pct > div[style="width: 600px;"]
 528500.com###wp > div[align="center"]
+52asus.com###AsusMall-contain
 52asus.com###guiigo-black-mask
 52av.one##.message + center
 52av.one##div[style^="text-align:center;"] > a[target="_blank"] > img
@@ -4909,6 +4917,7 @@ fitacg.com##a[href*="ifift.com"]
 fjsen.com,nuomi.com#@#.right-ad
 flight.qunar.com##.l_rside > .b_fly_ban_b:nth-child(2)
 flighty.cn###searchBox + #sidebarBox
+flowus.cn##footer .swiper
 flyblog.cc###links > div[id] > div.hslice:not(#search):not(#counter):not(#category):not(#calendar):not([id*="-article"]):not(#latest-comment)
 flyblog.cc##.pixnavbar__top-bar__main-sites
 flyblog.cc,maxfoodfun.com#?#.article-body > div[style]:has(> div[style] > div[id] > ins.adsbyfalcon)
@@ -7685,6 +7694,7 @@ mydrivers.com##.yTv3AMqP
 mydrivers.com##a[href*=".dangbei.com"]
 mydrivers.com##div[class^="jdong11"]
 mydrivers.com##div[style*="/ad/"]
+mydrivers.com##div[style="margin: auto;width: 800px;padding: 10px 0;"]
 mydrivers.com##div[style^="position:fixed;left:50%;bottom:200px;"]
 mydrivers.com#?#.newslist > li:has(> span:contains(广 告))
 mydrivers.com#?#div[class^="news_info"] > ul.newslist > li:has(> span:contains(广告))
