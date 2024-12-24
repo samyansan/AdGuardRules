@@ -896,6 +896,7 @@
 ##.room-ad-video-down
 ##.rotate-adv
 ##.row > .gao-bg
+##.row > div.colVideoList:has(> div.video-elem > a[target="_blank"])
 ##.rtcenter_game
 ##.s.u.m.o.me.scrollbox-popup
 ##.samBannerUnit
@@ -1212,7 +1213,6 @@
 ##header + #main:nth-child(n+4) .container-fluid.mb-0.p-0
 ##header + #main:nth-child(n+4) .container-fluid.mb-3.p-0
 ##header + #main:nth-child(n+4) > div[id^="po-s"]:not(#po-shd)
-##header + main > div[class$=" block"][id="rd0"][data-v-app]
 ##iframe[src*=".xxmh"][src*="?u="]
 ##img#GGADIMG
 ##img#adv1
@@ -2467,7 +2467,6 @@
 91porna.com##div[class^="col"] div.filters:has(a.checkNum)
 91porny.com##.container-fluid.p-0[class*="mb-"]
 91porny.com##.jsv-g1
-91porny.com##.row > div.colVideoList:has(> div.video-elem > a[target="_blank"])
 91porny.org,jstv600.com,x9av7.com###main > div[id^="rd"]
 91porny.org,jstv600.com,x9av7.com##.footer + .block
 91porny.org,jstv600.com,x9av7.com#?#.card:-abp-has(>.card-image>a[href^="http"])
@@ -2792,7 +2791,7 @@ asmag.com.cn###adRightFix
 asmag.com.cn##.adAsMainLeft
 asp300.com,asp300.net##.tit01 > a
 asp300.com,asp300.net##.tit02 > a
-assbbs.com###ass_adv
+assbbs.com##div[id^="ass_adv"]
 asus.com##.bg_block
 atoolbox.net###ad-coupon-search
 atyun.com###r_banner > ul > li > a[href^="http"]:not([href*="atyun."])
@@ -9134,6 +9133,7 @@ steelcn.cn###table img
 steelcn.cn##.new_fixed
 stheadline.com###jetso-wrapper
 stheadline.com##.section-popular
+sto.cx##div[id^="ContAD"]
 sto520.com#?#.content > div.book > div[style^="text-align"]:has(> ins.adsbygoogle)
 stock87.com##a[href^="http"]:not([href*="stock87."]) > img[src*="uploadfiles/image/"]
 stock87.com##div[id^="Javascript"]
@@ -10066,7 +10066,6 @@ x3cn.com#?#body > div#qmenu_menu ~ div[style]:has(> a[target="_blank"])
 x6d.com#?#li:-abp-has(>.myad)
 x6d.com,xiaodao0.com##a[href^="/ad."]
 x6g.com##.addd
-x9av1.com,jsav2.com##.row > div.colVideoList:not(:has(> div.video-elem > a[href^="/video"]))
 xbeibeix.com#@#.google-ad
 xbgame.net#$#.download .content-area > div[class] { background-image: none !important; }
 xbgame.net#@##google-ads
