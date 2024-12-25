@@ -3,8 +3,8 @@
 ! Powerd by SamSan
 ! Description: Just a merged Adblock rule. Nothing more
 ! Expires: 6 hours (update frequency)
-! Version: 2024-12-25 08:41:04
-! Total count: 26766
+! Version: 2024-12-25 14:12:41
+! Total count: 26790
 
 ###ADtip
 ###Ad_windows
@@ -1283,7 +1283,7 @@ $script,subdocument,third-party,domain=dlkoo.com
 $script,subdocument,third-party,websocket,xmlhttprequest,domain=bhshu.net|louzhong8.com|miwens.com
 $script,subdocument,~third-party,websocket,xmlhttprequest,domain=m.6666xsw.com|m.chenkuan.com|m.jmshuwu.net|wodexiaoshuoh.com
 $script,third-party,denyallow=cdn.yinghuazy.xyz|authkong.com|rsc.cdn77.org|linkvertise.com|fastly.net|statically.io|sharecast.ws|b-cdn.net|bunnycdn.ru|bootstrapcdn.com|cdn.ampproject.org|cloudflare.com|cdn.staticfile.org|disqus.com|disquscdn.com|dmca.com|ebacdn.com|facebook.net|fastlylb.net|fbcdn.net|fluidplayer.com|fontawesome.com|github.io|google.com|googleapis.com|googletagmanager.com|gstatic.com|jquery.com|jsdelivr.net|jwpcdn.com|jwplatform.com|recaptcha.net|shrink.pe|twitter.com|ulogin.ru|unpkg.com|userapi.com|vidazoo.com|vk.com|yastatic.net|ytimg.com|zencdn.net|youtube.com|cackle.me|googleoptimize.com|vuukle.com|chatango.com|twimg.com|google-analytics.com|hcaptcha.com|raincaptcha.com|media-imdb.com|blogger.com|hwcdn.net|instagram.com|wp.com|fastcomments.com|plyr.io|cloudflare.net|rabbitstream.net|x.com,_____,domain=mxdm.xyz
-$script,third-party,denyallow=fastlycdn.com|doodcdn.co|intensedebate.com|vixcloud.co|cdn.plyr.io|authkong.com|rsc.cdn77.org|linkvertise.com|fastly.net|statically.io|sharecast.ws|b-cdn.net|bunnycdn.ru|bootstrapcdn.com|cdn.ampproject.org|cloudflare.com|cdn.staticfile.org|disqus.com|disquscdn.com|dmca.com|ebacdn.com|facebook.net|fastlylb.net|fbcdn.net|fluidplayer.com|fontawesome.com|github.io|google.com|googleapis.com|googletagmanager.com|gstatic.com|jquery.com|jsdelivr.net|jwpcdn.com|jwplatform.com|recaptcha.net|shrink.pe|twitter.com|ulogin.ru|unpkg.com|userapi.com|vidazoo.com|vk.com|yastatic.net|ytimg.com|zencdn.net|youtube.com|cackle.me|googleoptimize.com|vuukle.com|chatango.com|twimg.com|google-analytics.com|hcaptcha.com|raincaptcha.com|media-imdb.com|blogger.com|hwcdn.net|instagram.com|wp.com|fastcomments.com|plyr.io|cloudflare.net|rabbitstream.net|x.com,_____,domain=wap.dmwenku.com|m.wfxs.tw|h.fkxs.net|wap.ishuquge.la|m.91zww.com|592mh.top|dubuxiaoshuo.com|clm410.buzz|bookbl.com|shuku99.com|qiyoudy2.com|1yydstxt178.com|rouman5.com|feijisu20.com|iqb5.org|wap.xkushu.com|spoilertop.com|booktxts.com|bixia33.com|rouwenwu19.com|91porny.com|yznnw.com|vodtw.la|ckplayer.vip|uuread.tw|fengchedmp.com|aeahsck.cc|xiaoshubao.net|69xx03608.xyz|wap.yushuwu.cloud|twbook.cc|vodtw.xyz|sto.cx
+$script,third-party,denyallow=fastlycdn.com|doodcdn.co|intensedebate.com|vixcloud.co|cdn.plyr.io|authkong.com|rsc.cdn77.org|linkvertise.com|fastly.net|statically.io|sharecast.ws|b-cdn.net|bunnycdn.ru|bootstrapcdn.com|cdn.ampproject.org|cloudflare.com|cdn.staticfile.org|disqus.com|disquscdn.com|dmca.com|ebacdn.com|facebook.net|fastlylb.net|fbcdn.net|fluidplayer.com|fontawesome.com|github.io|google.com|googleapis.com|googletagmanager.com|gstatic.com|jquery.com|jsdelivr.net|jwpcdn.com|jwplatform.com|recaptcha.net|shrink.pe|twitter.com|ulogin.ru|unpkg.com|userapi.com|vidazoo.com|vk.com|yastatic.net|ytimg.com|zencdn.net|youtube.com|cackle.me|googleoptimize.com|vuukle.com|chatango.com|twimg.com|google-analytics.com|hcaptcha.com|raincaptcha.com|media-imdb.com|blogger.com|hwcdn.net|instagram.com|wp.com|fastcomments.com|plyr.io|cloudflare.net|rabbitstream.net|x.com,_____,domain=wap.dmwenku.com|m.wfxs.tw|h.fkxs.net|wap.ishuquge.la|m.91zww.com|592mh.top|dubuxiaoshuo.com|clm410.buzz|bookbl.com|shuku99.com|qiyoudy2.com|1yydstxt178.com|rouman5.com|feijisu20.com|iqb5.org|wap.xkushu.com|spoilertop.com|booktxts.com|bixia33.com|rouwenwu19.com|91porny.com|yznnw.com|vodtw.la|ckplayer.vip|uuread.tw|fengchedmp.com|aeahsck.cc|xiaoshubao.net|69xx03608.xyz|wap.yushuwu.cloud|twbook.cc|vodtw.xyz|sto.cx|xbqg6.com
 $script,third-party,denyallow=myqcloud.com|bytecdntp.com|pddpic.com|googletagmanager.com,domain=yjys.me
 $script,third-party,denyallow=unpkg.zhihu.com,domain=52niuyan.cc
 $script,third-party,domain=cilimao.co|cilimao.one
@@ -8069,6 +8069,7 @@ jmw.com.cn##.mr_1
 jmw.com.cn##.rightCouplet
 jmw.com.cn##.top_pic
 jmw.com.cn##[class^="advertising"]
+jnhulz5yys.shop,wuwuplus.shop##.small-icon-container
 jnnc.com###float_layer
 jnnc.com##.basehr + div
 jokeji.cn##.ad360_280
@@ -8456,7 +8457,6 @@ lkong.com##.lkong-ads
 llss.bz###secondary img:not(.avatar)
 llysc.cn###fbi-top-fixed-ad
 lm-us.com#@#.advertisement_above_footer
-lnk2.cc#%#//scriptlet("set-constant", "adblock", "false")
 localking.com.tw###adbannerurl
 lofter.com##.js-promote-itm
 logi.im##body > div[style^="background: black; position: fixed; "][style*="opacity: 0.5; z-index: 1999;"]
@@ -9338,6 +9338,7 @@ news.mydrivers.com##div[style="width:1000px;padding-top:16px;padding-bottom:12px
 news.mydrivers.com#?#.news_info > p:has(> a[href^="https://dt.mydrivers.com/"])
 news.mydrivers.com#?#.news_info > p:has(> strong:contains(双11红包活动推荐))
 news.owlting.com##.profit-wrapper
+news.pchome.com.tw###head-area > div[align="center"]
 news.pchome.com.tw##.adfloat
 news.pchome.com.tw##div[class^="adnewlist"]
 news.pchome.com.tw##div[style="width:300px;height:250px"]
@@ -11671,6 +11672,7 @@ xchina.co##.outer-banner
 xchina.co##.push-top
 xchina.co##div:has(> div:only-child > .media img[src*="/ad/"])
 xchina.co##div[style*="width: 300px;"][style*="height: 455px;"]
+xchina.co#%#//scriptlet('prevent-addEventListener', 'DOMContentLoaded', 'check')
 xclient.info###pop_business
 xdf.cn##.footadv
 xdf.cn##.middleadv
@@ -14137,6 +14139,7 @@ zzzyk.com###Tinfo
 ||adservice.google.*^
 ||adservice.google.cn^
 ||adservice.google.com^
+||adservice.sigmob.cn^
 ||adserviceretry.kugou.com^
 ||adsfile.bssdlbig.kugou.com^
 ||adsfile.qq.com^
@@ -15889,6 +15892,7 @@ zzzyk.com###Tinfo
 ||cdn-data-cloud.com/history/
 ||cdn-plugin-sync-upgrade-juui.hismarttv.com^
 ||cdn.ad.xiaomi.com^
+||cdn.aiclk.com^
 ||cdn.galacg.me/img/*.gif
 ||cdn.galacg.me/img/*.jpg
 ||cdn.haocaa.com^
@@ -16427,6 +16431,7 @@ zzzyk.com###Tinfo
 ||cp2.eastmoney.com^
 ||cpacrack.com^$dnsrewrite=ad-block.dns.adguard.com
 ||cpbl-elta.cdn.hinet.net/web/images/ad_
+||cpc-service-square.aiclk.com^
 ||cpc.sogou.com^
 ||cpddgcr.xyz^
 ||cpdronhu.xyz^
@@ -16768,6 +16773,7 @@ zzzyk.com###Tinfo
 ||dc-rotator.com^$dnsrewrite=ad-block.dns.adguard.com
 ||dc.letv.com^
 ||dc.meitustat.com^
+||dc.sigmob.cn^
 ||dcad1d97.xyz^$dnsrewrite=ad-block.dns.adguard.com
 ||dcads.sina.com.cn^
 ||dceuhnpc57.shop^
@@ -18757,6 +18763,7 @@ zzzyk.com###Tinfo
 ||hf365.com/0/14/60/93/14609355_921128.jpg
 ||hf365.com/0/15/64/87/15648725_922274.jpg
 ||hfbfbvmjdmxc.com^
+||hfisngksng.com^
 ||hfjmvr.xyz^
 ||hfjsliu.top^
 ||hfptbb.cn^
@@ -20103,6 +20110,7 @@ zzzyk.com###Tinfo
 ||k366.com/images/smxs^
 ||k5uj.icu^
 ||k99.cc^$third-party
+||k9u.icu^
 ||kafuzcxr.xyz^
 ||kagodiwij.site^$dnsrewrite=ad-block.dns.adguard.com
 ||kaipuyun.cn/count/
@@ -20764,6 +20772,7 @@ zzzyk.com###Tinfo
 ||logger.qingting.fm^
 ||logic.cpm.cm.kankan.com^
 ||logoquan.com/upload/prd/
+||logrcv.aiclk.com^
 ||logs.amap.com^
 ||logservice.hicloud.com^
 ||logservice1.hicloud.com^
@@ -20958,6 +20967,7 @@ zzzyk.com###Tinfo
 ||m2.lelemh.com^
 ||m28458.top^
 ||m5.66077.cn^
+||m51.icu^
 ||m549z.site^
 ||m6500.top^
 ||m6690.top^
@@ -22050,6 +22060,7 @@ zzzyk.com###Tinfo
 ||osisk.com^
 ||osmzym.xyz^
 ||oss-ap-southeast-1.aliyuncs.com/js/copy.js
+||oss.cdn.aiclk.com^
 ||ossfloetteor.com^$dnsrewrite=ad-block.dns.adguard.com
 ||osujcq.xyz^
 ||osusjsga.com^
@@ -22945,6 +22956,7 @@ zzzyk.com###Tinfo
 ||qweisiy.top^
 ||qweizay.top^
 ||qwerioy.top^
+||qwilmiy.top^
 ||qwmamh.icu^
 ||qwoofao.top^
 ||qwsanan.top^
@@ -23091,6 +23103,7 @@ zzzyk.com###Tinfo
 ||retiremely.com^$dnsrewrite=ad-block.dns.adguard.com
 ||retrefsf.cn^
 ||retrieval-bd.duote.com^
+||rev.aiclk.com^
 ||revdepo.com^
 ||review.gdtimg.com^
 ||reviewdollars.com^$dnsrewrite=ad-block.dns.adguard.com
@@ -23242,6 +23255,7 @@ zzzyk.com###Tinfo
 ||ruyig.com/730x76.png
 ||rvnaxwqe.icu^
 ||rvtfwryz.icu^
+||rwdjrn.icu^
 ||rxfygd.cn^
 ||rxys.cn^
 ||rydyvv.xyz^
@@ -23610,6 +23624,7 @@ zzzyk.com###Tinfo
 ||shuneiya.com/js/wcnm/foot.js
 ||shuneiya.com/static/js/ding.js
 ||shuowan.com/Public/shuo/20160119/569dafddd13be.jpg
+||shuucerz.com^
 ||shuzilm.cn^
 ||shzzzz.dftoutiao.com^
 ||siconoi.com^
@@ -23620,6 +23635,7 @@ zzzyk.com###Tinfo
 ||sihbb.com/yang/
 ||sikapo.top^
 ||sikaq.top^
+||sikncs.com^
 ||simaba.m.taobao.com^
 ||simaba.taobao.com^
 ||simba.6.cn^
@@ -24331,6 +24347,7 @@ zzzyk.com###Tinfo
 ||tgb1l.icu^
 ||tgccct.icu^
 ||tgel2ebtx.ru^$dnsrewrite=ad-block.dns.adguard.com
+||tghrfv.icu^
 ||tgidskii.top^
 ||tgrpzl.xyz^
 ||tgwfaz.icu^
@@ -24546,6 +24563,7 @@ zzzyk.com###Tinfo
 ||toutiao.haotui.com/data/js/0.js
 ||toutiaoyule.com/n/dspshow.
 ||touvxlii.top^
+||towmfs.com^
 ||tp.sgcn.com^
 ||tp1902abd.com^
 ||tp4sul.jwzd.com.cn^
@@ -24565,6 +24583,7 @@ zzzyk.com###Tinfo
 ||tqznjujv.xyz^
 ||tr-bouncer.com^$dnsrewrite=ad-block.dns.adguard.com
 ||trace.qq.com^
+||tracelog-debug.aiclk.com^
 ||tracelog-debug.qquanquan.com^
 ||track.58.com^
 ||track.afrsportsbetting.com^$dnsrewrite=ad-block.dns.adguard.com
@@ -25016,6 +25035,7 @@ zzzyk.com###Tinfo
 ||update.avlyun.sec.miui.com^
 ||update.lejiao.tv^
 ||update.mobile.kugou.com^
+||update0.aiclk.com^
 ||updatemobilee.com^$dnsrewrite=ad-block.dns.adguard.com
 ||updatepage.kuwo.cn^
 ||upgrade-update.hismarttv.com^
@@ -25061,6 +25081,7 @@ zzzyk.com###Tinfo
 ||ushaqi.com^
 ||usingde.com^
 ||uskecsx.icu^
+||usr-api.aiclk.com^
 ||ustv123.com/images/axd.js
 ||usvkfwth.xyz^
 ||usyliet.top^
@@ -25314,6 +25335,7 @@ zzzyk.com###Tinfo
 ||vrdfxioe.icu^
 ||vrelai.com^
 ||vreqnait.com^
+||vriesziy.com^
 ||vrinqop.icu^
 ||vrrw.net//templets/default/js/ad.js
 ||vrulqil.com^
@@ -25736,6 +25758,7 @@ zzzyk.com###Tinfo
 ||wweizae.top^
 ||wwerioe.top^
 ||wwhsxwow.xyz^
+||wwilmie.top^
 ||wwis-dubc1-vip60.adobe.com^
 ||wwjtdjj.cn^
 ||wwursere.top^
@@ -25798,6 +25821,7 @@ zzzyk.com###Tinfo
 ||xbiqu5.com/12345678.
 ||xbiquge99.cc/js/dj
 ||xbiqugela.com/js/basisc.
+||xbqg6.com/*.php
 ||xbtw.com^
 ||xc.gdt.qq.com^
 ||xc.macd.cn^
