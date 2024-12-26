@@ -2768,6 +2768,7 @@ app.n26.com#@#.bl > .gg
 appchina.com###yyh-bottom
 appinn.com###ranshownow
 appinn.com###sidebar > .widget:first-child
+appinn.com###sidebar > .widget_block > a
 appinn.com###sidebar a[rel*="sponsored"]
 appinn.com##.ads-m
 appinn.com##a[href*=".houdeyun.cn"]
@@ -3489,9 +3490,11 @@ buy.ccb.com#@##top_ad
 buzzhand.com##div[style="text-align:left;margin-top:0px;height:600px;"]
 buzzorange.com###divRelated > .dfped
 buzzorange.com###primary > .dfped[id^="all-970x"]
+buzzorange.com##.adGeek-grey-ad-container
 buzzorange.com##.adNoSex
 buzzorange.com##.ad_small_m
 buzzorange.com##.rmaxAD
+buzzorange.com##div[data-id="7c6b7b2"]
 buzzorange.com#$#.sidebar > section#text-8[style*="bottom: 240px;"] { position: static !important; }
 buzzorange.com#?#.sidebar > section[id^="text-"]:has(> .textwidget > .dfped)
 byxx.com##.byzwPC-banner-ADscroll
@@ -5036,6 +5039,7 @@ fxykx.com##a[href*="zyttx.com/"]
 fxykx.com,pantsu.cat#@##banner_ad
 fydisk.com###vbox
 fznews.com.cn##.kuang100_right
+g-mh.org,godamh.com,manhuafree.com,sportsplanetmag.com##.adshow
 g-years.com,ghoffice.com,gpsuu.com,mydigit.cn###main > .textMes
 galacg.me##.sidebar-top
 galacg.me##a[href*="/game"]
@@ -9104,7 +9108,6 @@ sports.qq.com##a[href="http://teramont.svw-volkswagen.com/"]
 sports.qq.com##a[href^="http://market.1hai.cn/"]
 sports.qq.com#@#.txp_ad_center
 sports.sohu.com##.allsee-list > .bd-wrap
-sportsplanetmag.com##.adshow
 sportsv.net##.adv01
 sporttery.cn###newDiv
 srzc.com##.topgg
