@@ -3806,7 +3806,7 @@ cn.bing.com##.b_bza_pole
 cn.bing.com##.bnp_rich_div_visible.bottom
 cn.bing.com##.bnp_rich_div_visible.top
 cn.bing.com#?##b_results > li:-abp-has(.b_adProvider)
-cn.bing.com#?#.b_algo:-abp-has(p:-abp-properties(AAAAAElFTkSuQmCC))
+cn.bing.com#?#.b_algo:-abp-has(p:-abp-properties(content:*AAAAAElFTkSuQmCC))
 cna.com.tw##.ad_336_2
 cna.com.tw#$#.fb_fanpage_inpage > .other_news_box_2 { padding: 0 0px!important; margin: 26px 0!important; }
 cna.com.tw,ettoday.net##.ad_970
@@ -3929,6 +3929,9 @@ cokemine.com,eveaz.com,jubuzz.com,skyarea.cn,tianfateng.cn#@#.category-share
 colamanga.com##iframe[style*="important"]
 colamanga.com#$#div[class^="layui-layer-"]:not(#color) { display: none !important; }
 colamanga.com#$#html { overflow: auto !important; }
+colamanga.com#@#.ADFooter
+colamanga.com#@#.ADInfo
+colamanga.com#@#.ADLeader
 com.tw###space > a[target="_blank"] > img[width="160"]
 com.tw#$#img[width="960"][height="90"] { height: 0 !important; }
 comefromchina.com##.ad_navtext_11 > li:nth-child(n+2)
