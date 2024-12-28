@@ -3,8 +3,8 @@
 ! Powerd by SamSan
 ! Description: Just a merged Adblock rule. Nothing more
 ! Expires: 6 hours (update frequency)
-! Version: 2024-12-28 08:40:35
-! Total count: 26820
+! Version: 2024-12-28 14:11:09
+! Total count: 26832
 
 ###ADtip
 ###Ad_windows
@@ -4080,6 +4080,7 @@ aiyuke.com##.index_app_down_ad
 aizhan.com###all_text_content
 aizhan.com###home_text_content
 aizhan.com##.btn
+akkxs.net#%#//scriptlet('abort-current-inline-script', 'eval', '_0x')
 alexa.cn##.importantList
 alexa.cn##.importantTop
 ali213.net###ali-js-4
@@ -4571,6 +4572,7 @@ baoliny.com,gasaq.com,hgitv.com,ifooday.cn,nen.com.cn##.guanggao
 baomidou.com##.sidebar-content > astro-island
 baomidou.com#%#//scriptlet('set-constant', '_AdBlockInit', 'noopFunc')
 baozimh.one,yazhouse8.com##.banners
+baozimh.org,bzmh.org,g-mh.org,godamh.com,manhuafree.com,sportsplanetmag.com##.adshow
 bbc.com##section[class*="AdContainer"]
 bbs-mychat.com###cate_top > tr > .f_one
 bbs-mychat.com#@#.adContent
@@ -6494,7 +6496,6 @@ fxykx.com##a[href*="zyttx.com/"]
 fxykx.com,pantsu.cat#@##banner_ad
 fydisk.com###vbox
 fznews.com.cn##.kuang100_right
-g-mh.org,godamh.com,manhuafree.com,sportsplanetmag.com##.adshow
 g-years.com,ghoffice.com,gpsuu.com,mydigit.cn###main > .textMes
 galacg.me##.sidebar-top
 galacg.me##a[href*="/game"]
@@ -15685,6 +15686,7 @@ zzzyk.com###Tinfo
 ||bvxiht.xyz^
 ||bw66.cn/template/default_pc/bbs/
 ||bweriov.top^
+||bwilmiv.top^
 ||bwjfnj.xyz^
 ||bwurserv.top^
 ||bwz4e.icu^
@@ -16279,6 +16281,7 @@ zzzyk.com###Tinfo
 ||cnblogs.com/group/T2
 ||cnblogs.com/units/
 ||cnblogs.com^*/sideColumnAd?
+||cncover.godamanga.online/ad/
 ||cndns.com/incs/js/website_mobile.js
 ||cndzys.com/huanlian/
 ||cnfol.com/Count.html
@@ -18333,8 +18336,10 @@ zzzyk.com###Tinfo
 ||gmbuluo.net/js/
 ||gmgbmzz.xyz^
 ||gmmlmo.xyz^
+||gmso1*oka.top/$script,third-party
 ||gmso12251oka.top^
 ||gmso12261oka.top^
+||gmso12271oka.top^
 ||gmxysb.icu^
 ||gnyuhzd.icu^
 ||go-cpa.click^$dnsrewrite=ad-block.dns.adguard.com
@@ -21550,6 +21555,7 @@ zzzyk.com###Tinfo
 ||mw6.me/images/*.gif
 ||mwerilxx.top^
 ||mweriox.top^
+||mwilmix.top^
 ||mwqetvn.icu^
 ||mwrf.net/images/js/*mrf.js
 ||mwrf.net/images/mrf/
@@ -21659,6 +21665,7 @@ zzzyk.com###Tinfo
 ||n6579.com^
 ||n7181.com^
 ||n7a.icu^
+||n8u.icu^
 ||na06.cn^
 ||na1r.services.adobe.com^
 ||na2m-pr.licenses.adobe.com^
@@ -21816,6 +21823,7 @@ zzzyk.com###Tinfo
 ||noopapnoeic.digital^$dnsrewrite=ad-block.dns.adguard.com
 ||noopking.com^$dnsrewrite=ad-block.dns.adguard.com
 ||norse.mingxiaow.com^
+||noslugut.com^
 ||notes-analytics-events.apple.com^
 ||nothingfairnessdemonstrate.com^$dnsrewrite=ad-block.dns.adguard.com
 ||notice.game.xiaomi.com^
@@ -23184,6 +23192,7 @@ zzzyk.com###Tinfo
 ||rk6h3.icu^
 ||rkanr.com/data/cpcache/cp*.js
 ||rkgbqn.icu^
+||rklzpo.com^
 ||rktjxj.icu^
 ||rkwxfi.xyz^
 ||rkxy.com.cn/js/text_
@@ -23414,6 +23423,7 @@ zzzyk.com###Tinfo
 ||sconline.com.tw/top/coolpc_
 ||score-feed.com^$dnsrewrite=ad-block.dns.adguard.com
 ||scorecardresearch.com^
+||screddoit.com^
 ||screspoy.com^
 ||scribe.twitter.com^
 ||script-bd.baixing.net^
@@ -24666,6 +24676,7 @@ zzzyk.com###Tinfo
 ||tribalfusion.com^
 ||trimmoits.com^
 ||trip.com/partners/ad/
+||trjfoagf.icu^
 ||trk72.com^$dnsrewrite=ad-block.dns.adguard.com
 ||trkbc.com^$dnsrewrite=ad-block.dns.adguard.com
 ||trkless.com^$dnsrewrite=ad-block.dns.adguard.com
@@ -24686,6 +24697,7 @@ zzzyk.com###Tinfo
 ||try.opera.com^$dnsrewrite=ad-block.dns.adguard.com
 ||ts.obsceneoffers.com^$dnsrewrite=ad-block.dns.adguard.com
 ||ts166.net^
+||tsbrzz.icu^
 ||tsdfxv.xyz^
 ||tsdm.live/weibo.html
 ||tsdm39.com/img01/MP3/GG/
