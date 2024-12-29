@@ -3,8 +3,8 @@
 ! Powerd by SamSan
 ! Description: Just a merged Adblock rule. Nothing more
 ! Expires: 6 hours (update frequency)
-! Version: 2024-12-29 08:46:24
-! Total count: 35904
+! Version: 2024-12-29 14:11:11
+! Total count: 35917
 
 ###ADtip
 ###Ad_windows
@@ -2760,7 +2760,7 @@ $websocket,domain=wap.yushuwu.cloud
 141jj.com##.category-wrapper > ul > div[style="line-height:24px;"] > a
 141jj.com##.moboad + .webad
 141jj.com#?#li:-abp-contains(/贊助|推廣/)
-141jj.com,99kubo.tv,jumi.su,preface.ai,r3sub.com##a[href*="bit.ly"]
+141jj.com,jumi.su,preface.ai,r3sub.com##a[href*="bit.ly"]
 158zm.com##.top-af-container
 159i.com###body > table[width="100%"]
 159i.com###header + div > style + div[class]
@@ -3784,10 +3784,6 @@ $websocket,domain=wap.yushuwu.cloud
 99114.com##.indexcjgg
 99a21.com##.wrap-head-spots
 99kubo.tv##.main > div[class="datal clear"]
-99kubo.tv##div[style="width:970px; height:250px;"]
-99kubo.tv##table[width="970"][height="260"]
-99kubo.tv##table[width^="9"][height="90"]
-99kubo.tv#?#div[style*="width"]:-abp-has(> div[style] > img[src="/static/img/adsfree.png"])
 99meijutv.com##.follow-qrcode
 99re.com##.dmcenter
 99re.com##.spots
@@ -7253,6 +7249,12 @@ hy5.com.cn##.toplogoad
 hy5.com.cn##.toppicad
 hy5.com.cn##.toptxtad
 hybase.com###hd_float
+hybase.com##.categoryimg
+hybase.com##.entry-banner
+hybase.com##.insy1
+hybase.com##.widget_c_white
+hybase.com##div:has(> script[src^="/ckjs/"]:only-child)
+hybase.com##div[class^="widget_"]:empty
 hybbs.com##div[class^="adtop"]
 hyperallergic.com#@#.ad-above-footer
 hz66.com##div[class*="lb_gg"]
@@ -10097,6 +10099,7 @@ r3sub.com##source + img
 raenonx.cc##.main_ads-content + div
 raenonx.cc##div[style="display: flex; justify-content: center; align-items: center; position: relative;"] > iframe
 read.qidian.com##.operation-wrap
+read.thisiscm.com##.gadBlock
 readmoo.com#@#.navbar-social
 reaff.com,yangmaodang.org##.entry-content > p[style="text-indent:0"]
 rebooo.com###gong
@@ -13238,6 +13241,7 @@ zzzyk.com###Tinfo
 ||3ts.icu^
 ||3vp.icu^
 ||3wk.cc/images/*.gif
+||3xl.icu^
 ||3xx.vip^
 ||3z3sfuj.cn^
 ||4006825178.com^
@@ -14028,6 +14032,7 @@ zzzyk.com###Tinfo
 ||8bobf.*/da.aspx
 ||8byu.cn^
 ||8cnd.com^
+||8cp.icu^
 ||8d7hhh8x.com^
 ||8d8d.me/images/dealer.gif
 ||8eef59a5.live^$dnsrewrite=ad-block.dns.adguard.com
@@ -14214,7 +14219,6 @@ zzzyk.com###Tinfo
 ||99hg.wang^
 ||99jinpin.com^
 ||99js.rxys.com^
-||99kubo.tv/static/img/adsfree.png
 ||99lb.net/index_files/*/970
 ||99lolo.com^
 ||99mc.xyz^
@@ -14456,6 +14460,7 @@ zzzyk.com###Tinfo
 ||aaread.space/images/*0.gif
 ||aassy4.com/dm/
 ||aasyy.com^
+||aatv.app/sport/sport.js
 ||aau6.xyz^
 ||aau8.xyz^
 ||aau9.xyz^
@@ -17870,6 +17875,7 @@ zzzyk.com###Tinfo
 ||ccjxwlkj.com^
 ||ccjxybj.cn^
 ||cckke.com/fanhao/v/ad
+||cclimif.top^
 ||ccmdgg.com^
 ||ccmeng.com^$third-party
 ||ccobksxz.icu^
@@ -22229,6 +22235,7 @@ zzzyk.com###Tinfo
 ||hchig.com^
 ||hchik.com^
 ||hciwyv.icu^
+||hclimiu.top^
 ||hcnegb.cn^
 ||hcvhhj.cc^
 ||hcwljy.com^
@@ -22969,6 +22976,7 @@ zzzyk.com###Tinfo
 ||hy5.com.cn/admin/
 ||hy90.cn^
 ||hya.comp.360os.com^
+||hybase.com/ckjs/
 ||hybase.com/images/hysq99.png
 ||hybbs.com/i/$image,object
 ||hybrid.miniapp.taobao.com^
@@ -23153,6 +23161,7 @@ zzzyk.com###Tinfo
 ||ieecheng.com^
 ||ieforex.com/r/cms/www/red/red2/images/*0.
 ||iehtzdq.cn^
+||iemhotqk.com^
 ||ienkdaccessible.cn^
 ||ienkdago.cn^
 ||ieryt111.fun^
@@ -29280,6 +29289,7 @@ zzzyk.com###Tinfo
 ||reisyxy.icu^
 ||relating.wang^
 ||release.baidu.com^
+||relgrads.com^
 ||reliancevalve.com^
 ||remehealth.net^
 ||remehealth.net^$third-party
@@ -29591,6 +29601,7 @@ zzzyk.com###Tinfo
 ||rvpbdcf.cn^
 ||rvsosm.cn^
 ||rvtfwryz.icu^
+||rvxmlj.icu^
 ||rwdjrn.icu^
 ||rwjfs.com^
 ||rxfygd.cn^
@@ -30394,6 +30405,7 @@ zzzyk.com###Tinfo
 ||smxay.com^
 ||smxsg.com^
 ||smzy.com/v1/img/
+||sn9.icu^
 ||snadsfit.com^$dnsrewrite=ad-block.dns.adguard.com
 ||snalzlb.top^
 ||snapcheat.app^$dnsrewrite=ad-block.dns.adguard.com
@@ -32883,6 +32895,7 @@ zzzyk.com###Tinfo
 ||vjpgm.space^
 ||vjptye.cn^
 ||vjvj.vj24co.com^
+||vjzvgvgz.icu^
 ||vk920.com/img1/
 ||vk922.com/img/
 ||vk923.com/img/

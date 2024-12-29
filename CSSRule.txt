@@ -1495,7 +1495,7 @@
 141jj.com##.category-wrapper > ul > div[style="line-height:24px;"] > a
 141jj.com##.moboad + .webad
 141jj.com#?#li:-abp-contains(/贊助|推廣/)
-141jj.com,99kubo.tv,jumi.su,preface.ai,r3sub.com##a[href*="bit.ly"]
+141jj.com,jumi.su,preface.ai,r3sub.com##a[href*="bit.ly"]
 158zm.com##.top-af-container
 159i.com###body > table[width="100%"]
 159i.com###header + div > style + div[class]
@@ -2494,10 +2494,6 @@
 99114.com##.indexcjgg
 99a21.com##.wrap-head-spots
 99kubo.tv##.main > div[class="datal clear"]
-99kubo.tv##div[style="width:970px; height:250px;"]
-99kubo.tv##table[width="970"][height="260"]
-99kubo.tv##table[width^="9"][height="90"]
-99kubo.tv#?#div[style*="width"]:-abp-has(> div[style] > img[src="/static/img/adsfree.png"])
 99meijutv.com##.follow-qrcode
 99re.com##.dmcenter
 99re.com##.spots
@@ -5780,6 +5776,12 @@ hy5.com.cn##.toplogoad
 hy5.com.cn##.toppicad
 hy5.com.cn##.toptxtad
 hybase.com###hd_float
+hybase.com##.categoryimg
+hybase.com##.entry-banner
+hybase.com##.insy1
+hybase.com##.widget_c_white
+hybase.com##div:has(> script[src^="/ckjs/"]:only-child)
+hybase.com##div[class^="widget_"]:empty
 hybbs.com##div[class^="adtop"]
 hyperallergic.com#@#.ad-above-footer
 hz66.com##div[class*="lb_gg"]
@@ -8548,6 +8550,7 @@ r3sub.com##source + img
 raenonx.cc##.main_ads-content + div
 raenonx.cc##div[style="display: flex; justify-content: center; align-items: center; position: relative;"] > iframe
 read.qidian.com##.operation-wrap
+read.thisiscm.com##.gadBlock
 readmoo.com#@#.navbar-social
 reaff.com,yangmaodang.org##.entry-content > p[style="text-indent:0"]
 rebooo.com###gong
