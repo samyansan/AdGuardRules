@@ -3,8 +3,8 @@
 ! Powerd by SamSan
 ! Description: Just a merged Adblock rule. Nothing more
 ! Expires: 6 hours (update frequency)
-! Version: 2024-12-31 08:41:25
-! Total count: 26853
+! Version: 2024-12-31 14:12:23
+! Total count: 26862
 
 ###ADtip
 ###Ad_windows
@@ -5251,6 +5251,7 @@ cnbeta.com##div[id][style^="position: fixed; bottom: 0px;"]
 cnbeta.com##div[style^="display:block !important;"]
 cnbeta.com.tw##.article-global
 cnbeta.com.tw##.cbv:not(#cb_share) a
+cnbeta.com.tw##.meta > .fr > a[target="_blank"] > img
 cnbeta.com.tw##.tks
 cnbeta.com.tw##[class^="cbv"]
 cnbeta.com.tw##div[id^="cbh"]
@@ -13153,6 +13154,7 @@ zzzyk.com###Tinfo
 ||5xdmw.com/tb.jpg
 ||5y9nfpes.52pk.com^
 ||5ydj.com/images/banner/
+||5yl.icu^
 ||5z0d3.cyou^
 ||5z2oy.icu^
 ||6.cn/coop/pub/getRand.php?
@@ -16508,6 +16510,7 @@ zzzyk.com###Tinfo
 ||crentgate.com^$dnsrewrite=ad-block.dns.adguard.com
 ||cresqoirz.com^
 ||crfjxfoe.xyz^
+||crigroik.com^
 ||criqai.com^
 ||criteo.com^
 ||criteo.net^
@@ -20196,6 +20199,7 @@ zzzyk.com###Tinfo
 ||kbexos.xyz^
 ||kbomku.xyz^
 ||kccdk.com/Content/img/*.gif
+||kclimid.top^
 ||kdamcsd.top^
 ||kdbumyha.com^$dnsrewrite=ad-block.dns.adguard.com
 ||kde.qq.com^
@@ -20866,6 +20870,7 @@ zzzyk.com###Tinfo
 ||ltfpbp.xyz^
 ||ltimiyl.top^
 ||ltn.com.tw/js/ad_door.js
+||ltvutlyu.icu^
 ||lu.sogou.com^
 ||lu.sogoucdn.com^
 ||lu228.com/ajs/
@@ -21926,6 +21931,7 @@ zzzyk.com###Tinfo
 ||o1b04.cyou^
 ||o2o.api.xiaomi.com^
 ||o2omobi.com^
+||o3t.icu^
 ||o8zoz.icu^
 ||oa-panther.data.aliyun.com^$third-party
 ||oa.hinews.cn/work/img/
@@ -23432,6 +23438,7 @@ zzzyk.com###Tinfo
 ||scint-x.com/js/
 ||sckyf.com^
 ||sclick.baidu.com^
+||sclimib.top^
 ||scoev.cn^
 ||scoldak.com^
 ||sconat.com^
@@ -23650,6 +23657,7 @@ zzzyk.com###Tinfo
 ||shiyaokejishanghai.com^
 ||shnpetdb638.shop^
 ||shnpetdn185.shop^
+||sholphot.com^
 ||shopping.udn.com/mall/cus/cat/OutWebAd.do?
 ||shoppinglifestyle.biz^$dnsrewrite=ad-block.dns.adguard.com
 ||shouji.360.cn^
@@ -25381,6 +25389,7 @@ zzzyk.com###Tinfo
 ||volceapplog.com^
 ||volleyballachiever.site^$dnsrewrite=ad-block.dns.adguard.com
 ||voluumtrk.com^$dnsrewrite=ad-block.dns.adguard.com
+||vopzhl.icu^
 ||vpdnjl.xyz^
 ||vpn-offers.org^$dnsrewrite=ad-block.dns.adguard.com
 ||vpnsafebrowsing.com^$dnsrewrite=ad-block.dns.adguard.com
