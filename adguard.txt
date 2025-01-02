@@ -3,8 +3,8 @@
 ! Powerd by SamSan
 ! Description: Just a merged Adblock rule. Nothing more
 ! Expires: 6 hours (update frequency)
-! Version: 2025-01-02 20:15:43
-! Total count: 26868
+! Version: 2025-01-03 02:11:46
+! Total count: 26866
 
 ###ADtip
 ###Ad_windows
@@ -16111,7 +16111,6 @@ zzzyk.com###Tinfo
 ||chinesean.com^$third-party
 ||chinesetoday.cn/2017/ad/*.gif
 ||chiq-cloud.com^
-||chitchooms.net^$dnsrewrite=ad-block.dns.adguard.com
 ||chmae.com^
 ||chmueyv.icu^
 ||chnci.com^$third-party
@@ -22008,7 +22007,6 @@ zzzyk.com###Tinfo
 ||ol-img.com/channel/tuku/js/tukuPopup.js
 ||olehdtv.com/index.php/index/userss|
 ||olelive.com/v1/pub/index/anchor/check/pc/e?
-||olenation.org^$dnsrewrite=ad-block.dns.adguard.com
 ||olgame.tw/home/attachment/
 ||olgcpwc.icu^
 ||olgrae.com^
