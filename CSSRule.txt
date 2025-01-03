@@ -1096,7 +1096,6 @@
 ##a[href*="/auth/register?code="] > img
 ##a[href*="/bjty96.vip"]
 ##a[href*="/d27.tv"]
-##a[href*="/dsf188.cc"]
 ##a[href*="/dsf66.cc"]
 ##a[href*="/dsf71.cc"]
 ##a[href*="/dsf88.cc"]
@@ -8505,6 +8504,7 @@ qq.com,sogou.com##div[class^="page-top-banner"]
 qq.com,sogou.com##div[pbflag="bt_newsb_ad"]
 qq.com,sogou.com##div[pbflag="coolsitefeed_ad"]
 qq.com,yxad.com##.l_qq_com
+qq3009qq.link##.box li:has(> a[href] > img[onclick])
 qqaiqin.com#@#.ad_468
 qqjia.com###myadsL
 qqjia.com##.mainad
@@ -9049,6 +9049,7 @@ sohu.com##.godR
 sohu.com##.hot-article > div.pic-txt[data-spm-content*="_saletype="]
 sohu.com##.left-bottom-float
 sohu.com##.lottery-box
+sohu.com##.middle-insert-ad
 sohu.com##.phone-scan
 sohu.com##.sidebar.right > div.extend-mod
 sohu.com##.sogouService
