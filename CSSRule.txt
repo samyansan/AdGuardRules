@@ -1858,6 +1858,9 @@
 32r.com##span + p + div > dt
 3322.cc###addr
 3322.cc##[onclick*=".gsxzq."]
+333ood.com###appBox
+333ood.com##div[style$="display: block;"]
+333ood.com#@#.ad-box:not(#ad-banner):not(:empty)
 33am.cn##.bd_980_90
 3464.com##.CommonBody > .CommonListArea:nth-child(3)
 3464.com##.CommonBody > .CommonListArea:nth-child(3) + .CommonListArea
@@ -3011,6 +3014,7 @@ baidu.com##.tb-threadlist__item.tb-banner
 baidu.com##.tc-card[tpl="fc_before_fixads"]
 baidu.com##.text-advertise
 baidu.com##.text-link-ads
+baidu.com##.tieba-pause-ad-container
 baidu.com##.top-ad-cont
 baidu.com##.top-banner-ad-wrap
 baidu.com##.ts-qrcode
@@ -10027,8 +10031,11 @@ xcar.com.cn###eMeng
 xcar.com.cn###show_car
 xcar.com.cn##div[class^="adset"]
 xchina.co##.outer-banner
+xchina.co##.photos > div.item:has(> div > a[target="_blank"])
+xchina.co##.photos > div.item:has(> div[class^="exoclick_"])
 xchina.co##.push-top
 xchina.co##div:has(> div:only-child > .media img[src*="/ad/"])
+xchina.co##div[class^="item photo zone"]
 xchina.co##div[style*="width: 300px;"][style*="height: 455px;"]
 xclient.info###pop_business
 xdf.cn##.footadv
