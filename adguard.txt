@@ -3,8 +3,8 @@
 ! Powerd by SamSan
 ! Description: Just a merged Adblock rule. Nothing more
 ! Expires: 6 hours (update frequency)
-! Version: 2025-01-08 08:42:03
-! Total count: 35455
+! Version: 2025-01-08 14:12:51
+! Total count: 35470
 
 ###ADtip
 ###Ad_windows
@@ -1650,6 +1650,7 @@ $websocket,domain=wap.yushuwu.cloud
 /\.(cc|com|top|xyz)\/i\/v$/$third-party,xmlhttprequest
 /\.(com|cn|top|xyz)\/(j|K)\/[0-9]{6}$/$script,third-party
 /\.(cyou|ink)\/[a-z]{4}_[0-9]{5}_[a-z]{5}js\?/$script,third-party
+/\.[a-z]dyurli[a-z].top\//$script,third-party
 /\.[a-z]oubli[a-z].top\//$script,third-party
 /\.[a-z]weisi[a-z].top\//$script,third-party
 /\.[a-z]yjqgp[a-z].top\//$script,third-party
@@ -3478,7 +3479,7 @@ $websocket,domain=wap.yushuwu.cloud
 52ch.net##div[style^="margin-top:5px; height:60px;"]
 52che.com##a[href^="http://count.52che.com/goto.html?"]
 52fx.cn##.nex_index_top_ads
-52fzwg.com,79tao.com,hqol.cn,icabbs.com,k7d.com,kxdao.net,sunwy.org,twunbbs.com,wnflb.com,wnflb2023.com,wnflb66.com,xkeba.com,zn510.cc##.GzList
+52fzwg.com,79tao.com,hqol.cn,icabbs.com,k7d.com,kxdao.net,sunwy.org,twunbbs.com,wnflb.com,wnflb2023.com,wnflb66.com,xkeba.com,zn511.cc##.GzList
 52kd.com###frame2cu3VU
 52life.cc##table[style="margin-top:0"]
 52movieba.com,acglala.cc,awaker.cn,bimiacg4.net,bimiacg5.net,ccav1.com,cgown.com,cn163.net,comicat.org,cosersuki.org,dzbhdm.net,epinv.com,eroacg.com,galacg.me,gmgard.com,haochi123.com,hexieshe.cn,hexieshe.com,hexieshe.xyz,hggard.com,hmghmg.com,hmoe11.net,idanmu.ee,ifenpaidy.com,jitapu.com,jitashe.org,kelatv.com,kisssub.org,languang.co,llss.bz,mtrend.cn,mydrivers.com,mzh.ren,nxing.cn,oyksoft.com,souxue8.com,speedtest.cn,tingroom.com,touchgal.org,whsir.com,xxshe.info,xxshe.xyz##a[href*=".taobao.com"]
@@ -12078,8 +12079,8 @@ zj.qq.com##.mod-side + div[style="width:300px;height:257px;"]
 zjhlcp.com##.middle_list
 zjst.net##body > style ~ *,.vod-gd
 zk001.cc##section[class^="ch"]
-zn510.cc###klp_hdp
-zn510.cc#?##portal_block_69_content > li:-abp-has(a[href^="http"])
+zn511.cc###klp_hdp
+zn511.cc#?##portal_block_69_content > li:-abp-has(a[href^="http"])
 znds.com###diy_mobanbus_view_right2
 zol.com.cn###Article_Top_Banner
 zol.com.cn###btmLoginLayer
@@ -13188,6 +13189,7 @@ zzzyk.com###Tinfo
 ||4399.com/loadimg/loading.htm
 ||4399.space^
 ||4399sj.com^*/mask-ad
+||43a.icu^
 ||4438x*.com/Runtime/js/
 ||44629.com^
 ||4480dy.net^
@@ -14379,6 +14381,7 @@ zzzyk.com###Tinfo
 ||abc.douguo.com^
 ||abc.hkepc.com^
 ||abc.hkepc.net^
+||abc.ruodian360.com^
 ||abc.rwpt.top^
 ||abc.yebaike.com^
 ||abc2.mobile-10.com^
@@ -15984,6 +15987,8 @@ zzzyk.com###Tinfo
 ||aonecomd.com^
 ||aoodoo.feng.com^
 ||aopxnvrugx.com^$dnsrewrite=ad-block.dns.adguard.com
+||aos01070ss.xyz^
+||aos01080ss.xyz^
 ||aoshi.com/rbc.jpg
 ||aotetu.cn^
 ||aotu43.com/templates/defboot/js/duilian.js
@@ -18609,6 +18614,7 @@ zzzyk.com###Tinfo
 ||cps.360buy.com^
 ||cpt.9136.com/img/b_special/
 ||cpu-admin.baidu.com^
+||cpu.baidu.com/block/wap/
 ||cpu.baidu.com^
 ||cpu.baidu.com^$third-party
 ||cpv6.com^
@@ -20093,6 +20099,7 @@ zzzyk.com###Tinfo
 ||eduuu.com/website/public_js/pc_aso.js
 ||eduzzjy.com^
 ||edysn.cn^
+||edyurliw.top^
 ||ee.m08pe.cn^$third-party
 ||ee.shixunwang.net^
 ||ee021.com/Runtime/js/
@@ -21336,6 +21343,7 @@ zzzyk.com###Tinfo
 ||ghabnq.xyz^
 ||gheqien.com^
 ||gherkax.com^
+||gheslosy.com^
 ||ghgasdb365.shop^
 ||ghgasdt963.shop^
 ||ghghgf.51dongshi.com^
@@ -25040,6 +25048,7 @@ zzzyk.com###Tinfo
 ||lbaij.com^
 ||lbaoj.com^
 ||lbck.fun^
+||lbfuvlyp.icu^
 ||lbjekygz.icu^
 ||lbqdaua.icu^
 ||lbts.ltd^
@@ -27945,6 +27954,7 @@ zzzyk.com###Tinfo
 ||pingtcss.qq.com^
 ||pingwest.com/api/news_ad
 ||pingwest.com/wp-content/uploads/*/ad.jpg
+||pinjzp.icu^
 ||pinkberrytube.com^$dnsrewrite=ad-block.dns.adguard.com
 ||pinkmore.cn^
 ||pinlue.com/error/bangolike.js
@@ -29454,6 +29464,7 @@ zzzyk.com###Tinfo
 ||scint-x.com/js/
 ||scjcgj.top^
 ||scjtfh.xyz^
+||sckfcn.cn^
 ||sckyf.com^
 ||sclick.baidu.com^
 ||sclimib.top^
@@ -29549,6 +29560,7 @@ zzzyk.com###Tinfo
 ||sdweldrobot.cn^
 ||sdxctr.com^
 ||sdxkdj.cn^
+||sdyurlib.top^
 ||sdzbcg.com/images/sdfhyl
 ||se05.biz^$dnsrewrite=ad-block.dns.adguard.com
 ||se533.com/template/new/css/*.js
@@ -30308,6 +30320,7 @@ zzzyk.com###Tinfo
 ||sta.ifeng.com^
 ||stadig.ifeng.com^
 ||staging.ai.api.xiaomi.com^
+||staivoiks.com^
 ||star-media.cn^$third-party
 ||star-seo.oss-ap-northeast-1.aliyuncs.com^
 ||staramuse.com/bmip/showg
@@ -33998,6 +34011,7 @@ zzzyk.com###Tinfo
 ||xx2977.com^
 ||xx3691b.com^
 ||xxaalsn.cn^
+||xxaks01080sspao.xyz^
 ||xxdesi.top^
 ||xxdm.in/js/union/
 ||xxffo.com^*_slett.php
@@ -35306,6 +35320,7 @@ zzzyk.com###Tinfo
 ||zthxobgk.icu^
 ||ztidu.com^
 ||ztjal.info/wp-content/plugins/kill-adblock/
+||ztlkngyj.icu^
 ||ztrynpo.cn^
 ||ztvx8.com^
 ||ztwf8lr.cn^
