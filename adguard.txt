@@ -3,8 +3,8 @@
 ! Powerd by SamSan
 ! Description: Just a merged Adblock rule. Nothing more
 ! Expires: 6 hours (update frequency)
-! Version: 2025-01-09 02:11:43
-! Total count: 26393
+! Version: 2025-01-09 08:41:55
+! Total count: 26395
 
 ###ADtip
 ###Ad_windows
@@ -18683,6 +18683,7 @@ zzzyk.com###Tinfo
 ||hjshal.com^
 ||hk-pub.com/forum/images/2009/gifbanner
 ||hk-pub.com/forum/images/banner/
+||hk6vdj4z.click^$dnsrewrite=ad-block.dns.adguard.com
 ||hkb123.com/plus/show.php
 ||hkbumv.icu^
 ||hkcoding.com/chequeconvert/img/grammarly-
@@ -23811,6 +23812,7 @@ zzzyk.com###Tinfo
 ||su.bdstatic.com^
 ||sub.powerapple.com^
 ||subhd.com/images/ap/
+||submarinesubdued.com^$dnsrewrite=ad-block.dns.adguard.com
 ||subzero6969.site^$dnsrewrite=ad-block.dns.adguard.com
 ||success.ctobsnssdk.com^
 ||sucloud.xyz/js/tou.js
