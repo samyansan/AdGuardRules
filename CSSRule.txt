@@ -9644,9 +9644,11 @@ vgtime.com##.vgart_top
 vgtime.com##.vgart_top > img
 vid.onlymu.site##.tips
 vidhub.me,vidhub.tv##.promotelink
+vidhub1.cc,vidhub.me,vidhub.tv##.adpwc
 vidhub1.cc,vidhub.me,vidhub.tv##.adwap
 vidhub1.cc,vidhub.me,vidhub.tv##.promolnk
 vidhub1.cc,vidhub.me,vidhub.tv##.promotelink
+vidhub1.cc,vidhub.me,vidhub.tv##div[class^="ad"]:has(> div[class^="prom"][style] > img[onclick^="window.open"])
 view.inews.qq.com##div[class^="article-recommend_wrapper"]
 view.inews.qq.com##div[class^="bottom-bar_buttonWrap"]
 view.inews.qq.com##div[class^="infinite-comment-list_subText"]
