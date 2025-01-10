@@ -3,8 +3,8 @@
 ! Powerd by SamSan
 ! Description: Just a merged Adblock rule. Nothing more
 ! Expires: 6 hours (update frequency)
-! Version: 2025-01-10 08:42:51
-! Total count: 35481
+! Version: 2025-01-10 14:12:45
+! Total count: 35488
 
 ###ADtip
 ###Ad_windows
@@ -1534,6 +1534,7 @@ $websocket,domain=wap.yushuwu.cloud
 .wap.x4399.com^
 .work/ads/
 .xn--fiqs8s:7385/
+.xxaks*sspao.xyz/$script,third-party
 .xyz/*.sdk?$script,third-party
 .xyz/*=$object,third-party
 .xyz/99x/
@@ -20161,6 +20162,7 @@ zzzyk.com###Tinfo
 ||eiegkg.xyz^
 ||eiphrut.com^
 ||eiqsky.xyz^
+||eitilbyr.com^
 ||eiuoom.xyz^
 ||eiv.baidu.cn^
 ||eiv.baidu.com^
@@ -20282,6 +20284,7 @@ zzzyk.com###Tinfo
 ||er.5ykj.cn^
 ||er.5ykj.com^
 ||er1h4.icu^
+||ercoils.com^
 ||erdsyzb.com^
 ||ere.wew.92kkdy.cc^
 ||erebor.douban.com^
@@ -25054,6 +25057,7 @@ zzzyk.com###Tinfo
 ||lbaoj.com^
 ||lbck.fun^
 ||lbfuvlyp.icu^
+||lbfwxr.icu^
 ||lbjekygz.icu^
 ||lbqdaua.icu^
 ||lbts.ltd^
@@ -27254,6 +27258,7 @@ zzzyk.com###Tinfo
 ||o2o.api.xiaomi.com^
 ||o2omobi.com^
 ||o3t.icu^
+||o8s.icu^
 ||o8zoz.icu^
 ||oa-panther.data.aliyun.com^$third-party
 ||oa.hinews.cn/work/img/
@@ -27368,6 +27373,7 @@ zzzyk.com###Tinfo
 ||olgame.tw/home/attachment/
 ||olgcpwc.icu^
 ||olgrae.com^
+||oliver.pub^
 ||olkoins.com^
 ||olkptgo.cn^
 ||olkrzytv.com^$dnsrewrite=ad-block.dns.adguard.com
@@ -34023,6 +34029,7 @@ zzzyk.com###Tinfo
 ||xxaalsn.cn^
 ||xxaks01080sspao.xyz^
 ||xxaks01081sspao.xyz^
+||xxaks01091sspao.xyz^
 ||xxdesi.top^
 ||xxdm.in/js/union/
 ||xxffo.com^*_slett.php
