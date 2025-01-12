@@ -3,8 +3,8 @@
 ! Powerd by SamSan
 ! Description: Just a merged Adblock rule. Nothing more
 ! Expires: 6 hours (update frequency)
-! Version: 2025-01-12 08:46:39
-! Total count: 26429
+! Version: 2025-01-12 14:11:17
+! Total count: 26436
 
 ###ADtip
 ###Ad_windows
@@ -5221,7 +5221,9 @@ cnbeta.com##[class^="cbv"]
 cnbeta.com##div[id][style^="position: fixed; bottom: 0px;"]
 cnbeta.com##div[style^="display:block !important;"]
 cnbeta.com.tw##.article-global
+cnbeta.com.tw##.cb-help
 cnbeta.com.tw##.cbv:not(#cb_share) a
+cnbeta.com.tw##.meta > .fr
 cnbeta.com.tw##.meta > .fr > a[target="_blank"] > img
 cnbeta.com.tw##.tks
 cnbeta.com.tw##[class^="cbv"]
@@ -17371,6 +17373,7 @@ zzzyk.com###Tinfo
 ||eiegkg.xyz^
 ||eiphrut.com^
 ||eiqsky.xyz^
+||eisnaisv.com^
 ||eitilbyr.com^
 ||eiuoom.xyz^
 ||eiv.baidu.cn^
@@ -22376,6 +22379,7 @@ zzzyk.com###Tinfo
 ||pubnub.com^
 ||pubtrky.com^$dnsrewrite=ad-block.dns.adguard.com
 ||puds.ucweb.com^
+||puhmtt.icu^
 ||puma.com^$popup,domain=hupu.com
 ||pungar85.shop^
 ||pups.baidu.cn^
@@ -24237,6 +24241,7 @@ zzzyk.com###Tinfo
 ||tnc3-bjlgy.bytedance.com^
 ||tnc3-bjlgy.toutiaoapi.com^
 ||tnc3-bjlgy.zijieapi.com^
+||tndbnriz.icu^
 ||tnfno.icu^
 ||tngmn.com^$third-party
 ||tnifdlai.top^
@@ -24373,6 +24378,7 @@ zzzyk.com###Tinfo
 ||trenhdg.com^$third-party
 ||trf6b.top^
 ||tribalfusion.com^
+||tridroin.com^
 ||trimmoits.com^
 ||trip.com/partners/ad/
 ||trjfoagf.icu^
@@ -24902,6 +24908,7 @@ zzzyk.com###Tinfo
 ||vcxv787.fun^
 ||vda.17173.com^
 ||vdfvdf33q.fun^
+||vdhf042.fun^
 ||vdianying.cc/img/youhuiquan250.gif
 ||vdianying.cc/wp-content/plugins/wp-adblock-dedect/
 ||vdoqomz.icu^
