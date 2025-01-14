@@ -3,8 +3,8 @@
 ! Powerd by SamSan
 ! Description: Just a merged Adblock rule. Nothing more
 ! Expires: 6 hours (update frequency)
-! Version: 2025-01-14 08:39:58
-! Total count: 26445
+! Version: 2025-01-14 14:11:47
+! Total count: 26455
 
 ###ADtip
 ###Ad_windows
@@ -4685,6 +4685,7 @@ bilibili.com#$#.bili-video-card:has(.bili-video-card__info--ad) > .bili-video-ca
 bilibili.com#$#.bili-video-card:has(.bili-video-card__info--creative-ad) > .bili-video-card__skeleton { visibility: visible !important; }
 bilibili.com#$?#.container > div.feed-card:not(:has(> div > *)) { remove: true; }
 bilibili.com#$?#.container > div.floor-single-card:has(> div.skeleton) { remove: true; }
+bilibili.com#$?#.container > div[class*="-card"]:has(div[style="display: none !important;"]) { remove: true; }
 bilibili.com#$?#.ex-card-common:has(.gg-icon) { remove: true; }
 bilibili.com#$?#.van-slide > .item:has(.bypb-icon) { remove: true; }
 bilibili.com#%#//scriptlet('json-prune', 'data.cm_info.ads')
@@ -17223,6 +17224,7 @@ zzzyk.com###Tinfo
 ||e701.net^
 ||e7393e33565ce805.com^$dnsrewrite=ad-block.dns.adguard.com
 ||e75d10b9.live^$dnsrewrite=ad-block.dns.adguard.com
+||e7h.fun^
 ||e8aeb8bbdbbd7.cdn.sohucs.com^
 ||e8d7.icu^
 ||e8e2063b.xyz^$dnsrewrite=ad-block.dns.adguard.com
@@ -17478,6 +17480,7 @@ zzzyk.com###Tinfo
 ||erutvncw.top^
 ||es3984.review/02_cn_ad/
 ||escortlist.pro^$dnsrewrite=ad-block.dns.adguard.com
+||eskux.xyz^
 ||espncdn.shop^$dnsrewrite=ad-block.dns.adguard.com
 ||esqhsm.xyz^
 ||esqzwq.xyz^
@@ -18058,6 +18061,7 @@ zzzyk.com###Tinfo
 ||geewdashb3.fun^
 ||gegeyingshi.com/template/*/images/g_js/
 ||geilicdn.com/img*_960_60.
+||geinkroll.com^
 ||gemfowls.com^$dnsrewrite=ad-block.dns.adguard.com
 ||gemini.yahoo.com^
 ||gemini.yahoo.com^$third-party
@@ -19537,6 +19541,7 @@ zzzyk.com###Tinfo
 ||iwursero.top^
 ||ix4.icu^
 ||ixav-cse.avlyun.com^
+||ixbua.xyz^
 ||ixstng.cn^
 ||iy.com.cn^$third-party
 ||iyes.youku.com^
@@ -19625,6 +19630,7 @@ zzzyk.com###Tinfo
 ||jdiekknmcb.com^
 ||jdipsuma.top^
 ||jditera.top^
+||jdomsia.top^
 ||jdoshba.top^
 ||jdrlfn.xyz^
 ||jdwx.info/api.php?mod=ad&
@@ -20321,6 +20327,7 @@ zzzyk.com###Tinfo
 ||lawtv.com.cn/jd_ceshi.html
 ||lawtv.com.cn/skin/newplayer/ads_dianshi.php
 ||layuicdn.com/layer/layer.js$domain=hanjutvn.com
+||lazzrv.icu^
 ||lbfuvlyp.icu^
 ||lbfwxr.icu^
 ||lbjekygz.icu^
@@ -24837,6 +24844,7 @@ zzzyk.com###Tinfo
 ||uuiaoq.top^
 ||uumnxiet.top^
 ||uuoizbtl.xyz^
+||uuqrisuy.com^
 ||uuresdt.top^
 ||uusjaq.top^
 ||uutytp.com^
@@ -25013,6 +25021,7 @@ zzzyk.com###Tinfo
 ||vlion.cn^$third-party
 ||vlive.qqvideo.tc.qq.com^
 ||vm.aty.sohu.com^
+||vmcnl.xyz^
 ||vmmcdn.com^$dnsrewrite=ad-block.dns.adguard.com
 ||vmnlkr.icu^
 ||vmvps.com/aoyohost-com-bann
@@ -25443,6 +25452,7 @@ zzzyk.com###Tinfo
 ||wumii.cn/ext/relatedItemsWidget
 ||wumii.cn^
 ||wuresde.top^
+||wusfa.xyz^
 ||wuujae.com^$dnsrewrite=ad-block.dns.adguard.com
 ||wuxibus.com/Image/title
 ||wuxingruoyin.top/public/*/plugins/
