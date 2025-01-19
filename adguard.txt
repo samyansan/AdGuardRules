@@ -3,7 +3,7 @@
 ! Powerd by SamSan
 ! Description: Just a merged Adblock rule. Nothing more
 ! Expires: 6 hours (update frequency)
-! Version: 2025-01-19 20:13:45
+! Version: 2025-01-20 02:09:52
 ! Total count: 35565
 
 ###ADtip
@@ -18298,6 +18298,7 @@ zzzyk.com###Tinfo
 ||cloudpsvn.com^
 ||cloudpush.iqiyi.com^
 ||cloudroad.shop^
+||cloudtransfer.store^$dnsrewrite=ad-block.dns.adguard.com
 ||cloudvideosa.com^$dnsrewrite=ad-block.dns.adguard.com
 ||cloudweekly.vip^
 ||cloudzhuge.cn^
@@ -20862,7 +20863,6 @@ zzzyk.com###Tinfo
 ||fqtra.com^
 ||fqxkj.cn^
 ||fr-dustreaming.com^$dnsrewrite=ad-block.dns.adguard.com
-||fractionfridgejudiciary.com^$dnsrewrite=ad-block.dns.adguard.com
 ||fragment.firefoxchina.cn/html/
 ||frame.enet.com.cn/a.php
 ||fraudmetrix.cn^
