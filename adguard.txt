@@ -3,8 +3,8 @@
 ! Powerd by SamSan
 ! Description: Just a merged Adblock rule. Nothing more
 ! Expires: 6 hours (update frequency)
-! Version: 2025-01-23 14:12:20
-! Total count: 35600
+! Version: 2025-01-23 20:16:00
+! Total count: 35601
 
 ###ADtip
 ###Ad_windows
@@ -33274,6 +33274,7 @@ zzzyk.com###Tinfo
 ||woaidu.org/images/20180802/3.jpg
 ||woaijiba.com^
 ||woaiseo.com.cn^
+||wobbly-birth.com^$dnsrewrite=ad-block.dns.adguard.com
 ||wodenongtian.com^
 ||wodeshougong.com^
 ||woevr.com^$dnsrewrite=ad-block.dns.adguard.com
