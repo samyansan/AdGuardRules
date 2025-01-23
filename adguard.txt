@@ -3,8 +3,8 @@
 ! Powerd by SamSan
 ! Description: Just a merged Adblock rule. Nothing more
 ! Expires: 6 hours (update frequency)
-! Version: 2025-01-23 08:41:00
-! Total count: 35589
+! Version: 2025-01-23 14:12:20
+! Total count: 35600
 
 ###ADtip
 ###Ad_windows
@@ -5695,6 +5695,7 @@ dnwx.com#@#.ad_250
 dnxtc.net##.header > div[style*="margin-top:"]
 dnxtc.net##div[style="width:1200px;height:108px;margin:0 auto;margin-top:15px;"]
 doc.mbalib.com###viewer > div.doc-ad
+doc.thinkphp.cn#%#//scriptlet('inject-css-in-shadow-dom', 'a[href*="?utm_source="][target="_blank"] > img { display: none !important; }')
 doc88.com##.adpx250
 doc88.com##.dk-side-gif
 docer.com##.popup
@@ -9018,6 +9019,7 @@ morningpost.com.cn##div[style="margin:0;padding:0;width:648px;height:345px;overf
 motobuy.com.tw##.AD1
 motobuy.com.tw##.adbig
 motocity.com.tw###rotator
+motv.app##.wn_banner
 movieclassic.net###billboard-modal
 movieclassic.net##.modal-backdrop
 moxing.net##.pic_txt_list
@@ -9393,6 +9395,7 @@ nobugin.com##.td-a-rec
 nodejs.cn###biz_center
 nodejs.cn###biz_nav
 nodejs.cn###pagead
+nodejs.cn###pagead0
 nodejs.cn#%#//scriptlet('set-constant', '_AdBlockInit', 'noopFunc')
 nodeloc.com###wghtml
 nodeloc.com##.AfruxWidgets-sideNavAlt
@@ -10232,6 +10235,8 @@ shejidaren.com##.ads-post-foot
 shejidaren.com##.widget-banner
 shengxinwang.net###floatDivBoxs
 shfq.com##.index_banner_ad
+shiyrj.top##.ad
+shiyrj.top##DIV[class^="lad"]
 shm.com.cn##.w1000.surround
 shmet.com##.spb-biz-cont
 shoubozhan.com##style + div[id]
@@ -10736,10 +10741,7 @@ t66y.com##.tips
 t66y.com##.tpc_content.do_not_catch > span.f24
 t66y.com##a[href^="http://www.viidii.info/?https://po88_"]
 t66y.com##a[href^="http://www.viidii.info/?https://po88_"] ~ :nth-child(-n+115)
-t66y.com#%#//scriptlet('prevent-setTimeout', '/tpc.?[A-Z0-9].?tml/')
-t66y.com#%#//scriptlet('prevent-setTimeout', 'adhtml', '10006')
-t66y.com#%#//scriptlet('prevent-setTimeout', 'tpcHt0ml', '1006')
-t66y.com#%#//scriptlet('prevent-setTimeout', 'tpcHt1ml', '1006')
+t66y.com#%#//scriptlet('prevent-setTimeout', '/(\s|\()tpc/')
 tahua.net###frameJjnBIp
 taian.com##.ggtp
 taihainet.com##.top-info
@@ -12186,6 +12188,7 @@ zzzyk.com###Tinfo
 ||01045395.xyz^$dnsrewrite=ad-block.dns.adguard.com
 ||01210sop.xyz^
 ||01211sop.xyz^
+||01221sop.xyz^
 ||01fen.com^
 ||01tn.cn^
 ||01u.net/js/tj.js
@@ -25136,6 +25139,7 @@ zzzyk.com###Tinfo
 ||ldgjwdohqbi.xyz^
 ||lding.club^
 ||ldipsuml.top^
+||ldjfsdku.icu^
 ||ldmnq.com^$third-party,badfilter
 ||ldogre.top^
 ||ldoshbl.top^
@@ -25917,6 +25921,7 @@ zzzyk.com###Tinfo
 ||m1955.com/template/qq/images/playad/
 ||m2.lelemh.com^
 ||m4aqwrl.cn^
+||m4r.fun^
 ||m5.66077.cn^
 ||m51.icu^
 ||m5xy0v.cn^
@@ -26942,6 +26947,7 @@ zzzyk.com###Tinfo
 ||netease.com/fz/interface/frontend/fz.do?pos=tongyong-
 ||netease.com/house-public/articleyunyans.js
 ||netease.com^*bobologo
+||netflavns1.com/assets/jquery/app0.
 ||netkantu.com^
 ||netrefer.co^$dnsrewrite=ad-block.dns.adguard.com
 ||netshare.ltd^
@@ -28720,6 +28726,7 @@ zzzyk.com###Tinfo
 ||qnsb.com/news/index.php?m=poster&
 ||qnvod.net/qna/
 ||qnvwjpr.icu^
+||qo2.fun^
 ||qo4nkz03dy.cn^
 ||qonbibff.icu^
 ||qorosmall.com^
@@ -28984,6 +28991,7 @@ zzzyk.com###Tinfo
 ||rbsr0.icu^
 ||rbtfit.com^$dnsrewrite=ad-block.dns.adguard.com
 ||rbywg.com^
+||rbzupn.icu^
 ||rc.ie13.com^
 ||rc.rlcdn.com^
 ||rcdwhp.xyz^
@@ -29570,6 +29578,7 @@ zzzyk.com###Tinfo
 ||script-bd.baixing.net^
 ||script302.top^
 ||scriptcc.cc^
+||scrorlaets.com^
 ||scroscoi.com^
 ||scrugokl.com^
 ||scs.openspeech.cn^
@@ -31178,6 +31187,7 @@ zzzyk.com###Tinfo
 ||th7.cn^
 ||thacreks.com^
 ||thallus.net^
+||thangrurs.com^
 ||thaqne.com^
 ||tharbadir.com^$dnsrewrite=ad-block.dns.adguard.com
 ||thavrils.com^
@@ -31476,6 +31486,7 @@ zzzyk.com###Tinfo
 ||topperformance.xyz^$dnsrewrite=ad-block.dns.adguard.com
 ||topqualitylink.com^$third-party
 ||topthink.com/api/basic/
+||topthink.com/uploads/assistant/$image,domain=doc.thinkphp.cn
 ||toptoon03.xyz/app/tuijian.html
 ||toptoys.store^$dnsrewrite=ad-block.dns.adguard.com
 ||toqrsru.cn^
