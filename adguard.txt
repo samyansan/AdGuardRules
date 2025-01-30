@@ -3,8 +3,8 @@
 ! Powerd by SamSan
 ! Description: Just a merged Adblock rule. Nothing more
 ! Expires: 6 hours (update frequency)
-! Version: 2025-01-30 08:40:10
-! Total count: 35670
+! Version: 2025-01-30 14:11:58
+! Total count: 35678
 
 ###ADtip
 ###Ad_windows
@@ -1646,6 +1646,7 @@ $websocket,domain=wap.yushuwu.cloud
 /\.(cc|com|top|xyz)\/i\/v$/$third-party,xmlhttprequest
 /\.(com|cn|top|xyz)\/(j|K)\/[0-9]{6}$/$script,third-party
 /\.(cyou|ink)\/[a-z]{4}_[0-9]{5}_[a-z]{5}js\?/$script,third-party
+/\.[a-z]dinmi[a-z].top\//$script,third-party
 /\.[a-z]domsi[a-z].top\//$script,third-party
 /\.[a-z]dyurli[a-z].top\//$script,third-party
 /\.[a-z]oubli[a-z].top\//$script,third-party
@@ -13831,6 +13832,7 @@ zzzyk.com###Tinfo
 ||7mmtv.tv/u_banner/
 ||7moor.com^$third-party
 ||7scs.com/Public/img/list-
+||7tc.fun^
 ||7times.top^
 ||7to5phc.cn^
 ||7vv06.com^
@@ -17331,6 +17333,7 @@ zzzyk.com###Tinfo
 ||bobo.corp.163.com^
 ||boce.com/statics/img/img27b.png
 ||bodapet.com^
+||bodhalqg.com^
 ||bogtrmjz.xyz^
 ||bojyvp.xyz^
 ||bole.asia^
@@ -21418,6 +21421,7 @@ zzzyk.com###Tinfo
 ||ggxwb.miguvideo.com^
 ||gh1024.xyz^
 ||ghabnq.xyz^
+||ghairqin.com^
 ||gheqien.com^
 ||gherkax.com^
 ||gheslosy.com^
@@ -24544,6 +24548,7 @@ zzzyk.com###Tinfo
 ||k22x6.cn^
 ||k2n0f.cn^$third-party
 ||k366.com/images/smxs^
+||k42.fun^
 ||k5p8f2.cn^
 ||k5uj.icu^
 ||k67lxl.space^
@@ -24636,6 +24641,7 @@ zzzyk.com###Tinfo
 ||kdh8.com^
 ||kdicked.top^
 ||kdieu.com^
+||kdinmid.top^
 ||kdipsumd.top^
 ||kdjdpyrt.xyz^
 ||kdmmm.cn^
@@ -31993,6 +31999,7 @@ zzzyk.com###Tinfo
 ||twuekgl.cn^
 ||twunbbs.com/images/
 ||twurseri.top^
+||twxftd.icu^
 ||twzui6.com^
 ||tx-ad.a.yximgs.com^
 ||tx-kmpaudio.pull.yximgs.com^
@@ -33719,6 +33726,7 @@ zzzyk.com###Tinfo
 ||xdyjt.com^
 ||xdywLw.cn^
 ||xebohjhh.xyz^
+||xedlxeuz.icu^
 ||xedpzh.xyz^
 ||xehodv.xyz^
 ||xeihy.com^
