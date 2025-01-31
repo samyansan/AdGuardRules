@@ -3579,6 +3579,8 @@ chanpindashi.com##.personal-information > a[href^="http"]:not([href*="chanpindas
 chaomi.cc##.cm-ads
 chaomi.cc,cpnn.com.cn,cs.com.cn,dyhjw.com,kkj.cn,my0538.com,mydrivers.com,ofweek.com,silver.org.cn,wendu.cn,y1118.com##.duilian
 chapaofan.com##a[href^="http"]:not([href*=".chapaofan."]) > img[src*=".sinaimg."]
+chat.deepseek.com##div:has(> .ds-icon + span)
+chat.deepseek.com##div:has(> .ds-icon[style*="width: 28px"][style*="height: 28px"])
 chaturbate.com,chatclimax.com##.ad
 chaturbate.com,chatclimax.com##.banner
 chaturbate.com,chatclimax.com##.bio a img[style*="absolute"]
@@ -6479,9 +6481,6 @@ jijidown.com##div[style="width: 525px;"]:last-child
 jijidy.com###box
 jikexueyuan.com##.pewm2
 jikexueyuan.com##.pewm3
-jikipedia.com##.components-container
-jikipedia.com##.cursor.link.app-link
-jikipedia.com##.download-link
 jiligame.com##img[onerror="zhurl($(this))"]
 jin10.com###J_wdgg_t
 jin10.com##.jin-popularize
@@ -6684,6 +6683,7 @@ keylol.com,steamcn.com##div[class*="rnd_"]
 keywin.org##.appdownload
 keywin.org##.pindaolist
 kikinote.net##.pc_ad
+kimi.moonshot.cn##.app-download
 kingkong.com.tw##.public-activity
 kingkong.com.tw##.room-banner-wrap
 kissjojo99.com###text-16
@@ -9417,6 +9417,8 @@ tom.com###popupDivgame
 tongren.gov.cn###tanchukuang
 tongxiang.net##.mmver.w-1200
 tongxiang.net##.x15sdv.display_3_3
+tongyi.aliyun.com##div[class^="downloadWrap"]
+tongyi.aliyun.com##li:has(> i > svg[data-spm-anchor-id])
 tongzhuo100.com###gold_banner
 tool.lu##.recommend-container
 toolfk.com###layui-layer100001
@@ -10112,6 +10114,8 @@ xijucn.com###topc
 ximalaya.com##.dl-pc
 xineurope.com###qmenu_menu + .wp
 xineurope.com##.adft
+xinghuo.xfyun.cn##div[class*="download_btn"]
+xinghuo.xfyun.cn##div[class*="jump_btn"]:contains(下载APP)
 xingkbjm.com##.d_textbanner
 xinhuanet.com##.adv-column2
 xinhuanet.com##.adv3
@@ -10342,6 +10346,7 @@ ysgc.fun,ysgc.tv##.swiper-slide > a[target="_blank"]
 ysxs8.vip##.ysxs8_w960_1
 ytbbs.com###dd1
 ytbbs.com##.ftop_ad_2016
+yuanbao.tencent.com##.icon-yb-downapp
 yuanxue365.com#?#.content-main > div > .container-fluid:has(span:contains(广告))
 yufile.com##.fb_r > a
 yufile.com##.lo_box
