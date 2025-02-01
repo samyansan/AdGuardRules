@@ -3,8 +3,8 @@
 ! Powerd by SamSan
 ! Description: Just a merged Adblock rule. Nothing more
 ! Expires: 6 hours (update frequency)
-! Version: 2025-02-01 08:43:56
-! Total count: 35689
+! Version: 2025-02-01 14:11:05
+! Total count: 35700
 
 ###ADtip
 ###Ad_windows
@@ -1301,6 +1301,7 @@ $websocket,domain=wap.yushuwu.cloud
 .728x90.
 .adsense.
 .adserver.
+.as0*kkp.xyz/$script,third-party
 .as01*kkp.xyz/$script,third-party
 .asp?wg&df=$script,third-party
 .asp?wsg&df=$script,third-party
@@ -1421,7 +1422,9 @@ $websocket,domain=wap.yushuwu.cloud
 .dajiahao*.top/getCodeDomain/
 .eu/ads/
 .fun/*_*_rony.js
+.fun/TA390hz2.js
 .fun/ad/
+.fun/by389.js
 .gif$third-party,domain=1024pa.com
 .gif$third-party,domain=922tp.com
 .gif$third-party,domain=avbebe.com
@@ -5207,7 +5210,7 @@ cn.bing.com##.b_bza_pole
 cn.bing.com##.bnp_rich_div_visible.bottom
 cn.bing.com##.bnp_rich_div_visible.top
 cn.bing.com#?##b_results > li:-abp-has(.b_adProvider)
-cn.bing.com#?#.b_algo:-abp-has(p:-abp-properties(content:*Jr8IbslwuuoZ9kr8cTrXXkY8lfZL5p8v2TTht91DQxXZU9AB6BpwzkAAU2AAAAAElFTkSuQmCC))
+cn.bing.com#?#.b_algo:-abp-has(p:-abp-properties(content:*hgAbj3WJSu83ynLkuUc6pXNStPcP2lmm6yyOWqGmKXKfgGsPJ4MmXjD6wAAAABJRU5ErkJggg))
 cna.com.tw##.ad_336_2
 cna.com.tw#$#.fb_fanpage_inpage > .other_news_box_2 { padding: 0 0px!important; margin: 26px 0!important; }
 cna.com.tw,ettoday.net##.ad_970
@@ -6124,7 +6127,6 @@ epwk.com##.head_banner
 erji.com,erji.net##.black.y-style
 eroacg.com##.weimg1
 esdict.cn,eudic.net,frdic.com,godic.net###bodycontent > style + div[id] > :nth-child(n+2)
-eservice.7-11.com.tw,4399pk.com,downkr.com,cardu.com.tw,cw.com.tw,hk.on.cc,share.acgnx.se##.banner
 esnai.com##.tlgg
 esnai.com##table[width="960"] > tbody > tr > td[height="90"]
 esu.moe,esu.wiki###ASSPC
@@ -9566,7 +9568,9 @@ pansci.asia#@#.ad-container
 pansearch.me#%#//scriptlet('prevent-element-src-loading', 'script', 'adsbygoogle')
 pansearch.me#%#//scriptlet('prevent-xhr', 'adsbygoogle')
 paopaoche.net##.down_btn2.green
+papalah.com##.sponsor-outer
 papalah.com#%#//scriptlet("abort-on-property-read", "adBlockDetected")
+papalah.com,eservice.7-11.com.tw,4399pk.com,downkr.com,cardu.com.tw,cw.com.tw,hk.on.cc,share.acgnx.se##.banner
 passiontimes.hk##.rectAd680
 pc.yiyouliao.com##.yyl-ads-main > .yyl-ads-swiper:first-child + .yyl-ads-title
 pc.yiyouliao.com##.yyl-ads-swiper
@@ -12726,6 +12730,7 @@ zzzyk.com###Tinfo
 ||1ppt.com/ad$image
 ||1pwx.com/js/ck.js
 ||1qi.info^$dnsrewrite=ad-block.dns.adguard.com
+||1qv.fun^
 ||1rongzi.cn^
 ||1rx.io^
 ||1s8pj.cn^$third-party
@@ -16245,6 +16250,7 @@ zzzyk.com###Tinfo
 ||as01271kkp.xyz^
 ||as01280kkp.xyz^
 ||as01281kkp.xyz^
+||as02010kkp.xyz^
 ||as1.m.hao123.com^
 ||as1.wenku.baidu.com^
 ||asai77.top^
@@ -19792,6 +19798,7 @@ zzzyk.com###Tinfo
 ||drsmediaexchange.com^$dnsrewrite=ad-block.dns.adguard.com
 ||drtrs55.fun^
 ||drumskilxoa.click^$dnsrewrite=ad-block.dns.adguard.com
+||drustren.com^
 ||drvsky.com/js/jolimark.gif
 ||drydoclei.club^$dnsrewrite=ad-block.dns.adguard.com
 ||dryraw.vip^
@@ -25749,6 +25756,7 @@ zzzyk.com###Tinfo
 ||lstat.youku.com^
 ||lsxc.shop^
 ||lsxmg.com^
+||lsxvnzif.icu^
 ||lsyliel.top^
 ||lsyz.xyz^
 ||lszwj.top^
@@ -25832,6 +25840,7 @@ zzzyk.com###Tinfo
 ||lwobol.cloud^
 ||lwprdv.xyz^
 ||lwrohd.xyz^
+||lwtupzua.icu^
 ||lwurserl.top^
 ||lwvrv.icu^
 ||lx52168.online^
@@ -27683,6 +27692,7 @@ zzzyk.com###Tinfo
 ||ov8ct.icu^
 ||ovardu.com^$dnsrewrite=ad-block.dns.adguard.com
 ||ovdolnb.cn^
+||oveakmqk.com^
 ||ovejqw.xyz^
 ||overlordtea.cn^
 ||oversolosisor.com^$dnsrewrite=ad-block.dns.adguard.com
@@ -31131,6 +31141,7 @@ zzzyk.com###Tinfo
 ||tbaia.com^
 ||tbao684tryo.com^$dnsrewrite=ad-block.dns.adguard.com
 ||tbaocdn.com^
+||tbbfdr.icu^
 ||tbcdn.cn/mm/tanxssp-custom/sina_
 ||tbeiu658gftk.com^$dnsrewrite=ad-block.dns.adguard.com
 ||tbenq.com^
