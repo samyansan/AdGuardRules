@@ -2783,8 +2783,8 @@ axios-js.com##.recommand
 axios-js.com##.vultr-desc
 axutongxue.com,axutongxue.net###jjjagl
 axutongxue.com,axutongxue.net##[style^="height:58px;"]
+axutongxue.com,axutongxue.net##body > div[id]:has(> ul[class] > li > img.icon + a[href])
 axutongxue.net##body > article[style]
-axutongxue.net##body > div[id]:has(> ul[class] > li > img.icon + a[href])
 azofreeware.com###HTML7
 azofreeware.com,pttjoke.com###HTML3
 baby-kingdom.com##.right5
@@ -7328,6 +7328,8 @@ nick20.com###sex + div[align="center"]
 nick20.com##table[width="702"][bgcolor="#D1DDAA"]
 nicotv.me##.clearfix-ads
 nicotv.me##.container > div.slide[style="padding-bottom:0px"]
+nikkansports.com###headerAdBnr2022
+nikkansports.com##div[id^="adUnit"]
 niotv.com##.epg_ad3
 niotv.com##.epg_ad_list
 niotv.com##.right_ad1
@@ -7929,6 +7931,9 @@ qqyouyue.com##.table-responsive
 qqyy.com##.ind_ad
 qqyy.com##.right_dcotor_tab
 qsptv.net###widget-weixin
+quark.cn#@#.open-share
+quark.cn#@#.share-btns
+quark.cn#@#.share-save
 qudao.com###wechat
 qudong.com##.advert_bottom
 qunar.com##.flight_ad

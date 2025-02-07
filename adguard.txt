@@ -3,8 +3,8 @@
 ! Powerd by SamSan
 ! Description: Just a merged Adblock rule. Nothing more
 ! Expires: 6 hours (update frequency)
-! Version: 2025-02-07 08:41:37
-! Total count: 33147
+! Version: 2025-02-07 14:12:46
+! Total count: 33160
 
 ###ADtip
 ###Ad_windows
@@ -1301,6 +1301,7 @@ $websocket,domain=wap.yushuwu.cloud
 .728x90.
 .adsense.
 .adserver.
+.apk0*oo.xyz/$script,third-party
 .as0*kkp.xyz/$script,third-party
 .asp?wg&df=$script,third-party
 .asp?wsg&df=$script,third-party
@@ -1548,6 +1549,7 @@ $websocket,domain=wap.yushuwu.cloud
 .xyz/o.js$script,third-party
 .xyz/upload/ad/
 .xyz/vh1/$script,third-party
+.xyz/z/*/code.js$script,third-party
 .xyz:*?x=$script,third-party
 .xyz:8009/11?x=
 .xyz:9002/*?x=$websocket,script,third-party
@@ -4210,10 +4212,10 @@ axios-js.com##.vultr-desc
 axjbt.com,avcao.cc#%#//scriptlet('abort-on-property-read', 'myclick')
 axutongxue.com,axutongxue.net###jjjagl
 axutongxue.com,axutongxue.net##[style^="height:58px;"]
+axutongxue.com,axutongxue.net##body > div[id]:has(> ul[class] > li > img.icon + a[href])
+axutongxue.com,axutongxue.net#%#//scriptlet('prevent-setTimeout', 'checkCookie')
+axutongxue.com,axutongxue.net#%#//scriptlet('trusted-suppress-native-method', 'document.write', '/ul class.*icon.*href/', 'prevent')
 axutongxue.net##body > article[style]
-axutongxue.net##body > div[id]:has(> ul[class] > li > img.icon + a[href])
-axutongxue.net#%#//scriptlet('prevent-setTimeout', 'checkCookie')
-axutongxue.net#%#//scriptlet('trusted-suppress-native-method', 'document.write', '/ul class.*icon.*href/', 'prevent')
 azofreeware.com###HTML7
 azofreeware.com,pttjoke.com###HTML3
 baby-kingdom.com##.right5
@@ -8857,6 +8859,8 @@ nick20.com###sex + div[align="center"]
 nick20.com##table[width="702"][bgcolor="#D1DDAA"]
 nicotv.me##.clearfix-ads
 nicotv.me##.container > div.slide[style="padding-bottom:0px"]
+nikkansports.com###headerAdBnr2022
+nikkansports.com##div[id^="adUnit"]
 niotv.com##.epg_ad3
 niotv.com##.epg_ad_list
 niotv.com##.right_ad1
@@ -9487,6 +9491,9 @@ qqyouyue.com##.table-responsive
 qqyy.com##.ind_ad
 qqyy.com##.right_dcotor_tab
 qsptv.net###widget-weixin
+quark.cn#@#.open-share
+quark.cn#@#.share-btns
+quark.cn#@#.share-save
 qudao.com###wechat
 qudong.com##.advert_bottom
 qunar.com##.flight_ad
@@ -14944,6 +14951,8 @@ zzzyk.com###Tinfo
 ||apk-01.oss-cn-beijing.aliyuncs.com/dp/
 ||apk.shouji.koowo.com^
 ||apk.tw/static/js/showpic.js
+||apk02061oo.xyz^
+||apk02070oo.xyz^
 ||apkdo.com^
 ||apks.webxiaobai.top^
 ||app-g.39.net/NNN/
@@ -18619,6 +18628,7 @@ zzzyk.com###Tinfo
 ||edghkc.xyz^
 ||edickew.top^
 ||edigitalsurvey.com^
+||edinmaw.top^
 ||edipsumw.top^
 ||ediun.com^
 ||edjjpgf.xyz^
@@ -24766,6 +24776,7 @@ zzzyk.com###Tinfo
 ||mt.64foot.com^
 ||mtbraqc.cn^
 ||mtcat.cn^
+||mtfc8.com^
 ||mthhhuq.cn^
 ||mtime.cn/library/*/ECommerce/GoodsAndFeatureCtrl.js
 ||mtime.cn/tg/
@@ -30150,6 +30161,7 @@ zzzyk.com###Tinfo
 ||vbieu.com^
 ||vbillplus.cn^
 ||vbinu.com^
+||vbllxaaj.icu^
 ||vcdfsf99.fun^
 ||vchim.com^
 ||vchiy.com^
@@ -31610,6 +31622,7 @@ zzzyk.com###Tinfo
 ||xt2d.cn^
 ||xtb.ink^
 ||xtcxflak.xyz^
+||xtdvvp.icu^
 ||xtdzkj.cn^
 ||xtgreat.com^
 ||xtianqi.com.cn^
