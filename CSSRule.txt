@@ -1085,6 +1085,7 @@
 ##a[href*="/auth/register?code="] > img
 ##a[href*="/bjty96.vip"]
 ##a[href*="/d27.tv"]
+##a[href*="/dk35.cc"]
 ##a[href*="/dsf66.cc"]
 ##a[href*="/dsf71.cc"]
 ##a[href*="/dsf88.cc"]
@@ -4380,7 +4381,6 @@ eastmoney.com##div[data-url*="same.eastmoney.com"]
 eastmoney.com##div[id^="em_important_"]
 eastmoney.com##div[id^="flow-ad-"]
 eastmoney.com##div[style="width: 300px; height: 250px; margin-top: 10px;"]
-eastmoney.com##div[style^="position: fixed; z-index: 100000; top:"]
 eastmoney.com##div[style^="position: fixed; z-index:"]
 eastmoney.com##iframe[src*=".eastmoney.com/banner/"]
 eastmoney.com##iframe[src^="//fund.eastmoney.com/trade/hqb_hq.html"]
@@ -4459,7 +4459,7 @@ elecinfo.com##div[class$="-advert"]
 element-plus.gitee.io##.sidebar > .page-content
 element-plus.gitee.io##.toc-content > .m-t-16px
 element-plus.gitee.io##aside > .page-content
-element-plus.org##div[class*="-sidebar-"]
+element-plus.org##div[class*="-side-"]
 elle.com.hk##.tpc-container
 elle.com.hk#?#article > div.block-default:has(> div.content-wrapper p > span:contains(Cosmart))
 emome.net##.source_advertising
@@ -5810,7 +5810,6 @@ instrument.com.cn,tool.lu##.swiper-container
 investing.com##div[class*="adBlock"]
 investing.com##div[class*="overlay_overlay"]
 ip.cn##.well > p > a
-ip.sb##.rivencloud_ads
 ip138.com###banana
 ipcelou.com##.MODBanana
 ipcfun.com###crumb_r
@@ -6279,8 +6278,8 @@ jq.131458.com##.soso_02
 jq22.com##.fdad
 jqzb.com.cn##.zk_xf
 jr31.xyz##body > div.wp > div.wp > a[rel="nofollow"] > img
-jr34.xyz###hd + .wp
-jr34.xyz##a[href^="ad."]
+jr35.xyz###hd + .wp
+jr35.xyz##a[href^="ad."]
 jrj.com.cn###comment > a:first-child
 jrj.com.cn##.bd.pa10.bgn
 jrj.com.cn##.jrj-ad
@@ -7051,7 +7050,6 @@ msn.cn##casual-games-carousel-card
 msn.cn##cs-native-ad-card
 msn.cn##div[class^="nativeAd-DS-card"]
 msn.cn##gaming-discover-strip
-msn.com###displayAdCard
 msn.com###taboola-above-homepage-thumbnails
 msn.com##.ad
 msn.com##div[data--adqjyluqt]
@@ -7693,7 +7691,6 @@ porn5f.com##.preroll-adv-popup-iframe
 porn5f.com##.preroll-adv-two
 porn5f.com##.video-promote-adv
 porn5f.com#?#.row:has(> div.col-lg-3 > div[style] > div.carousel-inner > p.ad-title)
-porn87.com##.pc_instant
 pornbest.org#?#.container-fluid > div.row:has(> div.item > div.card > div.card-body > div > span:contains(/^ad$/))
 pornbest.org,pornlulu.com,ptt.sex##.no-gutters
 pornbest.org,ptt.sex###fullPageModal
@@ -9022,7 +9019,6 @@ vpser.net##.ab_cpb
 vpser.net##.ab_cpr
 vsping.com##.cell > span > a[href]:not([href*=".vsping.com"])
 vsping.com##div[style^="border-radius: 10px; box-shadow"]
-vuejs.org##.text-ad
 vuetifyjs.com##.v-sponsors
 vx666.com##.async[href^="http"]
 w3cschool.cn##.abox-content
