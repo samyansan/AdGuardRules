@@ -3,8 +3,8 @@
 ! Powerd by SamSan
 ! Description: Just a merged Adblock rule. Nothing more
 ! Expires: 6 hours (update frequency)
-! Version: 2025-02-11 08:41:33
-! Total count: 24070
+! Version: 2025-02-11 14:12:19
+! Total count: 24055
 
 ###ADtip
 ###Ad_windows
@@ -3460,7 +3460,7 @@ $websocket,domain=wap.yushuwu.cloud
 52ch.net##div[style^="margin-top:5px; height:60px;"]
 52che.com##a[href^="http://count.52che.com/goto.html?"]
 52fx.cn##.nex_index_top_ads
-52fzwg.com,79tao.com,hqol.cn,icabbs.com,k7d.com,kxdao.net,sunwy.org,twunbbs.com,wnflb.com,wnflb2023.com,wnflb66.com,xkeba.com,zn511.cc##.GzList
+52fzwg.com,79tao.com,hqol.cn,icabbs.com,k7d.com,kxdao.net,sunwy.org,twunbbs.com,wnflb.com,wnflb2023.com,wnflb66.com,xkeba.com,zn513.cc##.GzList
 52kd.com###frame2cu3VU
 52life.cc##table[style="margin-top:0"]
 52movieba.com,acglala.cc,awaker.cn,bimiacg4.net,bimiacg5.net,ccav1.com,cgown.com,cn163.net,comicat.org,cosersuki.org,dzbhdm.net,epinv.com,eroacg.com,galacg.me,gmgard.com,haochi123.com,hexieshe.cn,hexieshe.com,hexieshe.xyz,hggard.com,hmghmg.com,hmoe11.net,idanmu.ee,ifenpaidy.com,jitapu.com,jitashe.org,kelatv.com,kisssub.org,languang.co,llss.bz,mtrend.cn,mydrivers.com,mzh.ren,nxing.cn,oyksoft.com,souxue8.com,speedtest.cn,tingroom.com,touchgal.org,whsir.com,xxshe.info,xxshe.xyz##a[href*=".taobao.com"]
@@ -11264,8 +11264,8 @@ zj.qq.com##.mod-side + div[style="width:300px;height:257px;"]
 zjhlcp.com##.middle_list
 zjst.net##body > style ~ *,.vod-gd
 zk001.cc##section[class^="ch"]
-zn511.cc###klp_hdp
-zn511.cc#?##portal_block_69_content > li:-abp-has(a[href^="http"])
+zn513.cc###klp_hdp
+zn513.cc#?##portal_block_69_content > li:-abp-has(a[href^="http"])
 znds.com###diy_mobanbus_view_right2
 zol.com.cn###Article_Top_Banner
 zol.com.cn###btmLoginLayer
@@ -11539,6 +11539,7 @@ zzzyk.com###Tinfo
 ||139xiaoshuo.com/css/js/tools.
 ||13txt.net/js/ssgdd.
 ||141h.com/data/attachment/noblock/cf/
+||1500020991.vodplayer.wxamedia.com^
 ||154.7.80.158^
 ||156.233.32.123^$third-party
 ||156xsw.com/css/js/tools.
@@ -16291,6 +16292,7 @@ zzzyk.com###Tinfo
 ||fundingchoicesmessages.google.com^$third-party
 ||funshipin.com/v1/js/footerhongbao.js
 ||fuoo1.top^$third-party
+||fuuksew.com^
 ||fvedio.kuwo.cn^$app=cn.kuwo.player
 ||fvpboxu.xyz^
 ||fvyqblc.icu^
@@ -16780,6 +16782,7 @@ zzzyk.com###Tinfo
 ||guyhok.xyz^
 ||guysfair.com^
 ||gvbta.icu^
+||gvideo.qpic.cn^
 ||gvvedashb6.fun^
 ||gw2cddpt2hao.asia^
 ||gw2cddpt2hao.cloud^
@@ -19683,6 +19686,7 @@ zzzyk.com###Tinfo
 ||noafoaji.xyz^
 ||nois5gj.xyz^
 ||nongjitong.com/adm/
+||nonguds.com^
 ||norse.mingxiaow.com^
 ||noslugut.com^
 ||notes-analytics-events.apple.com^
@@ -20094,6 +20098,7 @@ zzzyk.com###Tinfo
 ||pchome.com.tw/js/overlay_ad.js
 ||pchome.net/flow.php
 ||pcjx365.com/kpimg/*.gif
+||pcm-img.zhls.qq.com^
 ||pcmx.autohome.com.cn/impress?
 ||pconline.com.cn/_hux_/
 ||pconline.com.cn/count.php?
@@ -21613,6 +21618,7 @@ zzzyk.com###Tinfo
 ||static.olelive.com/upload/site/*/*.gif
 ||static.rongkao.com^
 ||static.tohomh123.com/js/funasd.js
+||static.wxqcloud.qq.com.cn^
 ||static.xshuyaya.com/m/d.js
 ||static.youku.com/*/index/js/iresearch.js
 ||static.youku.com/*/js/cps.js
@@ -22267,6 +22273,7 @@ zzzyk.com###Tinfo
 ||tymahuxv.xyz^
 ||tyodot.icu^
 ||tyretui.top^
+||tytx.m.cn.miaozhen.com^
 ||tyuwkbi.top^
 ||tyzfoej.cn^
 ||tz-68-fabb.com/qiye/
@@ -22792,31 +22799,8 @@ zzzyk.com###Tinfo
 ||w0082.com^
 ||w010w.com.cn^$subdocument
 ||w1.askwai.com^
-||w1.bskwai.com^
-||w1.cskwai.com^
-||w1.dskwai.com^
-||w1.eskwai.com^
-||w1.fskwai.com^
 ||w1.gskwai.com^
-||w1.hskwai.com^
-||w1.iskwai.com^
-||w1.jskwai.com^
 ||w1.kskwai.com^
-||w1.lskwai.com^
-||w1.mskwai.com^
-||w1.nskwai.com^
-||w1.oskwai.com^
-||w1.pskwai.com^
-||w1.qskwai.com^
-||w1.rskwai.com^
-||w1.sskwai.com^
-||w1.tskwai.com^
-||w1.uskwai.com^
-||w1.vskwai.com^
-||w1.wskwai.com^
-||w1.xskwai.com^
-||w1.yskwai.com^
-||w1.zskwai.com^
 ||w11.zhongkaohelp.com^
 ||w18.9939.com^
 ||w3.ting55.com^
@@ -23206,6 +23190,7 @@ zzzyk.com###Tinfo
 ||xevzdl.xyz^
 ||xfqynrp.cn^
 ||xfrahb.xyz^
+||xfxvpt.icu^
 ||xfztgxt.com^
 ||xgcsr.com^
 ||xggcyef.icu^
