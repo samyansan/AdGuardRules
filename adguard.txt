@@ -3,8 +3,8 @@
 ! Powerd by SamSan
 ! Description: Just a merged Adblock rule. Nothing more
 ! Expires: 6 hours (update frequency)
-! Version: 2025-02-14 08:41:34
-! Total count: 24021
+! Version: 2025-02-14 14:12:10
+! Total count: 24031
 
 ###ADtip
 ###Ad_windows
@@ -1662,6 +1662,7 @@ $websocket,domain=wap.yushuwu.cloud
 /\.(cc|com|top|xyz)\/i\/v$/$third-party,xmlhttprequest
 /\.(com|cn|top|xyz)\/(j|K)\/[0-9]{6}$/$script,third-party
 /\.(cyou|ink)\/[a-z]{4}_[0-9]{5}_[a-z]{5}js\?/$script,third-party
+/\.[a-z]cinma[a-z].top\//$script,third-party
 /\.[a-z]dinma[a-z].top\//$script,third-party
 /\.[a-z]dinmi[a-z].top\//$script,third-party
 /\.[a-z]domsi[a-z].top\//$script,third-party
@@ -3711,6 +3712,7 @@ $websocket,domain=wap.yushuwu.cloud
 91porn.com##.preroll-blocker
 91porna.com##.carousel-container-bottom
 91porna.com##.carousel-container:has(#carouselExampleInterval)
+91porna.com##.dx-banner-item
 91porna.com##.row > div.flex-container:has(> a[href][target="_blank"] > img)
 91porna.com##.row > div[class^="col"]:has(> .video-wrap > a.checkNum)
 91porna.com##div[class^="col"] div.filters:has(a.checkNum)
@@ -8089,9 +8091,10 @@ liisex.com###apDiv22
 likr.tw###avivid_waterfall_wp_product_area
 line.me###install_line
 line.me##.midAdModule-root
-linetv.tw##.aspect-ratio > img.object-cover + .aspect-ratio-content + div[class^="absolute inset-"][class*="bg-brand"]
+linetv.tw##.aspect-ratio > img.object-cover + .aspect-ratio-content + div[class^="absolute inset-"][class*="bg-linetv"][class*="-emphasis"]
 linetv.tw#%#//scriptlet('prevent-fetch', 'pagead2.googlesyndication.com')
 linetv.tw#%#//scriptlet('prevent-xhr', 'pagead2.googlesyndication.com')
+linetv.tw#%#//scriptlet('set-constant', 'google.ima.AdError', 'noopFunc')
 linkedin.com#?#.core-rail > div > div[id^="ember"]:-abp-has(.feed-shared-actor__description span:-abp-contains(/促銷內容|广告/))
 linkedin.com#?#.core-rail > div > div[id^="ember"]:-abp-has(.feed-shared-actor__sub-description span:-abp-contains(/促銷內容|广告/))
 linovelib.com#$##byspider { display: none !important; }
@@ -15289,6 +15292,7 @@ zzzyk.com###Tinfo
 ||dhl.135320.com^
 ||dhnnbfok.icu^
 ||dhukul.com^
+||dhuquxqy.com^
 ||di2y21.top/jian/jiansshu.js
 ||diagnosis.ad.xiaomi.com^
 ||diamiu.com/wp-content/uploads/1200-200.
@@ -18239,6 +18243,7 @@ zzzyk.com###Tinfo
 ||kb-render.alicdn.com/html/*.html
 ||kbexos.xyz^
 ||kccdk.com/Content/img/*.gif
+||kcinmad.top^
 ||kclimid.top^
 ||kcokamid.top^
 ||kdamcsd.top^
@@ -18545,6 +18550,7 @@ zzzyk.com###Tinfo
 ||ld0766.com/index.php?m=call&id=10
 ||ldamcsl.top^
 ||ldb.cc/js/top.js
+||ldbnhd.icu^
 ||ldgjwdohqbi.xyz^
 ||ldinmal.top^
 ||ldipsuml.top^
@@ -20961,6 +20967,7 @@ zzzyk.com###Tinfo
 ||saad.ms.zhangyue.net^
 ||sachaits.com^
 ||sacvmb.icu^
+||saddarue.com^
 ||saelphol.com^
 ||safe524.xyz^$third-party
 ||sahqoo.com^
@@ -21009,6 +21016,7 @@ zzzyk.com###Tinfo
 ||sciencenet.cn/html/js/n
 ||scigzetg.com^
 ||scihuns.com^
+||scinmab.top^
 ||scint-x.com/js/
 ||scjtfh.xyz^
 ||sckfcn.cn^
@@ -21630,6 +21638,7 @@ zzzyk.com###Tinfo
 ||strip.chat/widgets/$domain=tktube.com
 ||strip.taobaocdn.com/tfscom/$subdocument
 ||strip.taobaocdn.com^
+||stroveiks.com^
 ||struhuts.com^
 ||stsesc.xyz^
 ||stulip.org/static/js/header.js
@@ -23783,6 +23792,7 @@ zzzyk.com###Tinfo
 ||zbb.bbb.*.pics^
 ||zbcdn.net/__uvjgyw/slb.default.js
 ||zbjimg.com/static/union/
+||zbldxf.icu^
 ||zc173.com/173fee/
 ||zca31.com^
 ||zcaijing.com/images/
