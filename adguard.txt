@@ -3,8 +3,8 @@
 ! Powerd by SamSan
 ! Description: Just a merged Adblock rule. Nothing more
 ! Expires: 6 hours (update frequency)
-! Version: 2025-02-16 08:45:41
-! Total count: 33158
+! Version: 2025-02-16 14:11:11
+! Total count: 33167
 
 ###ADtip
 ###Ad_windows
@@ -1319,12 +1319,14 @@ $websocket,domain=wap.yushuwu.cloud
 .club/ads/
 .club/adv/
 .cn/*-*-*.xc$script,third-party
+.cn/Qi390eC2.js$script,third-party
 .cn/TA390hz2.js$script,third-party
 .cn/ads/
 .cn/by389.js$script,third-party
 .cn/gg/$script,third-party
 .cn/js/ads/
 .cn/sc/*?x=$script,third-party
+.cn/uL389.js$script,third-party
 .cn/v/*.xmtl?$third-party
 .co/ads/
 .co/js/ads/
@@ -12681,6 +12683,7 @@ zzzyk.com###Tinfo
 ||6qyxeob.xyz^
 ||6shuge.com^
 ||6slb0.cyou^
+||6u2h.cn^
 ||6v4.cn^$third-party
 ||6vhao.tv/d/
 ||6w7.icu^
@@ -12946,6 +12949,7 @@ zzzyk.com###Tinfo
 ||8t9he.cyou^
 ||8u0.fun^
 ||8v7wg.com^
+||8xly.cn^
 ||8xtm6i.cn^
 ||8zhou.wang^
 ||8ziyuan.com/images/infolinksad.jpg
@@ -18637,6 +18641,7 @@ zzzyk.com###Tinfo
 ||efhis.cn^
 ||efjsliw.top^
 ||efs604.top^
+||efxh.cn^
 ||egesdashb8.fun^
 ||egg0.icu^
 ||eghnmj.xyz^
@@ -19940,6 +19945,7 @@ zzzyk.com###Tinfo
 ||gralfusnzpo006.top^
 ||gralfusnzpo009.top^
 ||grand.ele.me^
+||grarnuns.com^
 ||graypay1.cn^
 ||greeknaturalcyprus.com^
 ||greenadoption.cn^
@@ -21082,6 +21088,7 @@ zzzyk.com###Tinfo
 ||hwnojj.xyz^
 ||hwplypbn.icu^
 ||hwpub-s01-drcn.cloud.dbankcloud.cn^
+||hwtadf.icu^
 ||hwurseru.top^
 ||hwymoyv.icu^
 ||hx9.ink^
@@ -26876,6 +26883,7 @@ zzzyk.com###Tinfo
 ||rainpat.com/Content/1360x55/
 ||rainpat.com/Scripts/jquery.SuperSlide.
 ||rajxjj.icu^
+||rakkuxw.com^
 ||rakuten-static.com^$domain=cwyuni.tw
 ||rakuya.com.tw/position?task=
 ||ranke.link^
@@ -30352,6 +30360,7 @@ zzzyk.com###Tinfo
 ||vtlddz.cn^
 ||vtlyrj.xyz^
 ||vuahb.com^
+||vudqth.icu^
 ||vuetifyjs.com/notify.json
 ||vuirssd.icu^
 ||vulitd.xyz^
