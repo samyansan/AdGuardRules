@@ -2408,6 +2408,8 @@
 91porna.com##.dx-banner-item
 91porna.com##.row > div.flex-container:has(> a[href][target="_blank"] > img)
 91porna.com##.row > div[class^="col"]:has(> .video-wrap > a.checkNum)
+91porna.com##.video-items > li:has(> a.checkNum)
+91porna.com##div[class^="aspect-"]:has(> div > .swiper-backface-hidden)
 91porna.com##div[class^="col"] div.filters:has(a.checkNum)
 91porny.com##.container-fluid.p-0[class*="mb-"]
 91porny.com##.jsv-g1
@@ -5540,6 +5542,10 @@ iask.sina.com.cn##.sj_680x250
 ibaotu.com##.bg-feedback
 ibaotu.com##.comVip-tg
 ibaotu.com##.ibaotu-md-click[ibaotu-md-value="detail_top_ad"]
+ibbs.pro#$##adsModal { display: none !important; }
+ibbs.pro#$#.modal-backdrop { display: none !important; }
+ibbs.pro#$#body { overflow: auto !important; padding-right: 0 !important; }
+ibbs.pro#$#div.mt-2:has( > ins) { display: none !important; }
 ibf.tw###top_d
 ibm.com###dw-regbar
 icanzc.com###contbot
