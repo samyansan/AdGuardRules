@@ -3,8 +3,8 @@
 ! Powerd by SamSan
 ! Description: Just a merged Adblock rule. Nothing more
 ! Expires: 6 hours (update frequency)
-! Version: 2025-02-19 08:41:55
-! Total count: 32839
+! Version: 2025-02-19 14:12:34
+! Total count: 32860
 
 ###ADtip
 ###Ad_windows
@@ -1429,9 +1429,11 @@ $websocket,domain=wap.yushuwu.cloud
 .dajiahao*.top/getCodeDomain/
 .eu/ads/
 .fun/*_*_rony.js
+.fun/In390hG2.js
 .fun/TA390hz2.js
 .fun/ad/
 .fun/by389.js
+.fun/nd389.js
 .gif$third-party,domain=1024pa.com
 .gif$third-party,domain=922tp.com
 .gif$third-party,domain=avbebe.com
@@ -5110,7 +5112,7 @@ cn-healthcare.com##.fh_ad_wrap
 cn-healthcare.com##.fh_advent_wrap
 cn.bing.com##.b_bza_pole
 cn.bing.com#?##b_results > li:-abp-has(.b_adProvider)
-cn.bing.com#?#.b_algo:-abp-has(p:-abp-properties(content:*hgAbj3WJSu83ynLkuUc6pXNStPcP2lmm6yyOWqGmKXKfgGsPJ4MmXjD6wAAAABJRU5ErkJggg))
+cn.bing.com#?#.b_algo:-abp-has(p:-abp-properties(content:*Jr8IbslwuuoZ9kr8cTrXXkY8lfZL5p8v2TTht91DQxXZU9AB6BpwzkAAU2AAAAAElFTkSuQmCC))
 cna.com.tw##.ad_336_2
 cna.com.tw#$#.fb_fanpage_inpage > .other_news_box_2 { padding: 0 0px!important; margin: 26px 0!important; }
 cna.com.tw,ettoday.net##.ad_970
@@ -8098,13 +8100,20 @@ likr.tw###avivid_waterfall_wp_product_area
 line.me###install_line
 line.me##.midAdModule-root
 linetv.tw##.aspect-ratio > img.object-cover + .aspect-ratio-content + div[class^="absolute inset-"][class*="bg-linetv"][class*="-emphasis"]
-linetv.tw#%#//scriptlet('prevent-fetch', 'pagead2.googlesyndication.com')
+linetv.tw#%#//scriptlet('prevent-element-src-loading', 'script', '/fbevents.js')
+linetv.tw#%#//scriptlet('prevent-fetch', '/pagead2\.googlesyndication\.com|\/fbevents\.js/')
 linetv.tw#%#//scriptlet('prevent-xhr', 'pagead2.googlesyndication.com')
 linetv.tw#%#//scriptlet('set-constant', 'google.ima.AdError', 'noopFunc')
+linetv.tw#%#//scriptlet('set-constant', 'google_tag_manager', 'emptyObj')
 linkedin.com#?#.core-rail > div > div[id^="ember"]:-abp-has(.feed-shared-actor__description span:-abp-contains(/促銷內容|广告/))
 linkedin.com#?#.core-rail > div > div[id^="ember"]:-abp-has(.feed-shared-actor__sub-description span:-abp-contains(/促銷內容|广告/))
 linovelib.com#$##byspider { display: none !important; }
+linovelib.com#$##mlfy_main_text > div[class]:not([id]) { display: none !important; }
+linovelib.com#$#.adblock-tips { display: none !important; }
+linovelib.com#$#.dag + div[class]:not([id]) { display: none !important; }
+linovelib.com#$#:is(#volume-list, #TextContent) { display: block !important; }
 linovelib.com#$#body[style] { overflow: auto !important; }
+linovelib.com#%#//scriptlet('prevent-addEventListener', 'DOMContentLoaded', 'adBlock')
 linovelib.com#%#//scriptlet('set-constant', 'adblock', '0')
 linovelib.com#@#.ads_box
 linux.cn##.linuxcnad
@@ -16127,6 +16136,7 @@ zzzyk.com###Tinfo
 ||buluo.qq.com^
 ||bumimi.com/money/
 ||bumnxiev.top^
+||bun1.dayi.org.cn^
 ||bupt.info^
 ||buresdv.top^
 ||burniecrepes.com^
@@ -16390,6 +16400,7 @@ zzzyk.com###Tinfo
 ||ccgtime-gn.xyz^
 ||cchvc.net^
 ||ccinmaf.top^
+||ccinvdf.top^
 ||ccioo.vip^
 ||ccjudian.com^
 ||ccjxwlkj.com^
@@ -17054,6 +17065,7 @@ zzzyk.com###Tinfo
 ||config.chsmarttv.com^
 ||config.kuyun.com^
 ||config.unityads.unity3d.com^
+||connect.facebook.net/en_US/fbevents.js$script,redirect=noopjs,domain=linetv.tw
 ||connexity.net^
 ||continuedsys.cn^
 ||continuefaf.top^
@@ -17730,6 +17742,7 @@ zzzyk.com###Tinfo
 ||df888.eastday.com^
 ||dfan4.icu^
 ||dfcfw.com/EMFloatFrame/
+||dfcfw.com/download/D25411840164398846730_w690h389.
 ||dfcfw.com/js/*/emfloatmedia_
 ||dfcfw.com/js/default/left_
 ||dfcfw.com/js/news/fundfloatmedia_
@@ -17770,6 +17783,7 @@ zzzyk.com###Tinfo
 ||dgrgr34.fun^
 ||dgtauto.com^
 ||dgxlm.xyz^
+||dhannaq.com^
 ||dhdgkj.com^
 ||dheirzeh.com^
 ||dhejr.cn^
@@ -22369,6 +22383,7 @@ zzzyk.com###Tinfo
 ||jsdelivr.vip^
 ||jsf.cnlinfo.net^
 ||jsgapai.icu^
+||jshilr.icu^
 ||jsifaja.com^
 ||jsinfo.net^$third-party
 ||jskang.cn^
@@ -25178,6 +25193,7 @@ zzzyk.com###Tinfo
 ||o2o.api.xiaomi.com^
 ||o2omobi.com^
 ||o3t.icu^
+||o4q.fun^
 ||o8s.icu^
 ||o8zoz.icu^
 ||oa-panther.data.aliyun.com^$third-party
@@ -25746,6 +25762,7 @@ zzzyk.com###Tinfo
 ||phainoirs.com^
 ||pharmnet.com.cn/cnbanner/
 ||pharmnet.com.cn/js/float_div.js
+||phazaeth.com^
 ||phb123.com/skin/js/tongji.js
 ||phbkm.com/js/
 ||pheetuth.com^
@@ -26960,6 +26977,7 @@ zzzyk.com###Tinfo
 ||rscxwmj.cn^
 ||rsftjj.cn^
 ||rshi.club^
+||rsohvot.xyz^
 ||rst2.y3600.cn^
 ||rsvffmn.cn^
 ||rsyepnq.icu^
@@ -29581,6 +29599,7 @@ zzzyk.com###Tinfo
 ||uerzyr.cn^
 ||uessnah.icu^
 ||uetlwst.top^
+||uewotga.top^
 ||uewrutt.top^
 ||uewzjy.xyz^
 ||ufiidvv.icu^
@@ -29809,6 +29828,7 @@ zzzyk.com###Tinfo
 ||uvclick.com^
 ||uvekyvs.icu^
 ||uvklgw.xyz^
+||uvoisbg.xyz^
 ||uvwnkmf.icu^
 ||uvyuqzx.cn^
 ||uwants.com/dfp_forum.php?au=Uwants_Web_
@@ -31299,6 +31319,7 @@ zzzyk.com###Tinfo
 ||xpxmpf.cn^
 ||xqigou.top^
 ||xqiyi.top^
+||xqrydt.icu^
 ||xqtzp.cn^
 ||xqwkjf.top^
 ||xqygyp.cn^

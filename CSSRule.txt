@@ -3660,7 +3660,7 @@ cn-healthcare.com##.fh_ad_wrap
 cn-healthcare.com##.fh_advent_wrap
 cn.bing.com##.b_bza_pole
 cn.bing.com#?##b_results > li:-abp-has(.b_adProvider)
-cn.bing.com#?#.b_algo:-abp-has(p:-abp-properties(content:*hgAbj3WJSu83ynLkuUc6pXNStPcP2lmm6yyOWqGmKXKfgGsPJ4MmXjD6wAAAABJRU5ErkJggg))
+cn.bing.com#?#.b_algo:-abp-has(p:-abp-properties(content:*Jr8IbslwuuoZ9kr8cTrXXkY8lfZL5p8v2TTht91DQxXZU9AB6BpwzkAAU2AAAAAElFTkSuQmCC))
 cna.com.tw##.ad_336_2
 cna.com.tw#$#.fb_fanpage_inpage > .other_news_box_2 { padding: 0 0px!important; margin: 26px 0!important; }
 cna.com.tw,ettoday.net##.ad_970
@@ -6590,6 +6590,10 @@ linetv.tw##.aspect-ratio > img.object-cover + .aspect-ratio-content + div[class^
 linkedin.com#?#.core-rail > div > div[id^="ember"]:-abp-has(.feed-shared-actor__description span:-abp-contains(/促銷內容|广告/))
 linkedin.com#?#.core-rail > div > div[id^="ember"]:-abp-has(.feed-shared-actor__sub-description span:-abp-contains(/促銷內容|广告/))
 linovelib.com#$##byspider { display: none !important; }
+linovelib.com#$##mlfy_main_text > div[class]:not([id]) { display: none !important; }
+linovelib.com#$#.adblock-tips { display: none !important; }
+linovelib.com#$#.dag + div[class]:not([id]) { display: none !important; }
+linovelib.com#$#:is(#volume-list, #TextContent) { display: block !important; }
 linovelib.com#$#body[style] { overflow: auto !important; }
 linovelib.com#@#.ads_box
 linux.cn##.linuxcnad
