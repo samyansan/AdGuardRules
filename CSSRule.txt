@@ -1602,6 +1602,7 @@
 172cat.com###adload
 173.192.147.21,sejie.com,sejie3.us,thesoccerline.com###wp > br
 173.192.147.21,sejie.com,sejie3.us,thesoccerline.com###wp > center > a
+178.com,nga.cn,ngabbs.com##[style^="background"][style*="vertical-align"]
 17ce.com##a[href="/site/api"]
 17ce.com##a[href^="http"]:not([href*="17ce.com"]) img
 17ce.com##section[id*="top_banner"]
@@ -2778,8 +2779,8 @@ axios-js.com##.recommand
 axios-js.com##.vultr-desc
 axutongxue.com,axutongxue.net###jjjagl
 axutongxue.com,axutongxue.net##[style^="height:58px;"]
-axutongxue.com,axutongxue.net##body > div[id]:has(> ul[class] > li > img.icon + a[href])
 axutongxue.net##body > article[style]
+axutongxue.vip,axutongxue.com,axutongxue.net##body > :is(div, aside)[id]:has(> ul[class] > li > img.icon + a[href])
 azofreeware.com###HTML7
 azofreeware.com,pttjoke.com###HTML3
 baby-kingdom.com##.right5

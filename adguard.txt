@@ -3,8 +3,8 @@
 ! Powerd by SamSan
 ! Description: Just a merged Adblock rule. Nothing more
 ! Expires: 6 hours (update frequency)
-! Version: 2025-02-20 08:42:16
-! Total count: 32860
+! Version: 2025-02-20 14:12:23
+! Total count: 32874
 
 ###ADtip
 ###Ad_windows
@@ -1508,9 +1508,11 @@ $websocket,domain=wap.yushuwu.cloud
 .php?ad=
 .php?zoneid=
 .ppys.com/detail
+.pw/In390hG2.js
 .pw/TA390hz2.js
 .pw/ads/
 .pw/by389.js
+.pw/nd389.js
 .qidian.com/bgImg.
 .qidian.com/bgOps.
 .qidian.com/floatOpBox.
@@ -2886,6 +2888,7 @@ $websocket,domain=wap.yushuwu.cloud
 173.192.147.21,sejie.com,sejie3.us,thesoccerline.com###wp > br
 173.192.147.21,sejie.com,sejie3.us,thesoccerline.com###wp > center > a
 174.127.195.98#%#//scriptlet('abort-on-property-write', 'checkAdblock')
+178.com,nga.cn,ngabbs.com##[style^="background"][style*="vertical-align"]
 17ce.com##a[href="/site/api"]
 17ce.com##a[href^="http"]:not([href*="17ce.com"]) img
 17ce.com##section[id*="top_banner"]
@@ -4219,10 +4222,10 @@ axios-js.com##.vultr-desc
 axjbt.com,avcao.cc#%#//scriptlet('abort-on-property-read', 'myclick')
 axutongxue.com,axutongxue.net###jjjagl
 axutongxue.com,axutongxue.net##[style^="height:58px;"]
-axutongxue.com,axutongxue.net##body > div[id]:has(> ul[class] > li > img.icon + a[href])
-axutongxue.com,axutongxue.net#%#//scriptlet('prevent-setTimeout', 'checkCookie')
-axutongxue.com,axutongxue.net#%#//scriptlet('trusted-suppress-native-method', 'document.write', '/ul class.*icon.*href/', 'prevent')
 axutongxue.net##body > article[style]
+axutongxue.vip,axutongxue.com,axutongxue.net##body > :is(div, aside)[id]:has(> ul[class] > li > img.icon + a[href])
+axutongxue.vip,axutongxue.com,axutongxue.net#%#//scriptlet('prevent-setTimeout', '/getCookie|checkCK|checkCookie/')
+axutongxue.vip,axutongxue.com,axutongxue.net#%#//scriptlet('trusted-suppress-native-method', 'document.write', '/ul class.*icon.*href/', 'prevent')
 azofreeware.com###HTML7
 azofreeware.com,pttjoke.com###HTML3
 baby-kingdom.com##.right5
@@ -11721,6 +11724,7 @@ zzzyk.com###Tinfo
 ||176um.com^
 ||177o.com^
 ||178.com/glr.js
+||178.com/misc/self/*_ads
 ||1786701.com^
 ||178bx.cn^
 ||17ce.com^*_$image
@@ -18227,6 +18231,7 @@ zzzyk.com###Tinfo
 ||dt0j.icu^
 ||dt243100.com^
 ||dtjpihv.xyz^
+||dtntnl.icu^
 ||dtpqhwk.cn^
 ||dtzysm.com^
 ||du1.bbdj.com^
@@ -19008,6 +19013,7 @@ zzzyk.com###Tinfo
 ||feptbh.xyz^
 ||feronyv.com^
 ||ferriesendless.com^
+||fesnaed.com^
 ||feubgzfx.icu^
 ||fexclick.baidu.com^
 ||fexiaen.com^
@@ -20320,6 +20326,7 @@ zzzyk.com###Tinfo
 ||hchig.com^
 ||hchik.com^
 ||hcinmau.top^
+||hcinvdu.top^
 ||hcirentgh.360doc.cn^
 ||hciwyv.icu^
 ||hclimiu.top^
@@ -20968,6 +20975,7 @@ zzzyk.com###Tinfo
 ||huyc.info^
 ||huzalor.cn^
 ||huzhu.group^
+||hvddxj.icu^
 ||hvuqkb.cn^
 ||hvxrvef.xyz^
 ||hvzlgyi.cn^
@@ -21154,6 +21162,7 @@ zzzyk.com###Tinfo
 ||iciba.com/www/img/activity/common/active-11-11.js
 ||icilyassertiveindoors.com^
 ||icinmao.top^
+||icinvdo.top^
 ||ickd.cn/mobile/js/touch
 ||iclimio.top^
 ||icnkr.com/cnkradv/
@@ -26267,6 +26276,7 @@ zzzyk.com###Tinfo
 ||qfs365.com^
 ||qfxdvti.cn^
 ||qgana.com^
+||qgaxkkv.top^
 ||qgbtd.com^
 ||qgdvyvd.cn^
 ||qgfdqjf.cn^
@@ -26804,6 +26814,7 @@ zzzyk.com###Tinfo
 ||requirejs.cn/ts.png
 ||reqwevf3.fun^
 ||reryt111.fun^
+||res*.pinpai8.cn^
 ||res.cngoldres.com/web/index/img/*_ad_
 ||res.gwifi.com.cn^
 ||res.hubcloud.com.cn^
@@ -27377,6 +27388,7 @@ zzzyk.com###Tinfo
 ||sfyouxi06.top^
 ||sfz023.com^
 ||sg01.top^
+||sg7.pw^
 ||sgadkc.xyz^
 ||sgaga.xyz^
 ||sgcwoe.xyz^
@@ -27979,6 +27991,7 @@ zzzyk.com###Tinfo
 ||sssgao999.com^
 ||sssvd.china.com^
 ||sssyao.cn^
+||ssydquy.top^
 ||ssylieb.top^
 ||ssyy881.com/zz/
 ||ssznrs.com^
@@ -28193,6 +28206,7 @@ zzzyk.com###Tinfo
 ||sthouw.vip^
 ||sthyhj.cn^
 ||stickyadstv.com^
+||stildell.com^
 ||stimiyb.top^
 ||stkexcy.cn^
 ||stkx888.cn^
