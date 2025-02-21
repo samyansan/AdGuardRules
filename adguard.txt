@@ -3,8 +3,8 @@
 ! Powerd by SamSan
 ! Description: Just a merged Adblock rule. Nothing more
 ! Expires: 6 hours (update frequency)
-! Version: 2025-02-21 08:42:27
-! Total count: 23751
+! Version: 2025-02-21 14:12:32
+! Total count: 23765
 
 ###ADtip
 ###Ad_windows
@@ -1559,6 +1559,7 @@ $websocket,domain=wap.yushuwu.cloud
 .xyz/upload/ad/
 .xyz/vh1/$script,third-party
 .xyz/z/*/code.js$script,third-party
+.xyz:*?c=$script,third-party
 .xyz:*?x=$script,third-party
 .xyz:8009/11?x=
 .xyz:9002/*?x=$websocket,script,third-party
@@ -6239,6 +6240,7 @@ fuliba2021.net,ypojie.com##.orbui-post-footer
 fuliba2022.net###focusslide
 fuliba2022.net##li[style="margin-top:5px; "] > a[target="_blank"][rel="noopener"]:not([href$=".html"]) > img
 fuliba2022.net#?#.sidebar > div.widget:has(> div.textwidget > ul[style] > li[style="margin-top:5px; "] > a[target="_blank"][rel="noopener"]:not([href$=".html"]) > img)
+fuliba2025.net##a[href^="https://www.kezyw.com/"] > img
 fulibl.cc##.widget_text:last-child
 fulibl.com##.widget_banner
 fullyu.com##.rightSide-top-ads
@@ -11746,6 +11748,7 @@ zzzyk.com###Tinfo
 ||2qy9zm.cn^
 ||2rbda.icu^
 ||2sfpy.icu^
+||2ueb.cn^
 ||2wt.icu^
 ||2yjw.com/statics/js/jquery.min.
 ||2za.fun^
@@ -14059,6 +14062,7 @@ zzzyk.com###Tinfo
 ||bjmantis.net^
 ||bjs.faxingzhan.com^
 ||bjsxt.com/statics/js/bjsxt/js.js
+||bjtlzv.icu^
 ||bjvvqu.cn^
 ||bjwj2y.com/JS/LsJS.aspx
 ||bjxiaohua.com^
@@ -14916,6 +14920,7 @@ zzzyk.com###Tinfo
 ||crashlytics.com^
 ||crashlyticsreports-pa.googleapis.com^
 ||crayon.meishichina.com^
+||crazodsxx.com^
 ||cre.dp.sina.cn^
 ||creaders.net*/ad_func.js
 ||creative.141live.com/widgets/Spot/
@@ -15157,6 +15162,7 @@ zzzyk.com###Tinfo
 ||daysou.com/images/huaweicloud.png
 ||dayujs.top^
 ||dazhantai.com^$third-party
+||dbdophuz.icu^
 ||dbmp4.com/js/foot.
 ||dbw.cn/eap/js/db/dbwad_
 ||dbw.cn/eap/js/hl/hlj_ad
@@ -16099,6 +16105,7 @@ zzzyk.com###Tinfo
 ||fmkipgm.icu^
 ||fmmirep.icu^
 ||fmssoj.icu^
+||fngmeat.top^
 ||fnjoomqa.icu^
 ||fo0.icu^
 ||fobshanghai.com/bbsad/
@@ -16164,6 +16171,7 @@ zzzyk.com###Tinfo
 ||ftchinese.com/a.html
 ||ftchinese.com/m/marketing/
 ||ftimg.net/s?z=
+||fttxhcua.icu^
 ||fuimg.com/1/66795b80a792fb96.png
 ||fuimg.com^$domain=678cn.com|cfzhushou.com
 ||fujnrh.xyz^
@@ -17742,6 +17750,7 @@ zzzyk.com###Tinfo
 ||jcdf99.com/hzz/scripts/new
 ||jcfnbhqo.icu^
 ||jcinmaa.top^
+||jcinvda.top^
 ||jciwztfj.com^
 ||jclimia.top^
 ||jcodecraeer.com/plus/fuckblok.
@@ -18142,6 +18151,7 @@ zzzyk.com###Tinfo
 ||kbexos.xyz^
 ||kccdk.com/Content/img/*.gif
 ||kcinmad.top^
+||kcinvdd.top^
 ||kclimid.top^
 ||kcokamid.top^
 ||kdamcsd.top^
@@ -19485,6 +19495,7 @@ zzzyk.com###Tinfo
 ||nkdgnsfsk.com^
 ||nkjkvn.xyz^
 ||nljrvdh.xyz^
+||nljyjt.icu^
 ||nlrsrx.xyz^
 ||nltsvf.xyz^
 ||nlvwdlnhfnnw.com^
@@ -20394,6 +20405,7 @@ zzzyk.com###Tinfo
 ||qnvod.net/qna/
 ||qnvwjpr.icu^
 ||qo2.fun^
+||qogrux.com^
 ||qonbibff.icu^
 ||qoubliy.top^
 ||qouvxliy.top^
@@ -23027,6 +23039,7 @@ zzzyk.com###Tinfo
 ||xlivrdr.com^
 ||xlkdbbvy.xyz^
 ||xlmdtiyqbkygtfkh.com^
+||xlmp4.cc/js/wcount.js
 ||xlmzc.cnjp-exp.com^
 ||xlog.jd.com^
 ||xlplrhum.xyz^
@@ -23141,6 +23154,7 @@ zzzyk.com###Tinfo
 ||xxsmad3.com^
 ||xxsmad4.com^
 ||xxsmad5.com^
+||xxsmad6.com^
 ||xxss6677.com^
 ||xxxuhx.xyz^
 ||xxxx68xxxx.com^
