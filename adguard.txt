@@ -3,8 +3,8 @@
 ! Powerd by SamSan
 ! Description: Just a merged Adblock rule. Nothing more
 ! Expires: 6 hours (update frequency)
-! Version: 2025-03-01 08:47:11
-! Total count: 32952
+! Version: 2025-03-01 14:11:56
+! Total count: 32964
 
 ###ADtip
 ###Ad_windows
@@ -1443,6 +1443,7 @@ $websocket,domain=wap.yushuwu.cloud
 .gif$third-party,domain=cl.wpio.xyz
 .gif$third-party,domain=m.7ktw.com
 .gif$third-party,domain=yasem5.com
+.gif$third-party,domain=zxc.dongludi.top
 .gif|$domain=/87[0-9]{2}ck\.cc/
 .gif|$domain=7mshipin.org|viidii.info
 .gif|$domain=8727ck.cc|8726ck.cc|8724ck.cc
@@ -2429,6 +2430,7 @@ $websocket,domain=wap.yushuwu.cloud
 /tigtag_custom/include/couplet.
 /tigtag_custom/include/popup.
 /tisai/img/nav_980_90.gif
+/tj/tongji.js?v=$third-party
 /tm00738.bj.
 /to8to_pc/chunks/slide_and_popup_
 /topad.
@@ -13294,6 +13296,7 @@ zzzyk.com###Tinfo
 ||aa.gushiwen.org^
 ||aa.wenxue6.com^
 ||aa.xiangxiangmf.com^
+||aa03010iiko.com^
 ||aa993366aa.com^$domain=9xav.cc
 ||aaa.tumanyi.com^
 ||aaaa8.top^
@@ -15773,6 +15776,7 @@ zzzyk.com###Tinfo
 ||bhegilut.com^
 ||bhelzun.com^
 ||bhj699.com^
+||bhohreatz.com^
 ||bhovrath.com^
 ||bhuak.com^
 ||bhukkeks.com^
@@ -18574,6 +18578,7 @@ zzzyk.com###Tinfo
 ||eeaczcf.icu^
 ||eeeap.cn^
 ||eefcdn.com/promotion/module/module.
+||eelkeageg.com^
 ||eepw.com.cn/event/action/rightbd/microchip*.js
 ||eepw.com.cn/pub/js/TopFullScreen.js
 ||eeqweqw.fun^
@@ -21831,6 +21836,7 @@ zzzyk.com###Tinfo
 ||iynmloa.cn^
 ||iyodoctor.com^
 ||iyptc.cn^
+||iyqbsst.top^
 ||iyuedu.cn.com^
 ||iyuwkbo.top^
 ||iyxdm.*/js/gad_
@@ -22723,6 +22729,7 @@ zzzyk.com###Tinfo
 ||kcinvdd.top^
 ||kclimid.top^
 ||kcokamid.top^
+||kczq.cn^
 ||kdamcsd.top^
 ||kde.qq.com^
 ||kdh8.com^
@@ -23263,6 +23270,7 @@ zzzyk.com###Tinfo
 ||lecuiwangluo.com^
 ||ledaren.cn^
 ||ledollull.com^
+||ledwtz.icu^
 ||lee2code.com^
 ||leejongsuk.top^
 ||leeleo.top^
@@ -26949,6 +26957,7 @@ zzzyk.com###Tinfo
 ||rising.cn^*/pic-ad/
 ||rising.com.cn/weblog/
 ||river.zhidao.baidu.com^
+||riym.cn^
 ||rj.baidu.cn^
 ||rj.baidu.com^
 ||rj.m.taobao.com^
@@ -27812,6 +27821,7 @@ zzzyk.com###Tinfo
 ||slout.top^
 ||slshiye.cn^
 ||sltcp.cn^
+||sm-cloud.yunsafe.top^
 ||sm.toutiao.com^
 ||sm9t.ml^
 ||smaato.com^
@@ -30764,6 +30774,7 @@ zzzyk.com###Tinfo
 ||wrkdih.com^
 ||wrmwb.7val.com^
 ||wrsikq.xyz^
+||wrth.cn^
 ||wru795e.cn^
 ||wrutvnce.top^
 ||ws-expo.cn^
@@ -32392,6 +32403,7 @@ zzzyk.com###Tinfo
 ||zcfhi.cn.com^
 ||zchange.xyz^
 ||zcmnffq.cn^
+||zcnmjb.icu^
 ||zcoolfc.com^
 ||zcqgsnn.cn^
 ||zcrddj.icu^
