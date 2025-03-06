@@ -3171,7 +3171,6 @@ bilibili.com#?#.video-page-special-card-small:-abp-has(>.card-box>.info>a[href^=
 bilibili.com#@#.bili-dialog-m
 bilibili.com#@#.btn-ctnr
 bilibili.to###yytf
-bilinovel.com#@#.ads_box
 bimiacg.net##.tuiguang
 bing.com###BottomAppPro
 bing.com###b_results > li[style*="padding-bottom: 8px;"][style*="235, 235, 235"]
@@ -4125,6 +4124,7 @@ dogedoge.com##.tag-home__item
 doii.cc##.w-\[200px\].fixed
 dongao.com##div[class^="fu_"]
 dongao.com,zgsyz.com###ad
+dongludi.top##.container > div[class="m-2"]
 douban.com##.bottom_ad_download
 douban.com##.channel_promo
 douban.com##.rec_topics_name[href^="https://erebor.douban."]
@@ -4145,6 +4145,7 @@ douyin.com#?##videoSideBar:-abp-has(div:-abp-contains(/商品|商家|退款|店�
 douyin.com#?#.xgplayer>div[class]:-abp-has(svg[height="16"][width="30"])
 douyu.com###js-fix-download
 douyu.com###js-live-room-recommend
+douyu.com###js-player-toolbar > .PlayerToolbar
 douyu.com###js-room-activity
 douyu.com###sign_p_1
 douyu.com##.ActPayDialog
@@ -4170,6 +4171,7 @@ douyu.com##.index-common-1-rrh
 douyu.com##.isLink[href^="https://igxe.cn/"]
 douyu.com##.layout-Main > section.layout-Customize
 douyu.com##.layout-Slide-banner:not([href*="douyu"])
+douyu.com##.liveActivityCommonPendant
 douyu.com##.noble-up-guide
 douyu.com##.pendant-wrap
 douyu.com##.row-4.theatre
@@ -4183,6 +4185,7 @@ douyu.com##a[href*=".youzan.com"]
 douyu.com##a[href^="http://tracking.ad-survey.com/"]
 douyu.com##div[class^="ChargeTask"]
 douyu.com##div[id^="sign_p_"]
+douyu.com#$##js-player-toolbar { height: 0 !important; }
 douyu.com#?#.SharePanel:-abp-has(> .SharePanel-content > .SharePanel-contentTitle:-abp-contains(福利))
 douyu.com#?#.bc-wrapper:-abp-has(>.wm-view>div>.isLink[href*=".qualtrics.com/"])
 douyu.com#?#.wm-general:-abp-has(.link[href*=".tmall.com"])
