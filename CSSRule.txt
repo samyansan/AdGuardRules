@@ -1769,6 +1769,7 @@
 2345.com###sidenav > .activity-trig
 2345.com###topHf
 2345.com###xxl_game-new
+2345.com##._isFirstAd
 2345.com##.act-market
 2345.com##.act-openJ-mask
 2345.com##.act-search-tab
@@ -1786,6 +1787,7 @@
 2345.com##.comp-normal-navigate
 2345.com##.dzc-hn-cmoe
 2345.com##.event1-hasList
+2345.com##.lian-meng-box
 2345.com##.mainbg
 2345.com##.mainbg1
 2345.com##.mco-ex-ndxh
@@ -1793,10 +1795,12 @@
 2345.com##.mod-txtred
 2345.com##.mzdh_bottom
 2345.com##.newsArea
+2345.com##.part-banner > .part-ppt
 2345.com##.s11-fixNav
 2345.com##.s11-logowall
 2345.com##.s11-side
 2345.com##.s12-fullNav
+2345.com##.search-right-swiper-news
 2345.com##.spreadHotWords
 2345.com##.tip_stopXP
 2345.com##.top > .fred
@@ -2032,6 +2036,8 @@
 4399.com#$#body { background-image: none !important; }
 4399.com,sxrtv.com,yundaex.com###ad1
 4399.com,sxrtv.com,zgsyz.com###ad2
+445nan.com###appBox
+445nan.com#@#.ad-box:not(#ad-banner):not(:empty)
 493428493428c.monster##div[style^="width:728px;height:90px;"]
 4c.cn##div[id^="mid_ad"]
 4c.cn##div[id^="top_ad"]
