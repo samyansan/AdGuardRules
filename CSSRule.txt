@@ -1158,6 +1158,7 @@
 ##a[target="_blank"][href^="https://js."][href$=".com/download/4122_0.html"]
 ##a[target="_blank"][onclick*="广告点击"]
 ##body .has-ad
+##body > div#inplayer[align="center"]
 ##body > div[style="display:none;"] + div[style="display:none;"] + div[id][class][style^="background-color:"]
 ##body.desktop[style^="-"] span[class*=" "] > a[href^="http"][rel="nofollow"][target="_blank"]
 ##body.page > .popup
@@ -2141,7 +2142,7 @@
 51zxw.net###video div[class^="adpauseclose"]
 51zxw.net###video div[class^="background"]
 520call.me,av99.us,yocoolnet.in###inplayer
-520cc.cc,v.5278.mobi,jizz99.com,bonbonyou.com,in99.org,av99.us,jav777.xyz,520call.me,hboav.com###inplayer
+520cc.cc##div[id^="myad_alert_"]
 520cc.me#$##acornerinner1122 { position: absolute!important; left: -3000px!important; }
 520film.net##.wapimg
 5217kdy1.xyz##.alert-success + center
@@ -4625,6 +4626,7 @@ ffxiv.xin,fotor.com.cn,weiyun.com,youdao.com#@#.icon-share
 fh21.com.cn###lbzxM
 fhm.com.tw###add-box
 filmaker.cn###frame2gS3Ea
+finance.eastmoney.com###ContentBody > p[style="text-align:center;"]:has(> a[href^="https://acttg.eastmoney.com/pub/"])
 finance.ettoday.net##.all_news_text1
 finance.ifeng.com###box_img
 finance.ifeng.com##.lccs
@@ -8514,6 +8516,7 @@ supertaste.tvbs.com.tw###lightbox--ad
 supertaste.tvbs.com.tw##.ad_m_block
 supertaste.tvbs.com.tw##.ad_m_top
 supportdap.online##.td-post-content > a[rel="nofollow"] > img
+surirt.com,520cc.cc,v.5278.mobi,jizz99.com,bonbonyou.com,in99.org,av99.us,jav777.xyz,520call.me,hboav.com###inplayer
 susongbbs.com#@#.ad_banner
 sutin0831.pixnet.net#$#div[class*="-ad-sidebar-"] { position: absolute!important; left: -3000px!important; }
 suxzp.com##.full-screen-cover
@@ -9326,6 +9329,7 @@ xkeba.com###diy90
 xmfish.com###pw_content > .forum_panel:nth-child(4)
 xmfish.com##.advert-entry-list
 xmfish.com##.readCon_right
+xn--p3tv7h.com###floating-image-container
 xpiaotian.net#@#.pagead
 xtuan.com###foot_zhaobiao_bar
 xueqiu.com##.ad-right-aside
