@@ -3,8 +3,8 @@
 ! Powerd by SamSan
 ! Description: Just a merged Adblock rule. Nothing more
 ! Expires: 6 hours (update frequency)
-! Version: 2025-03-16 08:48:30
-! Total count: 32831
+! Version: 2025-03-16 14:11:25
+! Total count: 32841
 
 ###ADtip
 ###Ad_windows
@@ -1568,6 +1568,7 @@ $websocket,domain=wap.yushuwu.cloud
 .xyz:*?x=$script,third-party
 .xyz:8009/11?x=
 .xyz:9002/*?x=$websocket,script,third-party
+.z.dkt-ib.com
 .zone/ads/
 /.*\.*\.shouji\.sogou\.com/
 /.*\.a\.market\.xiaomi\.com/
@@ -16565,6 +16566,7 @@ zzzyk.com###Tinfo
 ||cfrtdmb.xyz^
 ||cfugrnc.icu^
 ||cfvapda.cn^
+||cfwlvmg.top^
 ||cfyao.club^
 ||cfzhushou.com^*/King_Chance_Layer.js
 ||cg-pao-tu.nanyanglk.com^
@@ -19638,6 +19640,7 @@ zzzyk.com###Tinfo
 ||ggxwb.miguvideo.com^
 ||gh1024.xyz^
 ||ghairqin.com^
+||ghegaintp.com^
 ||gheqien.com^
 ||gherkax.com^
 ||gheslosy.com^
@@ -20976,6 +20979,7 @@ zzzyk.com###Tinfo
 ||hwpub-s01-drcn.cloud.dbankcloud.cn^
 ||hwtadf.icu^
 ||hwurseru.top^
+||hwxprd.icu^
 ||hwymoyv.icu^
 ||hx9.ink^
 ||hxadt.com^
@@ -22112,6 +22116,7 @@ zzzyk.com###Tinfo
 ||jinyinggroup.cn^
 ||jinzpeng.cn^
 ||jipezy.cn^
+||jipxzz.icu^
 ||jiqgsh.com^
 ||jirtb.top^
 ||jishulink.com/images/activity/invite_
@@ -24595,6 +24600,7 @@ zzzyk.com###Tinfo
 ||msstatic.com/huya/main3/widget/DiyActLayer/DiyActLayer_*.js
 ||msstatic.com/huya/main3/widget/roomGg
 ||msstatic.net/main3/common/assets/template/head/ad.
+||mstmsbz.com^
 ||msujd.cn^
 ||msyq.xyz^
 ||mt.64foot.com^
@@ -25096,6 +25102,7 @@ zzzyk.com###Tinfo
 ||nrbwzh.icu^
 ||nrgv.cn^
 ||nroeoxk.icu^
+||nrqrbwi.top^
 ||nrsfh.com/neirong/
 ||nrxduw5.com^
 ||ns-zhy.com^
@@ -29732,6 +29739,7 @@ zzzyk.com###Tinfo
 ||uojx.cn^
 ||uoowu.com/a/zh*.js
 ||uooyoo.com/hz/*str.js
+||uoqc.cn^
 ||uoublit.top^
 ||uouvxlit.top^
 ||uoyrsd.com^
@@ -30052,6 +30060,7 @@ zzzyk.com###Tinfo
 ||vmcnl.xyz^
 ||vmiua.com^
 ||vmjjzk.cn^
+||vmjr.cn^
 ||vmvps.com/aoyohost-com-bann
 ||vmxvcjuf.icu^
 ||vnanf.com^
@@ -30917,6 +30926,7 @@ zzzyk.com###Tinfo
 ||xahggy.com^
 ||xahydp.cn^
 ||xahywwx.com^
+||xaiqrania.com^
 ||xajwbsxwx.com^
 ||xakywl.xyz^
 ||xamaky.top^
