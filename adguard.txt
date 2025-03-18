@@ -3,8 +3,8 @@
 ! Powerd by SamSan
 ! Description: Just a merged Adblock rule. Nothing more
 ! Expires: 6 hours (update frequency)
-! Version: 2025-03-18 08:44:49
-! Total count: 23733
+! Version: 2025-03-18 14:13:16
+! Total count: 23749
 
 ###ADtip
 ###Ad_windows
@@ -1530,6 +1530,7 @@ $websocket,domain=wap.yushuwu.cloud
 .top/ad-
 .top/ad/
 .top/ads/
+.top/api.php?mod=ad&
 .top/g3/myString3AsyncG?$third-party
 .top/upload/ad.js
 .top^*-960x80-*.gif
@@ -3284,6 +3285,7 @@ $websocket,domain=wap.yushuwu.cloud
 3dmgame.com##A[href^="http://web.3dmgame.com/h5/game?"]
 3dmgame.com##a[href*=".chuangmengsy.xyz"]
 3dmgame.com##a[href^="https://down.hyds360.com/"] > div[style]
+3dmgame.com#$#body > div.content { margin-top: 0 !important; }
 3dmgame.com#%#//scriptlet('abort-on-property-write', 'adStart')
 3dmgame.com#?#.Gmaeinfobtn_tab > a.patchshow[style]:has(> span:contains(/^广告$/))
 3dmgame.com#?#.downl_list:-abp-has(style)
@@ -4244,12 +4246,12 @@ axios-js.com##.lessonlist
 axios-js.com##.recommand
 axios-js.com##.vultr-desc
 axjbt.com,avcao.cc#%#//scriptlet('abort-on-property-read', 'myclick')
+axutongxue.cn,axu.pages.dev,axutongxue.vip,axutongxue.com,axutongxue.net##body > :is(div, aside)[id]:has(> ul[class] > li > img.icon + a[href])
+axutongxue.cn,axu.pages.dev,axutongxue.vip,axutongxue.com,axutongxue.net#%#//scriptlet('prevent-setTimeout', '/getCookie|checkCK|checkCookie/')
+axutongxue.cn,axu.pages.dev,axutongxue.vip,axutongxue.com,axutongxue.net#%#//scriptlet('trusted-suppress-native-method', 'document.write', '/ul class.*icon.*href/', 'prevent')
 axutongxue.com,axutongxue.net###jjjagl
 axutongxue.com,axutongxue.net##[style^="height:58px;"]
 axutongxue.net##body > article[style]
-axutongxue.vip,axutongxue.com,axutongxue.net##body > :is(div, aside)[id]:has(> ul[class] > li > img.icon + a[href])
-axutongxue.vip,axutongxue.com,axutongxue.net#%#//scriptlet('prevent-setTimeout', '/getCookie|checkCK|checkCookie/')
-axutongxue.vip,axutongxue.com,axutongxue.net#%#//scriptlet('trusted-suppress-native-method', 'document.write', '/ul class.*icon.*href/', 'prevent')
 azofreeware.com###HTML7
 azofreeware.com,pttjoke.com###HTML3
 baby-kingdom.com##.right5
@@ -6115,6 +6117,7 @@ fffdm.com##[style^="width"][style*="height"]
 ffxiv.xin,fotor.com.cn,weiyun.com,youdao.com#@#.icon-share
 fh21.com.cn###lbzxM
 fhm.com.tw###add-box
+fhxy-a.top##.sd_recpic
 filmaker.cn###frame2gS3Ea
 finance.eastmoney.com###ContentBody > p[style="text-align:center;"]:has(> a[href^="https://acttg.eastmoney.com/pub/"])
 finance.ettoday.net##.all_news_text1
@@ -10565,6 +10568,7 @@ verystream.com#@#.adsbox
 vgtime.com##.vgart_top
 vgtime.com##.vgart_top > img
 vid.onlymu.site##.tips
+video4k.cc#@#a[href*="/?aff="][target="_blank"]
 vidhub.me,vidhub.tv##.promotelink
 vidhub1.cc,vidhub.me,vidhub.tv##.adpwc
 vidhub1.cc,vidhub.me,vidhub.tv##.adwap
@@ -13306,6 +13310,7 @@ zzzyk.com###Tinfo
 ||amradmin.5173.com^
 ||ams.fx678.com^
 ||amsbce.xyz^
+||amyapad.top^
 ||an.facebook.com^
 ||analy.tuniu.cn^
 ||analyse.weather.com.cn^
@@ -14612,6 +14617,7 @@ zzzyk.com###Tinfo
 ||chong-wu.net^
 ||chongdiantou.com/wp-content/uploads/2019/02/pzb.jpg
 ||chooncv.icu^
+||chorninsm.com^
 ||choujue.net/one/down.js
 ||choujue.net/script/
 ||chouti.com/js/tingyun-rum.js
@@ -15982,6 +15988,7 @@ zzzyk.com###Tinfo
 ||faxingw.cn/js/*0
 ||faxingw.cn/js/*ad
 ||faxingw.cn/js/detailgcbox.js
+||fbhkxt.icu^
 ||fbphnn.icu^
 ||fbqrt.cn^
 ||fbvbrb.icu^
@@ -18692,6 +18699,7 @@ zzzyk.com###Tinfo
 ||lovek01.com/gif/97-
 ||loveshang.com/api.php?mod=ad&adid=custom_
 ||lozmtk.cn^
+||lppfnf.icu^
 ||lqfctb.icu^
 ||lqlwjr.icu^
 ||lqxzx.com^
@@ -19987,6 +19995,7 @@ zzzyk.com###Tinfo
 ||phpstudyimg.com/all/hrl.gif
 ||phpstudyimg.com/all/xiaojieqiantie.gif
 ||phtivr.xyz^
+||phuustikd.com^
 ||phxdrf.icu^
 ||pianbar.net/JS/bootfloat.js
 ||pianbar.net/JS/hottj.js
@@ -20101,6 +20110,7 @@ zzzyk.com###Tinfo
 ||policy.jd.com^
 ||policy.video.iqiyi.com^
 ||policy.video.ptqy.gitv.tv^
+||political-effort.com^
 ||pop.uusee.com^
 ||pop.wioau.com^$third-party
 ||pop800.com^$third-party
@@ -20498,6 +20508,7 @@ zzzyk.com###Tinfo
 ||qunlove.com^*.gif
 ||quresdy.top^
 ||quwkke.xyz^
+||quyr.cn^
 ||quyuancn.com^$third-party
 ||qvnbjjd.xyz^
 ||qvonje.cn^
@@ -20573,6 +20584,7 @@ zzzyk.com###Tinfo
 ||rd.autohome.com.cn^
 ||rdbd.xsread.com^
 ||rdllzz.icu^
+||rdoq.cn^
 ||rdsgick.icu^
 ||rdx.autohome.com.cn^
 ||rdxqbp.xyz^
@@ -21027,6 +21039,7 @@ zzzyk.com###Tinfo
 ||shbzpgs.cn^
 ||shbzqgs.cn^
 ||shbzqkj.cn^
+||shedranfd.com^
 ||shejiben.com/common/libs/layer.js
 ||shejiben.com/common/widgets/ui/*zb.js
 ||shelluiqy.com^
@@ -21318,6 +21331,7 @@ zzzyk.com###Tinfo
 ||srd.simba.taobao.com^
 ||srmsii.xyz^
 ||srootshare.com/otmyjs/
+||srootshare.com^
 ||srtb.msn.cn^
 ||srtlisb.top^
 ||srutvncb.top^
@@ -21854,6 +21868,7 @@ zzzyk.com###Tinfo
 ||tob-cms.bj.bcebos.com^
 ||toblog.ctobsnssdk.com^
 ||todayapp.tv^$popup,third-party
+||togmoxwnw.com^
 ||tom.com/*TomFlashAd
 ||tom.com/adsender/
 ||tongbaimi.cn^$third-party
@@ -21984,6 +21999,7 @@ zzzyk.com###Tinfo
 ||tu5551976196.cc^
 ||tu6.icu^
 ||tu6767109513.cc^
+||tubingacater.com^
 ||tudxhzj.cn^
 ||tufzdj.xyz^
 ||tuhmkjce.icu^

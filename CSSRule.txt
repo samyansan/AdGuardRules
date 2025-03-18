@@ -1980,6 +1980,7 @@
 3dmgame.com##A[href^="http://web.3dmgame.com/h5/game?"]
 3dmgame.com##a[href*=".chuangmengsy.xyz"]
 3dmgame.com##a[href^="https://down.hyds360.com/"] > div[style]
+3dmgame.com#$#body > div.content { margin-top: 0 !important; }
 3dmgame.com#?#.Gmaeinfobtn_tab > a.patchshow[style]:has(> span:contains(/^广告$/))
 3dmgame.com#?#.downl_list:-abp-has(style)
 3g.163.com##.ne_rps
@@ -2785,10 +2786,10 @@ axios-js.com###lagou-vip
 axios-js.com##.lessonlist
 axios-js.com##.recommand
 axios-js.com##.vultr-desc
+axutongxue.cn,axu.pages.dev,axutongxue.vip,axutongxue.com,axutongxue.net##body > :is(div, aside)[id]:has(> ul[class] > li > img.icon + a[href])
 axutongxue.com,axutongxue.net###jjjagl
 axutongxue.com,axutongxue.net##[style^="height:58px;"]
 axutongxue.net##body > article[style]
-axutongxue.vip,axutongxue.com,axutongxue.net##body > :is(div, aside)[id]:has(> ul[class] > li > img.icon + a[href])
 azofreeware.com###HTML7
 azofreeware.com,pttjoke.com###HTML3
 baby-kingdom.com##.right5
@@ -4625,6 +4626,7 @@ fffdm.com##[style^="width"][style*="height"]
 ffxiv.xin,fotor.com.cn,weiyun.com,youdao.com#@#.icon-share
 fh21.com.cn###lbzxM
 fhm.com.tw###add-box
+fhxy-a.top##.sd_recpic
 filmaker.cn###frame2gS3Ea
 finance.eastmoney.com###ContentBody > p[style="text-align:center;"]:has(> a[href^="https://acttg.eastmoney.com/pub/"])
 finance.ettoday.net##.all_news_text1
@@ -8946,6 +8948,7 @@ verystream.com#@#.adsbox
 vgtime.com##.vgart_top
 vgtime.com##.vgart_top > img
 vid.onlymu.site##.tips
+video4k.cc#@#a[href*="/?aff="][target="_blank"]
 vidhub.me,vidhub.tv##.promotelink
 vidhub1.cc,vidhub.me,vidhub.tv##.adpwc
 vidhub1.cc,vidhub.me,vidhub.tv##.adwap
