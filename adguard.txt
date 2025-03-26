@@ -3,8 +3,8 @@
 ! Powerd by SamSan
 ! Description: Just a merged Adblock rule. Nothing more
 ! Expires: 6 hours (update frequency)
-! Version: 2025-03-26 08:44:27
-! Total count: 32877
+! Version: 2025-03-26 14:13:17
+! Total count: 32884
 
 ###ADtip
 ###Ad_windows
@@ -4018,6 +4018,7 @@ ahtv.cn##body > table[style^="text-align:center; width:960px;"]
 ahtv.cn,frdic.com,huasing.net,it168.com,qinbing.cn###ads
 ahtv.cn,sexbarss.net##.l1
 ahtv.cn,sexbarss.net##.r1
+ai-chatbot.top##header ~ form ~ div.fixed.right-14
 aibing.cc##.adsense
 aibing.cc##a[href^="https://aibing.cc/go/"]
 aihami.com##.conText > div[style*="width:"]
@@ -16069,6 +16070,7 @@ zzzyk.com###Tinfo
 ||brand.sogou.com/micro?yyid=
 ||brand.sogou.com^
 ||brandshow.58.com^
+||bremphumz.com^
 ||brephras.com^
 ||brerkols.com^
 ||brircel.com^
@@ -17785,6 +17787,7 @@ zzzyk.com###Tinfo
 ||dgrgr34.fun^
 ||dgtauto.com^
 ||dgxlm.xyz^
+||dhaaralzz.com^
 ||dhannaq.com^
 ||dhdgkj.com^
 ||dheirzeh.com^
@@ -18181,6 +18184,7 @@ zzzyk.com###Tinfo
 ||drihmae.com^
 ||drjgjngf.com^
 ||drjs123.com^
+||drlzlc.top^
 ||drmcmm.baidu.cn^
 ||drmcmm.baidu.com^
 ||drmfslx.cn^
@@ -19848,6 +19852,7 @@ zzzyk.com###Tinfo
 ||gpowow.xyz^
 ||gpqkeq.xyz^
 ||gpxz.com/js2/
+||gqoi.cn^
 ||gqswg.com^
 ||gqwwshbdd1.fun^
 ||gqyy8.com^
@@ -31280,6 +31285,7 @@ zzzyk.com###Tinfo
 ||xlog.snssdk.com^
 ||xlpu.cc/adv/
 ||xls.go.sohu.com^
+||xluz.cn^
 ||xlviiirdr.com^
 ||xlviirdr.com^
 ||xlxehr.xyz^
@@ -32107,6 +32113,7 @@ zzzyk.com###Tinfo
 ||yueyuelao.cn^
 ||yufuyan.cn^
 ||yuggcd.com^
+||yugjwgg.icu^
 ||yugqqqq.icu^
 ||yugutou.club^
 ||yuhho.group^
