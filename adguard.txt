@@ -3,8 +3,8 @@
 ! Powerd by SamSan
 ! Description: Just a merged Adblock rule. Nothing more
 ! Expires: 6 hours (update frequency)
-! Version: 2025-03-28 08:44:34
-! Total count: 32890
+! Version: 2025-03-28 14:13:38
+! Total count: 32900
 
 ###ADtip
 ###Ad_windows
@@ -1251,6 +1251,7 @@
 ##vg-pause-f
 #189
 #@#.has-ad
+$csp=script-src 'self' * 'unsafe-inline',domain=biquluo.info|zk01.net
 $domain=ads.adxadserv.com|adserver.juicyads.com|cs.adxpansion.com|olmsoneenh.info|static.javhd.com|syndication.exosrv.com
 $domain=googleads.g.doubleclick.net
 $image,third-party,domain=258zw.com
@@ -3748,6 +3749,9 @@ $websocket,domain=wap.yushuwu.cloud
 91porna.com#%#//scriptlet('remove-attr', 'data-ads_url', '[data-ads_url]')
 91porny.com##.container-fluid.p-0[class*="mb-"]
 91porny.com##.jsv-g1
+91porny.org,jiuse100.cc,jstv600.com,x9av7.com###main > div[id^="rd"]
+91porny.org,jiuse100.cc,jstv600.com,x9av7.com##.footer + .block
+91porny.org,jiuse100.cc,jstv600.com,x9av7.com#?#.card:-abp-has(>.card-image>a[href^="http"])
 91porny.org,jstv600.com,x9av7.com###main > div[id^="rd"]
 91porny.org,jstv600.com,x9av7.com##.footer + .block
 91porny.org,jstv600.com,x9av7.com#?#.card:-abp-has(>.card-image>a[href^="http"])
@@ -18605,6 +18609,7 @@ zzzyk.com###Tinfo
 ||eic.org.cn/api/Popup?
 ||eic.org.cn^*/analytics
 ||eidsign.com.cn^
+||eildralfl.com^
 ||eiphrut.com^
 ||eisnaisv.com^
 ||eitilbyr.com^
@@ -20749,6 +20754,7 @@ zzzyk.com###Tinfo
 ||hpd.baidu.com^
 ||hpejlsb.com^
 ||hpplay.cdn.cibn.cc^
+||hptidc.top^
 ||hpygame.com^
 ||hpyx365.cn^
 ||hpzktd.xyz^
@@ -23430,6 +23436,7 @@ zzzyk.com###Tinfo
 ||linuxidc.com/linuxfile/list
 ||linyongming.top^
 ||lipheak.com^
+||liqw.cn^
 ||lirretsn.com^
 ||lisaiservice.top^
 ||lishuanghao.com^
@@ -23691,6 +23698,7 @@ zzzyk.com###Tinfo
 ||loout.top^
 ||looyu.com^$third-party
 ||lopostone.com^
+||lorzelofd.com^
 ||lotour.net/analytics/statsv2.js
 ||lotour.net/bcef/388.js
 ||lotpt.top^
@@ -27960,6 +27968,7 @@ zzzyk.com###Tinfo
 ||spl.ztvx8.com^$third-party
 ||splashqqlive.gtimg.com^
 ||spoaven.top^
+||spoh.cn^
 ||sponsorpay.com^
 ||spoods.rce.veeseo.com^
 ||sportscn.com/js/commerical
@@ -29795,6 +29804,7 @@ zzzyk.com###Tinfo
 ||upload.xchina.biz/ad/
 ||uploadhouse.com^*.gif$domain=wishct.com
 ||uploads.luhu.co^
+||uposnmb.icu^
 ||upush.res.meizu.com^
 ||upyzqf.cn^
 ||uqaagi.xyz^
@@ -32001,7 +32011,6 @@ zzzyk.com###Tinfo
 ||youy14.com/js/tj.js
 ||youy14.com/js/zz/nr.js
 ||youy14.com/js/zz/xf.js
-||youyiya.com/Tpl/mobile/js/you
 ||youyouf.top^
 ||youyouluming.xyz^
 ||youyoumw.com^
@@ -32167,6 +32176,7 @@ zzzyk.com###Tinfo
 ||yupei.love^
 ||yupoo.com/dapenti/5cfa8673/c6045c69.jpeg
 ||yuqmok.xyz^
+||yuqnyudug.com^
 ||yuquad.com^
 ||yushengyuancaishui.com^
 ||yushuha.com^
