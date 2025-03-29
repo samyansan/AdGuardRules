@@ -3,8 +3,8 @@
 ! Powerd by SamSan
 ! Description: Just a merged Adblock rule. Nothing more
 ! Expires: 6 hours (update frequency)
-! Version: 2025-03-29 08:44:16
-! Total count: 32900
+! Version: 2025-03-29 14:11:56
+! Total count: 32905
 
 ###ADtip
 ###Ad_windows
@@ -3752,9 +3752,6 @@ $websocket,domain=wap.yushuwu.cloud
 91porny.org,jiuse100.cc,jstv600.com,x9av7.com###main > div[id^="rd"]
 91porny.org,jiuse100.cc,jstv600.com,x9av7.com##.footer + .block
 91porny.org,jiuse100.cc,jstv600.com,x9av7.com#?#.card:-abp-has(>.card-image>a[href^="http"])
-91porny.org,jstv600.com,x9av7.com###main > div[id^="rd"]
-91porny.org,jstv600.com,x9av7.com##.footer + .block
-91porny.org,jstv600.com,x9av7.com#?#.card:-abp-has(>.card-image>a[href^="http"])
 91rb99.com##.top
 91wenmi.com###xiezuo
 91wenmi.com###xzsp
@@ -7703,8 +7700,10 @@ jin10.com###J_wdgg_t
 jin10.com##.jin-popularize
 jin10.com##.l-main > div > .jin-timeline
 jin10.com##.l-main > div > div[class^="jin-"] > .jin-timeline > div[class^="jin-1"]
+jin10.com##.quoted-price__pro
 jin10.com##.side-module-2
 jin10.com##.top-ad
+jin10.com##.tradinghero
 jin10.com##div[id^="J_wdgg_"]
 jin10.com#?#.jin-timeline:-abp-has(.jin-tag)
 jinbaodm.com##div[style^="position:fixed; top"]
@@ -10410,7 +10409,7 @@ tvsou.com##.sogou-temp-show
 tvsou.com##.story_ad_android
 tvsou.com##.story_ad_content_footer
 tvsou.com##.story_ad_ios
-tvyb03.com,yemancomic.com,zkk78.com##div[style^="position:fixed;"]
+tvyun07.com,yemancomic.com,zkk78.com##div[style^="position:fixed;"]
 tw.beanfun.com###flybeanfun
 tw.bid.yahoo.com###livePromote
 tw.live##.fsk-window-film
@@ -12545,7 +12544,6 @@ zzzyk.com###Tinfo
 ||58cdn.com.cn/*.gif$domain=mmff30.com
 ||58cdn.com.cn/ds/tgbrand/*.js
 ||58cdn.com.cn/ds/zhuangxiu/jzad-
-||58cdn.com.cn/nowater/webim/big/n_v2e722db7ca7f1458d92b7d6e57f833548.
 ||58cdn.com.cn/resource/xxzl/xxfw/
 ||58file.com/down/xyk.
 ||58lm.vip^
@@ -19682,6 +19680,7 @@ zzzyk.com###Tinfo
 ||gimg.baidu.com^
 ||gimy.*/images/eee*.png
 ||giotlsi.cn^
+||giphaudoq.com^
 ||girli.top^
 ||giroud.top^
 ||githubusercontent.com/vip888vip/ug/main/*.gif
@@ -21941,6 +21940,7 @@ zzzyk.com###Tinfo
 ||jdlhg.com^
 ||jdomsia.top^
 ||jdoshba.top^
+||jdqmhay.icu^
 ||jdrlfn.xyz^
 ||jdsy.ltd^
 ||jduiv.com^
@@ -28689,6 +28689,7 @@ zzzyk.com###Tinfo
 ||tcsgcdn.top^
 ||tcss.qq.com^
 ||td.haoxyx.com^
+||td86hsmlmggym.top^
 ||tdain.com^
 ||tdamcsi.top^
 ||tdayi.com^
@@ -29294,6 +29295,7 @@ zzzyk.com###Tinfo
 ||truecrimesss.com^
 ||trueskincare.tech^
 ||trutvnci.top^
+||truuhmoen.com^
 ||truvidplayer.com^$domain=technews.tw
 ||truxedku.com^
 ||trvxbd.xyz^
@@ -29431,7 +29433,7 @@ zzzyk.com###Tinfo
 ||tvtnbu.cn^
 ||tvuser-ch.cedock.com^
 ||tvyan.com/images/jscss/tv-
-||tvyb03.com/template/mytheme/statics/js/layer/
+||tvyun07.com/template/mytheme/statics/js/layer/
 ||tw.beanfun.com/bfweb/NEW/commonlogin
 ||tw.buy.yahoo.com/?z=
 ||tw.buy.yahoo.com/smartbanner/$domain=tw.news.yahoo.com
@@ -29693,6 +29695,7 @@ zzzyk.com###Tinfo
 ||uidndas.cn^
 ||uissm.com^
 ||uiswtr3.xyz^
+||uivc.cn^
 ||ujian.cc^
 ||ujiasm.com^
 ||ujimtyt.top^
@@ -30145,6 +30148,7 @@ zzzyk.com###Tinfo
 ||vpwizuj.icu^
 ||vpydjogaytpg.xyz^
 ||vq7736.com^
+||vqaj6smlmtpym.top^
 ||vqbzpv.xyz^
 ||vqdgbdv.xyz^
 ||vqlrwgj.cn^
@@ -30189,6 +30193,7 @@ zzzyk.com###Tinfo
 ||vuahb.com^
 ||vudqth.icu^
 ||vuetifyjs.com/notify.json
+||vuhf.cn^
 ||vuirssd.icu^
 ||vulitd.xyz^
 ||vungle.cn^
