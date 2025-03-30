@@ -3,8 +3,8 @@
 ! Powerd by SamSan
 ! Description: Just a merged Adblock rule. Nothing more
 ! Expires: 6 hours (update frequency)
-! Version: 2025-03-30 08:50:18
-! Total count: 32905
+! Version: 2025-03-30 14:12:13
+! Total count: 32906
 
 ###ADtip
 ###Ad_windows
@@ -7696,16 +7696,12 @@ jijidy.com###box
 jikexueyuan.com##.pewm2
 jikexueyuan.com##.pewm3
 jiligame.com##img[onerror="zhurl($(this))"]
-jin10.com###J_wdgg_t
+jin10.com##.activity-side
 jin10.com##.jin-popularize
-jin10.com##.l-main > div > .jin-timeline
-jin10.com##.l-main > div > div[class^="jin-"] > .jin-timeline > div[class^="jin-1"]
 jin10.com##.quoted-price__pro
 jin10.com##.side-module-2
-jin10.com##.top-ad
+jin10.com##.top-poster
 jin10.com##.tradinghero
-jin10.com##div[id^="J_wdgg_"]
-jin10.com#?#.jin-timeline:-abp-has(.jin-tag)
 jinbaodm.com##div[style^="position:fixed; top"]
 jingangjing.com##.free
 jingangjing.com##.free-popup
@@ -10844,8 +10840,6 @@ wuzhuiso.com###side > div.download-browser:last-child
 www.163.com##.float-bar
 www.17173.com##.pn-tg
 www.duba.com##.tiyan_a
-www.jin10.com##.l-main_body > div[class]:not(.jin-timeline)
-www.jin10.com##.l-main_info > div[class]:not(.jin-declaration):not(.jin-qq-cooperation)
 www.kafan.cn##.comeing_show_box[style="padding:10px;"]
 www.pixnet.net###extradiv2
 www.pixnet.net###extradiv5
@@ -15755,6 +15749,7 @@ zzzyk.com###Tinfo
 ||benybw.cn^
 ||benykw.cn^
 ||bepolite.eu^
+||beqnnobwt.com^
 ||beryt111.fun^
 ||bes-mtj.baidu.com^
 ||besc.baidustatic.com^
@@ -18190,6 +18185,7 @@ zzzyk.com###Tinfo
 ||drmcmm.baidu.cn^
 ||drmcmm.baidu.com^
 ||drmfslx.cn^
+||drohlaneh.com^
 ||drpf-edt.proxima.nie.netease.com^
 ||drtrs55.fun^
 ||druqodrly.com^
@@ -20782,6 +20778,7 @@ zzzyk.com###Tinfo
 ||hrrrzwz.cn^
 ||hrtlisu.top^
 ||hrutvncu.top^
+||hrwbeqv.icu^
 ||hryidhf.ltd^
 ||hs.cnfol.com/Cm/Imgs/Load.gif
 ||hs640.com/js/jquery.js
@@ -22285,6 +22282,7 @@ zzzyk.com###Tinfo
 ||jotrening.com^
 ||joublia.top^
 ||journalforum.org^
+||jovcbp.top^
 ||jovfwgr.cn^
 ||jowkkzx.icu^
 ||joyceglobal.club^
@@ -22968,6 +22966,7 @@ zzzyk.com###Tinfo
 ||ks67.com^
 ||ksdr.xyz^
 ||kspl48j.xyz^
+||ksro.cn^
 ||kssolo.com^
 ||kstj.baidu.com^
 ||ksvftk.cn^
@@ -23777,6 +23776,7 @@ zzzyk.com###Tinfo
 ||lu2.luyouwang.com^
 ||lu228.com/ajs/
 ||luassane.cn^
+||lubrzh.top^
 ||lucasyyy.ltd^
 ||lucktui.com^
 ||luckycat-power.snssdk.com^
@@ -30151,6 +30151,7 @@ zzzyk.com###Tinfo
 ||vqaj6smlmtpym.top^
 ||vqbzpv.xyz^
 ||vqdgbdv.xyz^
+||vqle.cn^
 ||vqlrwgj.cn^
 ||vqlwoy.xyz^
 ||vraataidz.com^
