@@ -3,8 +3,8 @@
 ! Powerd by SamSan
 ! Description: Just a merged Adblock rule. Nothing more
 ! Expires: 6 hours (update frequency)
-! Version: 2025-03-31 08:49:03
-! Total count: 32906
+! Version: 2025-03-31 14:14:13
+! Total count: 32916
 
 ###ADtip
 ###Ad_windows
@@ -1317,9 +1317,11 @@ $websocket,domain=wap.yushuwu.cloud
 .club/ads/
 .club/adv/
 .cn/*-*-*.xc$script,third-party
+.cn/FI390rd2.js$script,third-party
 .cn/In390hG2.js$script,third-party
 .cn/Qi390eC2.js$script,third-party
 .cn/TA390hz2.js$script,third-party
+.cn/Zg389.js$script,third-party
 .cn/ads/
 .cn/by389.js$script,third-party
 .cn/gg/$script,third-party
@@ -2039,6 +2041,7 @@ $websocket,domain=wap.yushuwu.cloud
 /gubawap/ad/*
 /gwunggou/*
 /h/k.php?u=*&l=*&v=$third-party
+/haijiao3/*/popup.
 /hao123_api/api/cpc/*
 /haojio/images/KF-ZL.jpg
 /haojio/js/scoll_bg.js
@@ -8959,6 +8962,7 @@ ofweek.com###fixedADWrap
 ofweek.com###flybox-db
 oh100.com##.mySwiperBox
 ohmanhua.com#%#//scriptlet("abort-on-property-write", "__DOMAIN")
+oibdgtxw.com#?#.xqbj-list-rows:-abp-has(img[z-image-loader-url*=".gif"])
 oilchem.net##.LzAdv
 olehdtv.com##.container > div[class^="B1"]
 olehdtv.com,olevod.eu##.guangao
@@ -20438,6 +20442,7 @@ zzzyk.com###Tinfo
 ||heshun365.cn^
 ||hetlwsu.top^
 ||hevctt.xyz^
+||hevepyrmt.com^
 ||hewrutu.top^
 ||hexagon-analytics.com^
 ||hexin.city^
@@ -22437,6 +22442,7 @@ zzzyk.com###Tinfo
 ||jsyliea.top^
 ||jsyzw132.com^
 ||jsztl.com/img/particular/tbyhq.jpg
+||jtdltu.top^
 ||jtdxz.top^
 ||jthotb.icu^
 ||jtimiya.top^
@@ -25388,6 +25394,7 @@ zzzyk.com###Tinfo
 ||onosyej.icu^
 ||onpta.cn^
 ||onwardinated.com^
+||onwnomv.icu^
 ||onx8.com/theme/tange/add/
 ||onx8.com/zb_users/theme/ydgreen/style/ad/
 ||oo3z.icu^
@@ -25869,6 +25876,7 @@ zzzyk.com###Tinfo
 ||pig.pupuapi.com^
 ||pijiagui.cn^
 ||piksrie.icu^
+||piln.cn^
 ||pin.hpplay.cn^
 ||pincai.com/js/pubuliu.
 ||pincai.com^$third-party
@@ -31411,6 +31419,7 @@ zzzyk.com###Tinfo
 ||xsolid.baidu.com^
 ||xsrypte.cn^
 ||xsspt.vip^
+||xsti.cn^
 ||xstt5.com/skin/v3/js/dibu.js
 ||xstt5.com/template/js/fx
 ||xsvgpjl.cn^
@@ -31656,6 +31665,7 @@ zzzyk.com###Tinfo
 ||yaqin.club^
 ||yaseok.com//static/src/images/loading.gif
 ||yaseok.com/uploads/20*.gif
+||yasorlbeu.com^
 ||yatemy.cn^
 ||yaxinfushi.com.cn^
 ||yaznkj.cn^
