@@ -544,6 +544,7 @@
 ##.apd-footer
 ##.apd-home
 ##.apd-right
+##.app > div.app_tj
 ##.app-down-fix.body-fix
 ##.appdownload_ad + .hider
 ##.appguide-wrap[onclick*="bcebos.com"]
@@ -1037,7 +1038,6 @@
 ##a[href*=".68hantang.com"]
 ##a[href*=".asd257642.com:"]
 ##a[href*=".bbb748568.com"]
-##a[href*=".bilibilitool.site"]
 ##a[href*=".bjty7.vip"]
 ##a[href*=".bright.cn/?utm_"]
 ##a[href*=".bsy3.xyz"]
@@ -1054,9 +1054,7 @@
 ##a[href*=".kaiyunty.live"]
 ##a[href*=".labsda.com"]
 ##a[href*=".moo8923.net"]
-##a[href*=".mp388.com/"]
 ##a[href*=".nhjhu25hd.com"]
-##a[href*=".pcjx365.com/"]
 ##a[href*=".rookiego.com"]
 ##a[href*=".skw036.cc"]
 ##a[href*=".ssmh"][href*="?u="]
@@ -1070,7 +1068,6 @@
 ##a[href*=".xyz:"] > img[src*=".qlogo.cn"]
 ##a[href*=".zhuijuwa.app"]
 ##a[href*=".zxzjys.com/"]
-##a[href*="/04816632.com/"]
 ##a[href*="/122.51.121.126:"]
 ##a[href*="/2e9c9aa9.com/"]
 ##a[href*="/33hth.cn"]
@@ -1160,6 +1157,7 @@
 ##a[target="_blank"][onclick*="广告点击"]
 ##body .has-ad
 ##body > div#inplayer[align="center"]
+##body > div.zdhf
 ##body > div[style="display:none;"] + div[style="display:none;"] + div[id][class][style^="background-color:"]
 ##body.desktop[style^="-"] span[class*=" "] > a[href^="http"][rel="nofollow"][target="_blank"]
 ##body.page > .popup
@@ -8858,6 +8856,7 @@ udn.com##div[class*="edn-ads"]
 udn.com##iframe[src*="udn.com/mall/cus/cat/OutWebAd.do"]
 udn.com#$#.main-content { background-image: none !important; }
 ufanw.com###banne
+uiadmin.net##.jump-linker
 uisdc.com##.archive-pm-top
 uisdc.com##.post-pm-content
 ulifestyle.com.hk#$#body { overflow: auto !important; }
