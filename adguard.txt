@@ -3,8 +3,8 @@
 ! Powerd by SamSan
 ! Description: Just a merged Adblock rule. Nothing more
 ! Expires: 6 hours (update frequency)
-! Version: 2025-04-09 14:14:02
-! Total count: 23692
+! Version: 2025-04-09 20:17:40
+! Total count: 23705
 
 ###ADtip
 ###Ad_windows
@@ -11465,7 +11465,6 @@ zzzyk.com###Tinfo
 ||100yangsheng.com/a1/a.js
 ||1010pic.com/scripts/hd/yueyue
 ||1010pic.com/static/js/allpc.js
-||1010pic.com^
 ||1017.cn^
 ||1024down.com/images/*.gif
 ||1024mzs.pw^$popup,third-party
@@ -12803,6 +12802,8 @@ zzzyk.com###Tinfo
 ||addthis.com^
 ||adeng.hpplay.cn^
 ||ader.mobi^
+||adexp.chinaliftoff.io^
+||adexp.liftoff.io^
 ||adexpo.tencentmusic.com^
 ||adf.dahe.cn^
 ||adf.ly/js/$third-party,domain=~j.gs|~q.gs
@@ -13001,6 +13002,7 @@ zzzyk.com###Tinfo
 ||aduu.cn^
 ||adv-sv-show.focus.cn^
 ||adv.ccb.com^
+||adv.fjtv.net^
 ||adv.sec.intl.miui.com^
 ||adv.sec.miui.com^
 ||advert.api.thejoyrun.com^
@@ -14424,6 +14426,7 @@ zzzyk.com###Tinfo
 ||cdn-data-cloud.com/history/
 ||cdn-plugin-sync-upgrade-juui.hismarttv.com^
 ||cdn.aiclk.com^
+||cdn.chinaliftoff-creatives.io^
 ||cdn.galacg.me/img/*.gif
 ||cdn.galacg.me/img/*.jpg
 ||cdn.haocaa.com^
@@ -14431,6 +14434,7 @@ zzzyk.com###Tinfo
 ||cdn.holmesmind.com^$third-party
 ||cdn.hpplay.com.cn^
 ||cdn.jiuzhilan.com^
+||cdn.liftoff-creatives.io^
 ||cdn.moji002.com^
 ||cdn.shdsp.net/ad
 ||cdn.upthinking.cn^$third-party
@@ -14671,12 +14675,14 @@ zzzyk.com###Tinfo
 ||click.bes.baidu.com^
 ||click.cheshi-img.com^
 ||click.cheshi.com^
+||click.chinaliftoff.io^
 ||click.dangdang.com^
 ||click.ganji.com^
 ||click.googleanalytics.com^
 ||click.hd.sohu.com^
 ||click.hm.baidu.com^
 ||click.hunantv.com^
+||click.liftoff.io^
 ||click.oneplus.cn^
 ||click.qianqian.com^
 ||click.taobao.com^$popup,domain=steamcn.com
@@ -14685,6 +14691,7 @@ zzzyk.com###Tinfo
 ||click.tianyaui.com^
 ||click1n.soufun.com^
 ||click2.hd.sohu.com^
+||click4.chinaliftoff.io^
 ||clickadu.com^
 ||clicki.cn^
 ||clickm.fang.com^
@@ -14902,7 +14909,6 @@ zzzyk.com###Tinfo
 ||craivrals.com^
 ||cralphal.com^
 ||crasheye.cn^
-||crashlytics.com^
 ||crashlyticsreports-pa.googleapis.com^
 ||crayon.meishichina.com^
 ||crazodsxx.com^
@@ -16153,6 +16159,7 @@ zzzyk.com###Tinfo
 ||fun1shot.com/images/qrcode_wechat.png
 ||fun8.us^$domain=cartoonmad.com
 ||func.tw/image/func2.png
+||fundingchoicesmessages.google.com^
 ||fundingchoicesmessages.google.com^$third-party
 ||funshipin.com/v1/js/footerhongbao.js
 ||fuoo1.top^$third-party
@@ -16470,6 +16477,7 @@ zzzyk.com###Tinfo
 ||google-js-02.xyz^
 ||google-js-08.xyz^
 ||google-js-09.xyz^
+||googleads.g.doubleclick-cn.net^
 ||googleads.g.doubleclick.net/pagead/ads$subdocument,redirect=noopframe,domain=rjno1.com,important
 ||googleads.g.doubleclick.net^
 ||googleadservices-cn.com^
@@ -17428,6 +17436,8 @@ zzzyk.com###Tinfo
 ||imooc.com/open/courselistrandjs
 ||imp.xgo.com.cn^
 ||imp.zol.com.cn^
+||impression-asia.chinaliftoff.io^
+||impression-asia.liftoff.io^
 ||impservice*.yodao.com^
 ||impservice*.youdao.com^
 ||imrworldwide.com^
@@ -18444,6 +18454,7 @@ zzzyk.com###Tinfo
 ||lgpjw.cn^
 ||lh168.net^*/attachment/portal/
 ||lh1dki82.com^
+||lh3.googleadsserving.cn^
 ||lh49dki80.com^
 ||lhmebwq.cn^
 ||lhmgoik.icu^
@@ -19566,6 +19577,7 @@ zzzyk.com###Tinfo
 ||ofqvca.xyz^
 ||ofweek.com/pop/ad/
 ||og.zyzjpx.cn^$third-party
+||ogads-pa.clients6.google.com^
 ||ogidskik.top^
 ||oh100.com/js/pubuliu.
 ||ohkfmi.xyz^
@@ -21821,6 +21833,8 @@ zzzyk.com###Tinfo
 ||tp1902abd.com^
 ||tp2p.kg.qq.com^
 ||tp4sul.jwzd.com.cn^
+||tpc.googlesyndication-cn.com^
+||tpc.googlesyndication.com^
 ||tpjw.cn^
 ||tpkv.cn^
 ||tptoon.com/skin/js/tjtjkk.
@@ -21885,7 +21899,6 @@ zzzyk.com###Tinfo
 ||tsdm.live/weibo.html
 ||tsdm39.com/img01/MP3/GG/
 ||tsdmw.net/img01/MP3/pm_
-||tsvrv.com^
 ||tt.biquge.la^
 ||tt1069.com/bbs/page20_top.php
 ||tt1069.com/bbs/zgg_
