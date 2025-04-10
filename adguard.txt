@@ -3,8 +3,8 @@
 ! Powerd by SamSan
 ! Description: Just a merged Adblock rule. Nothing more
 ! Expires: 6 hours (update frequency)
-! Version: 2025-04-10 08:45:15
-! Total count: 23705
+! Version: 2025-04-10 14:13:54
+! Total count: 23713
 
 ###ADtip
 ###Ad_windows
@@ -1168,6 +1168,7 @@
 ##body > div#inplayer[align="center"]
 ##body > div.dbfh
 ##body > div.zdhf
+##body > div.zdhf ~ div[style$=";background: #000;opacity:0.01;"]
 ##body > div[style="display:none;"] + div[style="display:none;"] + div[id][class][style^="background-color:"]
 ##body.desktop[style^="-"] span[class*=" "] > a[href^="http"][rel="nofollow"][target="_blank"]
 ##body.page > .popup
@@ -4464,6 +4465,7 @@ baidu.com##.wgt-bottom-ask
 baidu.com##.wgt-bottom-union
 baidu.com##.wgt-union
 baidu.com##.yitiao-box
+baidu.com##a[class*="fengchaoContainer"]
 baidu.com##div[class$="-ecom-ads"]
 baidu.com##div[class*="fc-"][tplid]
 baidu.com##div[data-ad]
@@ -15552,6 +15554,7 @@ zzzyk.com###Tinfo
 ||dup.baidustatic.com^
 ||dupzbh.icu^
 ||dushiyanqing.net/mobile/lib/ccppcc.js
+||duuddots.com^
 ||duyewnf.icu^
 ||duyhlct.icu^
 ||dv0i.icu^
@@ -15807,6 +15810,7 @@ zzzyk.com###Tinfo
 ||en8848.com.cn/js/ad
 ||en8848.com.cn/js/content.
 ||en8848.com.cn/js/lianxi.js
+||enbg.cn^
 ||enennsa.gushiwen.cn^
 ||enet.com.cn/counter.php
 ||enews10.yxlady.net^
@@ -19053,6 +19057,7 @@ zzzyk.com###Tinfo
 ||mixpanel.com^
 ||miycoc.xyz^
 ||mjbidlg.icu^
+||mjik.cn^
 ||mjimtyx.top^
 ||mjmobi.com^
 ||mjvr.cn^
@@ -21644,6 +21649,7 @@ zzzyk.com###Tinfo
 ||tetlwsi.top^
 ||tewruti.top^
 ||texnet.com.cn/images/cnbanner/
+||tezlpl.icu^
 ||tf.360.cn^
 ||tfcdn.jingmiuyyds.com^$all
 ||tfg2.com/images/upfile/AD/
@@ -22373,6 +22379,7 @@ zzzyk.com###Tinfo
 ||vercel.app/ads/
 ||veryt111.fun^
 ||vevhjj.xyz^
+||vezeqzyb.com^
 ||vfdvdfv77.fun^
 ||vfdvdg67.fun^
 ||vfphbh.xyz^
@@ -22467,6 +22474,7 @@ zzzyk.com###Tinfo
 ||vqbzpv.xyz^
 ||vqle.cn^
 ||vqlwoy.xyz^
+||vqnjrz.top^
 ||vraataidz.com^
 ||vragridsn.com^
 ||vraqnathr.com^
