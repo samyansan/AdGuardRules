@@ -3,8 +3,8 @@
 ! Powerd by SamSan
 ! Description: Just a merged Adblock rule. Nothing more
 ! Expires: 6 hours (update frequency)
-! Version: 2025-04-11 08:45:54
-! Total count: 23713
+! Version: 2025-04-11 14:13:48
+! Total count: 23724
 
 ###ADtip
 ###Ad_windows
@@ -1253,7 +1253,7 @@
 ##vg-pause-f
 #189
 #@#.has-ad
-$csp=script-src 'self' * 'unsafe-inline',domain=1kans.net|aidu123.com|biquluo.info|bqgh.com|jmshuwu.net|maxshuku.com|shukuge.com|sthuojia.net|zk01.net
+$csp=script-src 'self' * 'unsafe-inline',domain=1kans.net|aidu123.com|biquluo.info|bqgh.com|jmshuwu.net|maxshuku.com|shukuge.com|sthuojia.net|tvyun07.com|zk01.net
 $domain=ads.adxadserv.com|adserver.juicyads.com|cs.adxpansion.com|olmsoneenh.info|static.javhd.com|syndication.exosrv.com
 $domain=googleads.g.doubleclick.net
 $image,third-party,domain=258zw.com
@@ -14623,6 +14623,7 @@ zzzyk.com###Tinfo
 ||chubun.com/images/banners/
 ||chubun.com/uploads/pic/img
 ||chuccipkn.com^
+||chugveasoy.com^
 ||chumealq.com^
 ||chunmiaosh.com^
 ||chunyuqiufeng.com^$third-party
@@ -17866,6 +17867,7 @@ zzzyk.com###Tinfo
 ||jmesxbe.icu^
 ||jmgehn.cn^
 ||jmhfw.com/index.php?/ajax/get_adv/
+||jmif.cn^
 ||jmipzsn.icu^
 ||jmw.com.cn/m_v2/js/active.js
 ||jmydm.com/jspage/ftt.js
@@ -18110,6 +18112,7 @@ zzzyk.com###Tinfo
 ||kb-render.alicdn.com/html/*.html
 ||kbexos.xyz^
 ||kccdk.com/Content/img/*.gif
+||kcglsiv.icu^
 ||kcinmad.top^
 ||kcinvdd.top^
 ||kclimid.top^
@@ -20689,6 +20692,7 @@ zzzyk.com###Tinfo
 ||ruten.com.tw/js/gads_
 ||ruten.com.tw/search/imp_ad_
 ||ruten.com.tw^*/ahd_
+||ruvgbv.icu^
 ||ruyig.com/730x76.png
 ||rvgtaai.top^
 ||rvnaxwqe.icu^
@@ -20696,6 +20700,7 @@ zzzyk.com###Tinfo
 ||rvxmlj.icu^
 ||rvxsvwqf.icu^
 ||rwdjrn.icu^
+||rwix.cn^
 ||rxfygd.cn^
 ||rxys.cn^
 ||ryhuzj.xyz^
@@ -20753,6 +20758,7 @@ zzzyk.com###Tinfo
 ||safe524.xyz^$third-party
 ||sahqoo.com^
 ||saizih.com^
+||saktuddo.com^
 ||salary.xiao84.com^
 ||saltsleaseholder.com^
 ||sam*.baby-kingdom.com^
@@ -20913,6 +20919,7 @@ zzzyk.com###Tinfo
 ||sf2.net/a/index.
 ||sf3-fe-tos.pglstatp-toutiao.com^
 ||sfesdef6.fun^
+||sfile.top^
 ||sfjslib.top^
 ||sfkldbkldgdgh.com^
 ||sfnmt.com/dq/
@@ -21413,6 +21420,7 @@ zzzyk.com###Tinfo
 ||storyren.top/imgg/
 ||stragmik.com^
 ||strakuty.com^
+||strakvad.com^
 ||straldrier.com^
 ||stralotsb.com^
 ||strelgrell.com^
@@ -23021,6 +23029,7 @@ zzzyk.com###Tinfo
 ||xlviiirdr.com^
 ||xlviirdr.com^
 ||xlxehr.xyz^
+||xmcdn.com/storages/f651-customerservice/E3/40/GAqhntALzRUHAAJ3LgOTtToZ.
 ||xmcimg.com/js/m.js
 ||xmhszb.xyz^
 ||xmkmryu.icu^
@@ -23106,6 +23115,7 @@ zzzyk.com###Tinfo
 ||xwdjnj.xyz^
 ||xwdsp.com^
 ||xwma.cn^
+||xwtylm.top^
 ||xwvnhe.cn^
 ||xx3691b.com^
 ||xxaks01080sspao.xyz^
@@ -23635,6 +23645,7 @@ zzzyk.com###Tinfo
 ||zpiyi.com/public/js/global.js
 ||zq.lansedir.com^
 ||zqgixxp.icu^
+||zqifmyt.icu^
 ||zqkxlf.com^
 ||zqntbc.top^
 ||zqzxz.com^
