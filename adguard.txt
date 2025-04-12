@@ -3,8 +3,8 @@
 ! Powerd by SamSan
 ! Description: Just a merged Adblock rule. Nothing more
 ! Expires: 6 hours (update frequency)
-! Version: 2025-04-12 08:44:33
-! Total count: 23724
+! Version: 2025-04-12 14:11:57
+! Total count: 23738
 
 ###ADtip
 ###Ad_windows
@@ -13778,6 +13778,10 @@ zzzyk.com###Tinfo
 ||banmamedia.com^
 ||bannedbook.org/bnews/bnews-tab.html$third-party
 ||bannera.kingsoft-office-service.com^
+||banzhu*.com/js/cdn.js$~third-party
+||banzhu*.com/js/html*.js$~third-party
+||banzhu*.net/js/cdn.js$~third-party
+||banzhu*.net/js/html*.js$~third-party
 ||banzhu33333.net/js/cdn.
 ||banzhu33333.net/js/html
 ||banzou.name/qq/qq2.js
@@ -13995,6 +13999,7 @@ zzzyk.com###Tinfo
 ||bgg.baidu.com^
 ||bghebf.xyz^
 ||bgidskiv.top^
+||bhaelkaers.com^
 ||bhaelnieth.com^
 ||bhakte.com^
 ||bhanphevg.com^
@@ -15289,6 +15294,7 @@ zzzyk.com###Tinfo
 ||diyijjj.com/data/content
 ||dj155.com/gg/
 ||dj97.com/api.php?mod=ad&
+||djdedu.net/static/*.gif
 ||djecgyk.icu^
 ||djicdn.com/uploads/ad_image_file/
 ||djljz.cn/Plugins/Template/XJLY/js/app.
@@ -17198,6 +17204,7 @@ zzzyk.com###Tinfo
 ||idcot.com^
 ||iddhui.com^
 ||ideng.com^$third-party
+||idhaiafq.com^
 ||idickeo.top^
 ||idipsumo.top^
 ||iditero.top^
@@ -17535,6 +17542,7 @@ zzzyk.com###Tinfo
 ||irc.qubiankeji.com^
 ||irgidshiv.com^
 ||irgxwk.xyz^
+||irkp.cn^
 ||irkrellw.com^
 ||irkrors.com^
 ||ironsrc.com^
@@ -19658,6 +19666,7 @@ zzzyk.com###Tinfo
 ||ookaso.com^
 ||ooqiu.com/ad_js/
 ||ooublik.top^
+||opdh.cn^
 ||open.e.kuaishou.cn^
 ||open.e.kuaishou.com^
 ||open.kuaishouzt.com^
@@ -20197,6 +20206,7 @@ zzzyk.com###Tinfo
 ||pwxlbsie.icu^
 ||pxhuiben.com^
 ||pxqqytk.icu^
+||pxrbnf.icu^
 ||pxtjfmv.xyz^
 ||pxx.tnklrs.cn^$third-party
 ||pxyjqea.icu^
@@ -20698,6 +20708,7 @@ zzzyk.com###Tinfo
 ||rvnaxwqe.icu^
 ||rvtfwryz.icu^
 ||rvxmlj.icu^
+||rvxo.cn^
 ||rvxsvwqf.icu^
 ||rwdjrn.icu^
 ||rwix.cn^
@@ -21009,6 +21020,7 @@ zzzyk.com###Tinfo
 ||showguide.cn/templets/*/qqcenter.js
 ||showguide.cn/templets/*/sg-ad.js
 ||showhaotu.$domain=18board.com|18p2p.com
+||showkkkp.top^
 ||shrek.6.cn^
 ||shuakongbao.com/resource/images/banner/
 ||shudi8.com^
@@ -21478,6 +21490,7 @@ zzzyk.com###Tinfo
 ||suzalsln.com^
 ||sv2fo.icu^
 ||sv5nm.icu^
+||svcnmtb.top^
 ||svjj.cn^
 ||svncowt.cn^
 ||sw76r85eda3k.com/need/h5.
@@ -23675,6 +23688,7 @@ zzzyk.com###Tinfo
 ||zutevd.xyz^
 ||zvhlzb.xyz^
 ||zvvlbf.xyz^
+||zvvsjz.top^
 ||zwdtvx.xyz^
 ||zwgqzgo.icu^
 ||zwlxnj.xyz^
