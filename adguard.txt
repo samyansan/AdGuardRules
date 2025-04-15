@@ -3,8 +3,8 @@
 ! Powerd by SamSan
 ! Description: Just a merged Adblock rule. Nothing more
 ! Expires: 6 hours (update frequency)
-! Version: 2025-04-15 08:47:25
-! Total count: 23758
+! Version: 2025-04-15 14:14:08
+! Total count: 23770
 
 ###ADtip
 ###Ad_windows
@@ -2385,6 +2385,7 @@ $websocket,domain=wap.yushuwu.cloud
 /source/plugin/mama_tips/*
 /source/plugin/yw_alertlogin/*
 /spcjs.php
+/static/2biqu/twgdh.js
 /static/ad-
 /static/ad/*
 /static/adsview/*
@@ -9838,6 +9839,8 @@ sinolub.com##div[id^="bs_"]
 sinolub.com##div[style="float:left; padding-right:20px;"]
 sisixxb.com##.preflink
 site.baidu.com##.pstr.mt10
+sixyin.com##.custom-html-widget > a[target="_blank"] > img
+sixyin.com#?#.widget_custom_html:has(> h3:contains(赞助))
 skinme.cc,yuntue.com##.huodong
 skyarea.cn#@#.post-share
 skydy.top##.swiper-slide[style="width: 1170px;"]
@@ -14005,6 +14008,7 @@ zzzyk.com###Tinfo
 ||bhakte.com^
 ||bhanphevg.com^
 ||bhaoea.cn^
+||bhdnti.top^
 ||bhegilut.com^
 ||bhelzun.com^
 ||bhohreatz.com^
@@ -17658,6 +17662,7 @@ zzzyk.com###Tinfo
 ||ixav-cse.avlyun.com^
 ||ixbua.xyz^
 ||ixkw3.cc/wp-content/themes/wpMyTube/assets/js/mobile.
+||ixlv.cn^
 ||ixoe.cn^
 ||ixstng.cn^
 ||ixtu.cn^
@@ -18728,6 +18733,7 @@ zzzyk.com###Tinfo
 ||luyx8.com/tu/666.gif
 ||lv-play.com/web/adv/list
 ||lv.myapks.com^
+||lvcnmtl.top^
 ||lveodaz.icu^
 ||lvip.youku.com^
 ||lvnr.cn^
@@ -19741,6 +19747,7 @@ zzzyk.com###Tinfo
 ||outlookads.live.com^
 ||ouyaoxiazai.com/static/img/cqthree.gif
 ||ov8ct.icu^
+||ovcnmtk.top^
 ||oveakmqk.com^
 ||ovejqw.xyz^
 ||overture.com^
@@ -19916,6 +19923,7 @@ zzzyk.com###Tinfo
 ||peclevnl.icu^
 ||pefufv.xyz^
 ||peise.net/Skin/js/global.
+||pekr.cn^
 ||pengtu.cc^*.png
 ||pengwei168.com/addons/321.gif
 ||pengwei168.com/template/stui_tpl/html/vod/f.js
@@ -20478,6 +20486,7 @@ zzzyk.com###Tinfo
 ||quwkke.xyz^
 ||quyr.cn^
 ||quyuancn.com^$third-party
+||qvcnmty.top^
 ||qvir.cn^
 ||qvonje.cn^
 ||qvxtzi.xyz^
@@ -20691,6 +20700,7 @@ zzzyk.com###Tinfo
 ||rsyepnq.icu^
 ||rtb.voiceads.cn^
 ||rtbasia.com^
+||rtfgvz.icu^
 ||rtmonitor.kugou.com^
 ||rtroytj33.fun^
 ||rttnvz.xyz^
@@ -21718,6 +21728,7 @@ zzzyk.com###Tinfo
 ||thonkoirs.com^
 ||thoughtleadr.com^
 ||threkuth.com^
+||thricrulnf.com^
 ||thriseds.com^
 ||thruksyq.com^
 ||thrumulr.com^
@@ -22520,6 +22531,7 @@ zzzyk.com###Tinfo
 ||vrdfxioe.icu^
 ||vrelai.com^
 ||vreqnait.com^
+||vrevvaids.com^
 ||vriesziy.com^
 ||vrinqop.icu^
 ||vrrw.net//templets/default/js/ad.js
