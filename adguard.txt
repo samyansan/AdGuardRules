@@ -3,8 +3,8 @@
 ! Powerd by SamSan
 ! Description: Just a merged Adblock rule. Nothing more
 ! Expires: 6 hours (update frequency)
-! Version: 2025-04-24 20:18:04
-! Total count: 33037
+! Version: 2025-04-25 02:12:26
+! Total count: 33065
 
 ###ADtip
 ###Ad_windows
@@ -13493,6 +13493,7 @@ zzzyk.com###Tinfo
 ||ad-brix.com^
 ||ad-cache.dopool.com^
 ||ad-cdn.hrgame.com.cn^
+||ad-cdn.qingting.fm^
 ||ad-channel.wikawika.xyz^
 ||ad-cloud.jp^
 ||ad-count.adwo.com^
@@ -13988,6 +13989,7 @@ zzzyk.com###Tinfo
 ||ads.huantest.com^
 ||ads.icloseli.cn^
 ||ads.ign.com^
+||ads.inmobi.com^
 ||ads.intergi.com^
 ||ads.linkedin.com^
 ||ads.mdotm.com^
@@ -14654,6 +14656,7 @@ zzzyk.com###Tinfo
 ||anabcd.xyz^
 ||analy.tuniu.cn^
 ||analyse.weather.com.cn^
+||analysis.chatglm.cn^
 ||analysis.chinaiiss.com^
 ||analysis.yozocloud.cn^
 ||analysys.cn^
@@ -16510,6 +16513,7 @@ zzzyk.com###Tinfo
 ||cdn-ad.wtzw.com^
 ||cdn-ads.oss-cn-shanghai.aliyuncs.com^
 ||cdn-data-cloud.com/history/
+||cdn-f.adsmoloco.com^
 ||cdn-plugin-sync-upgrade-juui.hismarttv.com^
 ||cdn.7nsc.cn^
 ||cdn.adm.myhayo.com^
@@ -16521,6 +16525,7 @@ zzzyk.com###Tinfo
 ||cdn.haokongbu1.com^*.js
 ||cdn.holmesmind.com^$third-party
 ||cdn.hpplay.com.cn^
+||cdn.iads.unitychina.cn^
 ||cdn.imvkan.com^
 ||cdn.jiuzhilan.com^
 ||cdn.liftoff-creatives.io^
@@ -17123,6 +17128,7 @@ zzzyk.com###Tinfo
 ||conf.wifi.360.cn^
 ||config.ab.qq.com^
 ||config.chsmarttv.com^
+||config.inmobi.com^
 ||config.kuyun.com^
 ||config.unityads.unity3d.com^
 ||connect.facebook.net/en_US/fbevents.js$script,redirect=noopjs,domain=linetv.tw
@@ -17477,6 +17483,8 @@ zzzyk.com###Tinfo
 ||d.6xw.com^
 ||d.8181zx.com^
 ||d.ab126.com^
+||d.applovin.com^
+||d.applvn.com^
 ||d.dgzj.com^
 ||d.g.mi.com^
 ||d.kugou.com^
@@ -18795,6 +18803,7 @@ zzzyk.com###Tinfo
 ||esyliew.top^
 ||esyook.xyz^
 ||esyzdb.com^
+||et-eus.w.inmobi.com^
 ||et.w.inmobi.cn^
 ||etadult.com*/images/20
 ||etallkiq.com^
@@ -19906,6 +19915,7 @@ zzzyk.com###Tinfo
 ||gralfusnzpo006.top^
 ||gralfusnzpo009.top^
 ||grand.ele.me^
+||graph.facebook.com^
 ||grarnuns.com^
 ||graypay1.cn^
 ||greeknaturalcyprus.com^
@@ -21142,6 +21152,8 @@ zzzyk.com###Tinfo
 ||i-stats.ieurop.net^
 ||i.alipayobjects.com/i/ecmng/$image,domain=my.alipay.com
 ||i.imgur.com^$domain=av.movie
+||i.l-new.inmobicdn.net^
+||i.l.inmobicdn.net^
 ||i.wuhaolin.cn^
 ||i.zhuoyaju.com^
 ||i0.letvimg.com^
@@ -21571,6 +21583,7 @@ zzzyk.com###Tinfo
 ||importcat.com^
 ||impression-asia.chinaliftoff.io^
 ||impression-asia.liftoff.io^
+||impression.appsflyer.com^
 ||impservice*.yodao.com^
 ||impservice*.youdao.com^
 ||imrworldwide.com^
@@ -24652,7 +24665,11 @@ zzzyk.com###Tinfo
 ||mrutvncx.top^
 ||mrwen.xyz^
 ||mryang.cloud^
+||ms.applovin.com^
+||ms.applvn.com^
 ||ms.cnbanbao.com^
+||ms4.applovin.com^
+||ms4.applvn.com^
 ||msads.net^
 ||mscbsc.com/images/5g300x90.jpg
 ||msccabin.com^
@@ -25281,6 +25298,7 @@ zzzyk.com###Tinfo
 ||nzsknxo.cn^
 ||nzydzsw.com^
 ||nzydzsw.com^$third-party
+||o-sdk.mediation.unity3d.com^
 ||o.027eat.com^
 ||o.if.qidian.com^
 ||o.jy135.com^
@@ -26153,6 +26171,7 @@ zzzyk.com###Tinfo
 ||pro.hoye.letv.com^
 ||pro.iweihai.cn^
 ||pro.letv.com^
+||prod-mediate-events.applovin.com^
 ||production-eqbc.lvp.llnw.net^
 ||proewildfire.cn/fd.js
 ||proginn.com/cms/10000/
@@ -26928,6 +26947,7 @@ zzzyk.com###Tinfo
 ||res.pinpai8.cn^
 ||res.psy-1.com/music/recommend^$app=com.psyone.brainmusic
 ||res.vps234.com/resources/images/hosting-promotion/
+||res1.applovin.com^
 ||res1.hubcloud.com.cn^
 ||resolve.umeng.com^
 ||resolver.msg.global.xiaomi.net^
@@ -27096,6 +27116,8 @@ zzzyk.com###Tinfo
 ||rswqfiy.top^
 ||rsyepnq.icu^
 ||rsykksw.cn^
+||rt.applovin.com^
+||rt.applvn.com^
 ||rt354.cn^
 ||rtb.voiceads.cn^
 ||rtbasia.com^
@@ -27385,6 +27407,7 @@ zzzyk.com###Tinfo
 ||sdk-ab-config.qquanquan.com^
 ||sdk-cache.video.ptqy.gitv.tv^
 ||sdk.1rtb.net^
+||sdk.ad.smaato.net^
 ||sdk.beizi.biz^
 ||sdk.cferw.com^
 ||sdk.e.qq.com^
@@ -28426,6 +28449,7 @@ zzzyk.com###Tinfo
 ||supfree.net/top.gif
 ||supfree.net/xxx/
 ||supfree.net^$xmlhttprequest
+||supply.inmobicdn.net^
 ||suqiguoji.wang^
 ||suresdb.top^
 ||surls.cn^
@@ -28599,6 +28623,7 @@ zzzyk.com###Tinfo
 ||t-dsp.pinduoduo.com^
 ||t-e.flyme.cn^
 ||t-flow.flyme.cn^
+||t.applovin.com^
 ||t.appsflyer.com^
 ||t.beopinion.com^
 ||t.cn^$domain=28kys.com|92kvip.com
@@ -28796,6 +28821,7 @@ zzzyk.com###Tinfo
 ||teeniaole.com^
 ||tehxzz.xyz^
 ||telecome.cn^
+||telemetry.sdk.inmobi.com^
 ||tellapart.com^
 ||tencent-cloud.com/s9m1/12f70718c866ea3e5f22c68e6a34c54f.
 ||tencent-cloud.com/s9m1/54cb71aff82cfd690619065f2e31c346.
@@ -29181,6 +29207,7 @@ zzzyk.com###Tinfo
 ||tqpay.top^
 ||tqtqvb.xyz^
 ||tquspo.com^
+||tr-asia.adsmoloco.com^
 ||tr-metrics.loomia.com^
 ||tr.advance.net^
 ||tr.connatix.com^
@@ -30944,6 +30971,7 @@ zzzyk.com###Tinfo
 ||wuyouwangdian.com^
 ||wuzefei.top^
 ||wuzitao.xyz^
+||wv.inner-active.mobi^
 ||wvcdn.cn^
 ||wvcnmte.top^
 ||wvjjnb.cn^
