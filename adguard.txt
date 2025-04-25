@@ -3,8 +3,8 @@
 ! Powerd by SamSan
 ! Description: Just a merged Adblock rule. Nothing more
 ! Expires: 6 hours (update frequency)
-! Version: 2025-04-25 08:47:05
-! Total count: 33071
+! Version: 2025-04-25 14:14:00
+! Total count: 33083
 
 ###ADtip
 ###Ad_windows
@@ -4825,6 +4825,7 @@ boylove1.mobi##.main-banner
 boylove1.mobi##.sponsor-colse
 boylove1.mobi##div[data-group="300x100"]
 boyoushe.com##a[href^="http"]:not([href*=".boyoushe"]) > .j-lazy
+bqug8.com##.content > div[style^="position:"][class$="_b"]
 brandsales.58.com#@#div[id^="ad_"]
 breathofthewild-link.com#?#div[id^="cc-matrix-"] > div.j-htmlCode:has(> ins.adsbygoogle)
 briian.com###main > div[style="width:100%; height:auto; margin: 5px 0 15px; background:#FFFFFF; text-align:center; padding:7px 0 10px 4px;"]
@@ -13024,6 +13025,7 @@ zzzyk.com###Tinfo
 ||91160.com/nykj/f=static/v4/common/tj.js
 ||9129666tp.com^$domain=9xav.cc
 ||9136.com^
+||918000.xyz^
 ||9191.site/ad.js
 ||91avv8.com/vU18BNDYo1ktVpge.js
 ||91bixin.net/api/adv/
@@ -15907,6 +15909,8 @@ zzzyk.com###Tinfo
 ||bio-equip.com/uploadimages/peiqing.gif
 ||biohailijie.cn^
 ||bioon.com/xy/article/img/zhi_neng_xibao_fenxi.png
+||biqgg.com/n.
+||biqgg.com/w.
 ||biqgg.com/w.js?v=
 ||biqiuge8.cc/js/d
 ||biqiuge8.cc/js/p
@@ -19020,6 +19024,7 @@ zzzyk.com###Tinfo
 ||fcw45.com/js/layer1.js^
 ||fczunn.xyz^
 ||fd7c.com^
+||fd80s.com/static/m.
 ||fdasew.top^
 ||fdc.com.cn^*adv
 ||fdc.my0511.com^$script
@@ -22702,6 +22707,7 @@ zzzyk.com###Tinfo
 ||kaafu.cn^
 ||kadkaxjfeh.com^
 ||kagdf.com^
+||kai5741.xyz^
 ||kaiguangdou.com^
 ||kaipuyun.cn/count/
 ||kaivtv.cn^
@@ -26470,6 +26476,7 @@ zzzyk.com###Tinfo
 ||qidzwhfp.icu^
 ||qienews.cn^$third-party
 ||qifake.com^
+||qighodetfg.com^
 ||qiguoguo.net^
 ||qihehuo.cn^
 ||qiji1.jdwx.info^
@@ -26689,6 +26696,7 @@ zzzyk.com###Tinfo
 ||qtoidch.icu^
 ||qtroytj33.fun^
 ||qtrwwov.cn^
+||qtthehnor.com^
 ||qtywnoh.cn^
 ||quandangdang.net^
 ||quanin.xyz^
@@ -27659,6 +27667,7 @@ zzzyk.com###Tinfo
 ||shiruru.cn^
 ||shishishiguixinfangfuzhuangshanghan.cn^
 ||shitao.xyz^
+||shitouxs.com/static/042417.js
 ||shixiaofei864.cn^
 ||shiyaokejishanghai.com^
 ||shjk.xyz^
@@ -27935,6 +27944,7 @@ zzzyk.com###Tinfo
 ||snuoen.com^
 ||snxyf.com^$third-party
 ||snzfj.net^$third-party
+||so.91ks.online/asset/bd.js
 ||so.auto999.cn^
 ||so.com/com/ads?
 ||so.com/index/advertise
@@ -29959,6 +29969,7 @@ zzzyk.com###Tinfo
 ||userhead.szhomeimg.com^
 ||userimg.qunar.com^
 ||userlog.synapseip.tv^
+||usgo.chucaotang.net/ua.js
 ||usgowell.com^
 ||usgowell.org^
 ||ushaqi.com^
@@ -30323,6 +30334,7 @@ zzzyk.com###Tinfo
 ||vsznvtt.cn^
 ||vt.ipinyou.com^
 ||vt863.cn^
+||vtbe.cn^
 ||vtbfgnf00.fun^
 ||vtbkhl.icu^
 ||vtdgfisz.icu^
