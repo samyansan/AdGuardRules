@@ -3,8 +3,8 @@
 ! Powerd by SamSan
 ! Description: Just a merged Adblock rule. Nothing more
 ! Expires: 6 hours (update frequency)
-! Version: 2025-04-29 14:14:28
-! Total count: 33127
+! Version: 2025-04-29 20:19:15
+! Total count: 33139
 
 ###ADtip
 ###Ad_windows
@@ -1586,9 +1586,17 @@ $websocket,domain=wap.yushuwu.cloud
 .z.dkt-ib.com
 .zone/ads/
 /.*\.*\.shouji\.sogou\.com/
+/.*\.1rtb\.com/
 /.*\.a\.market\.xiaomi\.com/
+/.*\.ad\.gameley\.com/
+/.*\.adintl\.cn/
+/.*\.adx\.adwangmai\.com/
 /.*\.data\.hicloud\.com/
 /.*\.log\.aliyuncs\.com/
+/.*\.ubixioe\.com/
+/.*\.vlion\.cn/
+/.*\.yfanads\.com/
+/.*\.zhangyuyidong\.cn/
 //*.emgrt.com^$third-party
 //m.manhua123.net/js/com2.js
 /0mbjs/2800av*.js
@@ -13573,6 +13581,7 @@ zzzyk.com###Tinfo
 ||ad.funp.com^
 ||ad.fx168api.com^
 ||ad.gamebox.360.cn^
+||ad.gameley.com^
 ||ad.gametower.com.tw^
 ||ad.ganji.com^
 ||ad.gmw.cn^
@@ -13935,6 +13944,7 @@ zzzyk.com###Tinfo
 ||ads-api.twitter.com^
 ||ads-img-qc.xhscdn.com^
 ||ads-marketing-vivofs.vivo.com.cn^
+||ads-sdk-api.ranfenghd.com^
 ||ads-sg.tiktok.com^
 ||ads-twitter.com^
 ||ads-union.jd.com^
@@ -14241,6 +14251,7 @@ zzzyk.com###Tinfo
 ||adx.mala.cn^
 ||adx.maplehaze.cn^
 ||adx.sogaha.cn^
+||adx.tuia.cn^
 ||adx.xiaodutv.com^
 ||adx01.com^
 ||adxflow.com^
@@ -20378,6 +20389,7 @@ zzzyk.com###Tinfo
 ||hbzhurong.cn^
 ||hbzjht.com^
 ||hbzjht.com^$third-party
+||hc-ssp.sm.cn^
 ||hc.baidu.cn^
 ||hc.baidu.com^
 ||hc360.com/images/14826/289x90.jpg
@@ -24706,6 +24718,7 @@ zzzyk.com###Tinfo
 ||mscimg.com^
 ||msclick2.kuwo.cn^
 ||mscs.svaeuzh.cn^$third-party
+||msdk.voiceads.cn^
 ||msdn.hk/templets/msdn/*/gg.js
 ||msdn.hk/templets/msdn/css/index.js
 ||msdn.hk/templets/msdn/css/msdng.js
@@ -30862,7 +30875,6 @@ zzzyk.com###Tinfo
 ||wmpyuyj.cn^
 ||wmspw.com^
 ||wn.pos.baidu.com^
-||wn.x.jd.com^
 ||wn052ucd.online^
 ||wn68din.cn^
 ||wn6y.cn^
