@@ -3,8 +3,8 @@
 ! Powerd by SamSan
 ! Description: Just a merged Adblock rule. Nothing more
 ! Expires: 6 hours (update frequency)
-! Version: 2025-05-04 08:53:43
-! Total count: 32823
+! Version: 2025-05-04 14:13:09
+! Total count: 32826
 
 ###ADtip
 ###Ad_windows
@@ -867,7 +867,6 @@
 ##.pop[style="right: 10px;"]
 ##.popup + .shortcuts-m-overlay
 ##.popup + .shortcuts-mobile-overlay
-##.post-title + .metadata + .entry > div > div > a[href^="/"][href$="/"] > img
 ##.postmessage > #googleFirst
 ##.postmessage > #googleSecond
 ##.privilege-promote
@@ -1041,7 +1040,6 @@
 ##a.hengfu > img.hengfu
 ##a[clickmode="ad"]
 ##a[href$=".cc:8443"]
-##a[href$=".php"] > img[src*=".bcebos.com"]
 ##a[href$=".xyz:8443"]
 ##a[href$="/hjdt9.com"]
 ##a[href$="/xha77.com"]
@@ -1120,9 +1118,7 @@
 ##a[href*="kdocs.cn"] > img[src*=".ax1x.com/"]
 ##a[href*="kdocs.cn"] > img[src*="sstv."]
 ##a[href*="xchina.click/prepare."]
-##a[href="/bbs/"] > img[src*=".bcebos.com"]
 ##a[href="/e/member/register/index.php?tobind=0&groupid=1"]
-##a[href="/forum/"] > img[src*=".bcebos.com"]
 ##a[href="/gghtml/tyc.html"]
 ##a[href="/goto.php?url=hth"]
 ##a[href="/ht.html"]
@@ -1150,7 +1146,6 @@
 ##a[href^="javascript:gl012"] + img
 ##a[id][href*="/?aff="]
 ##a[id][href*="/?register="]
-##a[id][target="_blank"] > img[src*="help-ol.bj.bcebos.com"]
 ##a[onclick$="'clicked', 'ad');"]
 ##a[onclick*="/dasp.php?a="]
 ##a[onclick*="open"] > img[src*=".dailygn.com/"]
@@ -15718,6 +15713,7 @@ zzzyk.com###Tinfo
 ||beautylamp.cn^
 ||bebelait.com^
 ||bebi.com^
+||bebx.cn^
 ||bebxhcip.icu^
 ||becode.xiao84.com^
 ||bedzbu.xyz^
@@ -17281,6 +17277,7 @@ zzzyk.com###Tinfo
 ||crlsxny.xyz^
 ||crnmyrk.icu^
 ||crolerl.com^
+||croqoltdp.com^
 ||crosschannel.com^
 ||crossed.wang^
 ||crs.baidu.cn^
@@ -18504,6 +18501,7 @@ zzzyk.com###Tinfo
 ||ebook.meizu.com^
 ||ebook.res.meizu.com^
 ||ebp.renren.com^
+||ebroktean.com^
 ||ebrun.com/jfile/position/js/*.js
 ||ebsxlpv.cn^
 ||ebuysolar.com^
@@ -19032,6 +19030,7 @@ zzzyk.com###Tinfo
 ||ffjevt.icu^
 ||fflbpi.top^
 ||ffpp.xyz^
+||ffxe.cn^
 ||ffyyfy.top^
 ||fg-z.com^
 ||fgadsqdma.top^
@@ -22226,6 +22225,7 @@ zzzyk.com###Tinfo
 ||jnqiangzhi.xyz^
 ||jnsdkjzs.com^
 ||jnwuama.top^
+||jnwucna.top^
 ||jnxiacha.cn^
 ||jnxz66.cn^
 ||jnyngg.cn^
@@ -25267,6 +25267,7 @@ zzzyk.com###Tinfo
 ||okpl05011ai.com^
 ||okpl05021ai.com^
 ||okpl05030ai.com^
+||okpl05040ai.com^
 ||okpp01021.xyz^
 ||okpp01030.xyz^
 ||okpp01031.xyz^
@@ -26482,6 +26483,8 @@ zzzyk.com###Tinfo
 ||qqosk05020llo.com^
 ||qqosk05021llo.com^
 ||qqosk05030llo.com^
+||qqosk05031llo.com^
+||qqosk05040llo.com^
 ||qqq-www-987.site^
 ||qqq123987.site^
 ||qqqmmm.top^
@@ -31209,6 +31212,7 @@ zzzyk.com###Tinfo
 ||xjq.jxmqkj.com^
 ||xjsq.xyz^
 ||xjtosdof.icu^
+||xjvunf.top^
 ||xjwhtz10.com^
 ||xjwhtz2.com^
 ||xjwhtz3.com^
@@ -32153,7 +32157,6 @@ zzzyk.com###Tinfo
 ||yxhxs.com^
 ||yximgs.com/bs2/adcarsku/*.gif
 ||yximgs.com/bs2/adcarsku/sku1563a96c-38ca-4563-a4b5-522208113126.
-||yximgs.com/bs2/adcarsku/sku9c0e68cc-2f12-4e47-a340-a7293ee88c88.
 ||yxjcyxy.icu^
 ||yxjibph.cn^
 ||yxkzp.info^

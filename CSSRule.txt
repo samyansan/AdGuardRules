@@ -859,7 +859,6 @@
 ##.pop[style="right: 10px;"]
 ##.popup + .shortcuts-m-overlay
 ##.popup + .shortcuts-mobile-overlay
-##.post-title + .metadata + .entry > div > div > a[href^="/"][href$="/"] > img
 ##.postmessage > #googleFirst
 ##.postmessage > #googleSecond
 ##.privilege-promote
@@ -1033,7 +1032,6 @@
 ##a.hengfu > img.hengfu
 ##a[clickmode="ad"]
 ##a[href$=".cc:8443"]
-##a[href$=".php"] > img[src*=".bcebos.com"]
 ##a[href$=".xyz:8443"]
 ##a[href$="/hjdt9.com"]
 ##a[href$="/xha77.com"]
@@ -1112,9 +1110,7 @@
 ##a[href*="kdocs.cn"] > img[src*=".ax1x.com/"]
 ##a[href*="kdocs.cn"] > img[src*="sstv."]
 ##a[href*="xchina.click/prepare."]
-##a[href="/bbs/"] > img[src*=".bcebos.com"]
 ##a[href="/e/member/register/index.php?tobind=0&groupid=1"]
-##a[href="/forum/"] > img[src*=".bcebos.com"]
 ##a[href="/gghtml/tyc.html"]
 ##a[href="/goto.php?url=hth"]
 ##a[href="/ht.html"]
@@ -1142,7 +1138,6 @@
 ##a[href^="javascript:gl012"] + img
 ##a[id][href*="/?aff="]
 ##a[id][href*="/?register="]
-##a[id][target="_blank"] > img[src*="help-ol.bj.bcebos.com"]
 ##a[onclick$="'clicked', 'ad');"]
 ##a[onclick*="/dasp.php?a="]
 ##a[onclick*="open"] > img[src*=".dailygn.com/"]
