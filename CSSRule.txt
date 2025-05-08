@@ -1694,9 +1694,6 @@
 19lou.com,ihome99.com##.ad-300x30
 19lou.com,ihome99.com##.ad-980x90
 1avlang.com,avavl4.com,avlang.com##.index-info > .tac
-1ingatlan.net,xianguke.net###htmlContenthtml
-1ingatlan.net,xianguke.net##.app
-1ingatlan.net,xianguke.net##.dbfh
 1keydata.com#$##detect.ad-placement { display: block !important; }
 1kkk.com##.kk2.cc
 1kkk.com##.lanrenzhijia
@@ -2060,6 +2057,9 @@
 4gamers.com.tw##video[src^="https://img.4gamers.com.tw/ads-media/"]
 4gamers.com.tw#?#.aroma-news-detail-side > div[media-width]:has(div.aols-wrapper > a[target="_blank"][rel="noopener"])
 4gamers.com.tw#?#.container-fluid > .vue-portal-target:has(> div[style] > .aroma-news-detail-iframe-ads)
+4hrz.net,1ingatlan.net,xianguke.net,tetservices.net###htmlContenthtml
+4hrz.net,1ingatlan.net,xianguke.net,tetservices.net##.app
+4hrz.net,1ingatlan.net,xianguke.net,tetservices.net##.dbfh
 4hu.tv##.couplet-left
 4hu.tv##.wrap > div.mod > div.row > dl:has(> dt > a[target="_blank"]:not([href^="/html/"]) > img)
 4spaces.org,fuliba.net,fuliba2023.net,fuliba2025.net,uliba.net,ypojie.com##.widget_ui_orbui
@@ -7245,6 +7245,7 @@ news.ifeng.com##.right1
 news.lyd.com.cn##table[cellspacing="5"]:nth-child(3)
 news.lyd.com.cn##td[width="300px"] > table[width="300"] > tbody > tr:nth-last-child(n+2)
 news.mydrivers.com##.baidu_left
+news.mydrivers.com##.kkjgoods
 news.mydrivers.com##div[style="width:1000px;padding-top:16px;padding-bottom:12px;"]
 news.mydrivers.com#?#.news_info > p:has(> a[href^="https://dt.mydrivers.com/"])
 news.mydrivers.com#?#.news_info > p:has(> strong:contains(双11红包活动推荐))
