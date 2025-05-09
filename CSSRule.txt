@@ -8281,6 +8281,7 @@ smjb.net##div[style*="height: 50%"]
 smm.cn##.ad_front_container
 smm.cn##.common-jinzhu-wrap
 smm.cn##.top_taishan_jinzhu
+smsonline.cloud##.css-17anw56
 smzdm.com###footer_layer
 smzdm.com##.J_index_wall
 smzdm.com##.banner-stuff
@@ -8964,9 +8965,9 @@ video4k.cc#@#a[href*="/?aff="][target="_blank"]
 vidhub.me,vidhub.tv##.promotelink
 vidhub1.cc,vidhub.me,vidhub.tv##.adpwc
 vidhub1.cc,vidhub.me,vidhub.tv##.adwap
-vidhub1.cc,vidhub.me,vidhub.tv##.promolnk
-vidhub1.cc,vidhub.me,vidhub.tv##.promotelink
-vidhub1.cc,vidhub.me,vidhub.tv##div[class^="ad"]:has(> div[class^="prom"][style] > img[onclick^="window.open"])
+vidhub1.cc,vidhub.me,vidhub.tv##div:is([class^="ad"], [class*="pwc"]):has(> div[class^="prom"][style] > img[onclick^="window.open"])
+vidhub1.cc,vidhub.me,vidhub.tv##div[class^="prom"][class*="nk"][style]
+vidhub1.cc,vidhub.me,vidhub.tv##div[class^="prom"][style] > img[onclick^="window.open"]
 view.inews.qq.com#?#div[class^="_"]:-abp-has(>div[data-action-id]>div>.react-swipeable-view-container)
 vip.diaoyu18.com##.container > a[target="_blank"]
 vip.diaoyu18.com##.huadong > div[style="text-align: center;margin-bottom: 10px;"]

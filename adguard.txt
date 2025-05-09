@@ -3,8 +3,8 @@
 ! Powerd by SamSan
 ! Description: Just a merged Adblock rule. Nothing more
 ! Expires: 6 hours (update frequency)
-! Version: 2025-05-09 08:48:46
-! Total count: 32887
+! Version: 2025-05-09 14:14:41
+! Total count: 32898
 
 ###ADtip
 ###Ad_windows
@@ -1249,8 +1249,9 @@
 ##vg-pause-f
 #189
 #@#.has-ad
-$csp=script-src 'self' * 'unsafe-inline',domain=candoug.com|hanziwen.com|haduzw.com|modaoshu.com|nipubook.com|nuoshuge.com|puquz.com
-$csp=script-src 'self' * 'unsafe-inline',domain=tetservices.net|haitangsoshu.org|4hrz.net|x33yq.org|56xiaoshuo.net|novelser.com|ykxs.cc|biqudd.com|diyibanzhu44444.com|dbrxs.org|kaixindu.net|1ingatlan.net|gaofuwu.org|yushuwu.cloud|yswxs.com|biquge2345.com|dingdian911.com|bqug8.com|xianguke.net|kunnu.com|yourbiquge.com|biquge345.com|666biquge.com|biquwx.cc|1kans.net|aidu123.com|biquluo.info|bqgh.com|jmshuwu.net|maxshuku.com|shukuge.com|sthuojia.net|tvyun07.com|zk01.net
+$csp=script-src 'self' * 'unsafe-inline',domain=candoug.com|hanziwen.com|haduzw.com|modaoshu.com|nipubook.com|nuoshuge.com|puquz.com|wuwusk.com
+$csp=script-src 'self' * 'unsafe-inline',domain=m.6666xsw.com|m.chenkuan.com|m.jmshuwu.net|wodexiaoshuoh.com|tetservices.net|haitangsoshu.org|4hrz.net|x33yq.org|56xiaoshuo.net|novelser.com|ykxs.cc|biqudd.com|diyibanzhu44444.com|dbrxs.org|kaixindu.net|1ingatlan.net|gaofuwu.org|yushuwu.cloud|yswxs.com|biquge2345.com|dingdian911.com|bqug8.com|xianguke.net|kunnu.com|yourbiquge.com|biquge345.com|666biquge.com|biquwx.cc|1kans.net|aidu123.com|biquluo.info|bqgh.com|jmshuwu.net|maxshuku.com|shukuge.com|sthuojia.net|tvyun07.com|zk01.net
+$csp=script-src 'self' * 'unsafe-inline',domain=smsonline.cloud
 $csp=script-src 'self' *,domain=biqugezw.us
 $domain=ads.adxadserv.com|adserver.juicyads.com|cs.adxpansion.com|olmsoneenh.info|static.javhd.com|syndication.exosrv.com
 $domain=googleads.g.doubleclick.net
@@ -1260,7 +1261,6 @@ $object,script,subdocument,third-party,websocket,xmlhttprequest,domain=haitang30
 $popup,third-party,domain=76fengyun.com|avsdown.com|downdv.com|downdvs.com|downhhh.com|imedown.info|jandown.com|mimima.com|mnks.jxedt.com|rmdown.com|soyunpan.com|xmflv.com
 $script,subdocument,third-party,domain=dlkoo.com
 $script,subdocument,third-party,websocket,xmlhttprequest,domain=bhshu.net|louzhong8.com|miwens.com
-$script,subdocument,~third-party,websocket,xmlhttprequest,domain=m.6666xsw.com|m.chenkuan.com|m.jmshuwu.net|wodexiaoshuoh.com
 $script,third-party,denyallow=bsgslb.com|bytecdntp.com,domain=m.shuhaige.net
 $script,third-party,denyallow=cdn.yinghuazy.xyz|rsc.cdn77.org|linkvertise.com|fastly.net|statically.io|sharecast.ws|b-cdn.net|bunnycdn.ru|bootstrapcdn.com|cdn.ampproject.org|cloudflare.com|cdn.staticfile.org|disqus.com|disquscdn.com|dmca.com|ebacdn.com|facebook.net|fastlylb.net|fbcdn.net|fluidplayer.com|fontawesome.com|github.io|google.com|googleapis.com|googletagmanager.com|gstatic.com|jquery.com|jsdelivr.net|jwpcdn.com|jwplatform.com|recaptcha.net|shrink.pe|twitter.com|ulogin.ru|unpkg.com|userapi.com|vidazoo.com|vk.com|yastatic.net|ytimg.com|zencdn.net|youtube.com|cackle.me|googleoptimize.com|vuukle.com|chatango.com|twimg.com|google-analytics.com|hcaptcha.com|raincaptcha.com|media-imdb.com|blogger.com|hwcdn.net|instagram.com|wp.com|fastcomments.com|plyr.io|cloudflare.net|rabbitstream.net|x.com,_____,domain=mxdm.xyz
 $script,third-party,denyallow=myqcloud.com|bytecdntp.com|pddpic.com|googletagmanager.com,domain=yjys.me
@@ -1556,6 +1556,7 @@ $websocket,domain=wap.yushuwu.cloud
 .tw/ads/
 .uhi*uik.xyz/$script,third-party
 .us/js/ads/
+.uuso0*qhs.xyz/$script,third-party
 .vip/ads/
 .vip/gg/
 .vip/html/ddx.js
@@ -1696,7 +1697,7 @@ $websocket,domain=wap.yushuwu.cloud
 /\.(cc|com|top|xyz)\/i\/v$/$third-party,xmlhttprequest
 /\.(com|cn|top|xyz)\/(j|K)\/[0-9]{6}$/$script,third-party
 /\.(cyou|ink)\/[a-z]{4}_[0-9]{5}_[a-z]{5}js\?/$script,third-party
-/\.[a-z]+[\:\/]/$~image,third-party,domain=candoug.com|hanziwen.com|haduzw.com|modaoshu.com|nipubook.com|nuoshuge.com|puquz.com
+/\.[a-z]+[\:\/]/$~image,third-party,domain=candoug.com|hanziwen.com|haduzw.com|modaoshu.com|nipubook.com|nuoshuge.com|puquz.com|wuwusk.com
 /\.[a-z]cinma[a-z].top\//$script,third-party
 /\.[a-z]dinma[a-z].top\//$script,third-party
 /\.[a-z]dinmi[a-z].top\//$script,third-party
@@ -9919,6 +9920,7 @@ smjb.net##div[style*="height: 50%"]
 smm.cn##.ad_front_container
 smm.cn##.common-jinzhu-wrap
 smm.cn##.top_taishan_jinzhu
+smsonline.cloud##.css-17anw56
 smzdm.com###footer_layer
 smzdm.com##.J_index_wall
 smzdm.com##.banner-stuff
@@ -10621,9 +10623,9 @@ video4k.cc#@#a[href*="/?aff="][target="_blank"]
 vidhub.me,vidhub.tv##.promotelink
 vidhub1.cc,vidhub.me,vidhub.tv##.adpwc
 vidhub1.cc,vidhub.me,vidhub.tv##.adwap
-vidhub1.cc,vidhub.me,vidhub.tv##.promolnk
-vidhub1.cc,vidhub.me,vidhub.tv##.promotelink
-vidhub1.cc,vidhub.me,vidhub.tv##div[class^="ad"]:has(> div[class^="prom"][style] > img[onclick^="window.open"])
+vidhub1.cc,vidhub.me,vidhub.tv##div:is([class^="ad"], [class*="pwc"]):has(> div[class^="prom"][style] > img[onclick^="window.open"])
+vidhub1.cc,vidhub.me,vidhub.tv##div[class^="prom"][class*="nk"][style]
+vidhub1.cc,vidhub.me,vidhub.tv##div[class^="prom"][style] > img[onclick^="window.open"]
 view.inews.qq.com#?#div[class^="_"]:-abp-has(>div[data-action-id]>div>.react-swipeable-view-container)
 vip.diaoyu18.com##.container > a[target="_blank"]
 vip.diaoyu18.com##.huadong > div[style="text-align: center;margin-bottom: 10px;"]
@@ -15560,6 +15562,7 @@ zzzyk.com###Tinfo
 ||bchina-1.xsfaya.com^
 ||bcjxwlkj.com^
 ||bclimiv.top^
+||bcpxll.icu^
 ||bcquan.me/front/*_ad
 ||bcquan.me/front/*_game
 ||bcquan.me/front/home/render
@@ -17973,6 +17976,7 @@ zzzyk.com###Tinfo
 ||dlkoo.cc/down/copy
 ||dlkoo.com/down/$subdocument
 ||dlkoo.com/down/copy
+||dlngzx.top^
 ||dload.qd.qingting.fm^
 ||dlogs.bwton.com^
 ||dlovet.cn^
@@ -18906,6 +18910,7 @@ zzzyk.com###Tinfo
 ||facai383.oss-cn-guangzhou.aliyuncs.com^
 ||facebook.com/*/instream/vast.xml?*&pageurl=http*.4gtv.tv$script,xmlhttprequest,other,redirect=noopvast-2.0
 ||facebook.com/v2.6/plugins/video.$domain=storm.mg
+||fadjqqe.top^
 ||fafafa1.com^
 ||fafvvt.icu^
 ||fagrirtn.com^
@@ -21979,6 +21984,7 @@ zzzyk.com###Tinfo
 ||jgrkjp.cn^
 ||jgsqfkj.com^
 ||jgstny.com^$third-party
+||jguhqbe.top^
 ||jgvkxp.xyz^
 ||jgwsmqx.com^
 ||jgxirv.icu^
@@ -26459,6 +26465,7 @@ zzzyk.com###Tinfo
 ||qnvod.net/qna/
 ||qnvwjpr.icu^
 ||qnwuamy.top^
+||qnwucny.top^
 ||qo2.fun^
 ||qo4nkz03dy.cn^
 ||qogonsuqq.com^
@@ -29617,6 +29624,7 @@ zzzyk.com###Tinfo
 ||udolgy.xyz^
 ||udoshbt.top^
 ||udswai.xyz^
+||udyi.cn^
 ||ue.yeyoucdn.com^
 ||ue3jfw.com^
 ||ue4.store^
@@ -29780,6 +29788,7 @@ zzzyk.com###Tinfo
 ||uqbmzwv.cn^
 ||uqcktxp.icu^
 ||uqjflmw.cn^
+||uqkcqk.icu^
 ||uqykeq.xyz^
 ||uranus.jd.com^
 ||uranus.sogou.com^
@@ -29852,6 +29861,7 @@ zzzyk.com###Tinfo
 ||uuso05072qhs.xyz^
 ||uuso05080qhs.xyz^
 ||uuso05081qhs.xyz^
+||uuso05082qhs.xyz^
 ||uutytp.com^
 ||uuu9.com/photolog.html
 ||uuu9.tieba.com^$subdocument
@@ -30166,6 +30176,7 @@ zzzyk.com###Tinfo
 ||vtbkhl.icu^
 ||vtdgfisz.icu^
 ||vtfwgfo.cn^
+||vthruucceod.com^
 ||vtjbnb.xyz^
 ||vtlddz.cn^
 ||vtqhelleano.com^
