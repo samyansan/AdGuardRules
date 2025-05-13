@@ -1002,6 +1002,7 @@
 ##.xzbox-gh
 ##.y.mtw[style="padding: 0px 10px;"]
 ##.ya-normal-box-done
+##.yalayi_box
 ##.yt-ad-com
 ##.yueduad1
 ##.zhanzhang_tuijian_btn
@@ -2786,10 +2787,10 @@ axios-js.com###lagou-vip
 axios-js.com##.lessonlist
 axios-js.com##.recommand
 axios-js.com##.vultr-desc
-axutongxue.cn,axu.pages.dev,axutongxue.vip,axutongxue.com,axutongxue.net##body > :is(div, aside)[id]:has(> ul[class] > li > img.icon + a[href])
 axutongxue.com,axutongxue.net###jjjagl
 axutongxue.com,axutongxue.net##[style^="height:58px;"]
 axutongxue.net##body > article[style]
+axutongxue.onrender.com,axutongxue.space,axutongxue.cn,axu.pages.dev,axutongxue.vip,axutongxue.com,axutongxue.net##body > [id]:has(> ul[class] > li > img.icon + a[href])
 azofreeware.com###HTML7
 azofreeware.com,pttjoke.com###HTML3
 baby-kingdom.com##.right5
