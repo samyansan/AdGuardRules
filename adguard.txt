@@ -3,8 +3,8 @@
 ! Powerd by SamSan
 ! Description: Just a merged Adblock rule. Nothing more
 ! Expires: 6 hours (update frequency)
-! Version: 2025-05-19 14:15:08
-! Total count: 23773
+! Version: 2025-05-19 20:19:22
+! Total count: 23985
 
 ###ADtip
 ###Ad_windows
@@ -11624,6 +11624,8 @@ zzzyk.com###Tinfo
 ||13txt.net/js/ssgdd.
 ||141h.com/data/attachment/noblock/cf/
 ||1500020991.vodplayer.wxamedia.com^
+||1500022744.vodplayer.wxamedia.com^
+||1500026601.vodplayer.wxamedia.com^
 ||154.7.80.158^
 ||156.233.32.123^$third-party
 ||156xsw.com/css/js/tools.
@@ -12711,6 +12713,7 @@ zzzyk.com###Tinfo
 ||abody.39.net^
 ||above.tw/blog/wp-content/plugins/popups/public/assets/js/public.js
 ||absalomcsa.com^
+||abtest-ch.snssdk.com^
 ||ac*.786ip.com^
 ||ac*.faxingchina.com^
 ||ac*.pingguolv.com^
@@ -12774,6 +12777,8 @@ zzzyk.com###Tinfo
 ||ad-locus.com^
 ||ad-plus.cn^
 ||ad-scope.com.cn^
+||ad-scope.com^
+||ad-sdk-config.youdao.com^
 ||ad-sdk.huxiu.com^
 ||ad-stir.com^
 ||ad-survey.com^
@@ -12781,6 +12786,7 @@ zzzyk.com###Tinfo
 ||ad.12306.cn/res/*.html
 ||ad.12306.cn^
 ||ad.3.cn^
+||ad.51wnl.com^
 ||ad.52av.one^
 ||ad.52av.tv^
 ||ad.886112.xyz^
@@ -12798,6 +12804,7 @@ zzzyk.com###Tinfo
 ||ad.cdnjm.cn^
 ||ad.cmvideo.cn^
 ||ad.csdn.net^
+||ad.cyapi.cn^
 ||ad.digitimes.com.tw/*_bigbutton.jpg
 ||ad.docer.wps.cn^
 ||ad.doubleclick.net^
@@ -12822,6 +12829,7 @@ zzzyk.com###Tinfo
 ||ad.qn.img-space.com^
 ||ad.qq.com^
 ||ad.qun.qq.com^
+||ad.richmob.cn^
 ||ad.sina.com.cn^
 ||ad.szhsx.net^
 ||ad.tencentmusic.com^
@@ -12829,11 +12837,13 @@ zzzyk.com###Tinfo
 ||ad.toutiao.com^
 ||ad.u-car.com.tw^
 ||ad.unimhk.com^
+||ad.v3mh.com^
 ||ad.walkgame.com^
 ||ad.winrar.com.cn^
 ||ad.wretch.cc^
 ||ad.wurangxian.top^
 ||ad.xiaomi.com^
+||ad.ximalaya.com^
 ||ad.youku.com/vp?
 ||ad.zhangyue.com^
 ||ad.zijieapi.com^
@@ -12847,6 +12857,7 @@ zzzyk.com###Tinfo
 ||adadmin.house365.com^
 ||adadvisor.net^
 ||adap.tv^
+||adapi.izuiyou.com^
 ||adapi.yynetwk.com^
 ||adash-c.m.taobao.com^
 ||adash-c.ut.taobao.com^
@@ -12876,6 +12887,7 @@ zzzyk.com###Tinfo
 ||addalzq.com^
 ||addata.jd.com^
 ||addthis.com^
+||adeng.hpplay.cn^
 ||ader.mobi^
 ||adexp.chinaliftoff.io^
 ||adexp.liftoff.io^
@@ -12903,10 +12915,12 @@ zzzyk.com###Tinfo
 ||adirects.com^
 ||adition.com^
 ||adjb.5nd.com^
+||adjust.cn^
 ||adjust.com^
 ||adjust.io^
 ||adk2x.com^
 ||adkmob.com^
+||adkwai.com^
 ||adlink-api.huan.tv^
 ||adlive.cn^
 ||adlocus.com^
@@ -12961,9 +12975,12 @@ zzzyk.com###Tinfo
 ||adrs.sdo.com^
 ||ads*-normal*.zijieapi.com^
 ||ads-6686.top^
+||ads-api-o.api.leiniao.com^
 ||ads-api.tiktok.com^
+||ads-api.twitter.com^
 ||ads-img-al.xhscdn.com^
 ||ads-img-qc.xhscdn.com^
+||ads-jp.tiktok.com^
 ||ads-marketing-vivofs.vivo.com.cn^
 ||ads-sdk-api.ranfenghd.com^
 ||ads-sg.tiktok.com^
@@ -12975,6 +12992,7 @@ zzzyk.com###Tinfo
 ||ads.adaptv.advertising.com/*roll&pageUrl=4gtv.tv$script,xmlhttprequest,other,redirect=noopvast-2.0
 ||ads.csdn.net^
 ||ads.feedly.com^
+||ads.flurry.com^
 ||ads.genieessp.com^
 ||ads.gmodules.com^
 ||ads.google.cn^
@@ -12983,10 +13001,13 @@ zzzyk.com###Tinfo
 ||ads.huan.tv^
 ||ads.huantest.com^
 ||ads.icloseli.cn^
+||ads.inmobi.com^
 ||ads.linkedin.com^
+||ads.music.126.net^
 ||ads.pinterest.com^
 ||ads.pubmatic.com^
 ||ads.raidrive.com^
+||ads.servebom.com^
 ||ads.service.kugou.com^
 ||ads.sohu.com^
 ||ads.tiktok.com^
@@ -12998,10 +13019,12 @@ zzzyk.com###Tinfo
 ||ads.yahoo.com^
 ||ads.yeeyi.com^
 ||ads.youtube.com^
+||ads.zhinengxiyifang.cn^
 ||ads3-normal-hl.zijieapi.com^
 ||ads3-normal-lf.zijieapi.com^
 ||ads3-normal-lq.zijieapi.com^
 ||ads3-normal.zijieapi.com^
+||ads5-normal-hl.zijieapi.com^
 ||ads5-normal-lf.zijieapi.com^
 ||ads5-normal-lq.zijieapi.com^
 ||ads5-normal.zijieapi.com^
@@ -13015,6 +13038,8 @@ zzzyk.com###Tinfo
 ||adsclick.yx.js.cn^
 ||adsco.re^
 ||adsdk.vivo.com.cn^
+||adse.test.ximalaya.com^
+||adse.wsa.ximalaya.com^
 ||adse.ximalaya.com^
 ||adsebs.ximalaya.com^
 ||adsence.sogou.com^
@@ -13023,12 +13048,15 @@ zzzyk.com###Tinfo
 ||adserver.unityads.unity3d.com^
 ||adserver.yahoo.com^
 ||adservice.com^
+||adservice.google.cn^
 ||adservice.google.com^
 ||adservice.sigmob.cn^
 ||adserviceretry.kugou.com^
 ||adsfile.bssdlbig.kugou.com^
 ||adsfile.qq.com^
 ||adsfilebssdlbig.ali.kugou.com^
+||adsfileretry.service.kugou.com^
+||adsfs-sdkconfig.heytapimage.com^
 ||adsfs.oppomobile.com^
 ||adshownew.it168.com^
 ||adshows.21cn.com^
@@ -13054,6 +13082,7 @@ zzzyk.com###Tinfo
 ||adsv.svc.litv.tv/ads?ad_unit=$xmlhttprequest,redirect=noopvast-3.0,important,domain=ani.gamer.com.tw
 ||adsymptotic.com^
 ||adt.xdrig.com^
+||adtago.s3.amazonaws.com^
 ||adtaily.com^
 ||adtech.de^
 ||adtech.yahooinc.com^
@@ -13062,17 +13091,20 @@ zzzyk.com###Tinfo
 ||adtrack.quark.cn^
 ||adtrk.me^
 ||adui.tg.meitu.com^
+||adukwai.com^
 ||adunite.com^$third-party
 ||adups.com^
 ||adutp.com^$third-party
 ||aduu.cn^
 ||adv-sv-show.focus.cn^
 ||adv.ccb.com^
+||adv.fjtv.net^
 ||adv.sec.intl.miui.com^
 ||adv.sec.miui.com^
 ||advert.api.thejoyrun.com^
 ||advertising-api-eu.amazon.com^
 ||advertising-api-fe.amazon.com^
+||advertising-api.amazon.com^
 ||advertising.apple.com^
 ||advertising.com^
 ||advertising.yahoo.com^
@@ -13088,7 +13120,9 @@ zzzyk.com###Tinfo
 ||adx-ad.smart-tv.cn^
 ||adx-bj.anythinktech.com^
 ||adx-cn.anythinktech.com^
+||adx-drcn.op.dbankcloud.cn^
 ||adx-open-service.youku.com^
+||adx-os.anythinktech.com^
 ||adx.36kr.com^
 ||adx.ads.heytapmobi.com^
 ||adx.ads.oppomobile.com^
@@ -13099,6 +13133,7 @@ zzzyk.com###Tinfo
 ||adx.xiaodutv.com^
 ||adxlog-adnet.vivo.com.cn^
 ||adxmi.com^
+||adxserver.ad.cmvideo.cn^
 ||adxxx.info^$domain=avgle.com
 ||adyun.com^
 ||adyun.com^$third-party
@@ -13131,6 +13166,7 @@ zzzyk.com###Tinfo
 ||afp.wasu.tv^
 ||afqgqg4e.com^
 ||afqodjc.top^
+||afs.googlesyndication.com^
 ||afvrolvial.com^
 ||afzhan.com/JavaScript/ad_Couplet.js
 ||ag1.zuszw.com^
@@ -13174,6 +13210,7 @@ zzzyk.com###Tinfo
 ||airav.cc/static/js/*_ad.js
 ||airouba.com/public/js/global.js
 ||airpush.com^
+||aiseet.aa.atianqi.com^
 ||aishowbger.com^
 ||aisixiang.com/images/*-20
 ||aisy19.com/dm/
@@ -13373,6 +13410,7 @@ zzzyk.com###Tinfo
 ||analysis.chinaiiss.com^
 ||analysis.yozocloud.cn^
 ||analysys.cn^
+||analytics-api.samsunghealthcn.com^
 ||analytics-union.sandai.net^
 ||analytics-union.xunlei.com^
 ||analytics.126.net^
@@ -13395,6 +13433,7 @@ zzzyk.com###Tinfo
 ||analyze.lemurbrowser.com^
 ||ancelsqpv.com^
 ||android.bugly.qq.com^
+||andrqd.play.aiseet.atianqi.com^
 ||ane.yahoo.co.jp^
 ||anews7.nvwu.com^
 ||angelweb.cn/Inc/AngelG.js
@@ -13446,11 +13485,14 @@ zzzyk.com###Tinfo
 ||ap.dongqiudi.com^
 ||apd-pcdnwxlogin.teg.tencent-cloud.net^
 ||apd-pcdnwxnat.teg.tencent-cloud.net^
+||apd-pcdnwxstat.teg.tencent-cloud.net^
 ||api-a.ganjingworld.com/*/adsserver/get-vast-xml/
+||api-access.pangolin-sdk-toutiao.com^
 ||api-access.pangolin-sdk-toutiao1.com^
 ||api-access.pangolin-sdk-toutiao2.com^
 ||api-access.pangolin-sdk-toutiao3.com^
 ||api-access.pangolin-sdk-toutiao4.com^
+||api-access.pangolin-sdk-toutiao5.com^
 ||api-ad-product.huxiu.com^
 ||api-adservices.apple.com^
 ||api-deal.kechenggezi.com^
@@ -13460,11 +13502,13 @@ zzzyk.com###Tinfo
 ||api-htp.beizi.biz^
 ||api-push.meizu.com^
 ||api-z.weidian.com^
+||api.ad.xiaomi.com^
 ||api.apiimg.com/huaer/xiahe.js
 ||api.bilibili.com/x/ad/
 ||api.cupid.qiyi.com/etx?
 ||api.cupid.qiyi.com/track2
 ||api.dmcdn.net/all.js$domain=gotv.ctitv.com.tw
+||api.e.kuaishou.com^
 ||api.fu.xcultur.com^
 ||api.htp.hubcloud.com.cn^
 ||api.hzsanjiaomao.com^
@@ -13484,6 +13528,7 @@ zzzyk.com###Tinfo
 ||api.touch-moblie.com^
 ||api.wudizuqiu.com/72nba
 ||api.wudizuqiu.com/bocai.js
+||api.yfanads.com^
 ||api2.coolapk.com/v6/feed/detail$replace=/"_ids":\[.*?]\,"":\[.*?]\,/ /
 ||api2.coolapk.com/v6/feed/detail$replace=/\,"":{.*}/}}/
 ||api2.coolapk.com/v6/main/indexV8$replace=/{"entityType":"card"\,"entityTemplate":"listCard".*?}"}\,/ / 
@@ -13516,6 +13561,8 @@ zzzyk.com###Tinfo
 ||appboy.com^
 ||appc.baidu.cn^
 ||appc.baidu.com^
+||appcfg.v.qq.com^
+||appcloud2.in.zhihu.com^
 ||appdriver.cn^
 ||appier.net^
 ||appimg.0575bbs.com^
@@ -13527,10 +13574,12 @@ zzzyk.com###Tinfo
 ||applifier.com^
 ||applift.com^
 ||applinzi.com^$domain=soyunpan.com
+||applog.lc.quark.cn^
 ||applog.uc.cn^
 ||applog.zijieapi.com^
 ||applogapi.autohome.com.cn^
 ||applovin.com^
+||applvn.com^
 ||apppc.chinaz.com/statics/images/tuan
 ||appsflyer.com^
 ||apptry.easylife.tw/pub/js/common/common.js
@@ -13580,6 +13629,7 @@ zzzyk.com###Tinfo
 ||astrill.com/bnrs/
 ||asyy6.com/dm/
 ||at*.doubanio.com^
+||ata-sdk-uuid-report.dreport.meituan.net^
 ||atanx.alicdn.com^
 ||atanx2.alicdn.com^
 ||atas.io^
@@ -13694,6 +13744,7 @@ zzzyk.com###Tinfo
 ||bad996.com/dakaads.js
 ||badad.googleplex.com^
 ||badding.oss-ap-southeast-1.aliyuncs.com^
+||badjs.weixinbridge.com^
 ||badmintoncn.com/cbo_include/js/cboaaa.js
 ||baggvon.icu^
 ||bahamut.com.tw/js/ad.js
@@ -13919,6 +13970,8 @@ zzzyk.com###Tinfo
 ||bdad.123pan.cn^
 ||bdad.gaotie.net^
 ||bdamcsv.top^
+||bdapi-ads.realmemobile.com^
+||bdapi-in-ads.realmemobile.com^
 ||bdapi.ads.oppomobile.com^
 ||bdasd.chdbook.cn^
 ||bdasd.chinabig.com.cn^
@@ -14003,6 +14056,7 @@ zzzyk.com###Tinfo
 ||beacon.qq.com^
 ||beacon.tingyun.com^
 ||beaconcdn.qq.com^
+||beacons.gvt2.com^
 ||beap-bc.yahoo.com^
 ||beareyes.com.cn/2/cat/js/*_centerl
 ||beareyes.com.cn/2/cat/js/*_right
@@ -14103,6 +14157,7 @@ zzzyk.com###Tinfo
 ||binga01.shop^
 ||binga03.shop^
 ||binga07.shop^
+||bingads.microsoft.com^
 ||bio-equip.com/dimg/
 ||bio-equip.com/dimgs/
 ||bio-equip.com/uploadimages/peiqing.gif
@@ -14196,6 +14251,7 @@ zzzyk.com###Tinfo
 ||bookben.com/js/m/wap.js
 ||booking.com^$domain=honglingjin.co.uk|sunnylife.tw
 ||bookrb.com/images/jtt
+||books-analytics-events.apple.com^
 ||books.com.tw/exep/ap/$third-party
 ||books.com.tw/web/apActivityStick?
 ||booktxt.net/js/easyAD
@@ -14232,6 +14288,7 @@ zzzyk.com###Tinfo
 ||brircel.com^
 ||bro.flyme.cn^
 ||brornaeq.com^
+||browsercfg-drcn.cloud.dbankcloud.cn^
 ||brtlisv.top^
 ||brucelead.com^
 ||brulpha.com^
@@ -14445,6 +14502,7 @@ zzzyk.com###Tinfo
 ||ccav5.com/static/js/floatImgAd.js
 ||ccb.com.cn/V5/images5/left0.gif
 ||ccb.com.cn/V5/images5/right0.gif
+||ccc-x.jd.com^
 ||ccccc66kkkkk.com^
 ||ccccc67kkkkk.com^
 ||ccccc78kkkkk.com^
@@ -14460,6 +14518,7 @@ zzzyk.com###Tinfo
 ||ccobksxz.icu^
 ||ccokamif.top^
 ||ccoo.cn/mystat.asp
+||ccs.umeng.com^
 ||cctime.com/UpLoadFile/201*.gif
 ||cctv.adsunion.com^
 ||cctv.com/Library/a2.js
@@ -14482,6 +14541,8 @@ zzzyk.com###Tinfo
 ||cdn-ads.oss-cn-shanghai.aliyuncs.com^
 ||cdn-data-cloud.com/history/
 ||cdn-f.adsmoloco.com^
+||cdn-plugin-sync-upgrade-juui.hismarttv.com^
+||cdn.ad.xiaomi.com^
 ||cdn.aiclk.com^
 ||cdn.chinaliftoff-creatives.io^
 ||cdn.galacg.me/img/*.gif
@@ -14489,6 +14550,7 @@ zzzyk.com###Tinfo
 ||cdn.haocaa.com^
 ||cdn.haokongbu1.com^*.js
 ||cdn.holmesmind.com^$third-party
+||cdn.hpplay.com.cn^
 ||cdn.iads.unitychina.cn^
 ||cdn.jiuzhilan.com^
 ||cdn.liftoff-creatives.io^
@@ -14735,9 +14797,11 @@ zzzyk.com###Tinfo
 ||click.chinaliftoff.io^
 ||click.dangdang.com^
 ||click.ganji.com^
+||click.googleanalytics.com^
 ||click.hd.sohu.com^
 ||click.hm.baidu.com^
 ||click.hunantv.com^
+||click.liftoff.io^
 ||click.oneplus.cn^
 ||click.qianqian.com^
 ||click.taobao.com^$popup,domain=steamcn.com
@@ -14759,6 +14823,7 @@ zzzyk.com###Tinfo
 ||clkservice.youdao.com^
 ||clkwnl.xyz^
 ||clmcam.xyz^
+||clog.miguvideo.com^
 ||cloud.tencent.com/developer/api/common/getAds
 ||cloud.tencent.com/developer/api/common/getOneAds
 ||clouddn.com/960x60.gif
@@ -14870,6 +14935,7 @@ zzzyk.com###Tinfo
 ||commondisplay-a.akamaihd.net/cri/*.htm?cat=
 ||commonwealthproficient.com^
 ||con-article.hjapi.com/v1/txs/
+||conf.hpplay.cn^
 ||config.chsmarttv.com^
 ||config.inmobi.com^
 ||config.unityads.unity3d.com^
@@ -15166,6 +15232,7 @@ zzzyk.com###Tinfo
 ||dat1.jzjxmj.com^$third-party
 ||data.ads.oppomobile.com^
 ||data.chsmarttv.com^
+||data.mistat.india.xiaomi.com^
 ||data.mistat.rus.xiaomi.com^
 ||data.mistat.xiaomi.com^
 ||data.waptime.cn^
@@ -15191,6 +15258,7 @@ zzzyk.com###Tinfo
 ||dbw.cn/eap/js/hl/hlj_ad
 ||dc.letv.com^
 ||dc.meitustat.com^
+||dc.sigmob.cn^
 ||dcads.sina.com.cn^
 ||dchdmhf.cn^
 ||dchyjb.xyz^
@@ -15381,6 +15449,7 @@ zzzyk.com###Tinfo
 ||dm.lianzhixiu.com^
 ||dm.pw0.cn^
 ||dm.sanwen.net^
+||dm.toutiao.com^
 ||dm.wenshenxiu.com^
 ||dm.zjut.cc^
 ||dm.zuowenku.net^
@@ -15440,6 +15509,7 @@ zzzyk.com###Tinfo
 ||doko.moe^$domain=pantsu.cat
 ||dol.tianya.cn^
 ||dol.tianyaui.cn^
+||domain.aishengji.com^
 ||domain1.chahaoba.cn^
 ||domob.cn^
 ||domob.com.cn^
@@ -15457,6 +15527,7 @@ zzzyk.com###Tinfo
 ||douban.com^*/fm_bgad.js
 ||doubanio.com/view/photo/l/public/p2891976611.
 ||doubanio.com^*/js/ad.
+||doubleclick-cn.net^
 ||doubleclick.com^
 ||doubleclick.ctfile.com^
 ||doubleclick.net^
@@ -15595,6 +15666,7 @@ zzzyk.com###Tinfo
 ||dup.baidustatic.com^
 ||dupzbh.icu^
 ||dushiyanqing.net/mobile/lib/ccppcc.js
+||dutils.com^
 ||duuddots.com^
 ||duyewnf.icu^
 ||duyhlct.icu^
@@ -15655,6 +15727,7 @@ zzzyk.com###Tinfo
 ||dzwww.com/k.js
 ||dzzdspiu.icu^
 ||e.aa985.cn^
+||e.ad.xiaomi.com^
 ||e.baidu.cn^
 ||e.baidu.com^
 ||e.changyan.sohu.com/dataService/getData?
@@ -15792,6 +15865,7 @@ zzzyk.com###Tinfo
 ||eeyy.com/templates/js/popback.js
 ||eeyy.com/uploadfile/img/beitou
 ||eeyy.com^$third-party
+||ef-dongfeng.tanx.com^
 ||ef9i0f3oev47.com^
 ||effectivemeasure.com^
 ||effectivemeasure.net^
@@ -16238,6 +16312,8 @@ zzzyk.com###Tinfo
 ||fzpchome.com/txt/$script
 ||fzpzrqou.icu^
 ||fzxiaoshuo.com/source/
+||g-adnet.hiaiabc.com^
+||g-staic.ganjingworld.com^
 ||g-years.com/gy/
 ||g-years.com/tb/
 ||g.163.com/*&affiliate=
@@ -16262,6 +16338,7 @@ zzzyk.com###Tinfo
 ||g1.tagtic.cn^
 ||g1.taijuba.com^
 ||g11edashb1.fun^
+||g2.ganjing.world^
 ||g2ak5.com^
 ||g3.letv.com^
 ||g3f3.com/love/
@@ -16388,7 +16465,9 @@ zzzyk.com###Tinfo
 ||gesvfvfhhb6.fun^
 ||getitfree.cn/wp-content/plugins/adunblocker/*.js
 ||getitfree.cn/wp-content/plugins/anti-
+||getui.cn^
 ||getui.com^
+||getui.net^
 ||geuba.xyz^
 ||gewqashbwq.fun^
 ||gexing.com/i/*960x
@@ -16474,6 +16553,7 @@ zzzyk.com###Tinfo
 ||glgoo.*/gimage/ad/
 ||gliacloud.com/player/adgeek_teep
 ||glispa.com^
+||globalapi.ad.xiaomi.com^
 ||glzy8.com/img/ceo/js.js
 ||gma.alicdn.com^
 ||gmbbk.com/bbsgmbbk/
@@ -16523,7 +16603,9 @@ zzzyk.com###Tinfo
 ||google-js-08.xyz^
 ||google-js-09.xyz^
 ||googleads.g.doubleclick-cn.net^
+||googleads.g.doubleclick.com^
 ||googleads.g.doubleclick.net/pagead/ads$subdocument,redirect=noopframe,domain=rjno1.com,important
+||googleads.g.doubleclick.net^
 ||googleadservices-cn.com^
 ||googleadservices.com^
 ||googleadsserving.cn^
@@ -16534,6 +16616,7 @@ zzzyk.com###Tinfo
 ||googletagservices-cn.com^
 ||googletagservices.com/tag/js/gpt.js$script,redirect=googletagservices-gpt,domain=ani.gamer.com.tw
 ||googletagservices.com/tag/js/gpt.js$script,redirect=googletagservices-gpt,domain=gamer.com.tw,important
+||googletagservices.com^
 ||goole20.shop^
 ||goole24.shop^
 ||goosedaily.com/advertise/
@@ -16582,6 +16665,8 @@ zzzyk.com###Tinfo
 ||grondrens.com^
 ||growingio.com^
 ||grs.dbankcloud.com^
+||grs.hicloud.com^
+||grs.platform.dbankcloud.ru^
 ||grtimed.com/material/*_960x110_
 ||gsdedash9b.fun^
 ||gsdpw.com/file/script/A
@@ -16664,6 +16749,7 @@ zzzyk.com###Tinfo
 ||guqransoq.com^
 ||guqu.net/Cooperate/
 ||gushiwen.org/getTicket.aspx
+||gvideo.qpic.cn^
 ||gvvedashb6.fun^
 ||gw2cddpt2hao.asia^
 ||gw2cddpt2hao.cloud^
@@ -16686,6 +16772,7 @@ zzzyk.com###Tinfo
 ||gzhying1.cn^$third-party
 ||gzzkjdam.cn^$third-party
 ||gzzza.com/html/
+||h-adashx.ut.taobao.com^
 ||h.trace.qq.com^
 ||h0d.icu^
 ||h1.cfxinxi.cn^
@@ -16771,6 +16858,7 @@ zzzyk.com###Tinfo
 ||hboav.com/guga/images/$xmlhttprequest,redirect=nooptext
 ||hbxmdf.icu^
 ||hbzjht.com^$third-party
+||hc-ssp.sm.cn^
 ||hc.baidu.cn^
 ||hc.baidu.com^
 ||hc360.com/images/14826/289x90.jpg
@@ -16987,6 +17075,7 @@ zzzyk.com###Tinfo
 ||houstonbbs.com/data/ad/
 ||houvxliu.top^
 ||houyi.baofeng.net^*.html
+||houyi.kkmh.com^
 ||hov15.icu^
 ||howbuy.com/subject/js/jquery.blockUI.js
 ||howbuy.com/subject/js/layer/layer.js
@@ -17119,6 +17208,7 @@ zzzyk.com###Tinfo
 ||hvddxj.icu^
 ||hvrunsqqy.com^
 ||hvuqkb.cn^
+||hw-ot-ad.a.yximgs.com^
 ||hw-p2p*pull*com^
 ||hw-p2p-pull.live-voip.com^
 ||hw-p2p-pull.video-voip.com^
@@ -17146,9 +17236,11 @@ zzzyk.com###Tinfo
 ||hy.huangye88.net^
 ||hy5.com.cn/admin/
 ||hy90.cn^
+||hya.comp.360os.com^
 ||hybase.com/ckjs/
 ||hybase.com/images/hysq99.png
 ||hybbs.com/i/$image,object
+||hybrid.miniapp.taobao.com^
 ||hydra.alibaba.com^
 ||hye.comp.360os.com^
 ||hyhy2.fun^
@@ -17171,6 +17263,7 @@ zzzyk.com###Tinfo
 ||i-part.com.tw/js2/newShineStar
 ||i.alipayobjects.com/i/ecmng/$image,domain=my.alipay.com
 ||i.imgur.com^$domain=av.movie
+||i.l-new.inmobicdn.net^
 ||i.l.inmobicdn.net^
 ||i0.letvimg.com^
 ||i100.cao-gao.xyz/aimgs/
@@ -17184,6 +17277,7 @@ zzzyk.com###Tinfo
 ||i8tq.com/adImg/
 ||iabao.com/sladewap.js
 ||iad.apple.com^
+||iadctest.qwapi.com^
 ||iadmatvideo.nosdn.127.net^
 ||iads.xinmin.cn^
 ||iadsdk.apple.com^
@@ -17353,6 +17447,8 @@ zzzyk.com###Tinfo
 ||ilzies.com^
 ||im.1vkx.cn/uploads/images/*.gif$third-party
 ||im286.net/286/
+||imag8.pubmatic.com^
+||imag86.pubmatic.com^
 ||image-ad.sm.cn^
 ||image-shop.baidu.com/n/imageproduct?
 ||image.39.net/style/
@@ -17393,6 +17489,7 @@ zzzyk.com###Tinfo
 ||img.3sjt.com^
 ||img.911787.com^
 ||img.adnyg.com.w.kunlungr.com^
+||img.adnyg.com^
 ||img.eol.cn/images/ed/$~image
 ||img.ferlie.net^
 ||img.ferlie.net^$domain=wangchao.net.cn
@@ -17475,6 +17572,7 @@ zzzyk.com###Tinfo
 ||imp.xgo.com.cn^
 ||imp.zol.com.cn^
 ||impression-asia.chinaliftoff.io^
+||impression-asia.liftoff.io^
 ||impression.appsflyer.com^
 ||impservice*.yodao.com^
 ||impservice*.youdao.com^
@@ -17521,6 +17619,7 @@ zzzyk.com###Tinfo
 ||iocoder.cn/alert/js/alert.js
 ||ios-informationplatform.wps.cn^
 ||iot-eu-logser.realme.com^
+||iot-logser.realme.com^
 ||ioublio.top^
 ||iouvxlio.top^
 ||ioykmxa.icu^
@@ -17652,6 +17751,7 @@ zzzyk.com###Tinfo
 ||ittaels.com^
 ||ituba.cc/uploads/allimg/201610/603/
 ||itv.hexun.com
+||itv2-up.openspeech.cn^
 ||itxueyuan.com/advPicture/
 ||itxueyuan.com^*.mp4
 ||iucnwto.top^
@@ -17938,6 +18038,7 @@ zzzyk.com###Tinfo
 ||jpg1.oss-cn-beijing.aliyuncs.com^
 ||jpush.cn^
 ||jpush.html5.qq.com^
+||jpush.io^
 ||jpwsuix.icu^
 ||jpysvip.net/ad/
 ||jqsex.com^
@@ -18241,6 +18342,7 @@ zzzyk.com###Tinfo
 ||kkpgv2.xunlei.com^
 ||kl.67it.com^
 ||klandmart.com/K-Landmart_0011.jpg
+||klink.volceapplog.com^
 ||klkk66.fun^
 ||klmohbk.icu^
 ||kloojzn.icu^
@@ -18298,6 +18400,7 @@ zzzyk.com###Tinfo
 ||ks-p2p*pull*com^
 ||ks-p2p-v2.pull.yximgs.com^
 ||ks-p2p.pull.yximgs.com^
+||ks.ferlytc.com^
 ||ks.pull.yximgs.com^
 ||kspl48j.xyz^
 ||ksro.cn^
@@ -18411,6 +18514,8 @@ zzzyk.com###Tinfo
 ||laowang81.com/getfuolist
 ||laowangblog.com^*-ad
 ||laozuo.org/banner/
+||launcher.smart-tv.cn^
+||launcherimg.smart-tv.cn^
 ||law-lib.com/wstyle/images/gffirm.jpg
 ||lawtv.com.cn/jd_ceshi.html
 ||lawtv.com.cn/skin/newplayer/ads_dianshi.php
@@ -18551,6 +18656,7 @@ zzzyk.com###Tinfo
 ||lipheak.com^
 ||liqw.cn^
 ||lirretsn.com^
+||litchiads.com^
 ||liu16.com/vip.png
 ||liuxue86.com/css/liuxue_output.js
 ||liuxue86.com/js/ideng/liuxue-show
@@ -18560,6 +18666,8 @@ zzzyk.com###Tinfo
 ||liveadvert.com^
 ||liveany.com/images/8d8d.gif
 ||liveats-vod.video.ptqy.gitv.tv^
+||livemonitor.huan.tv^
+||livep.l.aiseet.atianqi.com^
 ||livep.l.qq.com^
 ||lives.l.aiseet.atianqi.com^
 ||lives.l.ott.video.qq.com^
@@ -18620,14 +18728,19 @@ zzzyk.com###Tinfo
 ||log-api.pangolin-sdk-toutiao-b.com^
 ||log-api.pangolin-sdk-toutiao.com^
 ||log-report.com^
+||log-sdk.gifshow.com^
 ||log-sdk.ksapisrv.com^
+||log-upload-os.hoyoverse.com^
 ||log-upload.mihoyo.com^
 ||log-verify.dutils.com^
 ||log-verify.hiaiabc.com^
 ||log.ad.xiaomi.com^
 ||log.aispeech.com^
+||log.amemv.com^
 ||log.appstore3.huan.tv^
 ||log.avlyun.com^
+||log.avlyun.sec.intl.miui.com^
+||log.byteoversea.com^
 ||log.cs.pp.cn^
 ||log.daqi.com^
 ||log.fc.yahoo.com^
@@ -18639,6 +18752,8 @@ zzzyk.com###Tinfo
 ||log.music.baidu.com^
 ||log.nuomi.com^
 ||log.outbrain.com^
+||log.pinterest.com^
+||log.popin.cc^
 ||log.snssdk.com^
 ||log.stat.kugou.com^
 ||log.tagtic.cn^
@@ -18647,6 +18762,7 @@ zzzyk.com###Tinfo
 ||log.vcgame.cn^
 ||log.vdisk.cn^
 ||log.web.kugou.com^
+||log.zijieapi.com^
 ||log1.17173.com^
 ||log1.cmpassport.com^
 ||log2.mtime.cn^
@@ -18661,6 +18777,7 @@ zzzyk.com###Tinfo
 ||logservice1.hicloud.com^
 ||logstat.t.sfht.com^
 ||logtj.kugou.com^
+||logupdate.avlyun.sec.miui.com^
 ||loldyttw.com/blr.js
 ||loldyttw.com/skin/lol/js/ds.js
 ||loli.io^$domain=kisssub.org
@@ -18722,6 +18839,7 @@ zzzyk.com###Tinfo
 ||lucnwtl.top^
 ||lufax.com^
 ||lui8426.xyz^
+||luimg.baidu.com^
 ||lumnxiel.top^
 ||lumvkebr.icu^
 ||lunhua5.com/images/more.gif
@@ -18773,6 +18891,7 @@ zzzyk.com###Tinfo
 ||lzp.plus^
 ||lzyysw.com/upload/
 ||lzzqfj.xyz^
+||m-adnet.hiaiabc.com^
 ||m.12306media.com^
 ||m.20mao.com/*/BOT.js
 ||m.20mao.com/*/Head.js
@@ -18801,6 +18920,7 @@ zzzyk.com###Tinfo
 ||m.iyinghua.com/js/js/historr.js
 ||m.k1k.cc/wap/js/indexbottom.js
 ||m.kankanwu.com/js/
+||m.kubiqq.com^
 ||m.kukudm.com/mg/show1.js
 ||m.kukudm.com/mg/show2.js
 ||m.lelekan.com/sp/
@@ -18995,9 +19115,12 @@ zzzyk.com###Tinfo
 ||mestrip.com/widgets/
 ||meta.video.qiyi.com^
 ||meteor.today/ad/
+||metrics.apple.com^
 ||metrics.data.hicloud.com^
+||metrics.icloud.com^
 ||metrics.mzstatic.com^
 ||metrics2.data.hicloud.com^
+||metrika.yandex.ru^
 ||metvb.com/js/bofangwei.js
 ||mevedyru.com^
 ||mewrutx.top^
@@ -19026,7 +19149,9 @@ zzzyk.com###Tinfo
 ||miaoshangmanhua.com/template/pc/skin01/images/250_250.
 ||miaozhen.com^
 ||miaozhen.com^$third-party
+||miav-cse.avlyun.com^
 ||micaitu.net/js/dibu.js
+||micro-xdb.com^
 ||microad-cn.com^
 ||microcontrol.cn/HomeImages/AD/
 ||micropage.cn/images/ad_
@@ -19050,7 +19175,9 @@ zzzyk.com###Tinfo
 ||mima.club/tuijian/speedtest/
 ||mime.baidu.com^
 ||mimg.126.net^
+||mine.baidu.com^
 ||minfo.wps.cn^
+||mini-prog-drm.vodplayvideo.net^
 ||mini.hao123.com^
 ||minidcsc.kugou.com^
 ||minisite.letv.com^
@@ -19063,6 +19190,7 @@ zzzyk.com###Tinfo
 ||mipengine.baidu.com/common?
 ||mipujia.com^$third-party
 ||missevan.com^$domain=jijidown.com
+||mission-pub.smart-tv.cn^
 ||missyuan.com/sy/
 ||mitbbs.*/servicedata/static_ad.php
 ||mitbbs.ca/ad_
@@ -19140,7 +19268,9 @@ zzzyk.com###Tinfo
 ||mobileads.msn.com^
 ||mobileadtrading.com^
 ||mobilelog.kugou.com^
+||mobilelog.upqzfile.com^
 ||mobilemsg.youku.com^
+||mobileservice.cn^
 ||mobilityware.com^
 ||mobisage.cn^
 ||mobvista.com^
@@ -19157,9 +19287,13 @@ zzzyk.com###Tinfo
 ||momoguoji.xyz^
 ||momoshop.com.tw/goods/GoodsDetail.jsp?$subdocument
 ||momoshop.com.tw/league/$domain=beephone.com.tw
+||mon.zijieapi.com^
 ||moneyweekly.com.tw/UC/JQueryJson.aspx/MwAD
 ||moneyweekly.com.tw/Uploads/AD/*970x
 ||mongoosejs.net/docs/images/lagoujika.jpeg
+||monitor-ads-test.huan.tv^
+||monitor-uu.play.aiseet.atianqi.com^
+||monitor.music.qq.com^
 ||monitor.qq.com^
 ||monitor.uu.qq.com^
 ||monnsutogatya.com/himg/monst/
@@ -19203,8 +19337,10 @@ zzzyk.com###Tinfo
 ||mrtlisx.top^
 ||mrutvncx.top^
 ||ms.applovin.com^
+||ms.applvn.com^
 ||ms.cnbanbao.com^
 ||ms4.applovin.com^
+||ms4.applvn.com^
 ||msads.net^
 ||mscbsc.com/images/5g300x90.jpg
 ||msclick2.kuwo.cn^
@@ -19697,6 +19833,8 @@ zzzyk.com###Tinfo
 ||opdh.cn^
 ||open.e.kuaishou.cn^
 ||open.e.kuaishou.com^
+||open.kuaishouzt.com^
+||open.kwaizt.com^
 ||open.snssdk.com^
 ||openapi-news.meizu.com^
 ||openinstall.io^$third-party
@@ -19716,6 +19854,7 @@ zzzyk.com###Tinfo
 ||oqea.cn^
 ||oqidsgkq.com^
 ||oqipegjz.icu^
+||orbit.jd.com^
 ||orcinhyi.com^
 ||orkreats.com^
 ||orodsmnu.com^
@@ -19736,6 +19875,7 @@ zzzyk.com###Tinfo
 ||osyliek.top^
 ||otfy.cn^
 ||oth.eve.mdt.qq.com^
+||oth.str.mdt.qq.com^
 ||other.v.duowan.com^
 ||otheve.play.aiseet.atianqi.com^
 ||otimiyk.top^
@@ -19797,11 +19937,13 @@ zzzyk.com###Tinfo
 ||p0v2ni.cn^
 ||p0y.cn^
 ||p0y.cn^$image,domain=~ipinyou.com.cn
+||p1-be-pack-sign.pglstatp-toutiao.com^
 ||p1-lm.adkwai.com^
 ||p1.360soucha.com^
 ||p1.chinakaoyan.com^
 ||p1.qxzsw.com^
 ||p1.zhongyoo.com^
+||p2-be-pack-sign.pglstatp-toutiao.com^
 ||p2-lm.adkwai.com^
 ||p2.hunantv.com^
 ||p2p-ali.douyucdn.cn^
@@ -19823,10 +19965,13 @@ zzzyk.com###Tinfo
 ||p2pupgrade.gamedl.qq.com^
 ||p2pvod-ws.douyucdn.cn^
 ||p2v.fun^
+||p3-be-pack-sign.pglstatp-toutiao.com^
 ||p3-lm.adkwai.com^
 ||p3-tt.byteimg.com^
 ||p3p.yahoo.com^
+||p4-be-pack-sign.pglstatp-toutiao.com^
 ||p4p.sina.com.cn^
+||p5-be-pack-sign.pglstatp-toutiao.com^
 ||p6-be-pack-sign.pglstatp-toutiao.com^
 ||p8u.hinet.net^
 ||p97387hj.xyz^
@@ -19843,6 +19988,7 @@ zzzyk.com###Tinfo
 ||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$script,redirect=noopjs,domain=yodu.org
 ||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$script,xmlhttprequest,redirect=googlesyndication-adsbygoogle,important,domain=haoweichi.com
 ||pagead2.googlesyndication.com/pagead/js/google_top_exp.js$script,redirect=noopjs,important,domain=ebb.io
+||pagead2.googlesyndication.com^
 ||pagechoice.net^
 ||pagechoice.net^$third-party
 ||pakaujf.icu^
@@ -19892,6 +20038,7 @@ zzzyk.com###Tinfo
 ||pcbeta.com/data/cache/common_fbdbbsyuzhttpx.js
 ||pccoo.cn/js/dlv1.0.js
 ||pcd.autohome.com.cn^
+||pcdn.xmcdn.com^
 ||pcdn.yximgs.com^
 ||pcfg.wps.cn^
 ||pcgames.com.cn*/index.js
@@ -20049,6 +20196,7 @@ zzzyk.com###Tinfo
 ||pixfuture.net^$third-party
 ||pixiu.shangshufang.ksosoft.com^
 ||pixoctopus.pixnet.net^
+||pixon.ads-pixiv.net^
 ||pjaihds.icu^
 ||pjb9gv9.xyz^
 ||pjbbhj.icu^
@@ -20064,9 +20212,11 @@ zzzyk.com###Tinfo
 ||pkvs.com/public/300/
 ||pkvs.com/public/as.js
 ||pkyjuc.cn^
+||pl.cp31.ott.cibntv.net^
 ||pl520.com^$third-party
 ||play6111.com/js/
 ||playstats.v.duowan.com^
+||plbslog.umeng.com^
 ||plecnyz.icu^
 ||plfwxtgu.icu^
 ||plista.com^
@@ -20501,6 +20651,7 @@ zzzyk.com###Tinfo
 ||qvir.cn^
 ||qvonje.cn^
 ||qvxtzi.xyz^
+||qwapi.apple.com^
 ||qwblog.cn/localfile/20200612230036.gif
 ||qwcnmty.top^
 ||qwcpme.icu^
@@ -20610,16 +20761,21 @@ zzzyk.com###Tinfo
 ||res*.pinpai8.cn^
 ||res.cngoldres.com/web/index/img/*_ad_
 ||res.gwifi.com.cn^
+||res.hubcloud.com.cn^
 ||res.hunantv.com^
 ||res.limei.com^
 ||res.mi.baidu.com^
 ||res.psy-1.com/music/recommend^$app=com.psyone.brainmusic
 ||res.vps234.com/resources/images/hosting-promotion/
 ||res1.applovin.com^
+||res1.hubcloud.com.cn^
+||res2.hubcloud.com.cn^
+||res3.hubcloud.com.cn^
 ||resolve.umeng.com^
 ||resource.baomihua.com^
 ||responsys.net^
 ||retrieval-bd.duote.com^
+||rev.aiclk.com^
 ||revdepo.com^
 ||review.gdtimg.com^
 ||revsci.net^
@@ -20692,9 +20848,11 @@ zzzyk.com###Tinfo
 ||roxwusak.icu^
 ||rp.baidu.cn^
 ||rp.baidu.com^
+||rp.hpplay.cn^
 ||rpeutxu.icu^
 ||rpfuvj.icu^
 ||rplog.baidu.com^
+||rps.hpplay.cn^
 ||rpt.gdt.qq.com^
 ||rptdhu.top^
 ||rqhajf.icu^
@@ -20782,11 +20940,14 @@ zzzyk.com###Tinfo
 ||s1.dugoogle.com^
 ||s1.hanlinzhijia.com^
 ||s1.pipishu.com^
+||s1.qq.com^
 ||s1.tuzhaozhao.com^
 ||s1.wesiedu.com^
 ||s11.cn^$third-party
+||s2.qq.com^
 ||s2tu.com/images/*.gif
 ||s3.amazonaws.com/dmas-public/sitemaji/vast.xml$domain=dailymotion.com
+||s3.qq.com^
 ||s31u.com^
 ||s7tu.com/images/*.gif
 ||s7vf.cn^
@@ -20843,6 +21004,7 @@ zzzyk.com###Tinfo
 ||sc.shayugg.com^
 ||sc126.com^
 ||sccnn.com/SF/zt.jpg
+||scdown.qq.com^
 ||scesqoikq.com^
 ||schprompt.dangdang.com^
 ||scibook.cn/tuiguang.
@@ -20873,6 +21035,7 @@ zzzyk.com###Tinfo
 ||scrorlaets.com^
 ||scroscoi.com^
 ||scrugokl.com^
+||scs.openspeech.cn^
 ||scupio.com/adpinline/
 ||scupio.com^
 ||scupio.net/kanglei/
@@ -20895,10 +21058,13 @@ zzzyk.com###Tinfo
 ||sdk.beizi.biz^
 ||sdk.cferw.com^
 ||sdk.e.qq.com^
+||sdk.hzsanjiaomao.com^
 ||sdk.m.youku.com^
 ||sdk.markmedia.com.cn^
+||sdk.mobads.adwangmai.com^
 ||sdkapp.mobile.sina.cn^
 ||sdkapp.uve.weibo.com^
+||sdkauth.hpplay.cn^
 ||sdkclick.mobile.sina.cn^
 ||sdkconf.avlyun.com^
 ||sdkconfig.ad.intl.xiaomi.com^
@@ -20913,17 +21079,20 @@ zzzyk.com###Tinfo
 ||sdo.com/static/image/mkads/
 ||sdofp9c.cddrhx.cn^$third-party
 ||sdoshbb.top^
+||sdownload.stargame.com^
 ||sdss99.fun^
 ||sdwrghcv.top^
 ||sdyurlib.top^
 ||sdzbcg.com/images/sdfhyl
 ||se533.com/template/new/css/*.js
+||search.ixigua.com^
 ||search3-search.ixigua.com^
 ||search5-search-hl.ixigua.com^
 ||search5-search.ixigua.com^
 ||searchrecterm.kuwo.cn^$app=cn.kuwo.player
 ||securemetrics.apple.com^
 ||securepubads.g.doubleclick.net/tag/js/gpt.js$script,redirect=googletagservices-gpt,domain=line.me
+||securepubads.g.doubleclick.net^
 ||security.browser.miui.com^
 ||seectech.cn/scm/ad/list
 ||seek68.cn/img/*.gif
@@ -21067,6 +21236,7 @@ zzzyk.com###Tinfo
 ||shuzilm.cn^
 ||shzzzz.dftoutiao.com^
 ||siconoi.com^
+||sigmob.cn^
 ||sigmob.com^
 ||sihbb.com/yang/
 ||sikapo.top^
@@ -21179,12 +21349,14 @@ zzzyk.com###Tinfo
 ||smaato.com^
 ||smaato.net^
 ||smad.ms.zhangyue.net^
+||smart-tv.cn^
 ||smartad.10010.com^
 ||smartadserver.com^
 ||smartmad.com^
 ||smartnews-ads.com^
 ||smetrics.samsung.com^
 ||smqzj.com/seo.js
+||sms.ads.oppomobile.com^
 ||smuc.cnnfootballclub.com^
 ||smzy.com/v1/img/
 ||sn9.icu^
@@ -21347,6 +21519,7 @@ zzzyk.com###Tinfo
 ||st.vq.ku6.cn^
 ||sta.ganji.com^
 ||stadig.ifeng.com^
+||staging-notify.sec.miui.com^
 ||staivoiks.com^
 ||star-media.cn^$third-party
 ||star-seo.oss-ap-northeast-1.aliyuncs.com^
@@ -21590,8 +21763,10 @@ zzzyk.com###Tinfo
 ||t.teads.tv^
 ||t.track.ad.xiaomi.com^
 ||t.yzwr588.com^$third-party
+||t002.ottcn.com^
 ||t0sfe1.com^
 ||t1.612.com^
+||t1.a.market.xiaomi.com^
 ||t1.teads.tv^
 ||t1.xuefen.com.cn^
 ||t2.a.market.xiaomi.com^
@@ -21695,6 +21870,7 @@ zzzyk.com###Tinfo
 ||teryt111.fun^
 ||teslaamg.obs.cn-east-3.myhuaweicloud.com^
 ||test.ad.xiaomi.com^
+||test.e.ad.xiaomi.com^
 ||test.ott.youku.com^
 ||tetlwsi.top^
 ||tewruti.top^
@@ -21819,16 +21995,21 @@ zzzyk.com###Tinfo
 ||tmea116.oss-cn-beijing.aliyuncs.com^
 ||tmead.y.qq.com^
 ||tmeadcomm.y.qq.com^
+||tmfmazu-wangka.m.qq.com^
 ||tmfmazu.m.qq.com^
 ||tmfsdk.m.qq.com^
+||tmfsdktcpv4.m.qq.com^
 ||tmjzlr.icu^
 ||tmoclbf.icu^
 ||tmqhageaip.com^
 ||tmvirr.icu^
 ||tnc*.zijieapi.com^$app
+||tnc3-aliec1.toutiaoapi.com^
 ||tnc3-aliec2.bytedance.com^
 ||tnc3-aliec2.toutiaoapi.com^
+||tnc3-alisc1.bytedance.com^
 ||tnc3-alisc1.zijieapi.com^
+||tnc3-alisc2.zijieapi.com^
 ||tnc3-bjlgy.bytedance.com^
 ||tnc3-bjlgy.toutiaoapi.com^
 ||tnc3-bjlgy.zijieapi.com^
@@ -21907,15 +22088,18 @@ zzzyk.com###Tinfo
 ||tqphaqoye.com^
 ||tr-asia.adsmoloco.com^
 ||trace.qq.com^
+||tracelog-debug.aiclk.com^
 ||tracelog-debug.qquanquan.com^
 ||track.58.com^
 ||track.hujiang.com^
 ||track.lc.quark.cn^
 ||track.uc.cn^
+||tracker.ai.xiaomi.com^
 ||tracker.baidu.com^
 ||tracker.gitee.com^
 ||tracker.yhd.com^
 ||tracking.kdnet.net^
+||tracking.miui.com^
 ||tracking.rus.miui.com^
 ||tracklog.58.com^
 ||trafficjam.cn^
@@ -22021,6 +22205,7 @@ zzzyk.com###Tinfo
 ||tv699.com/Templet699/js/
 ||tv7box.com/Runtime/Js/
 ||tv99.tv/wp-content/uploads/pum/
+||tvapp.hpplay.cn^
 ||tvcnmti.top^
 ||tvgkatu.icu^
 ||tvpqnh.xyz^
@@ -22071,7 +22256,9 @@ zzzyk.com###Tinfo
 ||tyh.taobao.com^
 ||tyisloi.top^
 ||tyretui.top^
+||tytx.m.cn.miaozhen.com^
 ||tz-68-fabb.com/qiye/
+||tz.sec.xiaomi.com^
 ||tzfdc.com.cn/userfiles/flash/
 ||tzfdc.com/Images/09/flv/flv_index.js
 ||tzfdc.com/fdcSell/
@@ -22223,6 +22410,7 @@ zzzyk.com###Tinfo
 ||ulog.imap.baidu.com^
 ||ulogjs.gifshow.com^
 ||ulogs.umeng.com^
+||ulogs.umengcloud.com^
 ||uloscw.xyz^
 ||ultraimg.com^$domain=18board.com|18p2p.com
 ||ulukaris.com^$third-party
@@ -22234,6 +22422,7 @@ zzzyk.com###Tinfo
 ||umengjmacs.m.taobao.com^
 ||umid.orion.meizu.com^
 ||umini.shujupie.com^
+||umsns.com^
 ||umtrack.com^
 ||umwcyw.xyz^
 ||un.ubaike.cn^
@@ -22279,6 +22468,7 @@ zzzyk.com###Tinfo
 ||update.avlyun.sec.miui.com^
 ||update.lejiao.tv^
 ||update.mobile.kugou.com^
+||update0.aiclk.com^
 ||updatepage.kuwo.cn^
 ||upgrade-update.hismarttv.com^
 ||upgrade.xl9.xunlei.com^
@@ -22295,6 +22485,7 @@ zzzyk.com###Tinfo
 ||uqcktxp.icu^
 ||uqkcqk.icu^
 ||uqykeq.xyz^
+||uranus.jd.com^
 ||uranus.sogou.com^
 ||uranus.sohu.com^
 ||uri6.com^
@@ -22396,6 +22587,7 @@ zzzyk.com###Tinfo
 ||v1.wphonelife.com^
 ||v2-ad.video.yximgs.com^
 ||v2-api-channel-launcher.hismarttv.com^
+||v2.gdt.qq.com^
 ||v2mi.gdt.qq.com^
 ||v2rayssr.com/wp-content/plugins/eazy-
 ||v3-ad.video.yximgs.com^
@@ -22404,6 +22596,7 @@ zzzyk.com###Tinfo
 ||v4p.fun^
 ||vahmimb.com^
 ||val.api.youku.com^
+||vali-ugc.cp31.ott.cibntv.net^
 ||vamaker.com^
 ||vanpeople.com/gg/
 ||vansky.com/agdg/Individual/
@@ -22424,6 +22617,7 @@ zzzyk.com###Tinfo
 ||vcdfsf99.fun^
 ||vcxv73.fun^
 ||vcxv787.fun^
+||vd6.l.qq.com^
 ||vda.17173.com^
 ||vdfvdf33q.fun^
 ||vdhf042.fun^
@@ -22454,6 +22648,7 @@ zzzyk.com###Tinfo
 ||vhzivz.xyz^
 ||vi.l.qq.com^
 ||vidcrunch.com/integrations/*_Responsive_*_DFP_$domain=discuss.com.hk
+||video-ad.sm.cn^
 ||video-dsp.pddpic.com^
 ||video.dispatch.tc.qq.com^
 ||video.itxueyuan.com/1672473525178992.mp4
@@ -22476,9 +22671,11 @@ zzzyk.com###Tinfo
 ||vip.min1319.com^$third-party
 ||vip.panggugu.com^
 ||vip1.loli.net/2020/02/17/A9jmsY41EwiUzou.png$domain=ddrk.me
+||vipauth.hpplay.cn^
 ||vipdage.com/wp-content/uploads/ad/
 ||vipgslb.hpplay.cn^
 ||vipyearha.com/uploads/20*.gif
+||virusinfo-cloudscan-cn.heytapmobi.com^
 ||visit-japan.jp/parts/visitjapan_f35_170_170.jpg
 ||vista.tuwan.com/s.js
 ||vitqzd.icu^
@@ -22517,6 +22714,7 @@ zzzyk.com###Tinfo
 ||voiceads.com^
 ||voicefive.com^
 ||vokzqgjp.icu^
+||volc.bj.ad.track.66mobi.com^
 ||volceapplog.com^
 ||vopzhl.icu^
 ||vpdnjl.xyz^
@@ -22598,6 +22796,7 @@ zzzyk.com###Tinfo
 ||w010w.com.cn^$subdocument
 ||w1.askwai.com^
 ||w1.gskwai.com^
+||w1.kskwai.com^
 ||w11.zhongkaohelp.com^
 ||w18.9939.com^
 ||w3.ting55.com^
@@ -22662,6 +22861,7 @@ zzzyk.com###Tinfo
 ||wcdfxj.xyz^
 ||wcinvde.top^
 ||wclimie.top^
+||wcp.taobao.com^
 ||wcsmvmf.icu^
 ||wcwkcus.top^
 ||wdamcse.top^
@@ -22754,6 +22954,7 @@ zzzyk.com###Tinfo
 ||wildcard.moatads.com.edgekey.net^
 ||wildwist.com^
 ||williamlong.info/script/sidebar.js
+||win.gdt.qq.com^
 ||win2008.info/gongyi.gif
 ||winads.cn^
 ||winasdaq.com^
@@ -22793,6 +22994,7 @@ zzzyk.com###Tinfo
 ||wmeng.feihuadns.com^
 ||wmol.cn^
 ||wmykyw.icu^
+||wn.x.jd.com^
 ||wn6y.cn^
 ||wnacg.*/1605524662751.gif
 ||wnacg.*/1sdfdc1/
@@ -22900,11 +23102,13 @@ zzzyk.com###Tinfo
 ||www-dnwx-com.anquanbao.cn/pic
 ||www.china.com.cn/node_$domain=news.china.com.cn
 ||www.dmhy.org^*.*?$image
+||www42.zskwai.com^
 ||www5.oss-cn-hangzhou.aliyuncs.com^
 ||wwwbaiducom.xyz/4/js4/
 ||wwwcdn.kimiss.net/btn/
 ||wwzw.cc/img/
 ||wx.sina.com.cn/iframe/pdps/
+||wxa.wxs.qq.com^
 ||wxaintpcos.wxqcloud.qq.com.cn^
 ||wxc.cc/scripts/gg.
 ||wxfdmri.xyz^
@@ -22913,6 +23117,7 @@ zzzyk.com###Tinfo
 ||wxmhau.xyz^
 ||wxsicu.xyz^
 ||wxsmw.wxs.qq.com^
+||wxsnsad.tc.qq.com^
 ||wxsnsdy.tc.qq.com^
 ||wxsnsdy.wxs.qq.com^
 ||wxsnsdythumb.wxs.qq.com^
@@ -22949,6 +23154,7 @@ zzzyk.com###Tinfo
 ||xbqg6.com/*.php
 ||xbqm.cn^
 ||xbtw.com^
+||xc.gdt.qq.com^
 ||xc.macd.cn^
 ||xc.mydrivers.com^
 ||xcar.com.cn/bbs/adfocus.js
@@ -22960,6 +23166,7 @@ zzzyk.com###Tinfo
 ||xchina.click/upload/*.webp
 ||xchina.co/scripts/push_*.js
 ||xcmfu.com/cp.
+||xcultur.com^
 ||xcwdcynb.icu^
 ||xcy8.com^
 ||xdcad.net/source/plugin/disad/disad.js
@@ -23001,6 +23208,7 @@ zzzyk.com###Tinfo
 ||xiaohuks.com/1.
 ||xiaoma.com/kf.php?arg=
 ||xiaoma.com/xiaoma/www/js/article_right
+||xiaomi-dtv.m.cn.miaozhen.com^
 ||xiaopi.com/api.php?op=get_p&
 ||xiaopi.com/statics/new_js/15.js
 ||xiaopi.com/statics/skin_js/jquery.posrj.js
@@ -23080,9 +23288,12 @@ zzzyk.com###Tinfo
 ||xkzzz.com/zb_users/plugin/MoreLinks/MoreLinks.
 ||xl720.com/tmp/
 ||xliuits.icu^
+||xlivrdr.com^
 ||xlmdtiyqbkygtfkh.com^
 ||xlmp4.cc/js/wcount.js
+||xlmzc.cnjp-exp.com^
 ||xlnlvf.top^
+||xlog.jd.com^
 ||xlpu.cc/adv/
 ||xls.go.sohu.com^
 ||xluz.cn^
@@ -23408,6 +23619,7 @@ zzzyk.com###Tinfo
 ||youtube.com/embed/wqLWTeNBEEQ?
 ||youtube.com/iframe_api$domain=nownews.com
 ||youxi.baidu.com/tips/bdtips_min.js
+||youxi.kugou.com^
 ||youxiaoad.com^
 ||youy14.com/js/tj.js
 ||youy14.com/js/zz/nr.js
