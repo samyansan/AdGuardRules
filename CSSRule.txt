@@ -2418,12 +2418,16 @@
 91lai.com##.D_guanggaotu3
 91lai.com##.showimgs
 91porn.com##.preroll-blocker
+91porna.com###app-nav > ul > li:has(> a.app-nav-item[target="_blank"]:not([href*="91porna.com"]))
+91porna.com##.ad-dialog
 91porna.com##.carousel-container-bottom
 91porna.com##.carousel-container:has(#carouselExampleInterval)
 91porna.com##.dx-banner-item
 91porna.com##.row > div.flex-container:has(> a[href][target="_blank"] > img)
 91porna.com##.row > div[class^="col"]:has(> .video-wrap > a.checkNum)
+91porna.com##.text-mini:has(> .dx-recommend-icons)
 91porna.com##.video-items > li:has(> a.checkNum)
+91porna.com##a.checkNum[target="_blank"]:not([href*="91porna.com"])
 91porna.com##div[class^="aspect-"]:has(> div > .swiper-backface-hidden)
 91porna.com##div[class^="col"] div.filters:has(a.checkNum)
 91porny.com##.container-fluid.p-0[class*="mb-"]
@@ -7630,6 +7634,7 @@ pjtime.com###Couplet_r_small
 pjtime.com###pjtime_full
 pjtime.com##.top_R
 playallvideos.com,pron.co##.rmedia
+playav.cc###overlay
 playno1.com###frame8I822E
 playno1.com###m12
 playno1.com###m2
@@ -8963,9 +8968,9 @@ video4k.cc#@#a[href*="/?aff="][target="_blank"]
 vidhub.me,vidhub.tv##.promonk
 vidhub1.cc,vidhub.me,vidhub.tv##.adpwc
 vidhub1.cc,vidhub.me,vidhub.tv##.adwap
-vidhub1.cc,vidhub.me,vidhub.tv##div:is([class^="ad"], [class*="pwc"]):has(> div[class][style] > img[onclick^="window.open"])
+vidhub1.cc,vidhub.me,vidhub.tv##div:is([class^="ad"], [class*="pwc"], [class^="ww"]):has(> div[class][style] > img[onclick^="window.open"])
+vidhub1.cc,vidhub.me,vidhub.tv##div[class][style^="position:"] > img[onclick^="window.open"]
 vidhub1.cc,vidhub.me,vidhub.tv##div[class^="pro"][class*="nk"][style]
-vidhub1.cc,vidhub.me,vidhub.tv##div[class^="pro"][style] > img[onclick^="window.open"]
 vidhub3.top,vidhub4.cc##div[style^="position:"]:has(> img[onclick^="window.open"])
 view.inews.qq.com#?#div[class^="_"]:-abp-has(>div[data-action-id]>div>.react-swipeable-view-container)
 vip.diaoyu18.com##.container > a[target="_blank"]
