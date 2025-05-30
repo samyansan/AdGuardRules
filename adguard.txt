@@ -3,8 +3,8 @@
 ! Powerd by SamSan
 ! Description: Just a merged Adblock rule. Nothing more
 ! Expires: 6 hours (update frequency)
-! Version: 2025-05-30 08:49:45
-! Total count: 33212
+! Version: 2025-05-30 14:14:23
+! Total count: 33228
 
 ###ADtip
 ###Ad_windows
@@ -1310,6 +1310,7 @@ $websocket,domain=wap.yushuwu.cloud
 .asp?wg&df=$script,third-party
 .asp?wsg&df=$script,third-party
 .baigh8eosmgie*.site^$script,third-party
+.bgf0*lko.com/$script,xmlhttprequest,third-party
 .bid/ads/
 .blog/ads/
 .bt*.com/imgs.js?t=
@@ -3786,19 +3787,11 @@ $websocket,domain=wap.yushuwu.cloud
 91lai.com##.D_guanggaotu3
 91lai.com##.showimgs
 91porn.com##.preroll-blocker
-91porna.com###app-nav > ul > li:has(> a.app-nav-item[target="_blank"]:not([href*="91porna.com"]))
-91porna.com##.ad-dialog
 91porna.com##.carousel-container-bottom
 91porna.com##.carousel-container:has(#carouselExampleInterval)
-91porna.com##.dx-banner-item
 91porna.com##.row > div.flex-container:has(> a[href][target="_blank"] > img)
 91porna.com##.row > div[class^="col"]:has(> .video-wrap > a.checkNum)
-91porna.com##.text-mini:has(> .dx-recommend-icons)
-91porna.com##.video-items > li:has(> a.checkNum)
-91porna.com##a.checkNum[target="_blank"]:not([href*="91porna.com"])
-91porna.com##div[class^="aspect-"]:has(> div > .swiper-backface-hidden)
 91porna.com##div[class^="col"] div.filters:has(a.checkNum)
-91porna.com#%#//scriptlet('remove-attr', 'data-ads_url', '[data-ads_url]')
 91porny.com##.container-fluid.p-0[class*="mb-"]
 91porny.com##.jsv-g1
 91porny.org,jiuse100.cc,jstv600.com,x9av7.com###main > div[id^="rd"]
@@ -8503,6 +8496,15 @@ meltoday.com,sydneytoday.com##.promo
 memes.tw##.nice-box
 memexie.com##div[style^="width:9"][style$="#C8E4F0"]
 mfa.gov.cn,fmprc.gov.cn#@#.adbox2
+mfulbvu.xyz,91porna.com###app-nav > ul > li:has(> a.app-nav-item[target="_blank"]:not([href*="91porna.com"]))
+mfulbvu.xyz,91porna.com##.ad-dialog
+mfulbvu.xyz,91porna.com##.dx-banner-item
+mfulbvu.xyz,91porna.com##.modal-backdrop
+mfulbvu.xyz,91porna.com##.text-mini:has(> .dx-recommend-icons)
+mfulbvu.xyz,91porna.com##.video-items > li:has(> a.checkNum)
+mfulbvu.xyz,91porna.com##a.checkNum[target="_blank"]:not([href*="91porna.com"])
+mfulbvu.xyz,91porna.com##div[class^="aspect-"]:has(> div > .swiper-backface-hidden)
+mfulbvu.xyz,91porna.com#%#//scriptlet('remove-attr', 'data-ads_url', '[data-ads_url]')
 mg21.com##a[href="https://www.mg21.com/zunjiazq"]
 mgbbs.cn##td[width="960"][height="60"]
 mgnacg.com##a[href^="https://fanqiev2.work/auth/register?code="]
@@ -8784,6 +8786,7 @@ myqqjd.com##.qz-box
 myqqjd.com##aside[id^="sponsor-"]
 myqqjd.com,cnprint.org,ez3c.tw,easylife.tw##.adsbygoogle
 mytheme.cn##.ad01
+mytvsuper.com#%#//scriptlet('googletagservices-gpt')
 mywpku.com##.sidebar-recommended
 naifei.im##.tg_w
 naifei.im##div[class^="wp-none"]
@@ -12310,6 +12313,7 @@ zzzyk.com###Tinfo
 ||3dqiang.com^
 ||3dshoppingwall.com^
 ||3dwwwgame.com^$third-party
+||3exfu7vaxu.com^
 ||3fakaixi.xyz^
 ||3ff6kjylmjs.top^
 ||3fish.store^
@@ -14941,6 +14945,7 @@ zzzyk.com###Tinfo
 ||aoshi.com/rbc.jpg
 ||aotetu.cn^
 ||aotu43.com/templates/defboot/js/duilian.js
+||aoydwg.icu^
 ||aoyinn.com^
 ||aoyou2.top^
 ||aoyou3.top^
@@ -15908,6 +15913,7 @@ zzzyk.com###Tinfo
 ||bgf05271lko.com^
 ||bgf05280lko.com^
 ||bgf05290lko.com^
+||bgf05291lko.com^
 ||bgg.baidu.com^
 ||bghebf.xyz^
 ||bgtrtv.top^
@@ -16716,6 +16722,7 @@ zzzyk.com###Tinfo
 ||cgoul.com^
 ||cgskqg.com^
 ||cgskys.xyz^
+||ch17axocue.top^
 ||chabeiren.com^
 ||chachefa.com/asdfasdfqwer/
 ||chahua.org/aimg/
@@ -18436,6 +18443,7 @@ zzzyk.com###Tinfo
 ||dw.xcar.com.cn^
 ||dw.xcar.com.cn^*.gif?
 ||dw998.com^
+||dwbaazotho.com^
 ||dwjle.cn^
 ||dwr0.cn^
 ||dwrz5az.cn^
@@ -19006,6 +19014,7 @@ zzzyk.com###Tinfo
 ||f8dy.tv/template/m1938/js/b
 ||f8dy.tv/template/m1938/js/foot.js
 ||f8ij9.life^
+||f9gv87zoq2.com^
 ||fa.corp.163.com^
 ||faachen.cn^
 ||faamhel.com^
@@ -20092,6 +20101,7 @@ zzzyk.com###Tinfo
 ||gtomat.com^
 ||gtpso.com/Home/TopSdk/getFavCoupItems
 ||gts991.com^
+||gtuy6el1hd.com^
 ||gtxkze.cn^
 ||guaas.com^
 ||guahao.cn/blank.gif?
@@ -20411,6 +20421,7 @@ zzzyk.com###Tinfo
 ||hbbynt.xyz^
 ||hbccwlkj.top^
 ||hbcygs518.com^
+||hbdruktekf.com^
 ||hbeafcac.top^
 ||hbears.com^
 ||hbeqnte.cn^
@@ -22045,6 +22056,7 @@ zzzyk.com###Tinfo
 ||jcaik.com^
 ||jcaip.com^
 ||jcboloni.cn^
+||jcdard.top^
 ||jcdf99.com/hzz/scripts/new
 ||jcdixdh.cn^
 ||jcelyj.com^
@@ -22357,6 +22369,7 @@ zzzyk.com###Tinfo
 ||jk939.com^
 ||jke1.jianke.com^
 ||jkleosnfjutme.top^
+||jkn05300loi.com^
 ||jknrwe.cn^
 ||jktkhn.top^
 ||jktopia.com^
@@ -25703,6 +25716,7 @@ zzzyk.com###Tinfo
 ||owsrgljb.icu^
 ||owurserk.top^
 ||ox11.com^
+||oxjb.cn^
 ||oxkqeu.xyz^
 ||oxmun.com^
 ||oxqoney.cn^
@@ -26600,6 +26614,7 @@ zzzyk.com###Tinfo
 ||qiqiyii.com^
 ||qiruidea.com^
 ||qishula.com/css/wap.
+||qiu4592.xyz^
 ||qiuchuanling.cn^
 ||qiuw.com/static/xin-ad.js
 ||qiuxl11.cn^
@@ -30286,6 +30301,7 @@ zzzyk.com###Tinfo
 ||vfvrld.xyz^
 ||vgao.xyz/images/*.gif
 ||vgaom.com^
+||vgfj.cn^
 ||vgimer.cn^
 ||vgnhigankih.com^
 ||vgxbpf.xyz^
