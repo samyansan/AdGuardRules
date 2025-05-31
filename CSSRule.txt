@@ -7146,7 +7146,7 @@ mydrivers.com##.good_ths
 mydrivers.com##.i1vbApifa5
 mydrivers.com##.jdong11
 mydrivers.com##.jdong11bg
-mydrivers.com##.jdong1div_double,.HSsRgYjfNn
+mydrivers.com##.jdong1div_double
 mydrivers.com##.main_right_div[style="padding-top: 10px;"]
 mydrivers.com##.vwE9JmqU
 mydrivers.com##.yTv3AMqP
@@ -7518,7 +7518,6 @@ pcgames.com.cn##.aFollowb
 pchome.com.tw###div_superbar_swf
 pchome.com.tw###test2
 pchome.com.tw##.ad_triple
-pchome.com.tw##.adcon
 pchome.com.tw##div[style*="982"][style*="85"]
 pchome.net###bzhref
 pchome.net###intel-bar
@@ -8969,17 +8968,13 @@ vansky.com##.safari_pop
 vansky.com##.scol-banner
 vansky.com##.top-ad-link
 vdianying.cc##div[style^="display:block !important;"]
-verystream.com#@#.adsbox
 vgtime.com##.vgart_top
 vgtime.com##.vgart_top > img
 vid.onlymu.site##.tips
 video4k.cc#@#a[href*="/?aff="][target="_blank"]
 vidhub.me,vidhub.tv##.promonk
-vidhub1.cc,vidhub.me,vidhub.tv##.adpwc
-vidhub1.cc,vidhub.me,vidhub.tv##.adwap
-vidhub1.cc,vidhub.me,vidhub.tv##div:is([class^="ad"], [class*="pwc"], [class^="ww"]):has(> div[class][style] > img[onclick^="window.open"])
-vidhub1.cc,vidhub.me,vidhub.tv##div[class][style^="position:"] > img[onclick^="window.open"]
-vidhub1.cc,vidhub.me,vidhub.tv##div[class^="pro"][class*="nk"][style]
+vidhub2.top,vidhub3.top,vidhub4.cc,vidhub.me,vidhub.tv##.player-info div[class]:has(> div[class][style] > img[onclick^="window.open"]:first-child + span[style]:last-child)
+vidhub2.top,vidhub3.top,vidhub4.cc,vidhub.me,vidhub.tv##div[class][style*="position:"] > img[onclick^="window.open"]
 vidhub3.top,vidhub4.cc##div[style^="position:"]:has(> img[onclick^="window.open"])
 view.inews.qq.com#?#div[class^="_"]:-abp-has(>div[data-action-id]>div>.react-swipeable-view-container)
 vip.diaoyu18.com##.container > a[target="_blank"]
