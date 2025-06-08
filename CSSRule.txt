@@ -543,7 +543,6 @@
 ##.apd-home
 ##.apd-right
 ##.app > .app_tj
-##.app > div.app_tj
 ##.app-down-fix.body-fix
 ##.appdownload_ad + .hider
 ##.appguide-wrap[onclick*="bcebos.com"]
@@ -1160,8 +1159,6 @@
 ##body > .dbfh
 ##body > .zdhf
 ##body > div#inplayer[align="center"]
-##body > div.dbfh
-##body > div.zdhf
 ##body > div[style$=";background: #000;opacity:0.01;"]
 ##body > div[style="display:none;"] + div[style="display:none;"] + div[id][class][style^="background-color:"]
 ##body.desktop[style^="-"] span[class*=" "] > a[href^="http"][rel="nofollow"][target="_blank"]
