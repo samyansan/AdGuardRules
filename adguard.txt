@@ -3,8 +3,8 @@
 ! Powerd by SamSan
 ! Description: Just a merged Adblock rule. Nothing more
 ! Expires: 6 hours (update frequency)
-! Version: 2025-06-17 08:51:13
-! Total count: 33083
+! Version: 2025-06-17 14:15:00
+! Total count: 33101
 
 ###ADtip
 ###Ad_windows
@@ -4993,6 +4993,7 @@ chexun.com##.ad1100
 chexun.com##.ad794
 chexun.com##.attr-outside-ad
 chexun.com##a[attr-outside-ad]
+chigua69.com##.video-list > div.video-item:has(> a[adv_id])
 china.cn###pic_banner
 china.cn##.bottom_recommend_box
 china.cn##.extension_ul > .special
@@ -6864,9 +6865,11 @@ hk.xfastest.com##.adv-side-wrap
 hk.xfastest.com##.adv_v2
 hk.yahoo.com##div[id^="my-ads"]
 hk01.com###debug-0-ad-outer-container
+hk01.com##.article-grid__desktop-rhs-section > .items-center:has(.lazyload-wrapper > .js-ad-slot)
 hk01.com##.article-grid__desktop-rhs-section > .items-center:has(> div[class^="sc-"] > div[data-id="lazyload-placeholder"])
 hk01.com##.md\:min-h-\[90px\]
 hk01.com##.min-h-\[250px\].mb-3
+hk01.com##article > .items-center:has(.lazyload-wrapper > .js-ad-slot)
 hk01.com##div[class^="Box-v"] > .enterviewport__wrapper:has(> div[data-id="lazyload-placeholder"]:only-child)
 hk01.com##div[class^="lg\:min-h-[250px] hidden lg:flex lg:items-center"]
 hk01.com##div[data-id="lazyload-placeholder"]
@@ -10211,14 +10214,11 @@ taobao.com##.mask.animated.swing
 taobao.com##.rb-op
 taobao.com##.recomand-item
 taobao.com#?#.item-ad
-taoguba.com.cn###headerggContent
 taoguba.com.cn###joinTGB
 taoguba.com.cn###tbgzInstall
 taoguba.com.cn###tbgzInstallBG
 taoguba.com.cn###wrap_footer > div[style^="width: 957px;"]
-taoguba.com.cn##.NewH_top_left + .left
 taoguba.com.cn##.ct_app
-taoguba.com.cn##.wz_ad
 taohuayun.cn##img[width="150"][height="60"]
 taoziba.cc##.vddb2 + a
 taptap.com###bottomBanner
@@ -10247,6 +10247,7 @@ teepr.com##.shop-widget
 teepr.com##body .ucfad_async
 teepr.com##div[class^="mid-post-ad-"]
 tencent.com##.cdc-commercial-swiper
+tgb.cn###headerggContent
 tgbus.com###guide-download
 tgbus.com###neck_970
 tgfcer.com##.ad_headerbanner
@@ -10450,10 +10451,14 @@ tw.stock.yahoo.com##tr:has(> td[valign="top"] > .geminiAd)
 tw.stock.yahoo.com#?#.news > div[class="bd quote"]:has(ul > li > .geminiAd)
 tw.yahoo.com###abu-live
 tw.yahoo.com###discount
+tw.yahoo.com###fullbleed > div[data-content="廣告"]
 tw.yahoo.com###tabTemplate
 tw.yahoo.com###util-top-promotion
+tw.yahoo.com##.ntk-list > .grid-item:has(> div[data-wf-benji-config])
 tw.yahoo.com##.travelads
 tw.yahoo.com##[class*="has-beacon-click"][data-wf-beacons^="https://*.gemini.yahoo.com/"]
+tw.yahoo.com##aside > div[id^="module-adgroup"]
+tw.yahoo.com##aside > div[id^="module-sponsoredad"]
 tw.yahoo.com##div[id^="applet_p_"][class^="dealstdv2wafer"]
 tw100s.com##div[class="ui_adblock"]
 tw116.com###t365
@@ -12872,6 +12877,7 @@ zzzyk.com###Tinfo
 ||7tc.fun^
 ||7times.top^
 ||7to5phc.cn^
+||7u4b8l1zt.com^
 ||7vv06.com^
 ||7wen.cn^
 ||7x7n.com/static/image/888.jpg
@@ -14321,6 +14327,7 @@ zzzyk.com###Tinfo
 ||afqgqg4e.com^
 ||afqodjc.top^
 ||afrazanna.com^
+||afrhwdumolf.com^
 ||afs.googlesyndication.com^
 ||aftdt.cn^
 ||afvrolvial.com^
@@ -14900,6 +14907,7 @@ zzzyk.com###Tinfo
 ||aoyuegc.cn^
 ||ap.dongqiudi.com^
 ||ap72el.com^
+||apajku.icu^
 ||apd-pcdnwxlogin.teg.tencent-cloud.net^
 ||apd-pcdnwxnat.teg.tencent-cloud.net^
 ||apd-pcdnwxstat.teg.tencent-cloud.net^
@@ -16608,6 +16616,7 @@ zzzyk.com###Tinfo
 ||cdzimeijia.com^
 ||ce.lijit.com^
 ||ce.wlaoc.cn^$third-party
+||ce71jubc2.com^
 ||ceai.xyz^
 ||ceciliabeverly.com^
 ||cedhoinle.com^
@@ -16714,6 +16723,7 @@ zzzyk.com###Tinfo
 ||chenwang.top^
 ||chenyanjiao.cn^
 ||chenyaxin.xyz^
+||cherrya04.top^
 ||cherryblossoms.top^
 ||cheshi-img.com/js/pv.min.js
 ||chexiw.com^
@@ -17829,6 +17839,7 @@ zzzyk.com###Tinfo
 ||dgaxrjj0jwpwp.cloudfront.net^
 ||dgbaozhuang.cn^
 ||dgchengyu.xyz^
+||dgfhjmd.com^
 ||dgjhrv.top^
 ||dgjjkkla.cn^
 ||dgkship.icu^
@@ -18321,6 +18332,7 @@ zzzyk.com###Tinfo
 ||duiwai.baidu.com^
 ||duluoweiyu.com^
 ||dumedia.ru^
+||dunkhj.top^
 ||duo*.top/Runtime/js/psData.js
 ||duofulai.vip^
 ||duojixing.com^
@@ -19752,6 +19764,7 @@ zzzyk.com###Tinfo
 ||gjiak.com^
 ||gjinuqg.top^
 ||gjjskhdnm.top^
+||gjkbyt.com^
 ||gjkkdashb4.fun^
 ||gjmedashb0.fun^
 ||gjnbf.com^
@@ -19765,6 +19778,7 @@ zzzyk.com###Tinfo
 ||gk99.com/static/js/a-d-sys.js
 ||gkcogyf.icu^
 ||gkeolwi.icu^
+||gkvrdf.com^
 ||gkxqt.cn^
 ||glgelevator.com^
 ||glgoo.*/gimage/ad/
@@ -23166,6 +23180,7 @@ zzzyk.com###Tinfo
 ||l.ykimg.com^
 ||l.youku.com^
 ||l0l.top^
+||l235cj20z.com^
 ||l4elb.cn^
 ||l570mb.cn^
 ||l7u3kf.cn^
@@ -25767,6 +25782,7 @@ zzzyk.com###Tinfo
 ||pb.shuxigua.com^
 ||pb.sogou.com^
 ||pbbgfsm.cn^
+||pbfefd.icu^
 ||pbgufjylmzsym.top^
 ||pbino.com^
 ||pbmp.ali213.net/js/
@@ -26283,6 +26299,7 @@ zzzyk.com###Tinfo
 ||pwfqjp.xyz^
 ||pwjmzqx.cn^
 ||pwrgcxaj.icu^
+||pwvt.cn^
 ||px.247inc.net^
 ||px.reactrmod.com^
 ||pxhuiben.com^
@@ -28719,7 +28736,6 @@ zzzyk.com###Tinfo
 ||taobso.cn^
 ||taocangjituan.com^
 ||taoguanda.com^
-||taoguba.com.cn/res/js/tgbgg/
 ||taoguohe.com^
 ||taohanpai.com^
 ||taoke.cloud^
@@ -28862,6 +28878,7 @@ zzzyk.com###Tinfo
 ||tg745.cn^
 ||tg876.cn^
 ||tgaopa.cn^
+||tgb.cn/res/js/tgbgg/
 ||tgb1l.icu^
 ||tghrfv.icu^
 ||tgjkbx.cn^
@@ -29093,6 +29110,7 @@ zzzyk.com###Tinfo
 ||tngmn.com^
 ||tnlixn.icu^
 ||tns.simba.taobao.com^
+||tnvkb6bcnf.com^
 ||tnwuami.top^
 ||tnwucni.top^
 ||tnzjrj.xyz^
