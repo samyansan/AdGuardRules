@@ -3,8 +3,8 @@
 ! Powerd by SamSan
 ! Description: Just a merged Adblock rule. Nothing more
 ! Expires: 6 hours (update frequency)
-! Version: 2025-06-23 08:54:50
-! Total count: 24032
+! Version: 2025-06-23 14:16:09
+! Total count: 24047
 
 ###ADtip
 ###Ad_windows
@@ -1494,6 +1494,7 @@ $websocket,domain=wap.yushuwu.cloud
 .me/ads/
 .me/gg.js
 .men/ads/
+.moa0*ju.com/$script,xmlhttprequest,third-party
 .mos0*o9i.com/$script,xmlhttprequest,third-party
 .mp4?*sdtfrom=&$domain=m.v.qq.com
 .net/ad-
@@ -12012,6 +12013,7 @@ zzzyk.com###Tinfo
 ||4ir17.icu^
 ||4jc.icu^
 ||4kwu.cc/static/js/tj.js
+||4kxczstxil.com^
 ||4oz4n.icu^
 ||4paradigm.com^$domain=sina.com.cn
 ||4q87v.icu^
@@ -12237,6 +12239,7 @@ zzzyk.com###Tinfo
 ||66zhuang.com/public_2017/js/count-gou.js
 ||67.21.92.*.gif
 ||6789.net^$third-party
+||67u36vmzm.com^
 ||6820tp1.com^
 ||68287zubo85737.com^
 ||68s4eyiru.com^
@@ -14625,6 +14628,7 @@ zzzyk.com###Tinfo
 ||cheshi-img.com/js/pv.min.js
 ||chexun.com/delivery?
 ||chexun.net/images/sales//cxgg/
+||chicorty2.com^
 ||chidir.com^
 ||chienzul.com^
 ||china-netwave.com^$third-party
@@ -15778,6 +15782,7 @@ zzzyk.com###Tinfo
 ||easyicon.net/gg2019/
 ||easyliao.com^$third-party
 ||eatnontf.icu^
+||ebhaliragd.com^
 ||ebiotrade.com/jslibrary/js
 ||ebiotrade.com/netother/sy2013.ashx?type=quanping
 ||ebiotrade.com/newsf/js/inpic.js
@@ -15852,6 +15857,7 @@ zzzyk.com###Tinfo
 ||efxh.cn^
 ||egesdashb8.fun^
 ||egg0.icu^
+||ehczaa.icu^
 ||ehg-youtube.hitbox.com^
 ||ehmhqcn.cn^
 ||ehxyz.com^
@@ -16027,6 +16033,7 @@ zzzyk.com###Tinfo
 ||f2dsex1.com/public/fb*.png
 ||f5zv2.icu^
 ||f7j.icu^
+||f7tkpjw6v.com^
 ||f8dy.tv/template/m1938/js/b
 ||f8dy.tv/template/m1938/js/foot.js
 ||f9gv87zoq2.com^
@@ -16960,6 +16967,7 @@ zzzyk.com###Tinfo
 ||hf365.com/0/15/64/87/15648725_922274.jpg
 ||hfisngksng.com^
 ||hfjmvr.xyz^
+||hflex03yh.com^
 ||hfptbb.cn^
 ||hfptbf.cn^
 ||hfttufu4jo.top^
@@ -18834,6 +18842,7 @@ zzzyk.com###Tinfo
 ||lsxvnzif.icu^
 ||lsyaicl.icu^
 ||ltbyw.top/data/images/*.gif
+||lthuvb.icu^
 ||ltimiyl.top^
 ||ltmarilsf.com^
 ||ltn.com.tw/js/ad_door.js
@@ -18866,6 +18875,7 @@ zzzyk.com###Tinfo
 ||lv.myapks.com^
 ||lvcnmtl.top^
 ||lvip.youku.com^
+||lvllnj.top^
 ||lvnr.cn^
 ||lvnzrh.xyz^
 ||lvqo.cn^
@@ -19257,6 +19267,8 @@ zzzyk.com###Tinfo
 ||moa06201ju.com^
 ||moa06210ju.com^
 ||moa06220ju.com^
+||moa06221ju.com^
+||moa06230ju.com^
 ||moad.cn^
 ||moatads.com^
 ||mobaders.com^
@@ -20722,6 +20734,7 @@ zzzyk.com###Tinfo
 ||r3sub.com/posters/0069810.jpg
 ||r3sub.com/posters/00698128.jpg
 ||r3sub.com^*0.gif
+||r40h9qvpq.com^
 ||r4u.icu^
 ||r528e.cn^$third-party
 ||r5twojylmzsym.top^
@@ -23000,6 +23013,7 @@ zzzyk.com###Tinfo
 ||winwin7.com/statics/js/pos_js/
 ||winwin7.com/statics/js/user/xz.
 ||wio06210j7.com^
+||wio06230j7.com^
 ||wip3.adobe.com^
 ||wisepush.video.baidu.com^
 ||wit.qq.com^$third-party
@@ -23074,6 +23088,7 @@ zzzyk.com###Tinfo
 ||wpmdeo.xyz^
 ||wpsbaq.xyz^
 ||wpsweb-dc.wps.cn^
+||wpuzzcudultv.com^
 ||wqmobile.com^
 ||wqrv.cn^
 ||wr.yiyouliao.com^
