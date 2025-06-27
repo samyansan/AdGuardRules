@@ -724,6 +724,7 @@
 ##.hzxld
 ##.iHead960x90
 ##.ibtad
+##.image-container > a[href*=".yangkeduo.com"]
 ##.imagegg-container
 ##.imgBox > div[class^="ad"]
 ##.imgad
@@ -3457,6 +3458,7 @@ ce.cn,chenjiayu.cn,chinabidding.com.cn,eastmoney.com,ieforex.com,laod.cn,likefon
 ceiea.com##.adclass2019
 centoschina.cn##a[href="https://www.linuxprobe.com/"]
 cesafe.com,kkpan.com,yxdj.com.cn##.m-a-linktwo
+cesu.ai##div[class^="money_"]
 cgdyx.com##.zib-slider
 cger.com,pcsoft.com.cn#@#.share_box
 cgown.com##.banner-gg
@@ -3776,6 +3778,7 @@ codeleading.com##div[id*="ads"]
 codenong.com###sidebar aside[id^="text-"]
 codeplayer.vip,cupfox.app##.banner-box
 codepub.com##.small-banner
+codernav.com##.io-widget-ad-lunbotu
 coderutil.com##.head-recommend-adv
 coderutil.com##.search-module + a
 codexiu.cn##.blog-twitter:first-child
@@ -6030,7 +6033,6 @@ itjsb.com##.info_ad
 itkeyword.com##p[style="line-height:1.4; margin-top:8px; margin-bottom:10px;"]
 itmo.com##.aside-game-icon-box
 itmo.com##.right-side-pop
-itshokunin.cc#$#.adsbygoogle { position: absolute!important; left: -3000px!important; }
 itxueyuan.com##a[href*="guanggaowei"]
 iviewui.com##.ivu-alert
 iwan.baidu.com###banner-box
