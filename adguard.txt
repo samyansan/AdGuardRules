@@ -3,8 +3,8 @@
 ! Powerd by SamSan
 ! Description: Just a merged Adblock rule. Nothing more
 ! Expires: 6 hours (update frequency)
-! Version: 2025-07-01 08:57:53
-! Total count: 33239
+! Version: 2025-07-01 14:15:42
+! Total count: 33245
 
 ###ADtip
 ###Ad_windows
@@ -6572,6 +6572,7 @@ gvm.com.tw###cboxOverlay
 gvm.com.tw###colorbox
 gvm.com.tw##.promotion > .sp-txt
 gvm.com.tw##.promotion_ad
+gx.cn###html-box-AD
 gxeea.cn##.m-wrap-school
 gywb.cn##.bill-vertical
 gz.bendibao.com##.content_r_ad300
@@ -6870,7 +6871,6 @@ hkcards.com###ad-slot-01
 hkcards.com###ad-slot[style="min-width: 300px; min-height: 300px;"]
 hkcards.com##.row > .col-12 > #ad-slot
 hkcards.com#@##ad-slot
-hkdm688.com##.bb01
 hkepc.com###headBanner
 hkepc.com##.headBanner
 hkgolden.com##.hkg-ad
@@ -6891,7 +6891,6 @@ hmitalk.com##div[class*="-pubadban "]
 hmitalk.com##div[data-adid]
 hmoe.one#?#.widget_text > .inn-sidebar__widget:has(> .poi-panel__header > .poi-panel__header__title:contains(赞助商))
 hmoe.one,hmoe.moe##a[href^="https://item.taobao.com"]
-hmoe12.com##.poi-container > div > a[href^="https://www.hmoe12.com/wp-admin/admin-ajax.php?action="][target="_blank"]
 home.firefoxchina.cn##.border-gray-200.tuijian
 home.firefoxchina.cn##a[title][track_key="sites_saoma"]
 home.firefoxchina.cn##a[track_key="sites_mingzhan"] + a[title="VIP"]
@@ -8338,8 +8337,6 @@ makepolo.com##.cpc_tgs
 makepolo.com##a[href*=".rong360.com"]
 makepolo.com##div[class*="_ad"]
 makepolo.com,mycar168.com,mysteel.com,pchome.net,rjfcw.cn##div[id^="ad"]
-malimali5.com##a[href^="https://www.odancool.com/"]
-malimali5.com#?#.container > .section:has(> a[href^="https://www.odancool.com/"])
 mamecn.com##.jjMain_bg
 mamecn.com##.njjGsxzLeft > dl > .cont1
 mamecn.com##.njjGsxzRight
@@ -13361,6 +13358,7 @@ zzzyk.com###Tinfo
 ||a6vv9o.online^
 ||a7c.icu^
 ||a7lrf.xyz^
+||a7wiuh3she.com^
 ||a8cd.com^
 ||a8h4zhbmxi.com^
 ||a907907.com^
@@ -18104,6 +18102,7 @@ zzzyk.com###Tinfo
 ||dmzj1.com/js/ad/
 ||dn*.ixinwei.com^
 ||dn4qoz.com^
+||dn6ik9809m.com^
 ||dna8twue3dlxq.cloudfront.net^
 ||dnajc.co^
 ||dncvj.cn^
@@ -18146,6 +18145,7 @@ zzzyk.com###Tinfo
 ||dogfight360.com/Usbeam/*_ad/
 ||dogfight360.com/Usbeam/yuelun_ad/
 ||dogjb.com^
+||dogwoode09.top^
 ||doh.dns.apple.com^
 ||doh.iqiyi.com^
 ||doh.ptqy.gitv.tv^
@@ -18719,6 +18719,7 @@ zzzyk.com###Tinfo
 ||ekhdplgv.cn^
 ||ekltes.xyz^
 ||ekykse.xyz^
+||ekzf.cn^
 ||ekzmk.icu^
 ||ela42v.xyz^
 ||eldaridpr.com^
@@ -19977,6 +19978,7 @@ zzzyk.com###Tinfo
 ||gp.jstv.com^
 ||gp.zaiyunli.cn^
 ||gp123.cc/20*ad/
+||gpkheq.icu^
 ||gpmzkg.xyz^
 ||gpowow.xyz^
 ||gpqkeq.xyz^
@@ -25027,6 +25029,7 @@ zzzyk.com###Tinfo
 ||nbheopi.cn^
 ||nbhotpo.com^
 ||nbhxgjz.com^
+||nbpczr.icu^
 ||nbpyfog.cn^
 ||nbraenkikrn.com^
 ||nbragzui.com^
@@ -27199,6 +27202,7 @@ zzzyk.com###Tinfo
 ||rkxy.com.cn/js/text_
 ||rl-mb90b39t.cn^
 ||rl-yh.com^
+||rl1vypwyd2.com^
 ||rlcdn.com^
 ||rlog.popin.cc^
 ||rlog.top^
@@ -30496,6 +30500,7 @@ zzzyk.com###Tinfo
 ||vvat6rj.xyz^
 ||vvd68pv6lj.com^
 ||vvfgjzwa.icu^
+||vvllrb.top^
 ||vvocm.com^
 ||vvphznw.cn^
 ||vvsbt.cn^
@@ -33042,6 +33047,7 @@ zzzyk.com###Tinfo
 ||zoosnet.net^$third-party
 ||zoossoft.cn^$third-party
 ||zopeynxv.top^
+||zorkraith.com^
 ||zougg.com^
 ||zoukankan.com^$csp=script-src 'self' * 'unsafe-eval'
 ||zouxinyan.xyz^
