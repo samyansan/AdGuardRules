@@ -3,8 +3,8 @@
 ! Powerd by SamSan
 ! Description: Just a merged Adblock rule. Nothing more
 ! Expires: 6 hours (update frequency)
-! Version: 2025-07-03 08:51:23
-! Total count: 33257
+! Version: 2025-07-03 14:15:38
+! Total count: 33279
 
 ###ADtip
 ###Ad_windows
@@ -7579,6 +7579,7 @@ iwatchme2u.com##.video-ad-box
 iwatchme2u.com#%#//scriptlet("adjust-setTimeout", "video-ad-timeout", "*", "0.02")
 iwatchme2u.com#%#//scriptlet("prevent-window-open", "/bit\.ly|kbtv/")
 ix8.la##div[class^="ADTOPLB_"] > .bd
+ixdzs.tw##.abg
 ixigua.com##.J_ad
 ixigua.com##.banner-section
 ixueshu.com##a[href^="https://adapi."]
@@ -7765,6 +7766,15 @@ jjwxc.net##table[style^="width:984px;"]
 jkpan.cc#%#//scriptlet("abort-current-inline-script", "document.writeln", "\u")
 jkpan.cc#%#//scriptlet("abort-current-inline-script", "jQuery", "\u")
 jkpan.cc#%#//scriptlet("set-constant", "killads", "true")
+jkptgbf.xyz,mfulbvu.xyz,91porna.com###app-nav > ul > li:has(> a.app-nav-item[target="_blank"]:not([href*="91porna.com"]))
+jkptgbf.xyz,mfulbvu.xyz,91porna.com##.ad-dialog
+jkptgbf.xyz,mfulbvu.xyz,91porna.com##.dx-banner-item
+jkptgbf.xyz,mfulbvu.xyz,91porna.com##.modal-backdrop
+jkptgbf.xyz,mfulbvu.xyz,91porna.com##.text-mini:has(> .dx-recommend-icons)
+jkptgbf.xyz,mfulbvu.xyz,91porna.com##.video-items > li:has(> a.checkNum)
+jkptgbf.xyz,mfulbvu.xyz,91porna.com##a.checkNum[target="_blank"]:not([href*="91porna.com"])
+jkptgbf.xyz,mfulbvu.xyz,91porna.com##div[class^="aspect-"]:has(> div > .swiper-backface-hidden)
+jkptgbf.xyz,mfulbvu.xyz,91porna.com#%#//scriptlet('remove-attr', 'data-ads_url', '[data-ads_url]')
 jlmhk.com##.bn
 jlpcn.net##.vodAd
 jmbbs.com###xjj_jmbbs2015_01
@@ -8444,15 +8454,6 @@ meltoday.com,sydneytoday.com##.promo
 memes.tw##.nice-box
 memexie.com##div[style^="width:9"][style$="#C8E4F0"]
 mfa.gov.cn,fmprc.gov.cn#@#.adbox2
-mfulbvu.xyz,91porna.com###app-nav > ul > li:has(> a.app-nav-item[target="_blank"]:not([href*="91porna.com"]))
-mfulbvu.xyz,91porna.com##.ad-dialog
-mfulbvu.xyz,91porna.com##.dx-banner-item
-mfulbvu.xyz,91porna.com##.modal-backdrop
-mfulbvu.xyz,91porna.com##.text-mini:has(> .dx-recommend-icons)
-mfulbvu.xyz,91porna.com##.video-items > li:has(> a.checkNum)
-mfulbvu.xyz,91porna.com##a.checkNum[target="_blank"]:not([href*="91porna.com"])
-mfulbvu.xyz,91porna.com##div[class^="aspect-"]:has(> div > .swiper-backface-hidden)
-mfulbvu.xyz,91porna.com#%#//scriptlet('remove-attr', 'data-ads_url', '[data-ads_url]')
 mg21.com##a[href="https://www.mg21.com/zunjiazq"]
 mgbbs.cn##td[width="960"][height="60"]
 mgnacg.com##a[href^="https://fanqiev2.work/auth/register?code="]
@@ -9749,6 +9750,8 @@ silver.org.cn##.logo_dsaas
 silver.org.cn##.zl_login
 silver.org.cn##div[class*="_gg"]
 silver.org.cn##div[class^="ads_"]
+sim.xiangyanglao.cn###popup
+sim.xiangyanglao.cn##.media-r > a[target] > img
 sina.cn###j_gotop ~ .fl_suspension_template
 sina.cn###j_toTop ~ .fl_suspension_template
 sina.cn###midThreeAds
@@ -12086,6 +12089,7 @@ zzzyk.com###Tinfo
 ||2sfpy.icu^
 ||2u1h56851n.top^
 ||2ueb.cn^
+||2wq9u06jq.com^
 ||2wt.icu^
 ||2yjw.com/statics/js/jquery.min.
 ||2za.fun^
@@ -12346,6 +12350,7 @@ zzzyk.com###Tinfo
 ||477zw.com/js/nzm
 ||47api.cn^
 ||484r.com/images/flash/gallery_
+||4aqoxkesav.com^
 ||4bfx0u.com^
 ||4ce.fun^
 ||4cx5.icu^
@@ -15473,6 +15478,7 @@ zzzyk.com###Tinfo
 ||bakbb.com^
 ||baking.ren^
 ||baldbaptismrisk.com^
+||balerdoits.com^
 ||balili2024.top^
 ||ballive.*/addm/
 ||balmoralmkt.com^$third-party
@@ -16272,6 +16278,7 @@ zzzyk.com###Tinfo
 ||bvakl.ifeng.com^
 ||bvcnmtv.top^
 ||bvdenx.xyz^
+||bvek.cn^
 ||bvlang.com/ad/
 ||bvubasnf.com^
 ||bvuuv.com^
@@ -17555,6 +17562,7 @@ zzzyk.com###Tinfo
 ||d1lm7kd3bd3yo9.cloudfront.net^
 ||d1net.com/index.php?m=poster&
 ||d1nh2vjpqpfnin.cloudfront.net^
+||d1pc1a0g34.com^
 ||d1pmhihatyvp1k.cloudfront.net^
 ||d1rnw04e6mc22h.cloudfront.net^
 ||d1ssbq1bwjg5ux.cloudfront.net^
@@ -18722,6 +18730,7 @@ zzzyk.com###Tinfo
 ||ejzzv.cn^
 ||ekhdplgv.cn^
 ||ekltes.xyz^
+||eknz.cn^
 ||ekykse.xyz^
 ||ekzf.cn^
 ||ekzmk.icu^
@@ -20405,6 +20414,7 @@ zzzyk.com###Tinfo
 ||hauqks.top^
 ||hauqoa.com^
 ||hauqou.top^
+||hawthorng66.top^
 ||hayasp.top^
 ||hb8g86k.mom/mz.js
 ||hbandier.com^
@@ -21989,6 +21999,7 @@ zzzyk.com###Tinfo
 ||j05.xyz^
 ||j1.piaobing.com^
 ||j1ybkf.cn^
+||j2jtq0hpb.com^
 ||j391.com^
 ||j45.xyz^
 ||j46.xyz^
@@ -22019,6 +22030,7 @@ zzzyk.com###Tinfo
 ||jandan.net^*/699pic/
 ||jandan.net^*/moyu.png
 ||jao38.xyz^
+||jasmined544.com^
 ||jasontaojin.com^
 ||jauok.com^
 ||jauql.top^
@@ -22843,6 +22855,7 @@ zzzyk.com###Tinfo
 ||katoleiy.com^
 ||kauomod.cn^
 ||kawayiyi.icu^
+||kawxkg.icu^
 ||kayege.org/js/
 ||kazigua.top^
 ||kb-render.alicdn.com/html/*.html
@@ -23373,6 +23386,7 @@ zzzyk.com###Tinfo
 ||ldamcsl.top^
 ||ldb.cc/js/top.js
 ||ldbnhd.icu^
+||ldbwxo.cn^
 ||lddpgn.cn^
 ||ldgjhd.net^
 ||lding.club^
@@ -24878,6 +24892,7 @@ zzzyk.com###Tinfo
 ||mwurserx.top^
 ||mwzbp.iask.com.cn^
 ||mx98.xyz^
+||mxafaw.icu^
 ||mxc87.org^
 ||mxcmwk.xyz^
 ||mxhbkj.cn^
@@ -26287,6 +26302,7 @@ zzzyk.com###Tinfo
 ||ppxndfgf.icu^
 ||ppyibei.com^
 ||pq.stat.ku6.com^
+||pq9alk18ik.com^
 ||pqav.cn^
 ||pqfpvb.icu^
 ||pqnonh.top^
@@ -26467,6 +26483,7 @@ zzzyk.com###Tinfo
 ||qasqs.com^
 ||qaxl.cn^
 ||qayqa.com:6868/jquery/
+||qbcyr5tfd.com^
 ||qbj8.com^
 ||qbjsymmi0w.cn^
 ||qbkybab.cn^
@@ -27218,6 +27235,7 @@ zzzyk.com###Tinfo
 ||rlog.top^
 ||rlogs.youdao.com^
 ||rltdxt.com/files/h5/
+||rmbsfh.icu^
 ||rmdzsw.top^
 ||rmhfrtnd.com^$third-party
 ||rmioswx.icu^
@@ -28894,6 +28912,7 @@ zzzyk.com###Tinfo
 ||target.fark.com^
 ||target.mixi.media^
 ||targeting.wpdigital.net^
+||tarotmood.com/img/banner$domain=ixdzs.tw
 ||tarvrf.xyz^
 ||tat.pandora.xiaomi.com^
 ||tatjhh.cn^
@@ -29171,6 +29190,7 @@ zzzyk.com###Tinfo
 ||tj.video.qq.com^
 ||tj.youzanyun.com^
 ||tjcghyy.cn^
+||tjfavx.icu^
 ||tjgxzs.com^
 ||tjhhr.com^
 ||tjhjtoyy.cn^
@@ -30229,6 +30249,7 @@ zzzyk.com###Tinfo
 ||v2-lm.adukwai.com^
 ||v2.gdt.qq.com^
 ||v2.reachmax.cn^
+||v2ex.com/pro/emitter
 ||v2mi.gdt.qq.com^
 ||v2rayssr.com/wp-content/plugins/eazy-
 ||v3-ad.video.yximgs.com^
@@ -32112,6 +32133,7 @@ zzzyk.com###Tinfo
 ||yguo.xyz^
 ||ygyl.xyz^
 ||yhaizy.cn^
+||yhak0o7rtz.com^
 ||yhbsk.cn^
 ||yhdd1.com^$third-party
 ||yhdm335.com/piao/
