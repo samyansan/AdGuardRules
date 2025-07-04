@@ -3,8 +3,8 @@
 ! Powerd by SamSan
 ! Description: Just a merged Adblock rule. Nothing more
 ! Expires: 6 hours (update frequency)
-! Version: 2025-07-04 08:51:19
-! Total count: 33279
+! Version: 2025-07-04 14:15:44
+! Total count: 33286
 
 ###ADtip
 ###Ad_windows
@@ -3392,6 +3392,7 @@ $websocket,domain=wap.yushuwu.cloud
 4gamers.com.tw##.home-carousel-container
 4gamers.com.tw##.interstitial-ads
 4gamers.com.tw##.mobile-bottom-ads
+4gamers.com.tw##.pull-to-refresh-trigger-element > div[class="vue-portal-target"]
 4gamers.com.tw##.scroller-ads-wrapper
 4gamers.com.tw##.vue-portal-target > div[style="min-height: 210px;"]
 4gamers.com.tw##.vue-portal-target > div[style="min-height: auto;"]
@@ -10426,6 +10427,7 @@ tvyun07.com,yemancomic.com,zkk78.com##div[style^="position:fixed;"]
 tw.beanfun.com###flybeanfun
 tw.bid.yahoo.com###livePromote
 tw.live##.fsk-window-film
+tw.news.yahoo.com###module-mktIframe
 tw.news.yahoo.com###mrt-node-Lead-1-Ad
 tw.news.yahoo.com###sda-LDRB-iframe
 tw.news.yahoo.com###sda-LREC2-iframe
@@ -16174,6 +16176,7 @@ zzzyk.com###Tinfo
 ||brornaeq.com^
 ||brownfox.top^
 ||browsercfg-drcn.cloud.dbankcloud.cn^
+||browserscan.net/dist/adspower_zh.
 ||brstke.top^
 ||brtlisv.top^
 ||brucelead.com^
@@ -19210,6 +19213,7 @@ zzzyk.com###Tinfo
 ||fisher56.com^
 ||fishsalt.top^
 ||fitpbc.cn^
+||fiu07031kl.com^
 ||fj.sina.com.cn/iframe/63/
 ||fj95560.com^
 ||fjctlnn.top^
@@ -26472,6 +26476,7 @@ zzzyk.com###Tinfo
 ||q4ee.top^
 ||q5sn40kmp2.com^
 ||q68.com^
+||q83v5haaz.com^
 ||q8q.icu^
 ||qa6z7kz5r.com^
 ||qacdf511.cn^
@@ -30344,6 +30349,7 @@ zzzyk.com###Tinfo
 ||vgxbpf.xyz^
 ||vgxj.cn^
 ||vh8.icu^
+||vhaugmotn.com^
 ||vhid.cn^
 ||vhje.cn^
 ||vhotwsh.video.qq.com^
@@ -31304,6 +31310,7 @@ zzzyk.com###Tinfo
 ||x1.52aoteman.com^
 ||x1.kantu.com^
 ||x18a1fmq74.cn^
+||x1c9gze9i.com^
 ||x21.cn/service/feeds.
 ||x23qb.com/skin/themex.js
 ||x360xs.com/tops/
