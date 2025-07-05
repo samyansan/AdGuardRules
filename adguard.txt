@@ -3,8 +3,8 @@
 ! Powerd by SamSan
 ! Description: Just a merged Adblock rule. Nothing more
 ! Expires: 6 hours (update frequency)
-! Version: 2025-07-05 08:48:57
-! Total count: 24156
+! Version: 2025-07-05 14:13:33
+! Total count: 24172
 
 ###ADtip
 ###Ad_windows
@@ -2988,18 +2988,18 @@ $websocket,domain=wap.yushuwu.cloud
 18board.com,18board.net,18p2p.com,18p2p.tv##a[target="_blank"] > img[width="920"]
 18board.com,18board.net,18p2p.com,18p2p.tv##a[target="_blank"] > img[width="950"]
 18board.com,18board.net,18p2p.com,18p2p.tv##a[target="_blank"] > img[width^="72"]
-18comic.*##.modal-body > ul.pop-list
-18comic.*##.top-a2db
-18comic.*##body .bot-per
-18comic.*##div[data-height="90"][data-width="728"]
-18comic.*#@#img[style*="300px"]
 18comic.org,18comic.vip##.container > div[style^="margin-bottom:"]:has(> div.col-lg-3 > div[data-exo])
 18comic.org,18comic.vip##.container > div[style^="padding:"]:has(> [data-group="content_page"])
+18comic.org,18comic.vip##.modal-body > ul.pop-list
 18comic.org,18comic.vip##.tab-content + .row:has(> div[class] > div[class] > .group-notice)
+18comic.org,18comic.vip##.top-a2db
+18comic.org,18comic.vip##body .bot-per
 18comic.org,18comic.vip##div[class="row"][style="display: flex;flex-wrap: wrap;"]
 18comic.org,18comic.vip##div[data-group^="photo_center_games_"]
 18comic.org,18comic.vip##div[data-group^="skyscraper_"]
 18comic.org,18comic.vip##div[data-height="250"][data-width="300"]
+18comic.org,18comic.vip##div[data-height="90"][data-width="728"]
+18comic.org,18comic.vip#@#img[style*="300px"]
 18comic.org,18comic.vip,18-comic.work#$?#.col-xs-6 > div[data-type][style]:has(> ins + script) { remove: true; }
 18comic.org,18comic.vip,18-comic.work#%#//scriptlet('abort-current-inline-script', 'document.dispatchEvent', '/getexoloader/')
 18comic.org,18comic.vip,18-comic.work#?#.col-xs-6 > div[data-show][style]:has(> p:only-child > a[target="_blank"] > img)
@@ -12162,6 +12162,7 @@ zzzyk.com###Tinfo
 ||591hx.com/lunbo/
 ||591hx.com/zyrk_dy/gwjl.html
 ||595image.com^
+||59xx2yr9i.com^
 ||5axxw.com/extends/ad/
 ||5azvpjx8xj.com^
 ||5brxi.icu^
@@ -13727,6 +13728,7 @@ zzzyk.com###Tinfo
 ||b4dg.life/love/
 ||b7sw62.pingshu8.xyz^
 ||b7yy.com/ad/
+||b8b4ix7bj.com^
 ||baby-kingdom.com/reqsads?
 ||backchina.com/banners/
 ||bad996.com/dakaads.js
@@ -14605,6 +14607,7 @@ zzzyk.com###Tinfo
 ||cewrutf.top^
 ||cfdvd779.fun^
 ||cfg.imtt.qq.com^
+||cfoxpgfzxl.com^
 ||cfwlvmg.top^
 ||cfzhushou.com^*/King_Chance_Layer.js
 ||cggyyi.xyz^
@@ -16011,6 +16014,7 @@ zzzyk.com###Tinfo
 ||etwzue.icu^
 ||euazwot.top^
 ||eucnwtw.top^
+||eung95wkni.com^
 ||euresdw.top^
 ||evcnmtw.top^
 ||event.tradplusad.com^
@@ -16206,6 +16210,8 @@ zzzyk.com###Tinfo
 ||firefoxchina.cn^*_topbanner
 ||first-hufu.oss-cn-shanghai.aliyuncs.com^
 ||fiu07031kl.com^
+||fiu07041kl.com^
+||fiu07050kl.com^
 ||fj.sina.com.cn/iframe/63/
 ||fjisu.*/js/huimi.js
 ||fjlqqc.com/common/api/v1.0/slot-code/
@@ -16761,6 +16767,7 @@ zzzyk.com###Tinfo
 ||gtimg.com^*/ad/
 ||gtimg.com^*/adv/
 ||gtmsdd.alicdn.com^
+||gtokii.icu^
 ||gtpso.com/Home/TopSdk/getFavCoupItems
 ||gtuy6el1hd.com^
 ||gtxkze.cn^
@@ -17729,6 +17736,7 @@ zzzyk.com###Tinfo
 ||iqkrungrikhu.com^
 ||iqnew.com/d/js/m/thea
 ||iqshw.com/d/js/m/thea
+||iqsswq.icu^
 ||iqtucudfff.com^
 ||ir.mail.126.com^
 ||ir.mail.yeah.net^
@@ -17862,6 +17870,7 @@ zzzyk.com###Tinfo
 ||iyof.cn^
 ||iyqbsst.top^
 ||iyuedu.cn.com^
+||iyww.cn^
 ||iyxdm.*/js/gad_
 ||iyxh.cn^
 ||izalflh.cn^
@@ -19060,6 +19069,7 @@ zzzyk.com###Tinfo
 ||magicwindow.cn^
 ||magioe.xyz^
 ||magnetdog.net^$popup
+||magnolian07.top^
 ||mahoupao.com/api.php?mod=ad&
 ||mahua.com/api/$subdocument
 ||mahua.com/www/default/js/mahua_show.js
@@ -19681,6 +19691,7 @@ zzzyk.com###Tinfo
 ||nfmovies.com/pic/tu/banner
 ||nfmovies.com/static/*.jpg
 ||nfmovies.com/static/210203.png
+||nftfdj.icu^
 ||nftxfd.top^
 ||nfuwow.com/static/nfuwow/source/front/new/images/
 ||nfydd.com/template/wap1/js/dd.js
@@ -19842,6 +19853,7 @@ zzzyk.com###Tinfo
 ||oclasrv.com^$third-party
 ||oclimik.top^
 ||ocmr.cn^
+||ocvr.cn^
 ||odamcsk.top^
 ||odinmak.top^
 ||odipsumk.top^
@@ -19971,6 +19983,7 @@ zzzyk.com###Tinfo
 ||oqidsgkq.com^
 ||oqipegjz.icu^
 ||orbit.jd.com^
+||orchidea46.com^
 ||orcinhyi.com^
 ||orkreats.com^
 ||orodsmnu.com^
@@ -20180,6 +20193,7 @@ zzzyk.com###Tinfo
 ||pcstore.com.tw/css/myacc_init.js
 ||pcvideoyf.titan.mgtv.com/pb/*.mp4
 ||pcxnrd.xyz^
+||pcxnrr.icu^
 ||pd.sogou.com^
 ||pdfbook.cn/wp-content/uploads/2017/11/049.jpg
 ||pdl.gionee.com^
@@ -23590,7 +23604,9 @@ zzzyk.com###Tinfo
 ||y1n1n3e0v.com^
 ||y3600.cc/20
 ||y4l.icu^
+||y4re1yokqv.com^
 ||y66xvgo5i.chuimg.com^
+||y7pcgacfn.com^
 ||y7ts.icu^
 ||y9ppy0icw1.com^
 ||ya*.dwstatic.com^
