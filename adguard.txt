@@ -3,8 +3,8 @@
 ! Powerd by SamSan
 ! Description: Just a merged Adblock rule. Nothing more
 ! Expires: 6 hours (update frequency)
-! Version: 2025-07-24 08:54:28
-! Total count: 24336
+! Version: 2025-07-24 14:21:31
+! Total count: 24357
 
 ###ADtip
 ###Ad_windows
@@ -141,7 +141,6 @@
 ###dbgg
 ###dgf_pc
 ###diads
-###dip[href*=".tmall.com"]
 ###div_top_ads
 ###downdiv > .downcode
 ###doyoo_mon_mask
@@ -1070,7 +1069,6 @@
 ##a[href*=".skw036.cc"]
 ##a[href*=".ssmh"][href*="?u="]
 ##a[href*=".sudun.com/"]
-##a[href*=".taobao.com"] > .top1
 ##a[href*=".taobao.com"] > img[src*=".tucao."]
 ##a[href*=".xacg.info/"]
 ##a[href*=".xxmh"][href*="?u="]
@@ -3597,6 +3595,7 @@ $websocket,domain=wap.yushuwu.cloud
 58pic.com##.activitySettings-fixedBottom
 58pic.com##.xyyh
 591hx.com##.banner_w
+5dm.link###player_pause
 5dm.link#@#.tm-share-this
 5dy15.cc##div[id][class^="is_"][style^="margin"]
 5eplay.com##img[width="1240"]
@@ -5627,6 +5626,7 @@ doc88.com##.dk-side-gif
 docer.com##.popup
 docin.com###docindex_ad
 docin.com##.cpro_mod
+docin.com##.mini-series-container
 docin.com##.sider_gg
 docs.cfw.lbyczf.com###推广
 docs.cfw.lbyczf.com###推广 + div.list
@@ -6278,6 +6278,7 @@ fuliba2021.net,ypojie.com##.orbui-post-footer
 fuliba2022.net###focusslide
 fuliba2022.net##li[style="margin-top:5px; "] > a[target="_blank"][rel="noopener"]:not([href$=".html"]) > img
 fuliba2022.net#?#.sidebar > div.widget:has(> div.textwidget > ul[style] > li[style="margin-top:5px; "] > a[target="_blank"][rel="noopener"]:not([href$=".html"]) > img)
+fuliba2025.net##.content > a[href][target="_blank"]
 fuliba2025.net##a[href^="https://www.kezyw.com/"] > img
 fulibl.cc##.widget_text:last-child
 fulibl.com##.widget_banner
@@ -10334,6 +10335,9 @@ to8to.com##.whan-ad
 tobosu.com###alert_order
 tobosu.com##.tbs-bottom-order
 today.line.me##.adModule-root
+today.line.me##.scrollAd-root
+today.line.me##article > div[class^="css-"]:has(> .defaultAd)
+today.line.me##article > div[class^="css-"]:has(> div[class^="css-"]:only-child > .backdropAd-wrapper)
 today.line.me##div[id^="ad-module-"]
 tom.com###body_right_banner
 tom.com###popupDivgame
@@ -11152,6 +11156,7 @@ youth.cn##.hd_pic
 youth.cn##div[style="width:960px;height:90px;margin:0 auto;"]
 youxi.baidu.com###coupletBanner
 youxi.kugou.com###scrollUp
+youziks.com#%#//scriptlet('prevent-setTimeout', 'ecjkox.com')
 yp868.com##iframe[src="/js/loading.html"]
 ypojie.com#?#.excerpt:-abp-has(>.focus[href^="http"]:not([href*="ypojie"]))
 ys168.com##div[style="position: fixed; width: 200px; top: 330px; right: 20px; font-size: 9pt; text-align: left;"]
@@ -11689,6 +11694,7 @@ zzzyk.com###Tinfo
 ||1iuh5l.com^
 ||1jok.icu^
 ||1k8j786ks5.com^
+||1kb4atu6x.com^
 ||1ketang.com/Runtime/js/play
 ||1l1.cc^
 ||1l27pkxp5w.com^
@@ -12160,7 +12166,8 @@ zzzyk.com###Tinfo
 ||5azvpjx8xj.com^
 ||5brxi.icu^
 ||5d7k30pv1u.com^
-||5dm.link/html/20240*.gif
+||5dm.link/html/$image
+||5dm.link/html5/api_aj.
 ||5dmail.net/image/$object
 ||5dmail.net/image/ORF_1000.gif
 ||5dmail.net/image/ad_
@@ -13665,6 +13672,7 @@ zzzyk.com###Tinfo
 ||auy07201km.com^
 ||auy07210km.com^
 ||auy07211km.com^
+||auy07240km.com^
 ||av-yoyo.com/images/*.gif
 ||av01.tv/av01/floating_video_ads
 ||av01.tv/images/partners/
@@ -13709,6 +13717,7 @@ zzzyk.com###Tinfo
 ||ayxz.com/images/enkj_small.gif
 ||az5i.icu^
 ||az697jylm.cc^
+||az75h.cn^
 ||azabu-u.ac.jp^
 ||azaleada1.top^
 ||azenco.xyz^
@@ -15194,6 +15203,7 @@ zzzyk.com###Tinfo
 ||d5r.icu^
 ||d6.mobaders.com^
 ||d67p.com/love/
+||d9q4aa05g4.com^
 ||da-fan-shu.cn/images/kuaijie.jpg
 ||da.anythinktech.com^
 ||da.daji.com^
@@ -15933,6 +15943,7 @@ zzzyk.com###Tinfo
 ||eitilbyr.com^
 ||eiv.baidu.cn^
 ||eiv.baidu.com^
+||eiyu7532.xyz^
 ||ejieban.com^
 ||ejimtyw.top^
 ||ejti.cn^
@@ -16253,6 +16264,7 @@ zzzyk.com###Tinfo
 ||fiu07090kl.com^
 ||fiu07100kl.com^
 ||fiu07101kl.com^
+||fiwf54qahl.com^
 ||fj.sina.com.cn/iframe/63/
 ||fjisu.*/js/huimi.js
 ||fjlqqc.com/common/api/v1.0/slot-code/
@@ -17558,6 +17570,7 @@ zzzyk.com###Tinfo
 ||iggdf88.com^
 ||igo.cn/liuxue/js/slideBar
 ||igo99.cn/js/freetest.js
+||igtx.cn^
 ||ih336.com^*a.js
 ||ihearsoh.com^
 ||ihgluu.xyz^
@@ -19512,6 +19525,7 @@ zzzyk.com###Tinfo
 ||mos05111o9i.com^
 ||mos05120o9i.com^
 ||mountain.zhidao.baidu.com^
+||mouthop3.com^
 ||movshow.com/*portal/
 ||mowenxi.com/1.png
 ||mp3.haogeba.com^$image,object
@@ -20059,6 +20073,7 @@ zzzyk.com###Tinfo
 ||ookaso.com^
 ||ooqiu.com/ad_js/
 ||ooublik.top^
+||op9dbh1i0.com^
 ||opdh.cn^
 ||open.e.kuaishou.cn^
 ||open.e.kuaishou.com^
@@ -20625,6 +20640,7 @@ zzzyk.com###Tinfo
 ||pxqqytk.icu^
 ||pxrbnf.icu^
 ||pxvbnt.top^
+||pxwu.cn^
 ||pxx.tnklrs.cn^$third-party
 ||pxyjqea.icu^
 ||py.cn/src/img/pyy/
@@ -20788,6 +20804,7 @@ zzzyk.com###Tinfo
 ||qkitery.top^
 ||qksapp.net/gif/
 ||ql.uzuzuz.com^
+||qlkysc.icu^
 ||qlogo.cn^$domain=chichiav1.xyz
 ||qm2.icu^
 ||qmavyy.icu^
@@ -21449,6 +21466,7 @@ zzzyk.com###Tinfo
 ||shatielsu.com^
 ||shbear.com^*/ad/
 ||shedranfd.com^
+||sheeplm.top^
 ||shejiben.com/common/libs/layer.js
 ||shejiben.com/common/widgets/ui/*zb.js
 ||shelluiqy.com^
@@ -21577,6 +21595,7 @@ zzzyk.com###Tinfo
 ||singtao.ca/editions/affiliate_
 ||sinkrersf.com^
 ||sinolub.com/index.php?m=poster&
+||siodgs.icu^
 ||sioq.cn^
 ||siqc.cn^
 ||sirrors.com^
@@ -22025,6 +22044,7 @@ zzzyk.com###Tinfo
 ||t.track.ad.xiaomi.com^
 ||t.yzwr588.com^$third-party
 ||t002.ottcn.com^
+||t0cv7pmo2y.com^
 ||t0sfe1.com^
 ||t1.612.com^
 ||t1.a.market.xiaomi.com^
@@ -23249,6 +23269,7 @@ zzzyk.com###Tinfo
 ||wfijsc.xyz^
 ||wfiles.hcomic.net/indexSwiper/*_*x*_*_TC_gif.gif
 ||wfsmya.xyz^
+||wgceetonr.com^
 ||whdx.cc/js/
 ||whfpbc.99.com.cn^
 ||whgh1.icu^

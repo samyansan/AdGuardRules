@@ -133,7 +133,6 @@
 ###dbgg
 ###dgf_pc
 ###diads
-###dip[href*=".tmall.com"]
 ###div_top_ads
 ###downdiv > .downcode
 ###doyoo_mon_mask
@@ -1062,7 +1061,6 @@
 ##a[href*=".skw036.cc"]
 ##a[href*=".ssmh"][href*="?u="]
 ##a[href*=".sudun.com/"]
-##a[href*=".taobao.com"] > .top1
 ##a[href*=".taobao.com"] > img[src*=".tucao."]
 ##a[href*=".xacg.info/"]
 ##a[href*=".xxmh"][href*="?u="]
@@ -2254,6 +2252,7 @@
 58pic.com##.activitySettings-fixedBottom
 58pic.com##.xyyh
 591hx.com##.banner_w
+5dm.link###player_pause
 5dm.link#@#.tm-share-this
 5dy15.cc##div[id][class^="is_"][style^="margin"]
 5eplay.com##img[width="1240"]
@@ -4122,6 +4121,7 @@ doc88.com##.dk-side-gif
 docer.com##.popup
 docin.com###docindex_ad
 docin.com##.cpro_mod
+docin.com##.mini-series-container
 docin.com##.sider_gg
 docs.cfw.lbyczf.com###推广
 docs.cfw.lbyczf.com###推广 + div.list
@@ -4760,6 +4760,7 @@ fuliba2021.net,ypojie.com##.orbui-post-footer
 fuliba2022.net###focusslide
 fuliba2022.net##li[style="margin-top:5px; "] > a[target="_blank"][rel="noopener"]:not([href$=".html"]) > img
 fuliba2022.net#?#.sidebar > div.widget:has(> div.textwidget > ul[style] > li[style="margin-top:5px; "] > a[target="_blank"][rel="noopener"]:not([href$=".html"]) > img)
+fuliba2025.net##.content > a[href][target="_blank"]
 fuliba2025.net##a[href^="https://www.kezyw.com/"] > img
 fulibl.cc##.widget_text:last-child
 fulibl.com##.widget_banner
@@ -8692,6 +8693,9 @@ to8to.com##.whan-ad
 tobosu.com###alert_order
 tobosu.com##.tbs-bottom-order
 today.line.me##.adModule-root
+today.line.me##.scrollAd-root
+today.line.me##article > div[class^="css-"]:has(> .defaultAd)
+today.line.me##article > div[class^="css-"]:has(> div[class^="css-"]:only-child > .backdropAd-wrapper)
 today.line.me##div[id^="ad-module-"]
 tom.com###body_right_banner
 tom.com###popupDivgame
