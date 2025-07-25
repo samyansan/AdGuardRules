@@ -3,9 +3,12 @@
 # 下载规则
 curl -o i-1.txt https://raw.githubusercontent.com/TG-Twilight/AWAvenue-Ads-Rule/main/AWAvenue-Ads-Rule.txt
 curl -o i-2.txt https://www.kbsml.com/wp-content/uploads/adblock/adguard/adg-kall-dns.txt
-#curl -o i-3.txt https://raw.githubusercontent.com/uniartisan/adblock_list/master/adblock.txt
+curl -o i-3.txt https://adguardteam.github.io/HostlistsRegistry/assets/filter_29.txt
 curl -o i-4.txt https://raw.githubusercontent.com/Cats-Team/AdRules/main/mod/rules/dns-rules.txt
 curl -o i-5.txt https://raw.githubusercontent.com/Cats-Team/AdRules/main/mod/rules/adblock-rules.txt
+curl -o i-6.txt https://raw.githubusercontent.com/samyansan/AdRules-SamYan/main/Rules/AllowLite.txt
+curl -o i-7.txt https://raw.githubusercontent.com/samyansan/AdRules-SamYan/main/Rules/samyansan.txt
+curl -o i-8.txt https://raw.githubusercontent.com/samyansan/AdHosts/master/adguard
 
 # 合并规则并去除重复项
 cat i*.txt > i-mergd.txt
