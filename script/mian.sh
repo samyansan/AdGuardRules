@@ -2,8 +2,8 @@
 
 # 下载规则
 curl -o i-1.txt https://raw.githubusercontent.com/TG-Twilight/AWAvenue-Ads-Rule/main/AWAvenue-Ads-Rule.txt
-curl -o i-2.txt https://adguardteam.github.io/HostlistsRegistry/assets/filter_29.txt
-curl -o i-3.txt https://adguardteam.github.io/HostlistsRegistry/assets/filter_1.txt
+curl -o i-2.txt https://raw.githubusercontent.com/uniartisan/adblock_list/master/adblock_lite.txt
+curl -o i-3.txt https://adguardteam.github.io/HostlistsRegistry/assets/filter_29.txt
 curl -o i-4.txt https://raw.githubusercontent.com/samyansan/AdRules-SamYan/main/Rules/samyansan.txt
 curl -o i-5.txt https://raw.githubusercontent.com/samyansan/AdHosts/master/adguard
 
