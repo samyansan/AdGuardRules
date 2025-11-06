@@ -2506,6 +2506,8 @@ bilibili.com#?#.is-rcmd:-abp-has(>div:not(div:-abp-has(div)))
 bilibili.com#?#.recommended-container_floor-aside .container > div[class$="feed-card"]:has(div[style$="56.25%;"] > div[class]:matches-css(before, content: /AdGuard/))
 bilibili.com#?#.video-card-common:-abp-has(>.card-pic>a[href*="cm.bilibili.com"][data-target-url])
 bilibili.com#?#.video-page-special-card-small:-abp-has(>.card-box>.info>a[href^="http"]:not([href*=".bilibili.com/"]))
+bilibili.com#@#.bili-dialog-m
+bilibili.com#@#.btn-ctnr
 bimiacg.net##.tuiguang
 bimibimi.cc##[src^='https://dd-static.jd.com']
 bing.com###BottomAppPro
@@ -2987,6 +2989,7 @@ cibaipuki.com##SECTION[id^='download_']
 cibaipuki.com##[href*=":"]
 cilil.cn,magnet2048.com##.hotwords
 cilimao.co,cilimao.one##div[class^="FixBanner"]
+cjcx.neea.edu.cn#@#[style="visibility: visible; display: block;"]
 cjjjs.com,cnblogs.com,fastadmin.net,ziqiangxuetang.com##a[href^="https://promotion.aliyun.com/"]
 cjn.cn###slidelr
 cjn.cn##.sidebar
@@ -6597,6 +6600,7 @@ mydrivers.com##div[style^="position:fixed;left:50%;bottom:200px;"]
 mydrivers.com#?#.newslist > li:has(> span:contains(广 告))
 mydrivers.com#?#div[class^="news_info"] > ul.newslist > li:has(> span:contains(广告))
 mydrivers.com#?#li:-abp-has(>.titl+:-abp-contains(好  物))
+mydrivers.com#@#.baidu, a[href^=http][target=_blank]
 mydrivers.com,wmzhe.com##a[href*=".jd.com/"]
 myexception.cn##.c_a_3
 myexception.cn##.m_a
@@ -7503,6 +7507,7 @@ ruanyifeng.com##p[style="text-align:center;font-size: 16px;"]
 ruanyifeng.com#?#.asset-content > p:-abp-contains(/二维|助教|0 元|报名费|原价/) + p + p > img
 ruanyifeng.com#?#.asset-content > p:-abp-contains(/二维|助教|0 元|报名费|原价/) + p > img
 ruanyifeng.com#@#a > img[src*="wangbase.com/blogimg/asset/"]
+ruanyifeng.com#@#a[href*=".apeclass.com"]
 ruanyifeng.com#@?#.asset-content > p:-abp-contains(/二维|助教|0 元|报名费|原价/) + p + p > img
 ruanyifeng.com#@?#.asset-content > p:-abp-contains(/二维|助教|0 元|报名费|原价/) + p > img
 ruian.com##.ad_opera
