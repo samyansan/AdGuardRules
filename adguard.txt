@@ -3,8 +3,8 @@
 ! Powerd by SamSan
 ! Description: Just a merged Adblock rule. Nothing more
 ! Expires: 6 hours (update frequency)
-! Version: 2025-11-07 08:49:32
-! Total count: 39647
+! Version: 2025-11-07 14:15:37
+! Total count: 39662
 
 ###Page-1[stroke='none'][fill='none'][fill-rule='evenodd']
 ###ad-1,#ad-2,#ad-3,#ad-4,#ad-5,#ad-6,#ad-7
@@ -2770,6 +2770,8 @@ baoliny.com,gasaq.com,hgitv.com,ifooday.cn,nen.com.cn##.guanggao
 baomidou.com##.sidebar-content > astro-island
 baomidou.com#%#//scriptlet('set-constant', '_AdBlockInit', 'noopFunc')
 baozimh.one,yazhouse8.com##.banners
+baozimh.org##a[href*="g-mh.com"]
+baozimh.org#?#.relative:-abp-has(>.bg-red-500)
 baozimh.org,bzmh.org,g-mh.org,godamh.com,manhuafree.com,sportsplanetmag.com##.adshow
 barryblogs.com##.ad-single-top
 barryblogs.com##div[style="margin-bottom: 10px; width: 300px; height: 300px;"]
@@ -7893,6 +7895,7 @@ qq.com##.g-qzp-bottom
 qq.com##.in-top-ad
 qq.com##.jpBanner
 qq.com##.m[pbflag="guess"]
+qq.com##.maillist_ad_bar
 qq.com##.main_ad_bottom
 qq.com##.main_ad_top
 qq.com##.masker_1111
@@ -8833,7 +8836,6 @@ ting89.com,tingshuge.com##.banner688_2
 tingfm.com#%#//scriptlet("prevent-setTimeout", "adblock")
 tingfm.com#%#//scriptlet('set-constant', 'canRunAds', 'true')
 tingfm.com#%#//scriptlet('set-constant', 'can_run_ads', 'true')
-tingfm.com#%#//scriptlet('trusted-replace-node-text', 'script', 'wndt.can_run_ads', '/wndt\.can_run_ads.*=.*;/', 'wndt.can_run_ads = !0;')
 tingroom.com###ifram_563
 tingroom.com###play_ggr
 tingroom.com##a[href*="weidian.com"]
@@ -10959,6 +10961,7 @@ zzzyk.com###Tinfo
 ||4wm.fun^
 ||4wmiuiyd70.com^
 ||4xicd08qs.com^
+||4yl3e3fmv.com^
 ||4z50jczq2.com^
 ||4zn.fun^
 ||5-7-3-ios.userflows.ingest.crittercism.com^
@@ -11290,6 +11293,7 @@ zzzyk.com###Tinfo
 ||6neek.com^
 ||6nglkt9.azhhr.cn^
 ||6oj.fun^
+||6p2g1kk03.com^
 ||6pan.cc/ps/vip.jpg
 ||6park.com/img/*0.gif
 ||6park.com/parks/$script
@@ -11712,6 +11716,7 @@ zzzyk.com###Tinfo
 ||9fwz.com^
 ||9gagtrend.blogspot.com^
 ||9gau3j8x7.com^
+||9h3s1ew2qn.com^
 ||9hkmovies.blogspot.com^
 ||9hyf6wsiv5.com^
 ||9ihome.com/info/ADTopvnet/
@@ -20587,6 +20592,7 @@ zzzyk.com###Tinfo
 ||fadmasakina.blogspot.com^
 ||fads315.com^
 ||fafvvt.icu^
+||fagp.cn^
 ||fagrirtn.com^
 ||fahwlqf37l.com^
 ||fair.sogou.com^
@@ -23011,6 +23017,7 @@ zzzyk.com###Tinfo
 ||hrjg.com.cn^$third-party
 ||hrngmf.com^
 ||hrwbeqv.icu^
+||hrxphjcj.icu^
 ||hrzn-nxt.com^
 ||hs-analytics.net^
 ||hs.cnfol.com/Cm/Imgs/Load.gif
@@ -26324,6 +26331,7 @@ zzzyk.com###Tinfo
 ||llpuhx.xyz^
 ||lls11050ko.com^
 ||lls11060ko.com^
+||lls11061ko.com^
 ||llw67onw6.com^
 ||lm.ijq.tv^
 ||lm.licenses.adobe.com^
@@ -30468,6 +30476,7 @@ zzzyk.com###Tinfo
 ||ppio12200ios.top^
 ||pplnjoow.com^
 ||ppluoli.xyz^*.gif
+||pppteennal.com^
 ||ppshk.com^*banner/
 ||ppsj.com.cn/images/ppsj300.gif
 ||pptv.adx.admaster.com.cn^
@@ -36269,6 +36278,7 @@ zzzyk.com###Tinfo
 ||uz7w7bm4ns.com^
 ||uziisk.icu^
 ||uznev.com^
+||uzrtgekpw.com^
 ||uzurliev.com^
 ||uzwx.cn^
 ||v--v.top^
@@ -36989,6 +36999,7 @@ zzzyk.com###Tinfo
 ||vzia.cn^
 ||vzmz.com/template/paody/aaaa/*0
 ||vzmz.com/template/paody/aaaa/357.js
+||vzorzilmf.com^
 ||vzttq.brfvyrrp.com^
 ||vzvvifw.cn^
 ||w--w.top^
@@ -39208,6 +39219,8 @@ zzzyk.com###Tinfo
 ||zdh11050lo.com^
 ||zdh11051lo.com^
 ||zdh11060lo.com^
+||zdh11061lo.com^
+||zdh11070lo.com^
 ||zdhpen.xyz^
 ||zdhpenn.live^
 ||zdhpenn.shop^
@@ -39464,6 +39477,7 @@ zzzyk.com###Tinfo
 ||zongheng.com/upload/recommend/game/
 ||zonyff.xyz^
 ||zooj.cn^$third-party
+||zoologist00.com^
 ||zoom.zshu.net^
 ||zoomreview.ir^
 ||zoosnet.net^$third-party
@@ -39549,6 +39563,7 @@ zzzyk.com###Tinfo
 ||zuixinyiqi.com^
 ||zujz.cn^
 ||zukddms.cn^
+||zulaedha.com^
 ||zulubet-tips.com^
 ||zumneojf.icu^
 ||zumnervl.com^
