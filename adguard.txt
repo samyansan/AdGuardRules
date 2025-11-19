@@ -3,8 +3,8 @@
 ! Powerd by SamSan
 ! Description: Just a merged Adblock rule. Nothing more
 ! Expires: 6 hours (update frequency)
-! Version: 2025-11-19 08:50:04
-! Total count: 129172
+! Version: 2025-11-19 14:15:47
+! Total count: 129184
 
 ###Page-1[stroke='none'][fill='none'][fill-rule='evenodd']
 ###ad-1,#ad-2,#ad-3,#ad-4,#ad-5,#ad-6,#ad-7
@@ -510,6 +510,7 @@
 *$denyallow=ucloud140.xyz,domain=jiuse.io,image
 *$denyallow=xpxs.net|jiasucdn.com,domain=xpxs.net,xmlhttprequest,image,script
 *$script,third-party,denyallow=mega.co.nz|mega.nz|libs.baidu.com|ilfcdn.li|bytecdntp.com|doodcdn.io|intensedebate.com|vixcloud.co|cdn.plyr.io|rsc.cdn77.org|linkvertise.com|fastly.net|statically.io|sharecast.ws|b-cdn.net|bunnycdn.ru|bootstrapcdn.com|cdn.ampproject.org|cloudflare.com|cdn.staticfile.org|disqus.com|disquscdn.com|dmca.com|ebacdn.com|facebook.net|fastlylb.net|fbcdn.net|fluidplayer.com|fontawesome.com|github.io|google.com|googleapis.com|googletagmanager.com|gstatic.com|jquery.com|jsdelivr.net|jwpcdn.com|jwplatform.com|recaptcha.net|shrink.pe|twitter.com|ulogin.ru|unpkg.com|userapi.com|vidazoo.com|vk.com|yastatic.net|ytimg.com|zencdn.net|youtube.com|cackle.me|googleoptimize.com|vuukle.com|chatango.com|twimg.com|google-analytics.com|hcaptcha.com|media-imdb.com|blogger.com|hwcdn.net|instagram.com|wp.com|fastcomments.com|plyr.io|imgsmail.ru|cloudflare.net|rabbitstream.net|x.com|51.la|cloudflareinsights.com|tongjiniao.com|vp1shop.shop|lamparasde.net|hoopchina.com.cn|kankan2024.com|ovscdns.com,_____,domain=wap.dmwenku.com|m.wfxs.tw|wap.ishuquge.la|m.91zww.com|592mh.top|dubuxiaoshuo.com|clm410.buzz|bookbl.com|shuku99.com|qiyoudy2.com|1yydstxt178.com|rouman5.com|feijisu20.com|iqb5.org|wap.xkushu.com|spoilertop.com|booktxts.com|bixia33.com|rouwenwu19.com|91porny.com|yznnw.com|vodtw.la|ckplayer.vip|uuread.tw|fengchedmp.com|aeahsck.cc|xiaoshubao.net|wap.yushuwu.cloud|twbook.cc|vodtw.xyz|xbqg6.com|qq3009qq.link|18jtv.cc|m.haxuku.com|xm200.com|av6k.com|18j.tv|haiwaishubao.com|uaa.com|lamparasde.net|bbs.hupu.com|kankan2024.com|hanime1-me.icu|hanime1-me.top
+*$script,third-party,denyallow=mega.co.nz|mega.nz|libs.baidu.com|ilfcdn.li|bytecdntp.com|doodcdn.io|intensedebate.com|vixcloud.co|cdn.plyr.io|rsc.cdn77.org|linkvertise.com|fastly.net|statically.io|sharecast.ws|b-cdn.net|bunnycdn.ru|bootstrapcdn.com|cdn.ampproject.org|cloudflare.com|cdn.staticfile.org|disqus.com|disquscdn.com|dmca.com|ebacdn.com|facebook.net|fastlylb.net|fbcdn.net|fluidplayer.com|fontawesome.com|github.io|google.com|googleapis.com|googletagmanager.com|gstatic.com|jquery.com|jsdelivr.net|jwpcdn.com|jwplatform.com|recaptcha.net|shrink.pe|twitter.com|ulogin.ru|unpkg.com|userapi.com|vidazoo.com|vk.com|yastatic.net|ytimg.com|zencdn.net|youtube.com|cackle.me|googleoptimize.com|vuukle.com|chatango.com|twimg.com|google-analytics.com|hcaptcha.com|media-imdb.com|blogger.com|hwcdn.net|instagram.com|wp.com|fastcomments.com|plyr.io|imgsmail.ru|cloudflare.net|rabbitstream.net|x.com|51.la|cloudflareinsights.com|tongjiniao.com|vp1shop.shop|lamparasde.net|hoopchina.com.cn|kankan2024.com|ovscdns.com,domain=banzhu1111111.com|banzhu2222222.com|banzhu3333333.com|banzhu4444444.com|banzhu5555555.com|banzhu6666666.com|banzhu7777777.com|banzhu8888888.com|banzhu9999999.com
 *$third-party,domain=440012.xyz
 *-ad.sm.cn*
 *-ad.video.yximgs.com*
@@ -2763,6 +2764,7 @@ bamxs.com##body > a
 banjiajia.com##.register-box
 banjiajia.com##.register-ten
 banma.com##div[id^="disapper"]
+banzhu1111111.com,banzhu2222222.com,banzhu3333333.com,banzhu4444444.com,banzhu5555555.com,banzhu6666666.com,banzhu7777777.com,banzhu8888888.com,banzhu9999999.com#%#//scriptlet('abort-current-inline-script', 'document.getElementsByTagName', '_mtj')
 banzou.name###ads_1
 banzou.name###ads_2
 banzou.name###appfu
@@ -50499,6 +50501,7 @@ zzzyk.com###Tinfo
 ||dwavamtujydry.store^
 ||dwbaazotho.com^
 ||dwbhepiqyzihi.space^
+||dwchovra.com^
 ||dwclick.com^
 ||dwd11wtouhmea.cloudfront.net^
 ||dwebwj8qthne8.cloudfront.net^
@@ -50520,6 +50523,7 @@ zzzyk.com###Tinfo
 ||dwin1.com^
 ||dwin2.com^
 ||dwizr.com^
+||dwjlxiuio.com^
 ||dwkhqbgckhxfjqp.com^
 ||dwmods123.blogspot.com^
 ||dwnm2295blvjq.cloudfront.net^
@@ -53624,6 +53628,7 @@ zzzyk.com###Tinfo
 ||eustatsunative.com^
 ||eusvnhgypltw.life^
 ||eutecnimzptot.space^
+||euuh.cn^
 ||euw1-device-telemetry-gw.iot.i.tplinknbu.com^
 ||euwdsqkrxwhwu.online^
 ||ev-dxl-01.ba.ad.ssa.gov^
@@ -56238,6 +56243,7 @@ zzzyk.com###Tinfo
 ||fmbristly.cyou^
 ||fmc.demdex.net^
 ||fmfdkgoj.net^
+||fmfrht.icu^
 ||fmg.aty.sohu.com^
 ||fmgmh.com/template/wap/default/js/lunbo.js
 ||fmgqdplqohfct.space^
@@ -62961,6 +62967,7 @@ zzzyk.com###Tinfo
 ||hjiuz.meundies.com^
 ||hjj.pw^
 ||hjjugtkcrizxg.website^
+||hjjwxb.icu^
 ||hjkhxfh.360doc.cn^
 ||hjkiguy.com^
 ||hjlhzdhkwmhhq.site^
@@ -105829,6 +105836,7 @@ zzzyk.com###Tinfo
 ||ss.yomedia.vn^
 ||ss0uu1lpirig.com^
 ||ss3.4sqi.net^
+||ss494hpnq.com^
 ||ss9874.com/img/91_
 ||ssa.direct-running.fr^
 ||ssa.discovery.com^
@@ -109533,6 +109541,7 @@ zzzyk.com###Tinfo
 ||sympathydistinguish.com^
 ||symplr-analytics-xddc4j3vva-ey.a.run.app^
 ||symplr.de^
+||symposium44.com^
 ||symptomadvice.com^
 ||synacast.com^
 ||synacor-match.dotomi.com^
@@ -112512,6 +112521,7 @@ zzzyk.com###Tinfo
 ||thoupsuk.net^
 ||thousedorism.com^
 ||thoussvarajs.digital^
+||thraittidz.com^
 ||thrallsalle.rest^
 ||thramtermite.digital^
 ||thrashbomb.com^
@@ -115920,7 +115930,6 @@ zzzyk.com###Tinfo
 ||tunnitcocas.cfd^
 ||tunnl.com^
 ||tunobwjyfcoad.online^
-||tunshixingkong2.com/config/v7.js
 ||tuntutul.link^
 ||tuobeng.net^
 ||tuoeblgszfyut.store^
@@ -119662,6 +119671,7 @@ zzzyk.com###Tinfo
 ||vhaugmotn.com^
 ||vhewpprxfnprc.space^
 ||vhfwzzdxybakb.site^
+||vhgu5ivtew.com^
 ||vhh.zwda.com^
 ||vhhvldyuhm.xyz^
 ||vhid.cn^
@@ -126322,6 +126332,8 @@ zzzyk.com###Tinfo
 ||xxts11170zs.com^
 ||xxts11171zs.com^
 ||xxts11180zs.com^
+||xxts11181zs.com^
+||xxts11190zs.com^
 ||xxwpowep.com^
 ||xxx-babes.org^
 ||xxx.sdtraff.com^
