@@ -3,8 +3,8 @@
 ! Powerd by SamSan
 ! Description: Just a merged Adblock rule. Nothing more
 ! Expires: 6 hours (update frequency)
-! Version: 2025-11-22 20:16:39
-! Total count: 128986
+! Version: 2025-11-23 02:13:04
+! Total count: 128988
 
 ###Page-1[stroke='none'][fill='none'][fill-rule='evenodd']
 ###ad-1,#ad-2,#ad-3,#ad-4,#ad-5,#ad-6,#ad-7
@@ -522,10 +522,13 @@
 -1325890192.cos.
 .buzz$domain=btsj6.com|yinghua8.tv|iyinghua.io|yhdmba.net
 .buzz/*0*0*0*==$third-party
+.cn/*/o*.js?t=*$domain=12ju.com
 .cn/2022/*/*.txt$third-party
 .cn/2023/*/*.txt$third-party
 .cn/ack?s=*$third-party
 .cn/bid?url=*$third-party
+.cn/d/o*.js?t=*
+.cn/e/o*.js?t=*
 .cn/redbaiduct.com?s=$third-party
 .cn:*/d/*?c=*$third-party
 .cn:*/sc/*?n=$third-party
@@ -9419,7 +9422,6 @@ www.163.com##.float-bar
 www.17173.com##.pn-tg
 www.3ppp.net##DIV.bottom_fixed
 www.67tool.com##.footer-banner
-www.aiwuav.xyz##A.toptxt,IMG[src*='.gif'][alt],SPAN[class^="clobox"],IMG[width='100%'][src*='.gif']
 www.apkmirror.com##.ains.ains-has-label
 www.apkmirror.com##DIV[style$=' display: flex; justify-content: center; font-family: Roboto, Arial;']
 www.dbbqb.com##.MuiPaper-root
