@@ -3,8 +3,8 @@
 ! Powerd by SamSan
 ! Description: Just a merged Adblock rule. Nothing more
 ! Expires: 6 hours (update frequency)
-! Version: 2025-11-23 08:56:37
-! Total count: 128988
+! Version: 2025-11-23 14:14:25
+! Total count: 129016
 
 ###Page-1[stroke='none'][fill='none'][fill-rule='evenodd']
 ###ad-1,#ad-2,#ad-3,#ad-4,#ad-5,#ad-6,#ad-7
@@ -372,12 +372,14 @@
 ##[style='width:100%;height:auto;min-height:120px;position:relative;display:block;']
 ##[style='z-index: 2147483647; width: 100%;height: auto;left: 0;right: 0;margin: auto;']
 ##[style='z-index: 99999; text-indent: -10em;position: relative; left: 0px;box-sizing: border-box;']
-##[style^="pointer-events: none;background-image:url('https://33789.qqqwww987.site"],[style^='z-index: 2147483647; height: 123px; ']
+##[style^="pointer-events: none;background-image:url(': 2147483647; height: 123px; ']
 ##[style^='bottom: 0px; width: 100%; height: 50vw; position: fixed; left: 0px; right: 0px; margin: 0px; background: url("https://']
+##[style^='display: block; width: 100%; height: 125px; background: url'][style*='center top / contain no-repeat;']
 ##[style^='display: block; z-index: 2147483646; width: 10%;']
 ##[style^='display: block; z-index: 2147483646; width: 17px; ']
 ##[style^='position: fixed; bottom: 20%; z-index: 19999 !important; ']
 ##[style^='position: fixed; color: transparent; line-height: 100vh; width: 100vw; z-index: '][style*='; top: 0px; left: 0px;']
+##[style^='position: fixed; z-index: 100; display: block; bottom: 0px; '][style*='center top / contain no-repeat;']
 ##[style^='position: fixed; z-index: 2147483616; width: 10%; height: 32.5px;']
 ##a > I.gg-icon
 ##a > IMG[src$='.gif'][wapsrc][style^='width: 100%']
@@ -540,6 +542,7 @@
 .com/c.php?s=*=*=$third-party
 .com/candy*.js$third-party
 .com/gg.js
+.com/hm/*?*=*$third-party
 .com/js/g.js
 .com/qq.js$third-party
 .com/sh/*.js$third-party
@@ -679,6 +682,7 @@
 /m.html?shareName=*&proxyAccount=
 /public/tingshu/foor.js$~third-party
 /redbaiduct.com?s=
+/resolve?type=*&short=*&name=$third-party
 /scripts/snstyle.js?v=2$~third-party
 /show_ads_
 /sinaads/release/sinaads.js
@@ -699,6 +703,7 @@
 /template/piankuwap/js/afoot.js
 /theme/damn_b.js$~third-party
 /tj/tongji.js?v=$third-party
+/tjjs.js
 /v0/amp-addthis-*.js
 /v2/stats/1*/1*$third-party
 /v2/stats/9*$third-party
@@ -708,6 +713,8 @@
 /vj2/*$third-party
 /vj3/*$third-party
 /xtub_*_rony.js$third-party
+/xx/d.js
+/xx/f12.js
 /xxgg/gd*.js
 /xxgg/pf*.js
 /yinghuacd/bottom.js
@@ -939,7 +946,7 @@
 125.la##.forumlist_ad
 126.com,163.com##.gWel-promt
 131400.best,vikacg.com,vikacg.icu,vikacg.xyz##.post-card-list > a
-131400.best,vikacg.com,vikacg.icu,vikacg.xyz##a[href^="http"] > img[src*="/assets/next/"]
+131400.best,vikacg.com,vikacg.icu,vikacg.xyz##a[href^="http"] > img[src*="/assets/moonlight/"]
 131458.com###header_gg
 131458.com##.divGuanggao
 131458.com##.ulfooter_top
@@ -3143,6 +3150,7 @@ buzzorange.com##.rmaxAD
 buzzorange.com##div[data-id="7c6b7b2"]
 buzzorange.com#$#.sidebar > section#text-8[style*="bottom: 240px;"] { position: static !important; }
 buzzorange.com#?#.sidebar > section[id^="text-"]:has(> .textwidget > .dfped)
+bytegoofy.com/goofy/*/push.js?
 byxx.com##.byzwPC-banner-ADscroll
 byxx.com##.cataAD
 bz88888.net#%#//scriptlet('abort-current-inline-script', 'document.getElementsByTagName', '_mtj')
@@ -4284,7 +4292,7 @@ elecinfo.com##div[class$="-advert"]
 element-plus.gitee.io##.sidebar > .page-content
 element-plus.gitee.io##.toc-content > .m-t-16px
 element-plus.gitee.io##aside > .page-content
-element-plus.org##.doc-content-zosdsoycx
+element-plus.org##aside > div[class^="doc-content-"]
 elle.com.hk##.tpc-container
 elle.com.hk#?#article > div.block-default:has(> div.content-wrapper p > span:contains(Cosmart))
 embedrise.com#%#//scriptlet('prevent-window-open')
@@ -5109,6 +5117,7 @@ hcbbs.com###portal_block_2652
 hcbbs.com###portal_block_3441
 hcbbs.com##.a_cn_pb
 hcbbs.com##.pcbanner
+hcbbs.com##.plc > .pct + :last-child
 hcbbs.com##.wp > div:not([id]):not([class]) > a > img[src*=".imgdb.cn"]
 hcbbs.com##a[href*="&adid="]
 hcbbs.com##table[width="100%"][bordercolor="#CCCCCC"]
@@ -8656,7 +8665,7 @@ sunnylife.tw##.post-entry > div[style="min-width: 300px; min-height:300px;"]
 sunofbeach.net##div[id$="-ad"]
 suopao.org##.t5[style^="margin-top:8px;"]
 suopao.org##.tr3.t_one[onmouseout]
-supercloudsms.com##a[style="display: block;"]
+supercloudsms.com##a[href^="/redirect?"]
 superlife.ca##.sidebar-ad-zone
 supertaste.tvbs.com.tw###ad_m_bottom
 supertaste.tvbs.com.tw###lightbox--ad
@@ -13156,6 +13165,7 @@ zzzyk.com###Tinfo
 ||9oru1vh0w.com^
 ||9poo3z1piye3q57.cfd^
 ||9pub.io^
+||9pzoz6taf.com^
 ||9r0v0go0el.com^
 ||9rferverhosting254-146-spend-ad.app.acorns.com^
 ||9s4l9nik.de^
@@ -22809,6 +22819,7 @@ zzzyk.com###Tinfo
 ||aheadday.com^
 ||aheadprincessmeal.com^
 ||ahejtw.onelink.me^$third-party
+||ahfaihethh.com^
 ||ahfppeskyj.com^
 ||ahfxdqlnlwpyz.site^
 ||ahgame.com/js/new_ad.js
@@ -33317,7 +33328,7 @@ zzzyk.com###Tinfo
 ||beiwo888.com/Runtime/js/
 ||beixisys.com^
 ||beizi.biz^
-||bejson.com/static/ydxyt/
+||bejson.com/static/la.
 ||bejwponulwdwx.online^
 ||bekannt-im-web.de^
 ||bekco.xyz^
@@ -36767,6 +36778,7 @@ zzzyk.com###Tinfo
 ||c0c84de6d4.com^
 ||c0cd2idcl5.com^
 ||c0cfly.rbxcdn.com^
+||c0nmelm3y2.com^
 ||c0zwsdryg.com^
 ||c1.4qx.net^
 ||c1.adform.net^
@@ -46744,6 +46756,7 @@ zzzyk.com###Tinfo
 ||dby7kx9z9yzse.cloudfront.net^
 ||dbyherslenderwai.com^
 ||dbzaiectsuekw.website^
+||dbzolzzy7s.com^
 ||dbzpek.nike.com^
 ||dc-genai-access-provisioning-api.adobe.io^
 ||dc-stat-in.heytapmobile.com^
@@ -48445,6 +48458,7 @@ zzzyk.com###Tinfo
 ||disquz.app^
 ||disrespectpreceding.com^
 ||disrespectsuffer.com^
+||disruptive49.com^
 ||dissatisfactionpublicity.com^
 ||dissertanitos.com^
 ||dissolvedbrevityclog.com^
@@ -55642,6 +55656,7 @@ zzzyk.com###Tinfo
 ||fl.adpxl.co^
 ||fl.milesplit.com^
 ||fl.reg.163.com^
+||fl0hg5wlr.com^
 ||fl6n.com/adtop/
 ||flabbymatt.com^
 ||flag.lab.amplitude.com^
@@ -62435,6 +62450,7 @@ zzzyk.com###Tinfo
 ||hidlinsboart.com^
 ||hidwnatidokyl.online^
 ||hidxuqozdopk.com^
+||hidzrf.icu^
 ||hie.li^
 ||hieroglyph.freeuk.com^
 ||hifyeldu.top^
@@ -71556,6 +71572,7 @@ zzzyk.com###Tinfo
 ||l936.expressnews.com^
 ||l997.lmtonline.com^
 ||l9bjkkhaycw6f8f4.soundcloud.com^
+||l9qxrmda6.com^
 ||la-api.taboola.com^
 ||la-cds.taboola.com^
 ||la-dco.taboola.com^
@@ -77240,6 +77257,7 @@ zzzyk.com###Tinfo
 ||mazdcyzudst.com^
 ||maze.co^
 ||mazefoam.com^
+||mazincike.com^
 ||mazlspqnn.ru^
 ||mazrwvacfmpdq.space^
 ||mazu-hk.3g.qq.com^
@@ -83499,6 +83517,7 @@ zzzyk.com###Tinfo
 ||nftxfd.top^
 ||nfuwow.com/static/nfuwow/source/front/new/images/
 ||nfvetkycvdkaw.life^
+||nfvp.cn^
 ||nfxonb.icu^
 ||nfydd.com/template/wap1/js/dd.js
 ||nfzpctgo.com^
@@ -84707,6 +84726,7 @@ zzzyk.com###Tinfo
 ||nw6irmcbm9t518.cfd^
 ||nwacixzrav.com^
 ||nwarktriynwek.store^
+||nwbuhr.icu^
 ||nwdnxrd.biz^
 ||nweon.com/wp-content/repo/ad/
 ||nwera.xyz^
@@ -84815,6 +84835,7 @@ zzzyk.com###Tinfo
 ||nyvgbt.xyz^
 ||nyvzocirybwts.website^
 ||nyxsatfpppyye.online^
+||nyzrbx.icu^
 ||nz04com.com/aabdd/
 ||nzaat.foamorder.com^
 ||nzavmqooblmpl.site^
@@ -94562,6 +94583,7 @@ zzzyk.com###Tinfo
 ||quszrmzafudas.online^
 ||quszsugihipzad.com^
 ||qutyan8848.com^
+||quudraidfg.com^
 ||quva.fi^
 ||quvzc.com^
 ||quyiucbigjgng.site^
@@ -109889,6 +109911,7 @@ zzzyk.com###Tinfo
 ||t1d26dvout.com^
 ||t1p-adtech.aws.route71.net^
 ||t1tgame.com^
+||t1thmtn5.xyz^
 ||t2.58cdn.com.cn^
 ||t2.a.market.xiaomi.com^
 ||t2.aboutyou.de^
@@ -116534,6 +116557,7 @@ zzzyk.com###Tinfo
 ||ueomdedzyvpdn.online^
 ||uep.gaijin.net^
 ||ueqo.cn^
+||ueqy.cn^
 ||uerzyr.cn^
 ||uesv3jjf6.com^
 ||uetx75ibcu.com^
@@ -123466,6 +123490,8 @@ zzzyk.com###Tinfo
 ||wugroansaghadry.com^
 ||wugrorud.com^
 ||wuhaolin.cn/c/ls
+||wujinyuzhou.top/ny/*00x
+||wujinyuzhou.top/ny/ny852x116.
 ||wujinzy.com/images/ok.gif
 ||wujiupic.com^
 ||wukcvtbrlyrxd.store^
@@ -125431,6 +125457,8 @@ zzzyk.com###Tinfo
 ||xjx11210ts.com^
 ||xjx11211ts.com^
 ||xjx11220ts.com^
+||xjx11221ts.com^
+||xjx11230ts.com^
 ||xjzyhp.xyz^
 ||xk.execpukka.com^
 ||xkanzuqreeloy.store^
