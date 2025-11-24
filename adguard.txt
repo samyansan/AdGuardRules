@@ -3,8 +3,8 @@
 ! Powerd by SamSan
 ! Description: Just a merged Adblock rule. Nothing more
 ! Expires: 6 hours (update frequency)
-! Version: 2025-11-24 08:53:35
-! Total count: 129144
+! Version: 2025-11-24 14:16:56
+! Total count: 129156
 
 ###Page-1[stroke='none'][fill='none'][fill-rule='evenodd']
 ###ad-1,#ad-2,#ad-3,#ad-4,#ad-5,#ad-6,#ad-7
@@ -9109,7 +9109,7 @@ v.qq.com##.video-card-wrap[element-params*="ad_creative_id"]
 v.qq.com##a[href*=".renrendai.com"]
 v.qq.com##a[href*=".vip.com"]
 v.qq.com##a[href*="amway.com.cn"]
-v.qq.com#%#(()=>{const e={apply:(e,t,n)=>{const o=Reflect.apply(e,t,n);try{o instanceof HTMLIFrameElement&&o.matches('iframe[style="display: none;"]:not([src], [id])')&&o.contentWindow&&(o.contentWindow.JSON=window.JSON)}catch(e){}return o}};Node.prototype.appendChild=new Proxy(Node.prototype.appendChild,e),Element.prototype.insertAdjacentElement=new Proxy(Element.prototype.insertAdjacentElement,e)})();
+v.qq.com#%#(()=>{const e='iframe[style*="display: none;"]:not([src])',t={apply:(t,n,o)=>{const r=Reflect.apply(t,n,o);try{r instanceof HTMLIFrameElement&&r.matches(e)&&r.contentWindow?r.contentWindow.JSON=window.JSON:r instanceof HTMLElement&&r.querySelector(e)&&r.querySelector(e).contentWindow&&(r.querySelector(e).contentWindow.JSON=window.JSON)}catch(e){}return r}};Node.prototype.appendChild=new Proxy(Node.prototype.appendChild,t),Element.prototype.insertAdjacentElement=new Proxy(Element.prototype.insertAdjacentElement,t)})();
 v.qq.com#%#//scriptlet('json-prune', 'data.CardList.[].children_list.ad_list data.CardList.[-].params.advertiser_name')
 v.shensgo.com##body > div[id][class*="animated"][style*="position"][style*="z-index"]
 v.shensgo.com##brde[id][style*="height"]
@@ -10779,6 +10779,7 @@ zzzyk.com###Tinfo
 ||1madrasrockers.pics^
 ||1madrasrockers.pro^
 ||1mainanserbagoceng.com^
+||1mb71rr5oo.com^
 ||1mov-team.com^
 ||1mp.mobi^
 ||1mpi.com^
@@ -31106,6 +31107,7 @@ zzzyk.com###Tinfo
 ||awifi.cn^$third-party
 ||awistats.com^
 ||awiudbyqbpo.com^
+||awjakpos.com^
 ||awkarmyar.blogspot.com^
 ||awkward-body.pro^
 ||awkward-clue.com^
@@ -35424,6 +35426,7 @@ zzzyk.com###Tinfo
 ||br0vjqh7pe.com^
 ||br35.rwkw5jcovtw26b.cfd^
 ||bra.almado.jp^
+||braagniddp.com^
 ||bracciaod.click^
 ||bracdn.online^
 ||bracecherry.com^
@@ -41470,6 +41473,7 @@ zzzyk.com###Tinfo
 ||coinzilla.io^
 ||coinzillatag.com^
 ||coiphimhay247.com^
+||coisj3nil.com^
 ||coitajivas.help^
 ||coj12.3utilities.com^
 ||cojokouwheez.net^
@@ -72040,6 +72044,7 @@ zzzyk.com###Tinfo
 ||lbswgtbac.com^
 ||lbszsbzuupnoe.online^
 ||lbumpethohbsp.online^
+||lbvmnh.icu^
 ||lbx777.*/css/300.js
 ||lbx777.*/css/lbxgg02
 ||lby2kd27c.com^
@@ -82631,6 +82636,7 @@ zzzyk.com###Tinfo
 ||naitive.pl^
 ||naivepot.com^
 ||naivestatement.com^
+||naivety48.com^
 ||naivewithdrawal.com^
 ||naivtyu.icu^
 ||naiwoalooca.net^
@@ -93913,6 +93919,7 @@ zzzyk.com###Tinfo
 ||qhaarkie.com^
 ||qhaazaduez.com^
 ||qhaccid.com^
+||qhaelqata.com^
 ||qhanphietd.com^
 ||qhatarsl.com^
 ||qhdhtd.com^
@@ -116719,6 +116726,7 @@ zzzyk.com###Tinfo
 ||uglytraining.com^
 ||ugmhqqlicdaqg.online^
 ||ugo.net^
+||ugox.cn^
 ||ugroocuw.net^
 ||ugrpu.warmies.com^
 ||ugueolbcmmrlq.site^
@@ -125578,6 +125586,8 @@ zzzyk.com###Tinfo
 ||xjx11220ts.com^
 ||xjx11221ts.com^
 ||xjx11230ts.com^
+||xjx11231ts.com^
+||xjx11240ts.com^
 ||xjzyhp.xyz^
 ||xk.execpukka.com^
 ||xkanzuqreeloy.store^
@@ -126337,6 +126347,7 @@ zzzyk.com###Tinfo
 ||xybnfn.xyz^
 ||xycdn.com^
 ||xydlemuxvbip.com^
+||xyf21yawkj.com^
 ||xyftcxtrmbzrm.website^
 ||xygrildmubbrkc.com^
 ||xygwh.cc/js/p
@@ -126795,6 +126806,7 @@ zzzyk.com###Tinfo
 ||yhak0o7rtz.com^
 ||yhbcii.com^
 ||yhbsk.cn^
+||yhcca8h69o.com^
 ||yhcyyokvksgne.website^
 ||yhdd1.com^$third-party
 ||yhddxxitbqxci.online^
