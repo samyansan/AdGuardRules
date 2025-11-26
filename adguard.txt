@@ -3,8 +3,8 @@
 ! Powerd by SamSan
 ! Description: Just a merged Adblock rule. Nothing more
 ! Expires: 6 hours (update frequency)
-! Version: 2025-11-26 08:50:02
-! Total count: 129234
+! Version: 2025-11-26 14:16:36
+! Total count: 129249
 
 ###Page-1[stroke='none'][fill='none'][fill-rule='evenodd']
 ###ad-1,#ad-2,#ad-3,#ad-4,#ad-5,#ad-6,#ad-7
@@ -345,6 +345,7 @@
 ##[src^='https://play.cdn6.buzz/js/']
 ##[src^='https://qwe0231141.bj.bcebos.com/']
 ##[style$="both;margin: auto;text-align: center;line-height: initial;margin-bottom: 10px;"]
+##[style$="z-index:100;display:block;width:9.6vw;height:7.96875vw;background: #000;opacity:0.01;"]
 ##[style$=' 0% 0% / 100% no-repeat; height: 130px; width: 100%; position: relative;']
 ##[style$='auto;text-align: center;line-height: initial;margin-bottom: 10px;margin-left: 20px;margin-right: 20px;']
 ##[style$='display:block;width:9.6vw;height:8.5vw;background: #000;opacity:0.01;']
@@ -372,7 +373,7 @@
 ##[style='width:100%;height:auto;min-height:120px;position:relative;display:block;']
 ##[style='z-index: 2147483647; width: 100%;height: auto;left: 0;right: 0;margin: auto;']
 ##[style='z-index: 99999; text-indent: -10em;position: relative; left: 0px;box-sizing: border-box;']
-##[style^="pointer-events: none;background-image:url(': 2147483647; height: 123px; ']
+##[style^="pointer-events: none;background-image:url(': 2147483647; height: 123px; "]
 ##[style^='bottom: 0px; width: 100%; height: 50vw; position: fixed; left: 0px; right: 0px; margin: 0px; background: url("https://']
 ##[style^='display: block; width: 100%; height: 125px; background: url'][style*='center top / contain no-repeat;']
 ##[style^='display: block; z-index: 2147483646; width: 10%;']
@@ -9770,6 +9771,7 @@ youku.com##.src_adwrap
 youku.com##.sub-slides-wrap .swiper-wrapper > .swiper-slide:has(> a[data-intactspm*="drawer1.d_yk_ad_"])
 youku.com##.sub-slides-wrap .swiper-wrapper > .swiper-slide:has(> a[target-url])
 youku.com##.videolist_s_body > div.common_container > div[id^="ab_"]
+youku.com##div[class^="bullet_wrap_"]:has(> div[class^="yk_card_"] > a[data-spm^="yk_ad_"])
 youku.com##div[data-adext]
 youku.com##div[name="m_pos"] > #FullPromotion
 youku.com#$#.swiper-wrapper > .swiper-slide:has(> a[target-url]) { visibility: hidden !important; }
@@ -42373,6 +42375,7 @@ zzzyk.com###Tinfo
 ||conquerwithknowledge.blogspot.com^
 ||conquestfashionedstatus.com^
 ||conscent.in^
+||conscience34.top^
 ||consciencedefacesteering.com^
 ||conscious-floor.pro^
 ||conscious-guitar.com^
@@ -63845,6 +63848,7 @@ zzzyk.com###Tinfo
 ||hunters.ai^
 ||huntington-bank.demdex.net^
 ||hunts.xyz^
+||hunzlj.icu^
 ||huo07091hy.com^
 ||huo07100hy.com^
 ||huo07101hy.com^
@@ -65638,6 +65642,7 @@ zzzyk.com###Tinfo
 ||imgx.jampp.com^
 ||imgx.mediav.com^
 ||imgxr.com^$domain=xiuren.org
+||imgzxr.cn^
 ||imhd.io^
 ||imho.ru^
 ||imicampaign.io^
@@ -69089,6 +69094,7 @@ zzzyk.com###Tinfo
 ||jqwqxdboznygi.online^
 ||jqxcrdytprcmk.online^
 ||jqyxtzjtoctnj.top^
+||jqz8z7gqxw.com^
 ||jr-ad.ctrip.com^
 ||jr.ads.zaloapp.com^
 ||jr.heroicssethite.com^
@@ -70704,6 +70710,7 @@ zzzyk.com###Tinfo
 ||kllastroad.com^
 ||kllastway.com^
 ||kllbu.babyletto.com^
+||klljo2cp63.com^
 ||kllpelaa.net^
 ||klltoghtuhydo.club^
 ||klmmnd.com^
@@ -72117,6 +72124,7 @@ zzzyk.com###Tinfo
 ||lcdn.tsyndicate.com^
 ||lcdpq.spanx.com^
 ||lcf.cmplay.cmcm.com^
+||lcgcrldp6m.com^
 ||lcgop.info^
 ||lcgvdkaclfzft.website^
 ||lcgwkdjniixjb.store^
@@ -76022,6 +76030,7 @@ zzzyk.com###Tinfo
 ||m.tzh315.cn^
 ||m.ucc.gxfc2021.top^
 ||m.uczzd.cn^
+||m.uishuku.com/*.js$~script
 ||m.umbbs.cn^
 ||m.uscdn.top^
 ||m.uuu.cam^
@@ -89043,6 +89052,7 @@ zzzyk.com###Tinfo
 ||periodicontinyent.com^
 ||periodsairplane.com^
 ||perion.com^
+||periscope73.com^
 ||perispro.com^
 ||perjurysubbeau.cfd^
 ||perk0mean.com^
@@ -102104,6 +102114,7 @@ zzzyk.com###Tinfo
 ||shiveyhoers.cfd^
 ||shixiong.xyz^
 ||shiyaokejishanghai.com^
+||shiyiyuefalkjui.com^
 ||shjha.top^
 ||shliulian.com^
 ||shm2idjl.com^
@@ -118883,6 +118894,7 @@ zzzyk.com###Tinfo
 ||v3.gdt.qq.com^
 ||v3.img.360kuai.com^
 ||v3.jiathis.com^
+||v3pnvck24.com^
 ||v4-ad.adukwai.com.3dce113f.cdnhwcoem01.com^
 ||v4-biswap.com^
 ||v4-lm.adukwai.com^
@@ -119399,6 +119411,7 @@ zzzyk.com###Tinfo
 ||veinmaster.top^
 ||veinsoloistsubstitute.com^
 ||veinteractive.com^
+||veirkaey.com^
 ||veja.com^
 ||vejrp6iq25.com^
 ||vekmygssmfyov.online^
@@ -125659,6 +125672,8 @@ zzzyk.com###Tinfo
 ||xjx11240ts.com^
 ||xjx11241ts.com^
 ||xjx11250ts.com^
+||xjx11251ts.com^
+||xjx11260ts.com^
 ||xjzyhp.xyz^
 ||xk.execpukka.com^
 ||xkanzuqreeloy.store^
