@@ -3,8 +3,8 @@
 ! Powerd by SamSan
 ! Description: Just a merged Adblock rule. Nothing more
 ! Expires: 6 hours (update frequency)
-! Version: 2025-12-05 08:51:45
-! Total count: 130038
+! Version: 2025-12-05 14:17:02
+! Total count: 130054
 
 ###Page-1[stroke='none'][fill='none'][fill-rule='evenodd']
 ###ad-1,#ad-2,#ad-3,#ad-4,#ad-5,#ad-6,#ad-7
@@ -8639,6 +8639,7 @@ sogou.com##div[class^="news-top-banner"]
 sogou.com#?#div[class^="right-feedback"]:-abp-has(>.list-step-title:-abp-contains(网游))
 sogou.com#?#div[class^="right-feedback"]:has(>.list-step-title:contains(网游))
 sohu.com###apkBanner
+sohu.com###bottomBanner
 sohu.com###bottomBanner[data-spm='b-mb'][data-spm-stop='init']
 sohu.com###hotpicnew
 sohu.com###middleBanner[data-spm='a-mb'][data-spm-stop='init']
@@ -8673,6 +8674,7 @@ sohu.com##[data-spm^='ad-']
 sohu.com##a[href*="_Click_Flow_recommend_"]
 sohu.com##a[href^="https://m.sohu.com/promotion?"]
 sohu.com##div[data-spm-content="promotion"]
+sohu.com#%#//scriptlet('json-prune', 'data.*.list.[-].resourceData.adData')
 sohu.com#?##allseeList > .allsee-item.bd-wrap:has(> div > script)
 sohu.com#?#.news-wrapper > .news-box:has(> div[id^="taboola-below-article-widget"])
 sohu.com#?#.news-wrapper > div.news-box.clear:has(> [data-ad-format])
@@ -9556,6 +9558,8 @@ wnacg.com#@#.google-ads
 wnacg.com#@#.hlol_ad
 wnacg.com#@#.pcd_ad
 wnacg.com#@#.pcgg
+wnacg05.cc###control_block
+wnacg05.cc#%#//scriptlet('abort-current-inline-script', 'Math.floor', 'tips')
 wnflb2023.com##.GzList
 woaimoon.com##div[id^="juan_"]
 woego.cn#@##topAds
@@ -11303,6 +11307,7 @@ zzzyk.com###Tinfo
 ||2bcb9261-ad64-41b4-a7dd-93a83a7347e3.sigenv1.qq.p1.ash.opendns.com^
 ||2bd77addac.com^
 ||2biqu.com/static/*/*.js
+||2bqlkznz.xyz^
 ||2btu.com/gg.jpg
 ||2c4rrl8pe.de^
 ||2c6ee0a58a.com^
@@ -12655,6 +12660,7 @@ zzzyk.com###Tinfo
 ||72e085c0-ad52-4fed-a8f8-7f92b28edf44.sigenv1.qq.p1.ash.opendns.com^
 ||72f46511412cb5b7153d836c6d3e0596.top^
 ||72hdgb5o.de^
+||72xh073u9.com^
 ||732quilulv.com^
 ||73336zubo25326.com^
 ||7336.deeplink.mobileapptracking.com^
@@ -47881,6 +47887,7 @@ zzzyk.com###Tinfo
 ||dialisttreflee.cfd^
 ||dialogtech.com^
 ||dialogue.mazda.co.uk^
+||dialogue32.com^
 ||dialxs.com^
 ||dialxs.nl^
 ||diamberproetid.com^
@@ -51707,6 +51714,7 @@ zzzyk.com###Tinfo
 ||electricruin.pro^
 ||electrimum.co.com^
 ||electroenchufe.com^
+||electronic23.com^
 ||electroniclog.bar^
 ||electrubtc.org^
 ||electrum-bch.net^
@@ -70191,6 +70199,7 @@ zzzyk.com###Tinfo
 ||kavtqkbsyrpzt.site^
 ||kawabe.es^
 ||kawancolly.blogspot.com^
+||kawf.cn^
 ||kawfulxh.com^
 ||kawtsayrnwyar.store^
 ||kawxkg.icu^
@@ -82050,6 +82059,7 @@ zzzyk.com###Tinfo
 ||mt.labasad.com^
 ||mt.sellingrealestatemalta.com^
 ||mt.ssai.peacocktv.com^
+||mt1exxfnf.com^
 ||mt1vw5ie.xyz^
 ||mt2swordsmax.com^
 ||mt48.net^
@@ -86639,6 +86649,7 @@ zzzyk.com###Tinfo
 ||onemediaoko.click^
 ||onemind.meizu.com^
 ||onemob.mobi^
+||onemob.mobi^$third-party
 ||onenews.com^
 ||onenr.io^
 ||oneojobwpbmaq.site^
@@ -94377,6 +94388,7 @@ zzzyk.com###Tinfo
 ||qhaazaduez.com^
 ||qhaccid.com^
 ||qhaelqata.com^
+||qhangrotl.com^
 ||qhanphietd.com^
 ||qhatarsl.com^
 ||qhdhtd.com^
@@ -105199,6 +105211,7 @@ zzzyk.com###Tinfo
 ||soflopxl.com^
 ||sofoseveralyears.org^
 ||sofsuite.com^
+||sofsxz.com^
 ||soft-com.biz^
 ||soft-resist.com^
 ||soft-sun.com^
@@ -119547,6 +119560,7 @@ zzzyk.com###Tinfo
 ||v5-reading-ad.qznovelvod.com.volcgslb.com^
 ||v5-reading-ad.qznovelvod.com^
 ||v5.img.360kuai.com^
+||v53groc9v.com^
 ||v5putvuez69uth.cfd^
 ||v6-adashx.ut.amap.com^
 ||v6-adashx.ut.taobao.com^
@@ -120422,6 +120436,7 @@ zzzyk.com###Tinfo
 ||vid.springserve.com^
 ||vid12031hl.com^
 ||vid12040hl.com^
+||vid12050hl.com^
 ||vidads.gr^
 ||vidalak.com^
 ||vidanalytics.taboola.com^
@@ -123838,6 +123853,7 @@ zzzyk.com###Tinfo
 ||wnfjdlpeo.com^
 ||wngegvxrgpsvm.site^
 ||wnifhkhtpemse.space^
+||wnimg1.ru/data/game/*/*-*x*.gif
 ||wnlabbsupkwuu.space^
 ||wnlnufsbeepus.site^
 ||wnnatyfziksqt.website^
