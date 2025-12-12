@@ -3,8 +3,8 @@
 ! Powerd by SamSan
 ! Description: Just a merged Adblock rule. Nothing more
 ! Expires: 6 hours (update frequency)
-! Version: 2025-12-12 08:52:55
-! Total count: 128603
+! Version: 2025-12-12 14:17:28
+! Total count: 128612
 
 ###Page-1[stroke='none'][fill='none'][fill-rule='evenodd']
 ###ad-1,#ad-2,#ad-3,#ad-4,#ad-5,#ad-6,#ad-7
@@ -9945,6 +9945,7 @@ youku.com##.src_adwrap
 youku.com##.sub-slides-wrap .swiper-wrapper > .swiper-slide:has(> a[data-intactspm*="drawer1.d_yk_ad_"])
 youku.com##.sub-slides-wrap .swiper-wrapper > .swiper-slide:has(> a[target-url])
 youku.com##.videolist_s_body > div.common_container > div[id^="ab_"]
+youku.com##div[class*="adDrawer"]
 youku.com##div[class^="bullet_wrap_"]:has(> div[class^="yk_card_"] > a[data-spm^="yk_ad_"])
 youku.com##div[data-adext]
 youku.com##div[name="m_pos"] > #FullPromotion
@@ -11770,6 +11771,7 @@ zzzyk.com###Tinfo
 ||3ng6p6m0.de^
 ||3ngage.se^
 ||3ni.icu^
+||3nopvvhju5.com^
 ||3o9s.short.gy^
 ||3p-geo.yahoo.com^
 ||3p-udc.yahoo.com^
@@ -30065,6 +30067,7 @@ zzzyk.com###Tinfo
 ||at1.listrakbi.com^
 ||at1.qingdou.net^
 ||at3.doubanio.com^
+||at32jaers.com^
 ||atableofcup.com^
 ||atafl.edu^
 ||atafterpiquing.cfd^
@@ -51735,6 +51738,7 @@ zzzyk.com###Tinfo
 ||enecto.com^
 ||enelglobal.demdex.net^
 ||enelslthfenmh.site^
+||enelveufry.com^
 ||enemieskareeta.shop^
 ||enengumaiheeque.net^
 ||enennsa.gushiwen.cn^
@@ -51975,6 +51979,7 @@ zzzyk.com###Tinfo
 ||entreesmoothstir.com^
 ||entreguei.com^
 ||entrepreneurnegativesupportive.com^
+||entrepreneurs46.com^
 ||entrinsik.com^
 ||entrustfacileproficient.com^
 ||entry-stats.huffpost.com^
@@ -112199,6 +112204,8 @@ zzzyk.com###Tinfo
 ||tkledj.biquge.info^
 ||tklivechat.com/widgets/$third-party
 ||tkll12110nb.com^
+||tkll12111nb.com^
+||tkll12120nb.com^
 ||tklsxniuurtqa.online^
 ||tklto.drinkag1.com^
 ||tkmblqzpb.com^
@@ -114239,6 +114246,7 @@ zzzyk.com###Tinfo
 ||travel.exxfttj.cn^
 ||travel.onlinevacationcenter.com^
 ||travel2days.com^
+||travel44.top^
 ||travelaudience.com^
 ||travelbar.tools^
 ||travelmarketreport.actonservice.com^
@@ -118803,6 +118811,7 @@ zzzyk.com###Tinfo
 ||vetogheg.cyou^
 ||vetooograph.com^
 ||vetxpx.icu^
+||veuf2obzc8.com^
 ||veuptyvapstbj.space^
 ||veve.com^
 ||vexerspurlieu.com^
@@ -120241,6 +120250,7 @@ zzzyk.com###Tinfo
 ||vwcbazbnsbpng.site^
 ||vwcredit.demdex.net^
 ||vwcwncsrsedyd.space^
+||vwe5pjt0jq.com^
 ||vwfppr.xyz^
 ||vwfurlcwpujuz.site^
 ||vwgnmcwmbolok.online^
@@ -123010,7 +123020,6 @@ zzzyk.com###Tinfo
 ||wuvrfvmvqabgc.store^
 ||wuvukvmntfarm.website^
 ||wuxianxs.net/m
-||wuxianxs.net/mm.
 ||wuxibus.com/Image/title
 ||wuxingruoyin.top/public/*/plugins/
 ||wuyjtew.icu^
