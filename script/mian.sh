@@ -5,10 +5,8 @@ curl -o i-1.txt https://raw.githubusercontent.com/TG-Twilight/AWAvenue-Ads-Rule/
 curl -o i-2.txt https://raw.githubusercontent.com/uniartisan/adblock_list/master/adblock_lite.txt
 curl -o i-3.txt https://raw.githubusercontent.com/damengzhu/banad/main/jiekouAD.txt
 curl -o i-4.txt https://raw.githubusercontent.com/samyansan/AdRules-SamYan/main/Rules/samyansan.txt
-curl -o i-5.txt https://raw.githubusercontent.com/samyansan/AdHosts/master/adguard
-curl -o i-6.txt https://raw.githubusercontent.com/Cats-Team/AdRules/refs/heads/script/mod/rules/dns-rules.txt
-curl -o i-7.txt https://raw.githubusercontent.com/Cats-Team/AdRules/refs/heads/script/mod/rules/adblock-rules.txt
-curl -o i-8.txt https://adguardteam.github.io/HostlistsRegistry/assets/filter_24.txt
+curl -o i-5.txt https://raw.githubusercontent.com/Cats-Team/AdRules/refs/heads/script/mod/rules/dns-rules.txt
+curl -o i-6.txt https://raw.githubusercontent.com/Cats-Team/AdRules/refs/heads/script/mod/rules/adblock-rules.txt
 # 合并规则并去除重复项
 cat i*.txt > i-mergd.txt
 cat i-mergd.txt | grep -v '^!' | grep -v '^！' | grep -v '^# ' | grep -v '^# ' | grep -v '^\[' | grep -v '^\【' | grep -v '^@' | grep -v '^@@' > i-tmpp.txt
