@@ -3,8 +3,8 @@
 ! Powerd by SamSan
 ! Description: Just a merged Adblock rule. Nothing more
 ! Expires: 6 hours (update frequency)
-! Version: 2025-12-23 14:17:45
-! Total count: 29352
+! Version: 2025-12-23 20:21:06
+! Total count: 29356
 
 ###Page-1[stroke='none'][fill='none'][fill-rule='evenodd']
 ###ad-1,#ad-2,#ad-3,#ad-4,#ad-5,#ad-6,#ad-7
@@ -11716,6 +11716,7 @@ zzzyk.com###Tinfo
 ||adtechus.com^
 ||adtng.com^
 ||adtrack.quark.cn^
+||adtracker.medproad.com^
 ||adtrk.me^
 ||adtx2.cn^
 ||adui.tg.meitu.com^
@@ -21037,6 +21038,7 @@ zzzyk.com###Tinfo
 ||mediaplex.com^
 ||mediav.com^
 ||mediav.com^$third-party,domain=~dev.360.cn|~g.360.cn
+||medproad.com^
 ||medsci.cn/aimgs/$script
 ||medsci.cn/images/wyg.jpg
 ||meethanshi.com^
@@ -23134,6 +23136,7 @@ zzzyk.com###Tinfo
 ||qcmm09.com^
 ||qctcu.com^
 ||qcvf.ifeng.com^
+||qcwx.medproad.com^
 ||qcyunnan.cn^
 ||qczcxe.cn^
 ||qczj.xyz^
@@ -25219,6 +25222,7 @@ zzzyk.com###Tinfo
 ||szyhqj.com/js/
 ||szzb.xyz^
 ||t*.baidu.com/it/u=*,*&fm=76$third-party
+||t-adx.52qumao.com^
 ||t-dsp.pinduoduo.com^
 ||t-e.flyme.cn^
 ||t-flow.flyme.cn^
