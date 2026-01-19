@@ -3,8 +3,8 @@
 ! Powerd by SamSan
 ! Description: Just a merged Adblock rule. Nothing more
 ! Expires: 6 hours (update frequency)
-! Version: 2026-01-19 14:22:53
-! Total count: 29361
+! Version: 2026-01-19 20:24:23
+! Total count: 29362
 
 ###Page-1[stroke='none'][fill='none'][fill-rule='evenodd']
 ###ad-1,#ad-2,#ad-3,#ad-4,#ad-5,#ad-6,#ad-7
@@ -7950,6 +7950,7 @@ sohu.com##.x-adv-linear-panel
 sohu.com##.x-adv-pause-nonlinear-panel
 sohu.com##A[href='javascript:void(0);']
 sohu.com##DIV[id^="ceans_"]
+sohu.com##IFRAME[frameborder='0']
 sohu.com##IFRAME[width='325'][frameborder='0']
 sohu.com##[data-spm-content='ad']
 sohu.com##[data-spm^='ad-']
