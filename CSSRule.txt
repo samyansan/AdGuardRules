@@ -101,6 +101,7 @@
 ##A[target='_blank'] > IMG[width='100%'][src*='.gif']
 ##A[target='_blank'][href*='/auth/register?code=']
 ##BODY > DIV.ggcontainer
+##DIV#ad-float.kyty
 ##DIV#advertisings.advertising
 ##DIV#appss[style='padding:15px;']
 ##DIV#bannerCtrl.source_container.swiper-wrapper
