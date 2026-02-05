@@ -3,8 +3,8 @@
 ! Powerd by SamSan
 ! Description: Just a merged Adblock rule. Nothing more
 ! Expires: 6 hours (update frequency)
-! Version: 2026-02-05 09:04:13
-! Total count: 29370
+! Version: 2026-02-05 14:42:55
+! Total count: 29371
 
 ###Page-1[stroke='none'][fill='none'][fill-rule='evenodd']
 ###ad-1,#ad-2,#ad-3,#ad-4,#ad-5,#ad-6,#ad-7
@@ -6303,6 +6303,7 @@ m.qidian.com##P.text-content
 m.qu.la#?#:-abp-has(> a[href*=".bcebos."])
 m.qu.la#?#ul:-abp-has(> li > a[href*=".bcebos."])
 m.sm.cn##DIV[ad_seid],.dl-banner-lg.card
+m.smzdm.com##.damo-footer-open-app__fixed-logo
 m.so.com##.e_idea_list
 m.sohu.com##.feed-list-scoped > div[data-spm-type="content"]
 m.taobao.com##.install-app
