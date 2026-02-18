@@ -3,8 +3,8 @@
 ! Powerd by SamSan
 ! Description: Just a merged Adblock rule. Nothing more
 ! Expires: 6 hours (update frequency)
-! Version: 2026-02-18 14:48:23
-! Total count: 29382
+! Version: 2026-02-18 20:34:41
+! Total count: 29380
 
 ###Page-1[stroke='none'][fill='none'][fill-rule='evenodd']
 ###ad-1,#ad-2,#ad-3,#ad-4,#ad-5,#ad-6,#ad-7
@@ -634,8 +634,6 @@
 .xyz:*/js/b.php?v=*
 /*/*.add.*.add
 /*_*_aubi.js$third-party
-/*_09c09p09v.js
-/*_10c10p10v.js
 /360mse/360mse_*.apk?
 /Distribute/Distribute_g/butterfly/*
 /Public/wap/zymk/js/guanggao.js
