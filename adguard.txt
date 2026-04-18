@@ -3,8 +3,8 @@
 ! Powerd by SamSan
 ! Description: Just a merged Adblock rule. Nothing more
 ! Expires: 6 hours (update frequency)
-! Version: 2026-04-18 20:35:11
-! Total count: 19173
+! Version: 2026-04-19 02:30:59
+! Total count: 19174
 
 ###Page-1[stroke='none'][fill='none'][fill-rule='evenodd']
 ###ad-1,#ad-2,#ad-3,#ad-4,#ad-5,#ad-6,#ad-7
@@ -166,6 +166,7 @@
 ##DIV.myui-content__acc[style='position: relative;padding: 0 10px']
 ##DIV.playVideo-centerAd
 ##DIV.row.no-gutters.m-0
+##DIV.small-icon-container.is_mb
 ##DIV.stui-player__item.clearfix > img[url]
 ##DIV.swiper2.swiper-initialized.swiper-horizontal
 ##DIV.theme-hope-content.ads-container
