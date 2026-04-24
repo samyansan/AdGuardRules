@@ -3,8 +3,8 @@
 ! Powerd by SamSan
 ! Description: Just a merged Adblock rule. Nothing more
 ! Expires: 6 hours (update frequency)
-! Version: 2026-04-24 09:25:06
-! Total count: 19175
+! Version: 2026-04-24 15:46:00
+! Total count: 19177
 
 ###Page-1[stroke='none'][fill='none'][fill-rule='evenodd']
 ###ad-1,#ad-2,#ad-3,#ad-4,#ad-5,#ad-6,#ad-7
@@ -714,6 +714,7 @@
 /js/tj.js
 /m.html?rmid=*&yd=
 /m.html?shareName=*&proxyAccount=
+/matomo.js$third-party
 /public/tingshu/foor.js$~third-party
 /redbaiduct.com?s=
 /resolve?type=*&short=*&name=$third-party
@@ -16906,6 +16907,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||ufs.adkmob.com^
 ||ufvauj.cn^
 ||ufz.doesxyz.com^
+||ug.baidu.com^
 ||ug.snssdk.com^
 ||ugbjqwe.com^
 ||ugox.cn^
