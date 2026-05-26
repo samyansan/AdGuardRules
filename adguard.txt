@@ -3,8 +3,8 @@
 ! Powerd by SamSan
 ! Description: Just a merged Adblock rule. Nothing more
 ! Expires: 6 hours (update frequency)
-! Version: 2026-05-26 17:31:57
-! Total count: 19195
+! Version: 2026-05-26 22:35:11
+! Total count: 19197
 
 ###Page-1[stroke='none'][fill='none'][fill-rule='evenodd']
 ###ad-1,#ad-2,#ad-3,#ad-4,#ad-5,#ad-6,#ad-7
@@ -939,6 +939,8 @@ ip.sb##.wwads_abp
 ip.sb##[style='text-align: center;margin: 20px 0;width: 100%;']
 iplark.com##body > #capture-area ~ div[class]:empty
 iplark.com##div.search-container > [style='display: block;']
+ithome.com##.j_iframe_show > iframe
+ithome.com##.placeholder:has([data-original*='newsuploadfiles'])
 ix6080.com##DIV[style$='vw; display: block;']
 izaiwen.cn##.item-box
 izaiwen.cn##DIV[carousel-item]
