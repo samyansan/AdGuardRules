@@ -3,8 +3,8 @@
 ! Powerd by SamSan
 ! Description: Just a merged Adblock rule. Nothing more
 ! Expires: 6 hours (update frequency)
-! Version: 2026-06-09 09:56:55
-! Total count: 19199
+! Version: 2026-06-09 16:56:14
+! Total count: 19201
 
 ###Page-1[stroke='none'][fill='none'][fill-rule='evenodd']
 ###ad-1,#ad-2,#ad-3,#ad-4,#ad-5,#ad-6,#ad-7
@@ -707,6 +707,7 @@
 /js/ads
 /js/gd.js
 /js/gg123/*
+/js/hf.js
 /js/htmlk*.js$~third-party
 /js/htmlka.js
 /js/htmlkb.js
@@ -16748,6 +16749,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||tt.rulianshi.la^
 ||ttdfjt.blogspot.com^
 ||ttienli.top^
+||ttkxny.com^
 ||ttly888.com^
 ||ttplugins.ttpsdk.info^
 ||ttvosc.com^
