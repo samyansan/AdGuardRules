@@ -3,8 +3,8 @@
 ! Powerd by SamSan
 ! Description: Just a merged Adblock rule. Nothing more
 ! Expires: 6 hours (update frequency)
-! Version: 2026-08-12 08:56:58
-! Total count: 31157
+! Version: 2026-08-12 15:04:18
+! Total count: 31163
 
 ###ADtip
 ###Ad_windows
@@ -11665,7 +11665,6 @@ supertaste.tvbs.com.tw##.min-h-\[250px\]
 supertaste.tvbs.com.tw##.sidebar > span:contains(人氣點閱榜)
 supertaste.tvbs.com.tw##aside > div[id^="supertaste_"]
 supertaste.tvbs.com.tw##aside > section:has(> div[id^="taboola-"])
-supertaste.tvbs.com.tw##div[class]:has(> div[id^="supertaste_"])
 supertaste.tvbs.com.tw##div[id^="taboola-"]
 supertaste.tvbs.com.tw##footer > section:has(> div[id^="taboola-"])
 supertaste.tvbs.com.tw#?#.article_detail > div.cotxt_title:has(> p:contains(/延伸閱讀|你可能會喜歡|大家都在看/))
@@ -13844,6 +13843,7 @@ zzzyk.com###Tinfo
 ||2481e.com^$popup
 ||249999.xyz^*.gif
 ||24cmm.com:8888/js
+||24jp8wjmho.com^
 ||24klm.cn^
 ||24klm.net^
 ||24nf8sxd9p.com^
@@ -20125,6 +20125,7 @@ zzzyk.com###Tinfo
 ||gf6axe5bdb.com^
 ||gfan.com/press/
 ||gfbdb1.com^
+||gfblaghzk2.com^
 ||gfh9j4wyub.com^
 ||gfnulonelb.com^
 ||gfrzzzx.cn^
@@ -22507,6 +22508,7 @@ zzzyk.com###Tinfo
 ||jxnews.com.cn/assets/js/dspshow.js
 ||jxnews.com.cn/first/js/home/index_ad
 ||jxnews.com.cn^*_ad_
+||jxnwbnxslrjvds.com^
 ||jxtejf.xyz^
 ||jxtest.bolecdn.com/player/*.gif
 ||jxudh7t5cg.com^
@@ -24685,6 +24687,7 @@ zzzyk.com###Tinfo
 ||nuucmzuc.com^
 ||nuwurorwbr.com^
 ||nv0cl4nnq.com^
+||nvb0nqwjif.com^
 ||nvbrfj.icu^
 ||nvgst8gvjy.com^
 ||nvielkaa.com^
@@ -26358,6 +26361,7 @@ zzzyk.com###Tinfo
 ||rovz7ekw3r.com^
 ||roywc0iql.com^
 ||rp.hpplay.cn^
+||rp9zb27jn1.com^
 ||rpahyhn.cn^
 ||rphwjxzekcbzxu.com^
 ||rpkcqtf.cn^
@@ -26941,6 +26945,7 @@ zzzyk.com###Tinfo
 ||siwei.pub^
 ||sixiuwl.cn^
 ||siz3wxt8p.shop^
+||sj2xvswu3r.com^
 ||sjarvis.taobao.com^
 ||sjbaiduadv1.redou.com^
 ||sjbbsja.forum^
@@ -30448,6 +30453,7 @@ zzzyk.com###Tinfo
 ||yunliunet.com^
 ||yunqishi8.com^
 ||yunsennet.com^$popup
+||yuntu68.com/imgcimo/
 ||yuntue.com/zb_users/plugin/MoreLinks*.php
 ||yunupload.net/jsa/
 ||yunzhan365.com/resourceFiles/js/weixin-share.js
