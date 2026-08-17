@@ -3,8 +3,8 @@
 ! Powerd by SamSan
 ! Description: Just a merged Adblock rule. Nothing more
 ! Expires: 6 hours (update frequency)
-! Version: 2026-08-17 14:29:52
-! Total count: 31224
+! Version: 2026-08-17 20:18:36
+! Total count: 31232
 
 ###ADtip
 ###Ad_windows
@@ -618,6 +618,7 @@
 ##.indexnews-ad
 ##.infomation + #notice_container > .event-notice
 ##.inner-advertise
+##.ippure-ads.right-one
 ##.it618_firstad_flex
 ##.itopbar + .container
 ##.jav-nav + .bcpic
@@ -6236,6 +6237,7 @@ digitimes.com.tw##.dt-ad-block
 digitimes.com.tw##.edm-frame:has(> .adtext)
 digitimes.com.tw##a[href*="/webad/"]
 digitimes.com.tw#$#.ad-banner { visibility: hidden !important; }
+digvps.com##aside[data-slot="right"][aria-label] > div > a[target="_blank"]
 dilidili.wang##body > article[class][style*="position: fixed;top: 0;z-index: 9999;display:block !important;"]:style(position: absolute!important; left: -3000px!important;)
 dilidili.wang#$#body > article[class][style*="position: fixed;top: 0;z-index: 9999;display:block !important;"] { position: absolute!important; left: -3000px!important; }
 dilidili3.com##.body > div.body-wrap:has(> div.mod-box > div.mod-title > h3:contains(友情链接))
@@ -14798,6 +14800,7 @@ zzzyk.com###Tinfo
 ||7nb71ub2xi.com^
 ||7p5ruxflv0.com^
 ||7q2701vx8e.com^
+||7qkm33t55.com^
 ||7qo2met.com^
 ||7qxv9s5q16.com^
 ||7r227ut.cn^
@@ -19664,6 +19667,7 @@ zzzyk.com###Tinfo
 ||feq853.com^
 ||fet20kdo93.com^
 ||fevgdluuiqjflm.com^
+||fezjga8y1.com^
 ||ff.meikanguo.com^
 ||ff.psd8.com^
 ||ff.qichetansuo.com^
@@ -23768,6 +23772,7 @@ zzzyk.com###Tinfo
 ||manguan.vip^
 ||manhuabei.com/assets/xiwang.js
 ||manhuapi.com/style/js/common.js
+||manhuaren.com/wx20190904.js
 ||manifest97.com^
 ||manlungkey.com^
 ||manmanju.com/mg/show*.js
@@ -26388,6 +26393,7 @@ zzzyk.com###Tinfo
 ||rmhfrtnd.com^$3p
 ||rmhfrtnd.com^$third-party
 ||rms-drcn.platform.dbankcloud.cn^
+||rmt827wgr.com^
 ||rmws8.com^
 ||rmzbfum.cn^
 ||rn30y7u7h.com^
@@ -29064,6 +29070,7 @@ zzzyk.com###Tinfo
 ||w766ewvx75.com^
 ||w7gx7y9wk.com^
 ||w97nv5ibv4.com^
+||w9p70nort.com^
 ||wa.kuwo.cn/lyrics/img/kwgg/
 ||wa9dald544.com^
 ||wacogzaeip.com^
@@ -30124,6 +30131,7 @@ zzzyk.com###Tinfo
 ||xywy.com/gk?a=
 ||xywy.com/zhixing/
 ||xyzcvx.icu^
+||xz6ogoi12.com^
 ||xzblht.icu^
 ||xzji.com/data/block_js/softShow_
 ||xzkumjdqj.com^
