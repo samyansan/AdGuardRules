@@ -3,8 +3,8 @@
 ! Powerd by SamSan
 ! Description: Just a merged Adblock rule. Nothing more
 ! Expires: 6 hours (update frequency)
-! Version: 2026-08-25 14:24:14
-! Total count: 31037
+! Version: 2026-08-25 20:22:59
+! Total count: 31041
 
 ###ADtip
 ###Ad_windows
@@ -10552,7 +10552,9 @@ pincong.rocks#%#//scriptlet("prevent-setInterval", "Ad Block")
 pindao.hao123.com##.cmsad_wrapper
 ping.chinaz.com##.sth > .col-red
 ping0.cc###adgright
+ping0.cc###adhright
 ping0.cc##.xbeles
+ping0.cc##.xceles
 ping0.cc##a[rel="noopener nofollow"][target="_blank"]:has(> [class^="close"])
 pinggu.org##.banner2015
 pinggu.org##.hdbanner
@@ -17568,6 +17570,7 @@ zzzyk.com###Tinfo
 ||cdn.liftoff-creatives.io^
 ||cdn.ping0.cc/images/dx/*.gif$~3p
 ||cdn.ping0.cc/images/dx/*.gif$~third-party
+||cdn.ping0.cc/images/ex/*.gif
 ||cdn.rrmj.plus/ad_4k.mp4$media,redirect=noop-0.1s.mp3,domain=yichengwlkj.com
 ||cdn.rrmj.plus/ad_4k.mp4$media,redirect=noopmp3-0.1s,domain=yichengwlkj.com
 ||cdn.shdsp.net/ad
@@ -21681,6 +21684,7 @@ zzzyk.com###Tinfo
 ||incapacity75.top^
 ||inception27.com^
 ||incubation95.top^
+||infamouscomer.com^
 ||info.vip.iqiyi.com/promotion/
 ||infogram.com^$domain=hk01.com
 ||information43.com^
