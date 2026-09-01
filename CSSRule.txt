@@ -16,6 +16,7 @@
 ###\31 x1_container.float-banner-footer
 ###__ads_dp
 ###__long_gg_container
+###__nuxt > div > .footer
 ###aafoot.top_box
 ###aafoot[class^="top_box"]
 ###aaheadtop
@@ -625,6 +626,8 @@
 ##.jtAms_container > .count_a
 ##.ka-flo
 ##.kjk-flo
+##.kkb-href
+##.kkm-href
 ##.ksads
 ##.kuandu > .bottommob
 ##.leftadv
