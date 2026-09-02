@@ -3,8 +3,8 @@
 ! Powerd by SamSan
 ! Description: Just a merged Adblock rule. Nothing more
 ! Expires: 6 hours (update frequency)
-! Version: 2026-09-02 09:47:15
-! Total count: 31137
+! Version: 2026-09-02 18:06:06
+! Total count: 31145
 
 ###ADtip
 ###Ad_windows
@@ -24,7 +24,7 @@
 ###\31 x1_container.float-banner-footer
 ###__ads_dp
 ###__long_gg_container
-###__nuxt > div > .footer
+###__nuxt > div > .footer > .floatWindow + div:not([class]):not([id])
 ###aafoot.top_box
 ###aafoot[class^="top_box"]
 ###aaheadtop
@@ -832,6 +832,7 @@
 ##.video-info-aux + div[style^="border-radius: 5px;"]
 ##.video-item-ads
 ##.video-player > .gg-bg-cover
+##.videoPlayContainer > div#video-play + div[data-nosnippet]
 ##.video_details > .banner
 ##.vodads
 ##.vp-project-home > .ads-container
@@ -1511,6 +1512,7 @@
 ##header + #main:nth-child(n+4) .container-fluid.mb-3.p-0
 ##header + #main:nth-child(n+4) > div[id^="po-s"]:not(#po-shd)
 ##html.wap [style='left: 40%;']
+##html[lang="zh-cn"] > body  > header.Mobile-Header + main > div[id][class]
 ##iframe.ad-frame
 ##iframe[src*=".xxmh"][src*="?u="]
 ##img#GGADIMG
@@ -8973,6 +8975,8 @@ kaitao.cn##a[href*="/a.php?id="]
 kaka12345.cc###main
 kalvin.cn##.fell_advertisement_box
 kanav.ad##div[class^="img-ad"]
+kanju.ai##.movie-player-info-ad-grid
+kanju.ai##.movie-player-info-ad-heading
 kankan.com###adv_box
 kankan.com###modal-adv
 kankan.com##.tuiguang_position
@@ -10514,6 +10518,8 @@ pcstore.com.tw##div[class^="ad388zone"]
 pcworks.cn##.md-show
 pcworks.cn##.xintheme-ad
 peachring.com##+js(remove-class, hv-pending, html)
+peachring.com#%#//scriptlet('prevent-navigation', '/popunder')
+peachring.com#%#//scriptlet('remove-class', 'hv-pending', 'html')
 peizimenhu.com##a[href^="http"]:not([href*=".peizimenhu."]) > img[src^="data/attachment/portal/"]
 pengbocloud.com#@#.ad-bg
 people.com.cn##.ad_left
@@ -13501,6 +13507,7 @@ zzzyk.com###Tinfo
 ||1188.com^$3p
 ||1188.com^$third-party
 ||119xiazai.com^$subdocument
+||11fkkw8h3i.com^
 ||11img.com/ad/
 ||11jianzhan.com^
 ||11kkzz.com/se/wf/
@@ -19490,6 +19497,7 @@ zzzyk.com###Tinfo
 ||eyusky.net/weixin-img/zhifubao.jpg
 ||eyuyao.com/yyad/
 ||eyzerannl.com^
+||ez2q38b1ik.com^
 ||ezcl19vy10.com^
 ||ezd6n7n4m7.com^
 ||ezlgszdb.icu^
@@ -24618,7 +24626,6 @@ zzzyk.com###Tinfo
 ||nohcff.xyz^
 ||nongjitong.com/adm/
 ||norma-external-collect.meizu.com^
-||norse.mingxiaow.com^
 ||northcookie.xyz^
 ||notes-analytics-events.apple.com^
 ||notify.bugsnag.com^
@@ -26047,6 +26054,7 @@ zzzyk.com###Tinfo
 ||qwnzzp50x.com^
 ||qwrnkpow.com^
 ||qwsbegovo.top^
+||qwt9oyg741.com^
 ||qwuylnl.com^
 ||qxakzox.cn^
 ||qxaz2xcw.com^
