@@ -3,8 +3,8 @@
 ! Powerd by SamSan
 ! Description: Just a merged Adblock rule. Nothing more
 ! Expires: 6 hours (update frequency)
-! Version: 2026-09-03 09:52:55
-! Total count: 31147
+! Version: 2026-09-03 18:17:05
+! Total count: 31163
 
 ###ADtip
 ###Ad_windows
@@ -1327,6 +1327,7 @@
 ##a[href][target="_blank"][rel="external nofollow"] > img[src]
 ##a[href^="/ad.html?url="]
 ##a[href^="/ad/"] > img[id][src*="hdslb.com"]
+##a[href^="/api/jump/"] > img[src*=".xyz/m/"]
 ##a[href^="/archives/"] > .post-card > .blog-background[style*="gif;base64"]
 ##a[href^="/dasp.php?a="]
 ##a[href^="/hy-"][ontouchstart]
@@ -2075,6 +2076,7 @@ $websocket,domain=wap.yushuwu.cloud
 /^https?:\/\/kan\.znds\.com\/public\/home\/images\/[0-9]+-[0-9]+\.gif\?v=/$domain=kan.znds.com
 /^vidhub\d+\.(cc\|top)$/##.player-info div[class]:has(> div[class][style] > img[onclick^="window.open"]:first-child + span[style]:last-child)
 /^vidhub\d+\.(cc\|top)$/##div[class][style*="position:"] > img[onclick^="window.open"]
+/_next/static/chunks/00zo5_naxp4vi.
 /_xa/ads
 /_xa/ads?
 /_xa/ads_
@@ -4123,7 +4125,6 @@ $websocket,domain=wap.yushuwu.cloud
 91porna.com,evgpopxb.cc##.dx-banner-item
 91porna.com,evgpopxb.cc##.modal-backdrop
 91porny.com###playerJsvLayer.jsv-layer
-91porny.com###video-play + div[data-nosnippet]
 91porny.com###warningModal:style(display: none !important;)
 91porny.com##.alert
 91porny.com##.container-fluid.p-0[class*="mb-"]
@@ -10562,7 +10563,9 @@ pincong.rocks#%#//scriptlet("prevent-setInterval", "Ad Block")
 pindao.hao123.com##.cmsad_wrapper
 ping.chinaz.com##.sth > .col-red
 ping0.cc###adhright
+ping0.cc###adiright
 ping0.cc##.xceles
+ping0.cc##.xdeles
 ping0.cc##a[rel="noopener nofollow"][target="_blank"]:has(> [class^="close"])
 pinggu.org##.banner2015
 pinggu.org##.hdbanner
@@ -13370,6 +13373,7 @@ zzzyk.com###Tinfo
 ||0lai5bvkg.com^
 ||0m483y7.cn^
 ||0m9mjmrd.top^
+||0mkeb9vth.com^
 ||0ns32h.com^
 ||0nyzdw2maq.com^
 ||0o0.ooo/2017/01/13/58787d42bbad6.jpg
@@ -14576,6 +14580,7 @@ zzzyk.com###Tinfo
 ||60.190.139.164^
 ||600g3yf2p.com^
 ||600km.com/template/*/ad/
+||605abezk8.com^
 ||6080.tv/public/js/m/uaredirectformobile.js
 ||6080aa.com/template/*/images/g_js/
 ||6080w.com/template/ttk/img/
@@ -17432,6 +17437,7 @@ zzzyk.com###Tinfo
 ||c1qm3mg41.com^
 ||c2.gdt.qq.com^
 ||c2000.cn/c2000/
+||c2vodqlmy.com^
 ||c2y82fkyv.com^
 ||c3mldou51.com^
 ||c3q6l5oeq.com^
@@ -19361,6 +19367,7 @@ zzzyk.com###Tinfo
 ||entry.baidu.com^
 ||entsnotesq.fun^
 ||envision75.com^
+||enwwlcrxi.com^
 ||enzf.cn^
 ||eo.chaungpin.top^
 ||eo.dongdm.cn^
@@ -19871,6 +19878,7 @@ zzzyk.com###Tinfo
 ||fstats.xyz^
 ||fsu1cg19c.com^
 ||fsuooh.cc^
+||fsxqfjkg.com^
 ||fszpzd.xyz^
 ||ft.com/a.html
 ||ft8e.top^
@@ -22668,6 +22676,7 @@ zzzyk.com###Tinfo
 ||kekop.cn^
 ||kelatv.com/ad/
 ||kelehut.cc/js/m.
+||kelv47.xyz^*.gif
 ||ken.kenxq.com^
 ||kengi.top^
 ||kepler.jd.com^
@@ -25384,6 +25393,7 @@ zzzyk.com###Tinfo
 ||pincai.com/js/pubuliu.
 ||pincai.com^$3p
 ||pincai.com^$third-party
+||pincers55.com^
 ||pinggu.org/api/bbsgg.
 ||pinglun11223.xyz^
 ||pingma.qq.com^
@@ -26187,6 +26197,7 @@ zzzyk.com###Tinfo
 ||redshu.com/js/www/jquerygg.js
 ||redtvxjmgjbtlw.com^
 ||reflection67.top^
+||reflector19.com^
 ||refraction55.com^
 ||register04.top^
 ||registration09.top^
@@ -26459,6 +26470,7 @@ zzzyk.com###Tinfo
 ||rxyggrq.cn^
 ||rxys.cn^
 ||rxzefz.icu^
+||rxzfhfmoegfvts.com^
 ||ry7icaih0p.com^
 ||ryd626moj.com^
 ||rypebb.icu^
@@ -27913,6 +27925,7 @@ zzzyk.com###Tinfo
 ||toutiaoyule.com/n/dspshow.
 ||tovbus.cn^
 ||tovppl.cn^
+||towm85.xyz^*.gif
 ||tp.sgcn.com^
 ||tp.suppercacheimages.top^
 ||tp4d21qek.com^
@@ -28345,6 +28358,7 @@ zzzyk.com###Tinfo
 ||uiteligularly.fun^
 ||uj08lr3rv.com^
 ||uj2h8xm8w.com^
+||uj6i2bo3o.com^
 ||ujfyzxfc01.com^
 ||ujgf120.com^
 ||ujhu.cn^
@@ -29112,6 +29126,7 @@ zzzyk.com###Tinfo
 ||wei2008.com/js/*0.
 ||wei2008.com/js/t_
 ||wei2008.com/skin/js/top.js
+||weiakbtck.com^
 ||weibo.cn/status/banner?
 ||weibo.com/ajax/feed/getTipsAd?
 ||weidianyuedu.com^$3p
@@ -30823,6 +30838,7 @@ zzzyk.com###Tinfo
 ||zhibok8.com/js/di
 ||zhibok8.com/js/scroll.js
 ||zhifuok.com/19xa.jpg
+||zhifupaypay.com^
 ||zhihu-web-analytics.zhihu.com^
 ||zhihu.com/api/*banners/
 ||zhihu.com/api/v4/brand/question/*/card
