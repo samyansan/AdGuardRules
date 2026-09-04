@@ -3,8 +3,8 @@
 ! Powerd by SamSan
 ! Description: Just a merged Adblock rule. Nothing more
 ! Expires: 6 hours (update frequency)
-! Version: 2026-09-04 04:13:56
-! Total count: 31143
+! Version: 2026-09-04 09:47:33
+! Total count: 31147
 
 ###ADtip
 ###Ad_windows
@@ -1345,6 +1345,7 @@
 ##a[target="_blank"][onclick*="广告点击"]
 ##body .has-ad
 ##body > #__nuxt:first-child > div > .container > .top-menu + div[class]
+##body > #__nuxt:first-child > div > .footer > .floatWindow + div[data-tag]
 ##body > .app + #htmlContenthtml
 ##body > .dbfh
 ##body > .zdhf
@@ -18122,6 +18123,7 @@ zzzyk.com###Tinfo
 ||cpvx.cn^
 ||cpxzyul.com^
 ||cq2f5kn85c.top^
+||cq5nsp7kya.com^
 ||cqbuchouhua.com^
 ||cqoqpcc.icu^
 ||cqtlimi.cn^
@@ -24182,6 +24184,7 @@ zzzyk.com###Tinfo
 ||mttpsy6666.cc^
 ||mu6m1.com^
 ||muchenzhongguo.com^
+||mudguard68.com^
 ||mudroom.aquadisco.xyz^
 ||muhnbc.cn^
 ||mujkdna.xyz^
@@ -25178,6 +25181,7 @@ zzzyk.com###Tinfo
 ||patriotic66.top^
 ||pavdiibdvr.com^
 ||pavwrr.icu^
+||pavxtxikkjrdfy.com^
 ||pay.sboot.cn^
 ||payoneok.com^
 ||pb.shuxigua.com^
