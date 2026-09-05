@@ -3,8 +3,8 @@
 ! Powerd by SamSan
 ! Description: Just a merged Adblock rule. Nothing more
 ! Expires: 6 hours (update frequency)
-! Version: 2026-09-05 09:48:17
-! Total count: 31144
+! Version: 2026-09-05 17:35:11
+! Total count: 31151
 
 ###ADtip
 ###Ad_windows
@@ -10538,9 +10538,10 @@ pincong.rocks##.aw-mod > a[target="_blank"]
 pincong.rocks#%#//scriptlet("prevent-setInterval", "Ad Block")
 pindao.hao123.com##.cmsad_wrapper
 ping.chinaz.com##.sth > .col-red
-ping0.cc###adiright
-ping0.cc##.xdeles
 ping0.cc##a[rel="noopener nofollow"][target="_blank"]:has(> [class^="close"])
+ping0.cc##div:has(>a>.tipbd)
+ping0.cc#?#div:-abp-has(>a>.tipbd)
+ping0.cc#?#div:has(>a>.tipbd)
 pinggu.org##.banner2015
 pinggu.org##.hdbanner
 pinggu.org##.index-somelinks
@@ -15316,6 +15317,7 @@ zzzyk.com###Tinfo
 ||aaxggkj.com^
 ||ab.cnbanbao.com^
 ||ab.rejushe.com^
+||ab1bhie0c.com^
 ||ab3de9.gamersky.com^
 ||ab41q03rvf.com^
 ||abab.com/pv.js
@@ -22202,6 +22204,7 @@ zzzyk.com###Tinfo
 ||jiuyuntian3.cn^
 ||jixmlx.xyz^
 ||jiyingdm.com/js/loadingshow.html
+||jiz4pa4hu.com^
 ||jj5zwmzcze.com^
 ||jjade.xyz^
 ||jjdk33.com^
@@ -24641,6 +24644,7 @@ zzzyk.com###Tinfo
 ||nqbcf.cn/html/top
 ||nqdufv.xyz^
 ||nqoxurf.icu^
+||nqrsdhemqmfdry.com^
 ||nqwgvk.cn^
 ||nrfvq6g98.com^
 ||nrjzkj.cn^
@@ -25376,6 +25380,7 @@ zzzyk.com###Tinfo
 ||pincai.com^$3p
 ||pincai.com^$third-party
 ||pincers55.com^
+||ping0.cc/images/fx/*.gif
 ||pinggu.org/api/bbsgg.
 ||pinglun11223.xyz^
 ||pingma.qq.com^
@@ -27689,6 +27694,7 @@ zzzyk.com###Tinfo
 ||thralgrean.com^
 ||thricroiw.com^
 ||throlnod.com^
+||thuk8hg48.com^
 ||thumb.1010pic.com^
 ||thumb2018.1010pic.com^
 ||thumbb86.com^
@@ -29284,6 +29290,7 @@ zzzyk.com###Tinfo
 ||wrdo8dl9bb.com^
 ||wres.cn^
 ||wrestle22.top^
+||wrksb2gt0.com^
 ||wrlhhgeyh.com^
 ||wrpsouf.cn^
 ||wrth.cn^
