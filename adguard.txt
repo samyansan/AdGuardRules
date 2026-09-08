@@ -3,8 +3,8 @@
 ! Powerd by SamSan
 ! Description: Just a merged Adblock rule. Nothing more
 ! Expires: 6 hours (update frequency)
-! Version: 2026-09-08 23:33:54
-! Total count: 31227
+! Version: 2026-09-09 04:25:25
+! Total count: 31229
 
 ###ADtip
 ###Ad_windows
@@ -9818,6 +9818,7 @@ mrmad.com.tw##div[id^="mrmadad-"][style]:has(> .adsbygoogle)
 mrmad.com.tw#?#div[id^="mrmad-"]:-abp-has(>.adsbygoogle)
 mrmad.com.tw#?#div[id^="mrmad-"]:has(>.adsbygoogle)
 mscbsc.com##.bao1
+mscw-guidebook.com##.plaza-ad-wrap
 mse.360.cn##a[id^="banner"]
 msn.cn##+js(json-prune, *, list.*.link.ad list.*.link.kicker)
 msn.cn##+js(json-prune, *.*, adFeedbackData adType adServedUrls)
@@ -25688,6 +25689,7 @@ zzzyk.com###Tinfo
 ||puk9mpb8dm.com^
 ||pulfinik.com^
 ||puma.com^$popup,domain=hupu.com
+||pup8b209b2.com^
 ||pupudy.com/images/wxrj.gif
 ||puqer.cn^
 ||purpose36.com^
