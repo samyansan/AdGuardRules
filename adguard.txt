@@ -3,8 +3,8 @@
 ! Powerd by SamSan
 ! Description: Just a merged Adblock rule. Nothing more
 ! Expires: 6 hours (update frequency)
-! Version: 2026-09-16 23:41:54
-! Total count: 31275
+! Version: 2026-09-17 04:33:58
+! Total count: 31277
 
 ###ADtip
 ###Ad_windows
@@ -8143,6 +8143,7 @@ iis7.com###QTGG
 ijiandao.cn,ijiandao.com,jojf.cn##.index-ad
 ik123.com###aa960a
 ikan6.vip,www.1111modruba.cc##IMG[src$='.gif']
+ikanbot.com##+js(no-window-open-if, _blank)
 ikandy.fun##.stui-banner__pic[href="/statics/js/ky-a.html"]
 ikandy1.com##a[href*="/ky-a.html"]
 ikjzd.com##.article-banner-wrap
@@ -21599,6 +21600,7 @@ zzzyk.com###Tinfo
 ||ikafan.com/js/novel.js
 ||ikafan.com/upload/image/iqiyi_
 ||ikaka.com/globalad/
+||ikanbot.com/resources/common.js?v=$script
 ||ikjwmfeds.xyz^
 ||ikkdm.com/mg/show2.js
 ||iklda.cn^
