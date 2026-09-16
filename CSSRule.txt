@@ -30,7 +30,6 @@
 ###ad-header-mobile-contener
 ###ad-index.position-relative
 ###ad1[onclick="window.open(this.url)"]
-###ad1[style^="position:"]
 ###adBody07
 ###adDisabledBtn
 ###adLeftFloat
@@ -54,7 +53,6 @@
 ###adx_cggp
 ###alert_windows > .q-dialog__backdrop
 ###app > .publicAllContentBg > .bigBannerBg
-###appad.cate
 ###apprecom1.apprecom
 ###apprecom2.apprecom
 ###arBRyGHxuDYU
@@ -138,8 +136,6 @@
 ###header_global_ad
 ###hellobox > .mylist
 ###hengfu > #jiukan
-###hengfu1.banner
-###hengfu2.banner
 ###hfad
 ###hj-right-aside[style="float: right;"]
 ###hongbao20201217
@@ -172,7 +168,6 @@
 ###left_float + #right_float
 ###left_float.close_discor
 ###left_up_float_ad
-###lefttd.lefttd
 ###ljPz
 ###lovexin1
 ###lovexin11
@@ -247,7 +242,6 @@
 ###right_down_float_ad
 ###right_float.close_discor
 ###right_up_float_ad
-###rightd.rightd
 ###rip[href*=".taobao.com"]
 ###rm-float3
 ###sOIcquIT
@@ -282,9 +276,7 @@
 ###top_box > a[onclick^="javascript"]
 ###toperAd2
 ###toptb + div[align="center"]
-###toptd.toptd
 ###tripadvisor-ad
-###undertd.undertd
 ###videoADPIC
 ###video_playr_side.video_playr_sider.videoplayerside
 ###vpnModal.nordvpn-popup
@@ -369,7 +361,6 @@
 ##.ad_thread
 ##.adbox-bg.adscounter
 ##.add-gg
-##.addddddwarp
 ##.adlistcss
 ##.adpc
 ##.adpcc
@@ -440,7 +431,6 @@
 ##.banner-container-h5 > .banner_all_wrap
 ##.bdyp-sygg-ul
 ##.below_ads
-##.bg > img[src*=".meituan.net"]
 ##.bhgg
 ##.bjxhf
 ##.bl > .gg
@@ -477,9 +467,7 @@
 ##.common_ad
 ##.component-advertises
 ##.con_search + #carousel-example-generic[style^="max-width: 1170px;"]
-##.con_section > .da
 ##.conch-ads-box
-##.container + .container > .warp > .cate
 ##.container .t-img-box:first-child
 ##.container > #dhshtml
 ##.container > .index-ad
@@ -617,8 +605,6 @@
 ##.jsv > .mobile-adv
 ##.jsv-layer > .image > a[href^="http"]
 ##.jtAms_container > .count_a
-##.ka-flo
-##.kjk-flo
 ##.kkb-href
 ##.kkm-href
 ##.ksads
@@ -626,7 +612,6 @@
 ##.leftadv
 ##.leftd + .rightd
 ##.leo-container .ssr1
-##.link > .image[src*=".qhimg.com/"]
 ##.listok > a > img[src*=".alicdn.com"][width="980"][height="80"]
 ##.listok > a > img[style^="width:980px;height:"]
 ##.loc-home-top-adv-new
@@ -645,14 +630,12 @@
 ##.main-container div[id^="z-extra-"]
 ##.main-container ~ div.z-gate-mask
 ##.main-container ~ div[class^="z"][class$="-root"]
-##.main-content > .a2b3
 ##.main[style="border:#7D8C8E solid 1px;height: 23px;"]
 ##.mainbg > #s11navtop
 ##.maomi-content > #main-container > .row.mob40 + .row
 ##.maomi-content > .section-banner
 ##.maomi-content > .section-menu > .row > a[target="_blank"]
 ##.maomi-content > a[target="_blank"]
-##.mbads
 ##.mediav-newsfeed-listitem-type-1
 ##.mediavAd_report
 ##.mediavfeed-newsitem
@@ -787,14 +770,11 @@
 ##.tmall_ad_container
 ##.tmall_bg15
 ##.tooltip > #tp
-##.top > a > .topline[src^="/photo/"]
 ##.top-gg
-##.top-meta > .moj-content
 ##.top-read-ad
 ##.topSponsor
 ##.top_ad_ban
 ##.top_func_ad
-##.topbanner + .nav + .banner
 ##.toy52_outer
 ##.toy52apparel_ALL
 ##.tp_advertising
@@ -802,7 +782,6 @@
 ##.twavt-ads
 ##.txp_ad[data-role="txpad-interact-pause"]
 ##.txp_ad_center
-##.txtguanggao
 ##.uk-width-1-1.adbox
 ##.vg-overlay-pause
 ##.video-ad-item
@@ -811,7 +790,6 @@
 ##.video-item-ads
 ##.video-player > .gg-bg-cover
 ##.videoPlayContainer > div#video-play + div[data-nosnippet]
-##.video_details > .banner
 ##.vodads
 ##.vp-project-home > .ads-container
 ##.w-full > .banner.el-carousel
@@ -1241,7 +1219,6 @@
 ##a[href*=".vip:"] > img[src]
 ##a[href*=".xacg.info/"]
 ##a[href*=".xxmh"][href*="?u="]
-##a[href*=".xyz:"] > img[src*=".qlogo.cn"]
 ##a[href*="/122.51.121.126:"]
 ##a[href*="/137.220.194.105:"]
 ##a[href*="/137.220.194.123:"]
@@ -1307,7 +1284,6 @@
 ##a[href^="/archives/"] > .post-card > .blog-background[style*="gif;base64"]
 ##a[href^="/dasp.php?a="]
 ##a[href^="/hy-"][ontouchstart]
-##a[href^="/template/1/html/ad/"]
 ##a[href^="http"] > img[height="60px"][src*="imgsrc.baidu.com"]
 ##a[href^="http"] > img[src*="pic.rmb.bdstatic.com/"][src$=".gif"]
 ##a[href^="http"][onclick^="setCookie"][style^="width:100%;height:100"]
@@ -1335,7 +1311,6 @@
 ##a[target="_blank"] > img[src*=".bitautoimg.com/"][src$=".gif"]
 ##a[target="_blank"] > img[src*=".ikstatic.cn"][style="width:100%;height:100%"]
 ##a[target="_blank"][href^="https://js."][href$=".com/download/4122_0.html"]
-##a[target="_blank"][onclick*="广告点击"]
 ##body .has-ad
 ##body > #__nuxt:first-child > div > .container > .top-menu + div[class]
 ##body > #__nuxt:first-child > div > .footer > .floatWindow + div[data-tag]
@@ -1462,7 +1437,6 @@
 ##div.synopsisArea > a[id*='hudie_']
 ##div[align="center"] > a[href^="/url/"] > img[src*=".alicdn.com"]
 ##div[align="center"] > a[href^="/url/"] > img[src*=".qpic.cn"]
-##div[bannerlist]
 ##div[class*='bookid_ads']
 ##div[class^="is_"] > a > img[referrerpolicy="no-referrer"]
 ##div[class^="is_"] > a > img[referrerpolicy="no-referrer"][src*="hdslb.com"]
@@ -1539,7 +1513,6 @@
 ##span > A[href='###']
 ##span[title="neteasefooter"]
 ##style + .a-loading
-##style + .need_grid_img
 ##style + .topd
 ##style + .topd + .bottomd
 ##style + .vdgdo
@@ -2542,6 +2515,7 @@
 52kd.com###frame2cu3VU
 52life.cc##table[style="margin-top:0"]
 52movieba.com,acglala.cc,awaker.cn,bimiacg4.net,bimiacg5.net,ccav1.com,cgown.com,cn163.net,comicat.org,cosersuki.org,epinv.com,eroacg.com,galacg.me,gmgard.com,haochi123.com,hexieshe.cn,hexieshe.com,hexieshe.xyz,hggard.com,hmghmg.com,hmoe11.net,ifenpaidy.com,jitapu.com,jitashe.org,kelatv.com,kisssub.org,languang.co,llss.bz,mtrend.cn,mzh.ren,nxing.cn,oyksoft.com,souxue8.com,speedtest.cn,tingroom.com,touchgal.org,whsir.com,xxshe.info,xxshe.xyz##a[href*=".taobao.com"]
+52movieba.com,acglala.cc,awaker.cn,bimiacg4.net,bimiacg5.net,ccav1.com,cgown.com,cn163.net,comicat.org,cosersuki.org,epinv.com,eroacg.com,galacg.me,gmgard.com,haochi123.com,hexieshe.cn,hexieshe.com,hexieshe.xyz,hggard.com,hmghmg.com,hmoe11.net,ifenpaidy.com,jitapu.com,jitashe.org,kelatv.com,kisssub.org,languang.co,llss.bz,mtrend.cn,mzh.ren,nxing.cn,oyksoft.com,souxue8.com,speedtest.cn,tingroom.com,whsir.com,xxshe.info,xxshe.xyz##a[href*=".taobao.com"]
 52movieba.com,acglala.me,acglala.net,awaker.cn,bimiacg4.net,bimiacg5.net,ccav1.com,cdsoso.me,cgown.com,cn163.net,comicat.org,cosersuki.org,dzbhdm.net,epinv.com,eroacg.com,galacg.me,gmgard.com,haochi123.com,hexieshe.cn,hexieshe.com,hexieshe.xyz,hggard.com,hmghmg.com,hmoe11.net,idanmu.ee,ifenpaidy.com,jitapu.com,jitashe.org,jiyingw.vip,kelatv.com,kisssub.org,languang.co,llss.bz,mtrend.cn,mydrivers.com,mzh.ren,nxing.cn,oyksoft.com,souxue8.com,speedtest.cn,tingroom.com,whsir.com,xxshe.info,xxshe.xyz##a[href*=".taobao.com"]
 52niuyan.cc##.top_fixed
 52niuyan.cc##a[onclick][rel][style*="toutiaoimg.com"]
@@ -7777,6 +7751,7 @@ luyixian.cn##.side
 lvmama.com###centerDialog
 lvmama.com###leftDialog
 lwgod.me###wp > a:first-child
+lxapk.com,lzacg.cc##.custom-html-widget
 lxapk.com,lzacg.one##.custom-html-widget
 lyd.com.cn##.ad:not(:nth-child(15))
 lysq.com###diyad
