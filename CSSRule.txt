@@ -551,7 +551,6 @@
 ##.gggpost-above
 ##.ggpost-below
 ##.ggtop
-##.ggw
 ##.global_video_bottom_dbtc
 ##.google-ad2_fixed
 ##.google_adsense2
@@ -607,8 +606,6 @@
 ##.jsv > .mobile-adv
 ##.jsv-layer > .image > a[href^="http"]
 ##.jtAms_container > .count_a
-##.kkb-href
-##.kkm-href
 ##.ksads
 ##.kuandu > .bottommob
 ##.leftadv
@@ -771,7 +768,6 @@
 ##.tjtagmanager[data-ad_id]
 ##.tmall_ad_container
 ##.tmall_bg15
-##.tooltip > #tp
 ##.top-gg
 ##.top-read-ad
 ##.topSponsor
@@ -1315,8 +1311,8 @@
 ##a[target="_blank"] > img[src*=".ikstatic.cn"][style="width:100%;height:100%"]
 ##a[target="_blank"][href^="https://js."][href$=".com/download/4122_0.html"]
 ##body .has-ad
-##body > #__nuxt:first-child > div > .container > .top-menu + div[class]
-##body > #__nuxt:first-child > div > .footer > .floatWindow + div[data-tag]
+##body > #__nuxt:first-child > div > .container > div[data-topmenu] + div + div[data-pg-wrap]
+##body > #__nuxt:first-child ~ div[data-tag] > div > div > button[aria-label] + div[class]
 ##body > .app + #htmlContenthtml
 ##body > .dbfh
 ##body > .zdhf
@@ -10901,6 +10897,7 @@ xc6b.com###leftbottbox
 xc6b.com###rightbottbox
 xc6b.com###sidebar > .box-b img
 xc6b.com##.activity-box
+xc6b.com##.cHeadImg
 xc6b.com##.chao_ggw
 xc6b.com##.navbar + .clearfix
 xc6b.com##a[href="http://61.160.236.52"]

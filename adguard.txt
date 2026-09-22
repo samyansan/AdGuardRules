@@ -3,8 +3,8 @@
 ! Powerd by SamSan
 ! Description: Just a merged Adblock rule. Nothing more
 ! Expires: 6 hours (update frequency)
-! Version: 2026-09-22 10:13:48
-! Total count: 30899
+! Version: 2026-09-22 18:29:12
+! Total count: 30905
 
 ###ADtip
 ###Ad_windows
@@ -559,7 +559,6 @@
 ##.gggpost-above
 ##.ggpost-below
 ##.ggtop
-##.ggw
 ##.global_video_bottom_dbtc
 ##.google-ad2_fixed
 ##.google_adsense2
@@ -615,8 +614,6 @@
 ##.jsv > .mobile-adv
 ##.jsv-layer > .image > a[href^="http"]
 ##.jtAms_container > .count_a
-##.kkb-href
-##.kkm-href
 ##.ksads
 ##.kuandu > .bottommob
 ##.leftadv
@@ -779,7 +776,6 @@
 ##.tjtagmanager[data-ad_id]
 ##.tmall_ad_container
 ##.tmall_bg15
-##.tooltip > #tp
 ##.top-gg
 ##.top-read-ad
 ##.topSponsor
@@ -1323,8 +1319,8 @@
 ##a[target="_blank"] > img[src*=".ikstatic.cn"][style="width:100%;height:100%"]
 ##a[target="_blank"][href^="https://js."][href$=".com/download/4122_0.html"]
 ##body .has-ad
-##body > #__nuxt:first-child > div > .container > .top-menu + div[class]
-##body > #__nuxt:first-child > div > .footer > .floatWindow + div[data-tag]
+##body > #__nuxt:first-child > div > .container > div[data-topmenu] + div + div[data-pg-wrap]
+##body > #__nuxt:first-child ~ div[data-tag] > div > div > button[aria-label] + div[class]
 ##body > .app + #htmlContenthtml
 ##body > .dbfh
 ##body > .zdhf
@@ -1951,7 +1947,6 @@ $websocket,domain=wap.yushuwu.cloud
 /527ldy.oss-
 /5555vipqipai.oss-
 /58pic/index.php?m=adManageSystem&
-/5ixcmbwj/js/ad.js
 /640_120_javhd.jpg
 /69tang6_*/html/abc/image/*
 /7755com-*00x*.gif
@@ -4153,6 +4148,7 @@ $websocket,domain=wap.yushuwu.cloud
 ://8ox.cn/$3p
 ://8ox.cn/$third-party
 ://a.ads.
+://ads-img2026.
 ://ads.
 ://adv.$domain=~adv.ru|~forex-tv-online.com
 ://affiliate.$third-party
@@ -7075,6 +7071,9 @@ g655p8.com,d44t95.com,4hu.tv##+js(no-setTimeout-if, getAd)
 g655p8.com,d44t95.com,4hu.tv##+js(set-constant, Object.prototype.getAd, noopFunc)
 g655p8.com,d44t95.com,4hu.tv##+js(set-local-storage-item, /^__ad/, $remove$)
 g655p8.com,d44t95.com,4hu.tv##div[class^="pg-v-sec-"]
+g655p8.com,d44t95.com,4hu.tv#%#//scriptlet('prevent-setTimeout', 'getAd')
+g655p8.com,d44t95.com,4hu.tv#%#//scriptlet('set-constant', 'Object.prototype.getAd', 'noopFunc')
+g655p8.com,d44t95.com,4hu.tv#%#//scriptlet('set-local-storage-item', '/^__ad/', '$remove$')
 galacg.me##.sidebar-top
 galacg.me##a[href*="/game"]
 galacg.me,unecne.com##.metaslider
@@ -12626,6 +12625,7 @@ xc6b.com###leftbottbox
 xc6b.com###rightbottbox
 xc6b.com###sidebar > .box-b img
 xc6b.com##.activity-box
+xc6b.com##.cHeadImg
 xc6b.com##.chao_ggw
 xc6b.com##.navbar + .clearfix
 xc6b.com##a[href="http://61.160.236.52"]
@@ -13486,6 +13486,7 @@ zzzyk.com###Tinfo
 ||129esrd5q5.com^
 ||12img.com/ad/
 ||12ypksztq.com^
+||12yr3wkwi5.com^
 ||131458.com/union/
 ||131r3lknzg.com^
 ||1328f.com/js/jquery.js
@@ -17984,6 +17985,8 @@ zzzyk.com###Tinfo
 ||com052bin.com^
 ||comedy34.com^
 ||comefromchina.com/images/128bestbuy
+||comicbox.xyz/getAdsData
+||comicbox.xyz/static/js/ad-manager.
 ||comm100.cn/livechatserver/chatbutton.*&res=
 ||commdata.v.qq.com^
 ||commercial.shouji.360.cn^
@@ -20645,6 +20648,7 @@ zzzyk.com###Tinfo
 ||hao123union.baidu.com^$third-party
 ||hao5.net/images/*0-
 ||hao6v.com/d/
+||haobax.com/ad
 ||haochi123.com/J_Box/Inc_
 ||haofs.com/haofs/ggapi.asp
 ||haogushi88.cc/static/simple/yue
@@ -22499,6 +22503,7 @@ zzzyk.com###Tinfo
 ||kasgnh7xwl.com^
 ||kasiklz.cc^
 ||katelin.top^
+||kavxx.com^
 ||kawf.cn^
 ||kayege.org/js/
 ||kazigua.top^
@@ -24922,6 +24927,7 @@ zzzyk.com###Tinfo
 ||p5-be-pack-sign.pglstatp-toutiao.com^
 ||p5-lm.adukwai.com^
 ||p52q.cn^
+||p5doaulee2.com^
 ||p5si0mu8u7.com^
 ||p6-ad-sign.byteimg.com^
 ||p6-be-pack-sign.pglstatp-toutiao.com^
