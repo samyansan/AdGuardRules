@@ -3,8 +3,8 @@
 ! Powerd by SamSan
 ! Description: Just a merged Adblock rule. Nothing more
 ! Expires: 6 hours (update frequency)
-! Version: 2026-09-29 19:43:37
-! Total count: 30977
+! Version: 2026-09-30 01:10:34
+! Total count: 30978
 
 ###ADtip
 ###Ad_windows
@@ -12508,9 +12508,7 @@ ws://*/api/wss/GetNotReadCount$3p
 ws://*/api/wss/GetNotReadCount$third-party
 wss://*.*.top/$3p
 wss://*.*.top/$third-party
-wss://*.com:29*/$3p
 wss://*.com:29*/$third-party
-wss://*.com:800*/$3p,domain=~survev.io
 wss://*.com:800*/$third-party,domain=~survev.io
 wss://*.top/|
 wss://*.xyz:*?e=$3p
@@ -15104,6 +15102,7 @@ zzzyk.com###Tinfo
 ||9pbeoey9j.com^
 ||9pyn42z6d.com^
 ||9pzoz6taf.com^
+||9qvpcta0t.com^
 ||9r0v0go0el.com^
 ||9rkh7nbaj.com^
 ||9s3g5vd8or.com^
@@ -22295,6 +22294,7 @@ zzzyk.com###Tinfo
 ||js1.dadiniu.cn^
 ||js1.haoge500.com^
 ||js154azzn.com^
+||js1lw9n6w.com^
 ||js22f.net^
 ||js6.efyt6.com^
 ||jsb.qianzhan.com^
@@ -26008,6 +26008,7 @@ zzzyk.com###Tinfo
 ||rbmg4agmo.com^
 ||rbodwtj.icu^
 ||rbrbr88p.cn^
+||rbru3ubey.com^
 ||rbsodzgoy.xyz^
 ||rc.ie13.com^
 ||rc7e.top^
