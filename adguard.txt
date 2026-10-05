@@ -3,8 +3,8 @@
 ! Powerd by SamSan
 ! Description: Just a merged Adblock rule. Nothing more
 ! Expires: 6 hours (update frequency)
-! Version: 2026-10-05 20:54:13
-! Total count: 31026
+! Version: 2026-10-06 07:25:47
+! Total count: 31027
 
 ###ADtip
 ###Ad_windows
@@ -1940,7 +1940,6 @@ $websocket,domain=wap.yushuwu.cloud
 /58pic/index.php?m=adManageSystem&
 /640_120_javhd.jpg
 /69tang6_*/html/abc/image/*
-/7755com-*00x*.gif
 /789syy/*
 /80sad/*
 /87\d{2}ck\.cc/##.stui-vodlist > li:has(> div.stui-vodlist__box > a[href][target="_blank"])
@@ -14577,6 +14576,7 @@ zzzyk.com###Tinfo
 ||6acupxubky.com^
 ||6aontlsdf.com^
 ||6aoodbdx94.com^
+||6aqqzbehy.com^
 ||6avz.com^$script,3p
 ||6avz.com^$script,third-party
 ||6b8emvi3ya.com^
@@ -23034,6 +23034,7 @@ zzzyk.com###Tinfo
 ||lflmdm.com^
 ||lftw3i7d5.com^
 ||lftxali.fancyapi.com^
+||lfxm6qdn0.com^
 ||lfzk2cp.icu^
 ||lg0lh2qfj4.com^
 ||lgaekait.com^
