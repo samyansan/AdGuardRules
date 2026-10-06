@@ -3,8 +3,8 @@
 ! Powerd by SamSan
 ! Description: Just a merged Adblock rule. Nothing more
 ! Expires: 6 hours (update frequency)
-! Version: 2026-10-06 11:39:49
-! Total count: 31031
+! Version: 2026-10-06 20:21:12
+! Total count: 31034
 
 ###ADtip
 ###Ad_windows
@@ -3496,7 +3496,6 @@ $websocket,domain=wap.yushuwu.cloud
 3dmgame.com##div[style^="width:274px;height:368px"]
 3dmgame.com#$#body > div.content { margin-top: 0 !important; }
 3dmgame.com#%#//scriptlet('abort-on-property-write', 'adStart')
-3dmgame.com#?#.Gmaeinfobtn_tab > a.patchshow[style]:has(> span:contains(/^广告$/))
 3g.163.com##.ne_rps
 3g.baidu.com,m.baidu.com,m5.baidu.com,www.baidu.com###banner_call + div[id]
 3g.baidu.com,m.baidu.com,m5.baidu.com,www.baidu.com##div:has(>.openBox-container)
@@ -7214,6 +7213,7 @@ global.hk01.com##.fixed[aria-labelledby="hot-news-dialog-title"] .items-stretch 
 global.hk01.com##.hidden[class*="col-span-4"] > div[class^="min-h-250px w-full"]:has(> .flex > .lazyload-wrapper > .js-ad-slot)
 global.hk01.com##div[class*="_.js-ad-slot]"]
 global.hk01.com##div[class^="placeholder-ad-"]:style(min-height: 0 !important;)
+global.hk01.com#$#div[class^="placeholder-ad-"] { min-height: 0 !important; }
 gmgard.com,hggard.com###blog > div[style="overflow:hidden"]
 gmgard.com,hggard.com##A[onclick*="Advertisement"]
 gmtv1.xyz##.pc_rb_float
@@ -14105,6 +14105,7 @@ zzzyk.com###Tinfo
 ||3xeedcdci.com^
 ||3xeo00tqz.com^
 ||3yej.xyz^
+||3ylj411rdn.com^
 ||3yx95kv3at.com^
 ||3zmmm.net/ggxx/
 ||40407.com/plus/rpad/
@@ -19019,7 +19020,6 @@ zzzyk.com###Tinfo
 ||dytt8.net/jsd
 ||dytt8899.com/js/tj.js
 ||dytuj6zs26.com^
-||dyxs39.com/statics/js/jquery.
 ||dyxz*.com/static/gdw.js
 ||dyxz*.com/static/jquery.js?
 ||dyzyhj.com/Jk/
@@ -21924,6 +21924,7 @@ zzzyk.com###Tinfo
 ||j3fvhzit0.com^
 ||j3gkwzt7o.com^
 ||j3idyosut.com^
+||j3ossmqgmc.com^
 ||j4s12kfavg.com^
 ||j5sgdum5n4.com^
 ||j694fx3bp.com^
@@ -29098,6 +29099,7 @@ zzzyk.com###Tinfo
 ||wj8i1rlp2b.com^
 ||wk5fo6pyf.com^
 ||wk70ccjk1a.com^
+||wkduza2x10.com^
 ||wkjwumtex3.com^
 ||wkrcbszi.xyz^
 ||wkzw.me^
@@ -29852,6 +29854,7 @@ zzzyk.com###Tinfo
 ||xtjgtbzugy.com^
 ||xtjpdfr.cn^
 ||xtnwxhjv.xyz^
+||xtorbk1g3f.com^
 ||xtpwfb.xyz^
 ||xtxbemp.xyz^
 ||xu919zz2i.com^
