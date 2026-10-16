@@ -10,7 +10,6 @@
 ###ZAML
 ###Zi_ad_a_H
 ###\31 280_adv
-###\31 x1_container.float-banner-footer
 ###aafoot.top_box
 ###aafoot[class^="top_box"]
 ###aaheadtop
@@ -66,6 +65,7 @@
 ###bottomNavad
 ###bottom_ads.hl_bottom_ads
 ###bottommob.bottommob
+###centerAd
 ###chs_bannerArea
 ###comiis_xizi_gg02
 ###container > #main.site-main > div > div > a[href^="/"][href$="/"] > img
@@ -108,7 +108,6 @@
 ###gudingweiDiv
 ###header-top + .advertisement
 ###header_global_ad
-###hellobox > .mylist
 ###hj-right-aside[style="float: right;"]
 ###hongbao20201217
 ###imgad
@@ -126,7 +125,6 @@
 ###js_ads_banner_top_slide
 ###kfpopupDiv
 ###kp-hid-sport-m.fed-part-layout.fed-back-whits.fed-hide-md.uk-alert
-###ks > .DaKuang
 ###ldgindexbuttom
 ###leftCouple
 ###leftCouple1
@@ -134,10 +132,8 @@
 ###leftFloat + #rightFloat
 ###leftFloat1 + #rightFloat1
 ###left_couple
-###left_couplet.close_discor
 ###left_down_float_ad
 ###left_float + #right_float
-###left_float.close_discor
 ###left_up_float_ad
 ###ljPz
 ###lovexin1
@@ -150,7 +146,6 @@
 ###lt-ad-radio
 ###magneturlpost + .movie + .movie[style="padding:12px; margin-top:15px"]
 ###main > .nv-ad
-###mainbody:nth-child(5) > .mylist
 ###miaov_float_layer
 ###micast_ads
 ###mobile-ad.hidden-md
@@ -172,14 +167,7 @@
 ###overture_ads_bottom_td
 ###overture_ads_top_td
 ###photo--content-title-bottomx--foot
-###piao_div_0[style*="width:140px;"]
-###piao_div_1[style*="width:140px;"]
-###piao_div_2[style*="width:140px;"]
-###piao_div_3[style*="width:140px;"]
-###piao_div_4[style*="width:140px;"]
-###piao_div_5[style*="width:140px;"]
 ###player-bottom-ads
-###player_banner[style*="fixed;"]
 ###player_pause > .tip + a[target="_blank"]
 ###popadv_popmask
 ###popadv_popmenu
@@ -198,14 +186,11 @@
 ###rightCouplet + #leftFloat
 ###right_couple
 ###right_couple + #left_float
-###right_couplet.close_discor
 ###right_down_float_ad
-###right_float.close_discor
 ###right_up_float_ad
 ###rip[href*=".taobao.com"]
 ###sOIcquIT
 ###sc-superman-ad
-###search > a[href="/top1.html"]
 ###side_promo.bc_dp
 ###sitefocus.focus
 ###snActive-wrap
@@ -346,7 +331,6 @@
 ##.archive > a[ontouchstart="this.click();"]
 ##.area > .tuiguang
 ##.art-layer-ad
-##.artad
 ##.article-pop-up-ad
 ##.artplayer-plugin-ads
 ##.asb-index
@@ -406,7 +390,6 @@
 ##.content > .module > .small-icon-container > a.small-icon-div[target="_blank"]
 ##.content > .myads
 ##.content > .small-icon-container > a.small-icon-div[target="_blank"]
-##.content > a > .topline
 ##.content-ad-stack
 ##.content-video > .ads
 ##.content-video > .ads-player
@@ -428,7 +411,6 @@
 ##.dx-recommend-icons
 ##.ec-ad
 ##.ec-tutu
-##.edtj
 ##.error > #qqs
 ##.event_fullscreen_gg_modal
 ##.f-sign-cont[data-dysign-adid]
@@ -472,11 +454,9 @@
 ##.gggpost-above
 ##.ggpost-below
 ##.ggtop
-##.global_video_bottom_dbtc
 ##.google-ad2_fixed
 ##.google_adsense2
 ##.gotoclick[adv_id]
-##.gpost-below
 ##.gpt_ads_box
 ##.gpt_ads_title
 ##.gr_slide_car_inner
@@ -526,8 +506,6 @@
 ##.ksads
 ##.leftadv
 ##.leo-container .ssr1
-##.listok > a > img[src*=".alicdn.com"][width="980"][height="80"]
-##.listok > a > img[style^="width:980px;height:"]
 ##.loc-home-top-adv-new
 ##.lol-ad
 ##.lol_ad
@@ -560,8 +538,6 @@
 ##.module-adslists
 ##.module-player > .dds_w
 ##.my-2.md\:my-3
-##.mylist + #topthree
-##.mylist > a > img[width^="9"][height="80"]
 ##.myui-extra + .noticetext
 ##.nav-ads
 ##.nav-area + .wrapper .tuiguang
@@ -592,7 +568,6 @@
 ##.pggc > .ng-star-inserted
 ##.pggd > .ng-star-inserted
 ##.pggf > .ng-star-inserted
-##.player + .sponsor
 ##.player-bottom-gg
 ##.player-box > .rm-two > a[target="_blank"]
 ##.player-box-main > .rm-one > a[start-time]
@@ -689,7 +664,6 @@
 ##.widget_ui_textasb
 ##.widget_ui_textaub
 ##.width.imgs_1
-##.wordurl[style="   width: 42%; float:left; text-align: center;"]
 ##.wp > .ad-box
 ##.wp.a2_h
 ##.wp.a_f
@@ -1161,7 +1135,6 @@
 ##a[onclick$="'clicked', 'ad');"]
 ##a[onclick*="/dasp.php?a="]
 ##a[onclick*="open"] > img[src*=".dailygn.com/"]
-##a[target="_bank"] > img[src*=".360buyimg.com"][style="width:100%;height:auto;"]
 ##a[target="_blank"] > img.king
 ##a[target="_blank"] > img[src*=".ikstatic.cn"][style="width:100%;height:100%"]
 ##body > #__nuxt:first-child > div > .container > .top-menu + div[class]
@@ -1291,7 +1264,6 @@
 ##div[class*='bookid_ads']
 ##div[class^="is_"] > a > img[referrerpolicy="no-referrer"]
 ##div[class^="is_"] > a > img[referrerpolicy="no-referrer"][src*="hdslb.com"]
-##div[class^="ps_"][value="20"]
 ##div[id$='ad1'][class^='text'],div[id$='ad2'][class^='text'],div[id$='ad3'][class^='text'],div[id$='ad4'][class^='text'],div[id$='ad5'][class^='text'],div[id$='ad6'][class^='text']
 ##div[id*='cat_'][id*='_ad']
 ##div[id] > div[style*='z-index: 2147483647; width: 100vw; background: url']
@@ -1332,9 +1304,6 @@
 ##img[onclick="window.open(this.url)"][src*="qq.com"]
 ##img[onclick^="window.open"][src*=".360buyimg.com"]
 ##img[onclick^="window.open"][src*="pc.qq.com"]
-##img[src*=".qpic.cn"][width="980"][height="80"]
-##img[src*=".sinaimg."][style="width:1025px;height:80px"]
-##img[src*=".sinaimg."][style="width:150px;height:300px"]
 ##main.quote-main > .section_btn.clearfix.mt20
 ##oxk
 ##script + #rbbox
@@ -1724,6 +1693,7 @@
 1ting.com###tingx_5
 1ting.com##div[style="position:fixed;bottom:0;z-index:999"]
 1x6666.com,528500.com,52jscn.com,58cam.com,5imx.com,7sqq.com,99nets.com,99nets.me,bbs.52life.cc,bestcclm.com,cm868.com,cnyw.net,discuzlab.com,gebi1.com,hh010.com,im286.net,kugz.com,ld0766.com,luanren.com,mahoupao.com,qinzhou8.com,suizhoushi.com,susongbbs.com,txahz.com,wishct.com,xsool.com,xydai.cn,ybvv.com###diy1
+1x6666.com,528500.com,52jscn.com,58cam.com,5imx.com,7sqq.com,99nets.com,99nets.me,bbs.52life.cc,bestcclm.com,cm868.com,cnyw.net,discuzlab.com,gebi1.com,hh010.com,im286.net,kugz.com,ld0766.com,luanren.com,mahoupao.com,qinzhou8.com,suizhoushi.com,susongbbs.com,txahz.com,xsool.com,xydai.cn,ybvv.com###diy1
 1x6666.com,52ch.net,bbs.qbaobei.com,chinafix.com,cnyw.net,gz0668.com,hcbbs.com,mahoupao.com,susongbbs.com,xsool.com,xydai.cn###diynavtop
 1ydt.com###head
 2.taobao.com##.download-layer
@@ -3863,6 +3833,7 @@ cilimao.co,cilimao.one##div[class^="FixBanner"]
 cjjjs.com,cnblogs.com,fastadmin.net,ziqiangxuetang.com##a[href^="https://promotion.aliyun.com/"]
 cjn.cn###slidelr
 cjn.cn##.sidebar
+cjw123.com##.copy
 cjw123.com##a[href="http://tb.cjw123.com"]
 cjw123.com,weike87.com##.copy
 ck101.com###threadlisttableid > tbody:not([class]):not([id]):has(> tr > td[id^="popin_"])
@@ -8197,6 +8168,7 @@ olevod.com##.L4A
 olevod.com##.ad1
 olevod.com##.ads-bg
 olevod.com##.pc-ads
+olevod.com##.swiper
 olevod.com##.swiper-wrapper > div.swiper-slide:has(> img[src^="https://static.olelive.com/uploads/file/"])
 olevod.com##.swiper-wrapper > li.swiper-slide:has(> a[target="_blank"]:not([href^="/"])):remove()
 olevod.com##div[class^="ad"][style="margin-top: 0.05rem;"]
