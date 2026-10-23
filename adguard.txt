@@ -3,8 +3,8 @@
 ! Powerd by SamSan
 ! Description: Just a merged Adblock rule. Nothing more
 ! Expires: 6 hours (update frequency)
-! Version: 2026-10-23 18:38:35
-! Total count: 29581
+! Version: 2026-10-24 00:02:10
+! Total count: 29586
 
 ###ADtip
 ###ChapterView > .slide-baidu
@@ -2881,6 +2881,8 @@ $websocket,domain=wap.yushuwu.cloud
 2cto.com##div[style^="float:left;width:300px;"]
 2cycomic.com##body > a
 2cycomic.com##body > div > center
+2dfan.com##.nexus-ad-corner
+2dfan.com##.sidebar-section--ad
 2dfan.com,galge.fun###popadv-container
 2dfan.com,galge.fun##.collapse > a[href*=".taobao.com"]
 2dfan.com,galge.fun##.leftside-bg
@@ -4139,6 +4141,7 @@ baidu.com###j-ad-first
 baidu.com###j-ad-side
 baidu.com###knowledge-answer
 baidu.com###left-promotion
+baidu.com###page-copyright.se-page-copyright
 baidu.com###page-copyright.se-page-copyright.se-copyrig
 baidu.com###page-copyright.se-page-copyright.se-copyright-zbios[style='margin-bottom: 50px;']
 baidu.com###qrcode-chunwan
@@ -12841,6 +12844,7 @@ zzzyk.com###Tinfo
 ||1990tu.com^$third-party
 ||1999019.com^
 ||19dkfu1wg.com^
+||1a7pxa2r7.com^
 ||1aa0yygqst.com^
 ||1adi9wenq.com^
 ||1biqug.com/js/ajax.js
@@ -24309,6 +24313,7 @@ zzzyk.com###Tinfo
 ||pvtd.cn^
 ||pvtest.zol.com.cn^
 ||pvymlsvo.xyz^
+||pwdh28pof.com^
 ||pwk73hidf2.com^
 ||pwvlthpqzonnfe.com^
 ||pwzrfznosfblpi.com^
