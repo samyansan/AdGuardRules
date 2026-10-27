@@ -3,8 +3,8 @@
 ! Powerd by SamSan
 ! Description: Just a merged Adblock rule. Nothing more
 ! Expires: 6 hours (update frequency)
-! Version: 2026-10-27 10:44:23
-! Total count: 29630
+! Version: 2026-10-27 19:11:59
+! Total count: 29638
 
 ###ADtip
 ###ChapterView > .slide-baidu
@@ -9750,7 +9750,9 @@ pconline.com.cn##.rela-best
 pconline.com.cn##.twentieth
 pconline.com.cn##.website_recommend_banner
 pconline.com.cn##a[href^="http://ivy.pconline."]
+pcsoft.com.cn###qrcode-mask-popup
 pcsoft.com.cn##.gsxzdl
+pcsoft.com.cn##.m-gg4
 pcsoft.com.cn##.shang11-top
 pcsoft.com.cn##.shuang11
 pcsoft.com.cn##.xzdz_huodong
@@ -9853,6 +9855,7 @@ pjtime.com###Couplet_r_big
 pjtime.com###Couplet_r_small
 pjtime.com###pjtime_full
 pjtime.com##.top_R
+play.google.com#@#a[href^="intent://"]
 playallvideos.com,pron.co##.rmedia
 playav.cc###overlay
 playav.cc##+js(abort-current-script, document.getElementById, adBlockDetected)
@@ -13309,6 +13312,7 @@ zzzyk.com###Tinfo
 ||3rs337ci4.com^
 ||3rsppty.cn^
 ||3s7m2ss7g.com^
+||3sbbnyzps.com^
 ||3sd6w6oga9.com^
 ||3sqvexc60y.com^
 ||3t4j5adg9x.com^
@@ -20244,6 +20248,7 @@ zzzyk.com###Tinfo
 ||i.l.inmobicdn.net^
 ||i.snssdk.com^
 ||i06s7yrhn1.com^
+||i0gh0cpwb.com^
 ||i100.cao-gao.xyz/aimgs/
 ||i12het785.com^
 ||i14laze0.xyz^
@@ -21926,6 +21931,7 @@ zzzyk.com###Tinfo
 ||lgaekait.com^
 ||lganilgll.cyou^
 ||lgecqrb.com^
+||lgfktruknrjbxc.com^
 ||lgjygg.com^
 ||lgmi.com/ggimg/
 ||lgmi.com/left_right_
@@ -23473,6 +23479,7 @@ zzzyk.com###Tinfo
 ||o28wg9kq8i.com^
 ||o2o.api.xiaomi.com^
 ||o2x4h2txrc.com^
+||o35jufwu6.com^
 ||o40d17vln.com^
 ||o522zsxbgf.com^
 ||o5y2zd1lq8.com^
@@ -25128,6 +25135,7 @@ zzzyk.com###Tinfo
 ||rwtraqur.com^
 ||rwtzv9ehv.com^
 ||rx1iwebx2.com^
+||rx7pi9v1x.com^
 ||rxglmys.icu^
 ||rxi8jcy0aq.com^
 ||rxlidz.ink^
