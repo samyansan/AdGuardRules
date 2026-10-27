@@ -3,8 +3,8 @@
 ! Powerd by SamSan
 ! Description: Just a merged Adblock rule. Nothing more
 ! Expires: 6 hours (update frequency)
-! Version: 2026-10-27 19:11:59
-! Total count: 29638
+! Version: 2026-10-28 00:58:00
+! Total count: 29643
 
 ###ADtip
 ###ChapterView > .slide-baidu
@@ -11870,6 +11870,8 @@ xcar.com.cn##div[class^="adset"]
 xchina.co##.block-overlay
 xchina.co##.photo-items > .auto-height
 xchina.co##.photo-items > div[class^="item auto-height"]
+xchina.co##div[data-block-overlay]
+xchina.co##div[style="container-type:inline-size"]
 xchina001.online###core-zone-4
 xchina001.online###z-extra-2
 xchina001.online###z-extra-3
@@ -16460,6 +16462,7 @@ zzzyk.com###Tinfo
 ||c4d.cn/template/iscwo_zcool/iscwo/ad/
 ||c4d4.cn^
 ||c4ru5li2sa.com^
+||c5i6rfwyf.com^
 ||c5krw17gn0.com^
 ||c5mj81yuuo.com^
 ||c5mwwyqfvi.com^
@@ -26137,6 +26140,7 @@ zzzyk.com###Tinfo
 ||t7z.cupid.iqiyi.com^
 ||t7z.cupid.ptqy.gitv.tv^
 ||t8yctltd8s.com^
+||t9j3lrvrv.com^
 ||t9x2gu6it3.com^
 ||ta.trs.cn^$third-party
 ||ta20k.xyz^
@@ -27380,6 +27384,7 @@ zzzyk.com###Tinfo
 ||vlujojf.icu^
 ||vlxmfvvknsxldw.com^
 ||vm.aty.sohu.com^
+||vm1mmq2h1.com^
 ||vm5xs8nvqh.com^
 ||vmbzhfh.cn^
 ||vmdlxj.xyz^
