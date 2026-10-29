@@ -3,8 +3,8 @@
 ! Powerd by SamSan
 ! Description: Just a merged Adblock rule. Nothing more
 ! Expires: 6 hours (update frequency)
-! Version: 2026-10-29 19:54:18
-! Total count: 29666
+! Version: 2026-10-30 01:43:21
+! Total count: 29670
 
 ###ADtip
 ###ChapterView > .slide-baidu
@@ -1352,6 +1352,7 @@ $script,3p,domain=torkitty.com|torkitty.net|torrentkitty.app|torrentkitty.asia|t
 $script,3p,websocket,domain=52codes.net
 $script,subdocument,3p,domain=dlkoo.com
 $script,subdocument,3p,websocket,xhr,domain=bhshu.net|louzhong8.com|miwens.com
+$script,xhr,3p,domain=freeokk.pro
 $websocket,domain=wap.yushuwu.cloud
 &xhtml?$script,3p
 *$3p,domain=440012.xyz
@@ -13738,6 +13739,7 @@ zzzyk.com###Tinfo
 ||6080.tv/public/js/m/uaredirectformobile.js
 ||6080aa.com/template/*/images/g_js/
 ||609999.xyz^
+||60cxjeiyq.com^
 ||61.10.2.86/dev/xopen.php
 ||61fjluqray.com^
 ||61hhdp.com^
@@ -13794,6 +13796,7 @@ zzzyk.com###Tinfo
 ||69shuba.cx^*/shu.js
 ||69shuba.tw/js/gg.js
 ||69shux.com/js/otherad.
+||6a4oabslx.com^
 ||6acupxubky.com^
 ||6aontlsdf.com^
 ||6aoodbdx94.com^
@@ -28958,6 +28961,7 @@ zzzyk.com###Tinfo
 ||ysxs8.vip/js/play_db.js
 ||ysxs8.vip/ysgg/
 ||yszpegh.xyz^
+||yszzq.com/Style/js/date.
 ||yt-adp.nosdn.127.net^
 ||yt-adp.ws.126.net^
 ||yt800h.com^
