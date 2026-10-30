@@ -3,8 +3,8 @@
 ! Powerd by SamSan
 ! Description: Just a merged Adblock rule. Nothing more
 ! Expires: 6 hours (update frequency)
-! Version: 2026-10-30 19:47:31
-! Total count: 29675
+! Version: 2026-10-31 01:23:19
+! Total count: 29680
 
 ###ADtip
 ###ChapterView > .slide-baidu
@@ -9383,6 +9383,8 @@ news.mydrivers.com##div[style="margin: auto;width: 580px;padding: 10px 0;"]
 news.mydrivers.com##div[style="width:1000px;padding-top:16px;padding-bottom:12px;"]
 news.mydrivers.com#?#.news_info > p:has(> a[href^="https://dt.mydrivers.com/"])
 news.mydrivers.com#?#.news_info > p:has(> strong:contains(双11红包活动推荐))
+news.nextapple.com##[class^="na-ad-"]
+news.nextapple.com##[id^="lrec"]
 news.owlting.com##.profit-wrapper
 news.pchome.com.tw###head-area > div[align="center"]
 news.pchome.com.tw##.adfloat
@@ -12910,6 +12912,7 @@ zzzyk.com###Tinfo
 ||1nevsf92q.com^
 ||1nrgur4y43.com^
 ||1nvnkyg65.com^
+||1nvxl968le.com^
 ||1o0g85u7k1.com^
 ||1o1nuqbjea.com^
 ||1o23ptd0sv.com^
@@ -24728,6 +24731,7 @@ zzzyk.com###Tinfo
 ||qtozietgp.com^
 ||qtqv3cy43w.com^
 ||qttroiey.com^
+||qty00vcqh8.com^
 ||quanxiaozi.com^
 ||quarterdeck96.top^
 ||qubdjkqwl.com^
@@ -27598,6 +27602,7 @@ zzzyk.com###Tinfo
 ||w5daa5.com^
 ||w5eep9esa.com^
 ||w6n00vtw6.com^
+||w6v754e1uw.com^
 ||w75zr9nfj.com^
 ||w766ewvx75.com^
 ||w7gx7y9wk.com^

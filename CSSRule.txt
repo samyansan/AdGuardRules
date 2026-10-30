@@ -7930,6 +7930,8 @@ news.mydrivers.com##div[style="margin: auto;width: 580px;padding: 10px 0;"]
 news.mydrivers.com##div[style="width:1000px;padding-top:16px;padding-bottom:12px;"]
 news.mydrivers.com#?#.news_info > p:has(> a[href^="https://dt.mydrivers.com/"])
 news.mydrivers.com#?#.news_info > p:has(> strong:contains(双11红包活动推荐))
+news.nextapple.com##[class^="na-ad-"]
+news.nextapple.com##[id^="lrec"]
 news.owlting.com##.profit-wrapper
 news.pchome.com.tw###head-area > div[align="center"]
 news.pchome.com.tw##.adfloat
