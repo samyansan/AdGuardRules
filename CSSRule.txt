@@ -350,6 +350,7 @@
 ##.banner-ad-section
 ##.banner-adv-new
 ##.banner-container-h5 > .banner_all_wrap
+##.banner-slot-wrap[style^="margin-top:8px;margin-bottom:"]
 ##.bdyp-sygg-ul
 ##.below_ads
 ##.bhgg
@@ -428,7 +429,6 @@
 ##.floating-ad
 ##.fnwehjnc12
 ##.frAd
-##.frontpageAdvM
 ##.ftad-ct
 ##.full.banners12
 ##.getads
@@ -598,7 +598,6 @@
 ##.read-container [onclick='goAppHtml();']
 ##.readerListADbox
 ##.readmidad
-##.right > .content > .ads
 ##.ripro_gg_wrap
 ##.rm-twoa > a[href*=".umtrack.com"]
 ##.room-ad-bottom
@@ -650,7 +649,6 @@
 ##.videoPlayContainer > div#video-play + div[data-nosnippet]
 ##.vp-project-home > .ads-container
 ##.wbalist_thumb[style*="/upload/site/"]
-##.wemziguanggao
 ##.wf_ad_block
 ##.widget-qianhuiji
 ##.widget-topadding
@@ -2199,7 +2197,6 @@
 55188.com###bbslist
 55188.com###recommended-by-admin
 55188.com##.page-aside
-5555op.com,router.houzi-blog.top##.img
 555hd2.com##a[href^="https://57063683.com"]
 5588.tv##.ProDaTu
 5588.tv##.ringhttu
@@ -3556,11 +3553,7 @@ caikuu.com##.photo_abv
 caixin.com##.course_box
 caixin.com##.incubator
 caiyunapp.com##.active-imgContainer
-cam4.tw###newTippingViewer + div[data-ab]
-cam4.tw##.hbanner
-cam4.tw##.subfoot-section
 camerabay.tv##.popupad
-cangjige.net##.wp[style="height:36px;padding-top:15px;"]
 cangku.moe##.slider
 cankaoxiaoxi.com###qihupic
 caoporn.com###bottom-gg1
@@ -5099,8 +5092,6 @@ fuliba2022.net##li[style="margin-top:5px; "] > a[target="_blank"][rel="noopener"
 fuliba2022.net#?#.sidebar > div.widget:has(> div.textwidget > ul[style] > li[style="margin-top:5px; "] > a[target="_blank"][rel="noopener"]:not([href$=".html"]) > img)
 fuliba2025.net##.content > a[href][target="_blank"]
 fuliba2025.net##a[href^="https://www.kezyw.com/"] > img
-fulibl.cc##.widget_text:last-child
-fulibl.com##.widget_banner
 fullyu.com##.rightSide-top-ads
 fun48.com###float2016
 fun48.com##.margin-big-bottom
@@ -7468,7 +7459,6 @@ maplestage.com##div[class*="-page-module__ad728Holder___"]
 maplestage.com##div[class*="-page-module__right"] > div > div[style="margin-bottom:20px;padding:16px 10px;box-sizing:border-box;width:100%;background-color:#eee;border:1px solid #ddd;text-align:center;"]:first-child:not([class]):not([id])
 marieclaire.com.tw##.adInnerMpu
 masok.cn###bottomLayer
-masturbation22.com,playallvideos.com,pron.co,taporn.com##.ima
 match.tdping.com##P[style='text-align:left;margin:0;'],td.livetitle > L
 materialtools.com#@#.ad-center
 mati.hk##.banner_middle
@@ -8403,7 +8393,6 @@ pjtime.com###Couplet_r_small
 pjtime.com###pjtime_full
 pjtime.com##.top_R
 play.google.com#@#a[href^="intent://"]
-playallvideos.com,pron.co##.rmedia
 playav.cc###overlay
 playav.cc##+js(abort-current-script, document.getElementById, adBlockDetected)
 player.hboav.com##+js(set-constant, player.VastADPlugin, noopFunc)
@@ -8800,6 +8789,7 @@ rouman5.com##div[style^="display: flex;"]
 rouman5.com##ins
 rouman5.com#?#.col-md-4 > div.row:has(> div.col > div[style] > ins[id])
 rouman5.com#?#.col-md-4 > div.row:has(> div.col > h5:contains(支持一下吧))
+router.houzi-blog.top##.img
 rrjc.com###alertBox
 rrjc.com##.coupletbox
 rrys2020.com###indexNav1
@@ -8872,7 +8862,6 @@ sdo.com##a[class^="side-nav-box-daoyu"]
 sdzbcg.com##table[height="41"]:last-child
 sdzbcg.com##td[width="297"] img
 sdzbcg.com##td[width="580"][height="279"] > table:nth-child(2n-1)
-se533.com##div[style="width:960px;margin:0 auto;text-align:center;"]
 search.bilibili.com##.video-list > div:has(> .bili-video-card > .bili-video-card__wrap > .bili-video-card__info > .bili-video-card__info--right > .ad-feedback-entry)
 search.chongbuluo.com##.search > div > a[target="_blank"] > img
 secretmine.net###main-content > br
@@ -9043,7 +9032,6 @@ sina.com.tw##div[style="height:156px;width:570px;margin:0px auto;display:block;"
 sinami.com##.banner_centerLeft
 sinami.com##.banner_centerRight
 sinami.com##.banner_rightBottom
-singlove.com,whichav.com,whichav.net##.qq
 sinoca.com##div[style="float:right;height:280px;width:336px;clear:left;background:#FFF;margin:15px 15px 15px 15px;"]
 sinoca.com##td[align="center"][height="90"]
 sinolub.com##.erjlogo > .fl + .fl
@@ -9955,7 +9943,6 @@ vpstop.cn#?#.sidebar > div.uk-card:contains(赞助商家)
 vsping.com##.cell > span > a[href]:not([href*=".vsping.com"])
 vsping.com##div[style^="border-radius: 10px; box-shadow"]
 vuetifyjs.com##.v-sponsors
-vx666.com##.async[href^="http"]
 vxetable.cn##+js(abort-current-script, decodeURIComponent, pagead)
 w.waipian.sbs##.popup-tips
 w.waipian.sbs##.shortcuts-mobile-overlay
