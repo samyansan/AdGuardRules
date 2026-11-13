@@ -3,8 +3,8 @@
 ! Powerd by SamSan
 ! Description: Just a merged Adblock rule. Nothing more
 ! Expires: 6 hours (update frequency)
-! Version: 2026-11-13 06:56:17
-! Total count: 29791
+! Version: 2026-11-13 11:55:39
+! Total count: 29794
 
 ###ADtip
 ###ChapterView > .slide-baidu
@@ -1140,9 +1140,7 @@
 ##a[onclick*="open"] > img[src*=".dailygn.com/"]
 ##a[target="_blank"] > img.king
 ##a[target="_blank"] > img[src*=".ikstatic.cn"][style="width:100%;height:100%"]
-##body > #__nuxt:first-child > div > .container > .top-menu + div[class]
 ##body > #__nuxt:first-child > div > .container > div[class^="pg-"] > div[style*="important"]
-##body > #__nuxt:first-child > div > .footer > .floatWindow + div[data-tag]
 ##body > #__nuxt:first-child ~ div[class] > div > div > button[aria-label] + div[class]
 ##body > .app + #htmlContenthtml
 ##body > .dbfh
@@ -1167,7 +1165,9 @@
 ##body > embed[id][src*="://"][src$="="]
 ##body > meta[name="robots"] + script + #__nuxt + #teleports ~ div[class] > span[aria-hidden="true"] + div[class]
 ##body > meta[name="robots"] + script + #__nuxt + #teleports ~ div[class] > span[aria-hidden="true"] + div[class] + div[class]
+##body > meta[name="robots"] + script + #__nuxt > div > .container > .top-menu + div[class]
 ##body > meta[name="robots"] + script + #__nuxt > div > .container > div[class^="menu-"] + div + div[class^="pg-v-sec-"][style*="important"]
+##body > meta[name="robots"] + script + #__nuxt > div > .footer > .floatWindow + div[data-tag]
 ##body > noscript + #root > div > div > .grid + div[role] + div
 ##body > noscript + #root > div > div > .grid + div[role] + div + div[class]
 ##body > noscript + #root > div > div > .grid > .m0auto > div > div:last-child
@@ -20739,6 +20739,7 @@ zzzyk.com###Tinfo
 ||inte.net^
 ||inte.sogou.com^
 ||inte.sogoucdn.com^$domain=~index.sogou.com|~zhishu.sogou.com
+||intercede77.com^
 ||interviewbq.com^
 ||intimidatepropel.com^
 ||inudpbi.com^
@@ -22492,6 +22493,7 @@ zzzyk.com###Tinfo
 ||lyz.radio366.com^
 ||lzbao.net/mtvbox.
 ||lzbao.net/syster.
+||lzcr41vbp.com^
 ||lzdjxp.icu^
 ||lzep.cn/ep/sda/
 ||lzfzkedp.icu^
@@ -24117,6 +24119,7 @@ zzzyk.com###Tinfo
 ||pexels.com^*/sponsored_
 ||pexnjio.cn^
 ||pfdth.cn^
+||pfh01c50p.com^
 ||pfhj89w.com^
 ||pfiparts.com^
 ||pfjzzl.com^
