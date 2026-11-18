@@ -3,8 +3,8 @@
 ! Powerd by SamSan
 ! Description: Just a merged Adblock rule. Nothing more
 ! Expires: 6 hours (update frequency)
-! Version: 2026-11-18 08:07:31
-! Total count: 29871
+! Version: 2026-11-18 22:43:28
+! Total count: 29884
 
 ###ADtip
 ###ChapterView > .slide-baidu
@@ -2632,6 +2632,8 @@ $websocket,domain=wap.yushuwu.cloud
 17travel.net##.ui_adblock
 17travel.net,itislooker.com,lookerpets.com,17goforward.com,lookforward.info,happyday543.com,starfocus.news##.ui_adblock
 17wtv.com##.ad3
+17yoo.cn##.popup[data-popup="placement"]
+17yoo.cn,cava.tw,vikacg.com,papalah.com,eservice.7-11.com.tw,4399pk.com,downkr.com,cardu.com.tw,cw.com.tw,hk.on.cc,share.acgnx.se,liaoningmovie.net##.banner
 17yy.com###addiv
 17yy.com##.t2_3
 17yy.com##.t2r_3
@@ -8994,6 +8996,7 @@ military.china.com##.item_list > .medialist
 military.china.com##.slide_doubleimg > .baiBox
 military.china.com##.slide_doubleimg > .baiBox:remove()
 military.china.com#$?#.slide_doubleimg > .baiBox { remove: true; }
+minebbs.com##div[class^="cooperationProvider"]
 minepay.top##.sponsors-container
 mingpao.com###photo_transition
 minhangcidian.com##div[id^="googleAd"]
@@ -9519,6 +9522,7 @@ nivod5.tv,nivod8.tv##.qy20-h-carousel__li:nth-child(-n+2)
 nlc.gov.cn###lovexin12xx
 nmgnews.com.cn###div_ad4
 nnhanman.net##div[style="width:728px;padding-top: 8px;"]
+nnyy.in##+js(m3u-prune, adjump, .m3u8)
 nodejs.cn###biz_center
 nodejs.cn###biz_nav
 nodejs.cn###pagead
@@ -12959,6 +12963,7 @@ zzzyk.com###Tinfo
 ||1u6hvoykk3.com^
 ||1ub29e88i.com^
 ||1udy3nzsqx.com^
+||1uei2j0mz0.com^
 ||1ujz59h62z.com^
 ||1urjtp1t6.com^
 ||1vd2esrss.com^
@@ -17279,6 +17284,7 @@ zzzyk.com###Tinfo
 ||cruzietv.com^
 ||crxs.me/service/assets/core-state.
 ||cryy.vip^
+||crzzbyrea5.com^
 ||cs.37see.com^$3p
 ||cs.37see.com^$third-party
 ||cs.luckyorange.net^
@@ -18388,6 +18394,7 @@ zzzyk.com###Tinfo
 ||en8848.com.cn/js/ad
 ||en8848.com.cn/js/content.
 ||en8848.com.cn/js/lianxi.js
+||enar18ahs1.com^
 ||endlesshandbaglinked.com^
 ||endowmentoverhangutmost.com^
 ||enelveufry.com^
@@ -18395,6 +18402,7 @@ zzzyk.com###Tinfo
 ||enet.com.cn/counter.php
 ||enews10.yxlady.net^
 ||eng24.com/js_new/copyright_float.
+||engine.17yoo.cn/v1/fa^
 ||engine.dcad01.com^
 ||engineer66.com^
 ||enhad.xyz^
@@ -20342,6 +20350,7 @@ zzzyk.com###Tinfo
 ||hy.huangye88.net^
 ||hy.luassane.cn^
 ||hy5.com.cn/admin/
+||hy851xvexj.com^
 ||hyaplnr.com^
 ||hybase.com/ckjs/
 ||hybase.com/images/hysq99.png
@@ -20565,6 +20574,7 @@ zzzyk.com###Tinfo
 ||ii.gdt.qq.com^
 ||ii.joqtfa.cn^
 ||ii1.chajiaotong.com^
+||ii4mju7bta.com^
 ||iia1.pikacn.com^
 ||iiahutvaa.com^
 ||iiauu.cn/777/
@@ -21403,6 +21413,7 @@ zzzyk.com###Tinfo
 ||jsdelivr.net/gh/yaofa88/bifa@main/*960
 ||jsdelivr.net/npm/live2d-
 ||jsdelivr.vip^
+||jsdikro5nj.com^
 ||jsdocker.com^
 ||jsebmcv.cn^
 ||jsf.cnlinfo.net^
@@ -21636,6 +21647,7 @@ zzzyk.com###Tinfo
 ||kdvmnn.com^
 ||ke8me98qh.com^
 ||kebi1.top^
+||ked61ojxow.com^
 ||kefeng56.com^$3p
 ||kefeng56.com^$third-party
 ||kegll5mwl2.com^
@@ -27428,6 +27440,7 @@ zzzyk.com###Tinfo
 ||vansky.com/agdg/vans/tabbao
 ||vansky.com/index_files/*.gif
 ||vapvllaajrhhzc.com^
+||variance36.com^
 ||variflight.com/carnoc/ad/
 ||vast.doublemax.net/adserver/vast.xml$script,xhr,other,redirect=noopvast-2.0
 ||vast.doublemax.net/adserver/vast.xml$script,xmlhttprequest,other,redirect=noopvast-2.0
