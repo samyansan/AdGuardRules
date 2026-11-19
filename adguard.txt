@@ -3,8 +3,8 @@
 ! Powerd by SamSan
 ! Description: Just a merged Adblock rule. Nothing more
 ! Expires: 6 hours (update frequency)
-! Version: 2026-11-19 12:52:34
-! Total count: 29905
+! Version: 2026-11-19 22:50:41
+! Total count: 29909
 
 ###ADtip
 ###ChapterView > .slide-baidu
@@ -2649,6 +2649,7 @@ $websocket,domain=wap.yushuwu.cloud
 17travel.net,itislooker.com,lookerpets.com,17goforward.com,lookforward.info,happyday543.com,starfocus.news##.ui_adblock
 17wtv.com##.ad3
 17yoo.cn##.popup[data-popup="placement"]
+17yoo.cn#%#//scriptlet('trusted-json-set', 'Object.prototype.hasOwnProperty', '$.adData.*', '$remove$', '', 'this', 'setState')
 17yoo.cn,cava.tw,vikacg.com,papalah.com,eservice.7-11.com.tw,4399pk.com,downkr.com,cardu.com.tw,cw.com.tw,hk.on.cc,share.acgnx.se,liaoningmovie.net##.banner
 17yy.com###addiv
 17yy.com##.t2_3
@@ -4887,7 +4888,6 @@ cava.tw###modal-dm:style(display: none !important;)
 cava.tw##body:style(overflow: auto !important;)
 cava.tw#$##modal-dm { display: none !important; }
 cava.tw#$#body { overflow: auto !important; }
-cava.tw,vikacg.com,papalah.com,eservice.7-11.com.tw,4399pk.com,downkr.com,cardu.com.tw,cw.com.tw,hk.on.cc,share.acgnx.se,liaoningmovie.net##.banner
 cb.com.cn##.box > a[href^="http"]:not([href*=".cb."])
 cb.wpio.xyz##.tpc_content > a[target="_blank"][onmouseout]
 cb.wpio.xyz##.tpc_content > span > span > a[target="_blank"][onmouseout]
@@ -9539,6 +9539,7 @@ nlc.gov.cn###lovexin12xx
 nmgnews.com.cn###div_ad4
 nnhanman.net##div[style="width:728px;padding-top: 8px;"]
 nnyy.in##+js(m3u-prune, adjump, .m3u8)
+nnyy.in#%#//scriptlet('m3u-prune', 'adjump', '.m3u8')
 nodejs.cn###biz_center
 nodejs.cn###biz_nav
 nodejs.cn###pagead
@@ -23163,6 +23164,7 @@ zzzyk.com###Tinfo
 ||msg.iqiyi.com^
 ||msg.mobile.kugou.com^
 ||msg.video.qiyi.com^
+||msg3zn5w9.com^
 ||msite.baidu.com^
 ||msn.ynet.com/c/tj_comm.js
 ||msn5vg8em.com^
@@ -24018,6 +24020,7 @@ zzzyk.com###Tinfo
 ||p3-lm.adkwai.com^
 ||p3-lm.adukwai.com^
 ||p3-tt.byteimg.com^
+||p3bqgc0pi.com^
 ||p4-be-pack-sign.pglstatp-toutiao.com^
 ||p4-lm.adukwai.com^
 ||p43c4oysmb.com^
@@ -26316,6 +26319,7 @@ zzzyk.com###Tinfo
 ||szgpmy.com/js/
 ||szhongzi.com/js/
 ||szhszxfw.cn^
+||szhtkldy4.com^
 ||szipkp.com^
 ||szjbo9a13.com^
 ||szjjzs.com/js/cs*.js
