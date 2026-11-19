@@ -3,8 +3,8 @@
 ! Powerd by SamSan
 ! Description: Just a merged Adblock rule. Nothing more
 ! Expires: 6 hours (update frequency)
-! Version: 2026-11-19 07:39:59
-! Total count: 29886
+! Version: 2026-11-19 12:52:34
+! Total count: 29905
 
 ###ADtip
 ###ChapterView > .slide-baidu
@@ -321,6 +321,7 @@
 ##.adsense160
 ##.adsense200
 ##.adsoho
+##.adspop
 ##.adv-6park
 ##.adv-couplets
 ##.advert-short
@@ -563,6 +564,7 @@
 ##.orbui-site
 ##.overBanner.dowloadBtn
 ##.page > .wp-none1
+##.page-nav ~ .addbox[style]
 ##.page-wwads
 ##.pagead_3
 ##.pasuAD
@@ -882,6 +884,7 @@
 ##[alt='西瓜社']
 ##[at*='尼斯人注册送']
 ##[class$="_main_outstream"][style="right: 0px;"]
+##[class*="card-ads"]
 ##[class][onclick="window.location.href='/api/goapp/'"]
 ##[class][onclick="window.location.href='https://www.suyuexs.com'"]
 ##[class][onclick="window.location.href='https://www.tsqcy.cn'"]
@@ -958,6 +961,8 @@
 ##[id^="__ehbc0ejbc0hib"]
 ##[id^="__ehbc0gjbc0ajb"]
 ##[id^="ts_ad_"]
+##[onclick*="'Ad Click'"]
+##[onclick*="ad_slot"]
 ##[onclick*="trackEvent', 'ad"]
 ##[onclick*='fjbglfrv.com']
 ##[onclick*='https://i.opiwb.com:']
@@ -1112,8 +1117,11 @@
 ##a[href="javascript:GoGd();"]
 ##a[href="javascript:GoTp();"]
 ##a[href="javascript:window.GoTp();"]
+##a[href]:not([target="_blank"]) + a[href][rel*="sponsored"][target="_blank"]
 ##a[href][data-ad_slot_name]
 ##a[href][target="_blank"] > img[width="100%"][src$=".gif"]
+##a[href][target="_blank"][rel*="sponsored"] > img[alt*="棋牌"]
+##a[href][target="_blank"][rel*="sponsored"] > img[alt^="PG"]
 ##a[href][target="_blank"][rel="external nofollow"] > img[src]
 ##a[href^="/ad.html?url="]
 ##a[href^="/ad/"] > img[id][src*="hdslb.com"]
@@ -1138,8 +1146,14 @@
 ##a[onclick$="'clicked', 'ad');"]
 ##a[onclick*="/dasp.php?a="]
 ##a[onclick*="open"] > img[src*=".dailygn.com/"]
+##a[onclick*="棋牌"]
+##a[onclick*="澳门"]
+##a[onclick*="约炮"]
+##a[rel*="sponsored"][onclick]
 ##a[target="_blank"] > img.king
 ##a[target="_blank"] > img[src*=".ikstatic.cn"][style="width:100%;height:100%"]
+##a[title="PG电子"]
+##a[title="开元棋牌"]
 ##body > #__nuxt:first-child > div > .container > div[class^="pg-"] > div[style*="important"]
 ##body > #__nuxt:first-child ~ div[class] > div > div > button[aria-label] + div[class]
 ##body > .app + #htmlContenthtml
@@ -1182,7 +1196,7 @@
 ##body#nr_body.nr_all.c_nr > section[id]
 ##body#read.read > a.appguide-wrap
 ##body#read.read DIV[style$=' width: 100vw; position: relative;']
-##body#reader-m-fix IMG[src*='.gif'][style='width:100%;height:100%']
+##body#reader-m-fix IMG[src*='.gif'][style='width:100%;height:100%'][Adblock Plus 2.0]
 ##body#wrapper A[ontouchstart='this.click();']
 ##body.__amp.amp-mode-touch > #interstitial_fade
 ##body.__amp.amp-mode-touch IFRAME[frameborder='0'][framespacing='0']
@@ -1299,6 +1313,7 @@
 ##img#hth[onclick$="hth.html')"]
 ##img#hth[onclick^="window.open"]
 ##img[alt$="抖阴"]
+##img[alt$="约炮"]
 ##img[alt*="PG"][alt*="娱乐"]
 ##img[alt*="成人"][alt*="免费直播"]
 ##img[alt*="成人"][alt*="抖阴"]
@@ -1307,6 +1322,7 @@
 ##img[alt="开元电子"]
 ##img[alt="澳门新葡京"]
 ##img[alt^="PG"][alt*="爆率"]
+##img[alt^="PG"][alt*="电子"]
 ##img[onclick*=".qq.com/doc/"]
 ##img[onclick*="/2e9c9aa9.com"]
 ##img[onclick*="/statics/js/"]
@@ -14599,6 +14615,7 @@ zzzyk.com###Tinfo
 ||ac.art456.com^
 ||ac.tc.qq.com/store_file_download?*&dir_path=/admin/swf/
 ||ac00qmnjz.com^
+||ac0vjhnpp.com^
 ||ac1.pingpingw.com^
 ||acc.3gbizhi.com^
 ||accommodate53.top^
@@ -24187,6 +24204,7 @@ zzzyk.com###Tinfo
 ||permissible67.com^
 ||pexels.com^*/sponsored_
 ||pexnjio.cn^
+||pfac2u4n5.com^
 ||pfdth.cn^
 ||pfh01c50p.com^
 ||pfhj89w.com^
@@ -26817,6 +26835,7 @@ zzzyk.com###Tinfo
 ||trammel74.top^
 ||trampoline12.com^
 ||trapezium69.top^
+||trapezoid76.com^
 ||travel44.top^
 ||trc.taboola.com^
 ||treatment11.top^
