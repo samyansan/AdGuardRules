@@ -3,8 +3,8 @@
 ! Powerd by SamSan
 ! Description: Just a merged Adblock rule. Nothing more
 ! Expires: 6 hours (update frequency)
-! Version: 2026-11-22 06:31:17
-! Total count: 29935
+! Version: 2026-11-22 11:52:23
+! Total count: 29936
 
 ###ADtip
 ###ChapterView > .slide-baidu
@@ -15316,6 +15316,7 @@ zzzyk.com###Tinfo
 ||amazononline.xyz/mp4/*.mp4$redirect=noop-0.1s.mp3,domain=iyingshi7.tv|localmv1.com,media
 ||amazononline.xyz/mp4/*.mp4$redirect=noopmp3-0.1s,domain=iyingshi7.tv|localmv1.com
 ||amazononline.xyz/mp4/*.mp4$rewrite=abp-resource:blank-mp3,domain=iyingshi7.tv|localmv1.com
+||ambifpskje.com^
 ||amcraahmou.com^
 ||amdc.alipay.com^
 ||amdc.m.taobao.com^
